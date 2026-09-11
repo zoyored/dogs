@@ -18,7 +18,7 @@ Auf iPhone/iPad kann diese URL als abonnierter Kalender hinzugefügt werden. Än
 ├── LICENSE
 ├── data/
 │   └── Canitrail_Masterkalender_2026_2027.csv
-├── dogs/
+├── docs/
 │   ├── .nojekyll
 │   ├── index.html
 │   └── calendar/
@@ -31,7 +31,7 @@ Auf iPhone/iPad kann diese URL als abonnierter Kalender hinzugefügt werden. Än
 ## Datenpflege
 
 - `data/` enthält die recherchierten Masterdaten.
-- `dogs/calendar/` enthält die veröffentlichten Kalenderdateien.
+- `docs/calendar/` enthält die veröffentlichten Kalenderdateien.
 - `sources/` dokumentiert Quellen und Pflegekonventionen.
 - Vorläufige Termine werden in der ICS als `TENTATIVE` gekennzeichnet.
 
@@ -40,6 +40,6 @@ Auf iPhone/iPad kann diese URL als abonnierter Kalender hinzugefügt werden. Än
 GitHub Pages sollte auf **Deploy from a branch** gestellt werden:
 
 - Branch: `main`
-- Folder: `/dogs`
+- Folder: `/docs`
 
 Danach ist die Kalenderdatei unter der oben genannten URL öffentlich erreichbar.
