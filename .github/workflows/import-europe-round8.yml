@@ -1,0 +1,54 @@
+name: Import Europe federation events round 8
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/import-europe-round8.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Import verified round 8 events
+        run: |
+          python - <<'PY'
+          import csv
+          from pathlib import Path
+          p=Path('data/Canitrail_Masterkalender_2026_2027.csv')
+          with p.open(encoding='utf-8-sig', newline='') as f:
+              rows=list(csv.DictReader(f)); fields=list(rows[0].keys())
+          add=[
+          {'Date':'2026-09-19','Country':'Sweden','Event':'Vattudalsdraget','Category':'canicross|bike jöring|scooter','Dog distance (km)':'','Elevation (m+)':'','Dog access':'Yes','Status':'confirmed','Notes':'2026 date/location confirmed by SDSF. Dryland disciplines assigned from federation/series context; detailed 2026 class sheet not yet exposed.','Primary source':'https://draghundsport.se/kalender/','Secondary source':'','Origin':'SDSF federation sweep round 8'},
+          {'Date':'2026-09-19','Country':'Sweden','Event':'BDIF barmark','Category':'canicross|bike jöring|scooter','Dog distance (km)':'3.15|3.5|6','Elevation (m+)':'','Dog access':'Yes','Status':'confirmed','Notes':'2026 date/location confirmed by SDSF. Discipline/distance profile supported by official BDIF federation results from prior detailed edition.','Primary source':'https://draghundsport.se/kalender/','Secondary source':'https://draghundsport.se/tavling/dbresultat/visaresultat.aspx?visa=1623','Origin':'SDSF federation sweep round 8'},
+          {'Date':'2026-09-20','Country':'Sweden','Event':'Tavelsjödraget','Category':'canicross|bike jöring|scooter','Dog distance (km)':'2.3|4.6','Elevation (m+)':'','Dog access':'Yes','Status':'confirmed','Notes':'SDSF calendar confirms 2026 date at Klacken IP, Tavelsjö; official race PM specifies Canicross, cycle and kickbike classes at 2.3/4.6 km.','Primary source':'https://draghundsport.se/kalender/','Secondary source':'https://draghundsport.se/kalender/pm/1/tavlingspm-1.pdf','Origin':'SDSF federation sweep round 8'},
+          {'Date':'2026-09-26','Country':'Sweden','Event':'Hapimag höst','Category':'canicross|bike jöring|scooter','Dog distance (km)':'','Elevation (m+)':'','Dog access':'Yes','Status':'confirmed','Notes':'SDSF lists 2026 Hapimag höst in Svenarum/Vaggeryd as WCP Dryland. Detailed prior federation edition explicitly includes running/canicross and vehicle classes.','Primary source':'https://draghundsport.se/kalender/','Secondary source':'https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=3','Origin':'SDSF federation sweep round 8'},
+          {'Date':'2026-09-26','Country':'Sweden','Event':'Sävastdraget','Category':'canicross|bike jöring|scooter','Dog distance (km)':'','Elevation (m+)':'','Dog access':'Yes','Status':'confirmed','Notes':'2026 date and Sävast/Boden location confirmed by SDSF; dryland event of Boden Draghund IF.','Primary source':'https://draghundsport.se/kalender/','Secondary source':'https://www.bdif.nu/valkommen/','Origin':'SDSF federation sweep round 8'},
+          {'Date':'2026-10-17','Country':'Norway','Event':'Lavterskelløp på Gjøvik','Category':'canicross|bike jöring|scooter','Dog distance (km)':'','Elevation (m+)':'','Dog access':'Yes','Status':'confirmed','Notes':'Current NHF termin list confirms low-threshold dryland race on Gjøvik; NHF 2026 Barmark Cup disciplines are snøreløping, snøresykling and kickbike.','Primary source':'https://www.sleddog.no/next/p/74113/kurs-og-aktiviteter','Secondary source':'https://www.sleddog.no/next/p/82758/barmark','Origin':'NHF federation sweep round 8'},
+          {'Date':'2026-11-07','Country':'Norway','Event':'Lavterskel Barmarksløp Kongsberg','Category':'canicross|bike jöring|scooter','Dog distance (km)':'','Elevation (m+)':'','Dog access':'Yes','Status':'confirmed','Notes':'Current NHF termin list confirms Kongsberg low-threshold dryland race; federation barmark disciplines are snøreløping, snøresykling and kickbike.','Primary source':'https://www.sleddog.no/next/p/74113/kurs-og-aktiviteter','Secondary source':'https://www.sleddog.no/next/p/82758/barmark','Origin':'NHF federation sweep round 8'},
+          ]
+          keys={(r['Date'],r['Country'],r['Event'].casefold()) for r in rows}
+          n=0
+          for r in add:
+              k=(r['Date'],r['Country'],r['Event'].casefold())
+              if k not in keys:
+                  rows.append({c:r.get(c,'') for c in fields}); keys.add(k); n+=1
+          rows.sort(key=lambda r:(r['Date'].split(' - ')[0],r['Country'],r['Event']))
+          with p.open('w',encoding='utf-8',newline='') as f:
+              w=csv.DictWriter(f,fieldnames=fields); w.writeheader(); w.writerows(rows)
+          print('added',n,'total',len(rows))
+          PY
+      - name: Commit round 8 data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/Canitrail_Masterkalender_2026_2027.csv
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "data: add Sweden and Norway federation events round 8"
+          git push origin HEAD:main
