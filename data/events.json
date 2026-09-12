@@ -2,9 +2,9 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-12T17:56:10Z",
+    "generatedAt": "2026-09-12T18:20:48Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 261,
+    "count": 266,
     "categories": [
       "bike jöring",
       "canicross",
@@ -1635,6 +1635,27 @@
       "origin": "web verification 2026-09-11"
     },
     {
+      "id": "2026-09-19-barmarksl-p-stav-sen-nc-d5b000",
+      "date": "2026-09-19",
+      "dateEnd": "2026-09-20",
+      "country": "Norway",
+      "event": "Barmarksløp Stavåsen NC",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Norwegian dryland race; all classes",
+      "status": "source-confirmed 2026",
+      "notes": "Official Norwegian federation calendar says all classes on easy dryland courses in Elverum; also used as EM qualification.",
+      "primarySource": "https://www.sleddog.no/next/events/p/1000169637/barmarkslop-stavasen-nc",
+      "secondarySource": "https://sleddogsport.net/events/",
+      "origin": "IFSS federation sweep round 5 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-09-19-canicross-du-lac-de-chour-8a399a",
       "date": "2026-09-19",
       "dateEnd": null,
@@ -1959,6 +1980,27 @@
       "origin": "web verification 2026-09-11"
     },
     {
+      "id": "2026-09-26-nittedalsl-pet-barmark-2026-nc-844107",
+      "date": "2026-09-26",
+      "dateEnd": "2026-09-27",
+      "country": "Norway",
+      "event": "Nittedalsløpet Barmark 2026 NC",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Norwegian dryland race; all one-dog classes",
+      "status": "source-confirmed 2026",
+      "notes": "Official federation page states all one-dog classes at Varingskollen, Nittedal.",
+      "primarySource": "https://www.sleddog.no/next/events/p/1000169638/barmark-nittedalslopet",
+      "secondarySource": "https://sleddogsport.net/events/",
+      "origin": "IFSS federation sweep round 5 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-09-26-roazhon-run-canicross-e50b2a",
       "date": "2026-09-26",
       "dateEnd": "2026-09-27",
@@ -2220,6 +2262,30 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-10-03-skylos-twisted-trails-ifss-world-cup-polish-cup-cd879e",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "Poland",
+      "event": "SKYLOS Twisted Trails – IFSS World Cup / Polish Cup",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        4.2,
+        4.6,
+        17
+      ],
+      "elevationM": [],
+      "dogAccess": "IFSS World Cup / Polish Cup dryland event",
+      "status": "source-confirmed 2026",
+      "notes": "Canicross, Bikejoring and Scooter plus MID classes; planned sprint around 4.6 km and MID around 17 km.",
+      "primarySource": "https://sleddogsport.net/events/",
+      "secondarySource": "https://happeningnext.com/event/skylos-twisted-trails-ifss-world-cup-puchar-polski-zawody-psich-zaprz%C4%99g%C3%B3w-bieg-i-rower-z-psem-eid3a0dpccvio",
+      "origin": "IFSS federation sweep round 5 2026-09-12"
+    },
+    {
       "id": "2026-10-03-tlapkros-2026-fbab5c",
       "date": "2026-10-03",
       "dateEnd": "2026-10-04",
@@ -2337,6 +2403,27 @@
       "primarySource": "https://www.canicrossnederland.nl/2026-harderwijk.html",
       "secondarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2026-10-04-drammen-barmarksfest-nc-wc-23c296",
+      "date": "2026-10-04",
+      "dateEnd": null,
+      "country": "Norway",
+      "event": "Drammen Barmarksfest NC/WC",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Norwegian Championship / IFSS World Cup dryland event",
+      "status": "source-confirmed 2026",
+      "notes": "Official Norwegian federation lists a one-day NC/WC dryland race in Mjøndalen; IFSS calendar confirms World Cup listing.",
+      "primarySource": "https://www.sleddog.no/next/events/p/1000169639/barmark-drammen-barmarksfest-ncwc-en-dagslop",
+      "secondarySource": "https://sleddogsport.net/events/",
+      "origin": "IFSS federation sweep round 5 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2026-10-04-kustmarathon-zeeland-canitrail-e0fdda",
@@ -2829,6 +2916,27 @@
       "primarySource": "https://courses.ffslc.fr/calendar",
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-24-nm-barmark-2026-573a04",
+      "date": "2026-10-24",
+      "dateEnd": "2026-10-25",
+      "country": "Norway",
+      "event": "NM Barmark 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Norwegian national dryland championship",
+      "status": "source-confirmed 2026",
+      "notes": "Official Norwegian federation national dryland championship at Jømna; IFSS calendar lists NM Barmark in Elverum area.",
+      "primarySource": "https://www.sleddog.no/next/events/p/1000169396/nm-barmark-2026",
+      "secondarySource": "https://sleddogsport.net/events/",
+      "origin": "IFSS federation sweep round 5 2026-09-12",
       "distanceText": "not published"
     },
     {
