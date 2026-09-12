@@ -8,7 +8,7 @@ X-WR-CALDESC:Canicross- und Canitrail-Veranstaltungen
 BEGIN:VEVENT
 UID:2027-01-24-mountainman-dogs-winterloop-reit-im-winkl-ed8333@sandsturm
  .com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:MOUNTAINMAN Dogs-Winterloop Reit im Winkl
@@ -21,7 +21,7 @@ URL:https://mountainman.de/trailrunning-events/alps/winterloop-reit-im-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-08-mountainman-nesselwang-dogs-trail-0999f0@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:MOUNTAINMAN Nesselwang – Dogs-Trail
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-15-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02@san
  dsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Les Gendarmes et les Voleurs de Temps – CaniTrail

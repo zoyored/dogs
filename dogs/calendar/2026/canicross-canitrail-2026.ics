@@ -7,7 +7,7 @@ X-WR-CALNAME:Canicross & Canitrail Events
 X-WR-CALDESC:Canicross- und Canitrail-Veranstaltungen
 BEGIN:VEVENT
 UID:2026-01-10-otterlo-trailrun-054cc1@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
 SUMMARY:Otterlo Trailrun
@@ -19,7 +19,7 @@ URL:https://canitrail.nl/events/otterlo-trailrun/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-17-coalminers-trail-walk-80674b@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260117
 DTEND;VALUE=DATE:20260118
 SUMMARY:Coalminers’ Trail & Walk
@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-17-mountainman-wintertrail-mittersill-kitzski-559f1b@sandstur
  m.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260117
 DTEND;VALUE=DATE:20260118
 SUMMARY:MOUNTAINMAN Wintertrail Mittersill-KitzSki
@@ -45,7 +45,7 @@ URL:https://www.lg-mettenheim.de/veranstaltungen/mountainman-wintersill_2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-24-yeti-dog-run-4bf3f5@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
 SUMMARY:Yeti Dog Run
@@ -57,7 +57,7 @@ URL:https://canitrail.nl/events/yeti-dog-run-18km-en-26km/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-07-natte-neuzen-trail-montferland-e3d45a@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260208
 SUMMARY:Natte Neuzen Trail Montferland
@@ -71,7 +71,7 @@ URL:https://canitrail.nl/de-natte-neuzen-trails-2025-2026/nnt-montferland
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-08-trail-des-fontaines-be3e62@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260208
 DTEND;VALUE=DATE:20260209
 SUMMARY:Trail des Fontaines
@@ -82,7 +82,7 @@ URL:https://chrono-start.com/events/trail-des-fontaines-624-922-102/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-21-bosbokken-canitrail-437540@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
 SUMMARY:Bosbokken Canitrail
@@ -95,7 +95,7 @@ URL:https://www.bosbokken.nl/info/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-01-alden-biesen-trail-walk-2c06c3@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
 SUMMARY:Alden Biesen Trail & Walk
@@ -107,7 +107,7 @@ URL:https://canitrail.nl/events/alden-biesen-trail-walk/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-07-mountainman-wintertrail-reit-im-winkl-b351c4@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260308
 SUMMARY:MOUNTAINMAN Wintertrail Reit im Winkl
@@ -120,7 +120,7 @@ URL:https://mountainman.de/trailrunning-events/alps/wintertrail-reit-im-w
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-14-canitrail-lauf-durchs-nettetal-4-0-50f494@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
 SUMMARY:Canitrail-Lauf durchs Nettetal 4.0
@@ -132,7 +132,7 @@ URL:https://canitrail.nl/events/canitrail-nettetal/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-14-dark-sky-trail-lauwersmeer-321116@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
 SUMMARY:Dark Sky Trail Lauwersmeer
@@ -144,7 +144,7 @@ URL:https://canitrail.nl/events/dark-sky-trail-lauwersmeer/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-14-vuurtoren-trail-ameland-b48796@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260316
 SUMMARY:Vuurtoren Trail Ameland
@@ -156,7 +156,7 @@ URL:https://canitrail.nl/events/vuurtoren-trail-ameland/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-10-raid-cani-trail-64ceda@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260413
 SUMMARY:RAID Cani-Trail
@@ -168,7 +168,7 @@ URL:https://www.canitrailuk.co.uk/about-1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-19-lepouvantrail-b89af4@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
 SUMMARY:L’Epouvan’trail
@@ -180,7 +180,7 @@ URL:https://pyreneeschrono.fr/evenement/epouvantrail/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-25-canitrail-des-moines-ca2211@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260427
 SUMMARY:Canitrail des Moines
@@ -193,7 +193,7 @@ URL:https://swiss-canicross.ch/courses/categorie/canitrails/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-08-mynydd-y-gaer-mountain-challenge-9a0ce5@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260511
 SUMMARY:Mynydd Y Gaer Mountain Challenge
@@ -205,7 +205,7 @@ URL:https://www.canitrailuk.co.uk/cani-trail-mountain-challenge
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-10-cani-trail-trail-des-ardennes-5029d2@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
 SUMMARY:Cani-Trail & Trail des Ardennes
@@ -219,7 +219,7 @@ URL:https://www.ledossard.com/inscription/index.php?id=3530
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-14-dauw-canitrail-xperience-b872d0@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:Dauw Canitrail Xperience
@@ -232,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-23-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02@san
  dsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:Les Gendarmes et les Voleurs de Temps – CaniTrail
@@ -243,7 +243,7 @@ URL:https://gendarmes-et-voleurs.com/canitrail/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-30-clut-ultraktrail-chien-ultra-k-0bb9b6@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 SUMMARY:CLUT / UltraKtrail / Chien Ultra K
@@ -256,7 +256,7 @@ URL:https://www.clut.run/quote-e-regolamento/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-04-festival-trail-semois-eb386e@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 SUMMARY:Festival Trail Semois
@@ -270,7 +270,7 @@ URL:https://www.ultratiming.live/en/evenement/festival-trail-semois-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-18-cani-en-trail4daagse-veluwezoom-0c88a1@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260822
 SUMMARY:Cani- en Trail4Daagse Veluwezoom
@@ -282,7 +282,7 @@ URL:https://canitrail.nl/events/cani-en-trail4daagse-veluwezoom-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-arberland-ultra-trail-hundelauf-e0d397@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:ARBERLAND Ultra Trail – Hundelauf
@@ -295,7 +295,7 @@ URL:https://www.arberland-bayerischer-wald.de/aktiv-im-sommer/trailrunnin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-mountainman-reit-im-winkl-dogs-trail-2327c6@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:MOUNTAINMAN Reit im Winkl – Dogs-Trail
@@ -307,7 +307,7 @@ URL:https://www.chiemsee-chiemgau.info/mountainman-reit-im-winkl
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-brekeld-runners-trail-f6cc69@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Brekeld Runners Trail
@@ -319,7 +319,7 @@ URL:https://canitrail.nl/events/brekeld-runners-trail/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-canitrail-des-bisses-a7d83a@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:Canitrail des Bisses
@@ -333,7 +333,7 @@ URL:https://www.myswitzerland.com/en-gb/experiences/events/canitrail-des-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-04-kustmarathon-zeeland-canitrail-e0fdda@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Kustmarathon Zeeland Canitrail
@@ -346,7 +346,7 @@ URL:https://www.kustmarathon.nl/wedstrijd/canitrail/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-trail-du-calvaire-34f8b7@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Trail du Calvaire
@@ -359,7 +359,7 @@ URL:https://www.finishers.com/en/event/trail-du-calvaire
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-trail-des-ch-taignes-07ac4c@sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Trail des Châtaignes
@@ -374,7 +374,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-mountainman-nikolaus-trail-pommelsbrunn-dogs-trail-e8c17e@
  sandsturm.com
-DTSTAMP:20260912T162733Z
+DTSTAMP:20260912T163119Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:MOUNTAINMAN Nikolaus-Trail Pommelsbrunn – Dogs-Trail
