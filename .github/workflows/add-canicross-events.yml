@@ -1,0 +1,141 @@
+name: Add canicross events to master CSV
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/add-canicross-events.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  import-canicross:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Append official Canicross events
+        shell: python
+        run: |
+          import csv
+          from datetime import date
+          from pathlib import Path
+
+          path = Path("data/Canitrail_Masterkalender_2026_2027.csv")
+          fields = ["Date","Country","Event","Dog distance (km)","Elevation (m+)","Dog access","Status","Notes","Primary source","Secondary source","Origin"]
+
+          rows_to_add = [
+            # FFSLC 2026 – past events with official event pages/search-indexed calendar data
+            ["2026-01-11","France","Canicross de Cergy – L'île aux trésors","not published","","dedicated FFSLC canicross","held","Official FFSLC event; adult canicross long/short disciplines.","https://courses.ffslc.fr/event-fiche/946","","FFSLC Canicross import 2026-09-12"],
+            ["2026-01-24 to 2026-01-25","France","CANI TROPHY FONTAINEBLEAU 2026 – Canicross","5|5.5","","dedicated FFSLC canicross","held","Official FFSLC event; long adult Canicross 5 km Saturday and 5.5 km Sunday.","https://courses.ffslc.fr/event-fiche/971","","FFSLC Canicross import 2026-09-12"],
+            ["2026-03-07 to 2026-03-08","France","Championnats de France Terre 2026 – Canicross","5","","FFSLC championship canicross","held","Official FFSLC French dryland championship; adult Canicross 5 km on both days.","https://courses.ffslc.fr/event-fiche/906","","FFSLC Canicross import 2026-09-12"],
+            ["2026-04-04 to 2026-04-05","France","6e Canicross du Domaine de Givray","not published","","dedicated FFSLC canicross","held","Official FFSLC canicross weekend at Domaine de Givray.","https://courses.ffslc.fr/event-fiche/970","","FFSLC Canicross import 2026-09-12"],
+            ["2026-05-02 to 2026-05-03","France","3e Castel'Canicross de Blangy le Château – Canicross","not published","","dedicated FFSLC canicross","held","Official FFSLC event with Canicross and Canitrail disciplines.","https://courses.ffslc.fr/event-fiche/992","","FFSLC Canicross import 2026-09-12"],
+            ["2026-05-24","France","5e Cani-Cross des Sénons","4","","dedicated FFSLC canicross","held","Official FFSLC event around Étang de Salcy; adult course 4 km.","https://courses.ffslc.fr/event-fiche/1067","","FFSLC Canicross import 2026-09-12"],
+
+            # FFSLC 2026/27 official calendar – adult Canicross disciplines
+            ["2026-09-13","France","Woofest – Canicross","6","","dedicated FFSLC canicross","held","Official FFSLC listing; Sunday Canicross is 6 km.","https://courses.ffslc.fr/event-fiche/1197","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-09-19","France","Canicross du lac de Chour","not published","","dedicated FFSLC canicross","upcoming","Official FFSLC calendar lists adult Canicross.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-09-20","France","Interclub des menhirs – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar lists Canicross court and Canicross long.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-09-26 to 2026-09-27","France","Roazhon Run – Canicross","not published","","dedicated FFSLC canicross","upcoming","Official FFSLC calendar lists Canicross.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-09-26 to 2026-09-27","France","Canifadas de Gréolières – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar lists adult Canicross alongside Canitrail.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-09-27","France","7e Canicross de Bully","not published","","dedicated FFSLC canicross","upcoming","Official FFSLC calendar lists Canicross court and long.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-10-03 to 2026-10-04","France","À'crocs de la vallée du Thouet #2 – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar lists Canicross long and other Canicross classes.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-10-03 to 2026-10-04","France","14e Challenge Canicrossbreizh – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar lists adult Canicross.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-10-03 to 2026-10-04","France","Canicross de la Meute – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar lists Canicross court and adult disciplines.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-10-04","France","Canicross de Bourghelles – 4e édition","not published","","dedicated FFSLC canicross","upcoming","Official FFSLC calendar lists Canicross.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-10-10 to 2026-10-11","France","ACCRO'RUN #5 – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar lists adult Canicross, short and long categories.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-10-17 to 2026-10-23","France","7e Challenge Trans'Pyr Ariégeois – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar event; Canicross included in the challenge.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-10-17 to 2026-10-18","France","La Wati'Dogs Run II – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-10-17","France","La Tractopattes – Canicross caritatif","not published","","dedicated FFSLC canicross","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-10-18","France","La Tractopattes – Championnat Régional R7 Canicross","not published","","FFSLC regional canicross championship","upcoming","Regional championship explicitly includes Canicross.","https://courses.ffslc.fr/event-fiche/1133/tests/","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-10-18","France","Les Régionaux de Manehouarn – Canicross R9","not published","","FFSLC regional canicross event","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-10-18","France","Canicross Val de Loire #17","not published","","dedicated FFSLC canicross","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-10-24","France","La Canidé'cathlon #2 – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-10-25","France","La CaniVertaco – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-11-07 to 2026-11-08","France","La Crocôtière #5 – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-11-07","France","Canicross de Gallician – Acte 2","not published","","dedicated FFSLC canicross","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-11-08","France","La Cani Haut-Marnaise – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-11-08","France","Canicross d'Eschau","not published","","dedicated FFSLC canicross","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-11-14","France","Canicross de la Vente des Vins des Hospices de Beaune","not published","","dedicated FFSLC canicross","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-11-15","France","Championnat de Normandie – 17e Canicross du Bois du Roule","not published","","FFSLC regional canicross championship","upcoming","Official FFSLC calendar lists Canicross court and long.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-11-21","France","Canicross Coucy la Ville","not published","","dedicated FFSLC canicross","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-11-22","France","Canicross de Maurepas – 2e édition","not published","","dedicated FFSLC canicross","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-11-22","France","La Course Des Rives – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar lists adult Canicross.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-11-22","France","Régional R6 – Canicross","not published","","FFSLC regional canicross event","upcoming","Official FFSLC calendar lists adult Canicross.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-11-29","France","Canicross de la Côte d'Opale – Étaples-sur-Mer","not published","","dedicated FFSLC canicross","upcoming","Official FFSLC calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2026-12-05 to 2026-12-06","France","Verrie Speed Dogs #2 – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar lists adult Canicross.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-12-12 to 2026-12-13","France","Cross & Dog de Candé – Canicross","not published","","FFSLC canicross event","upcoming","Official FFSLC calendar lists adult Canicross alongside Canitrail.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2026-12-13","France","Championnat régional Occitanie – Red Paws Race #2 – Canicross","not published","","FFSLC regional canicross championship","upcoming","Official FFSLC calendar lists adult Canicross.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+
+            # FFSLC 2027 announced calendar
+            ["2027-01-10","France","Canicross de Cergy – L'île aux trésors 2027","not published","","dedicated FFSLC canicross","announced","Official FFSLC 2027 calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2027-01-24","France","Canicross de l'XTREM – 5e édition","not published","","dedicated FFSLC canicross","announced","Official FFSLC 2027 calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2027-01-30 to 2027-01-31","France","CANI TROPHY FONTAINEBLEAU 2027 – Canicross","not published","","FFSLC canicross event","announced","Official FFSLC 2027 calendar lists adult Canicross.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2027-01-30 to 2027-01-31","France","Trophée Canin des Plages 2027 – Canicross","not published","","FFSLC canicross event","announced","Official FFSLC 2027 calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2027-02-07","France","Doggy Deûle Run #2 – Canicross","not published","","FFSLC canicross event","announced","Official FFSLC 2027 calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2027-02-07","France","La Canidé'forts – 4e édition – Canicross","not published","","FFSLC canicross event","announced","Official FFSLC calendar lists adult Canicross.","https://courses.ffslc.fr/calendar-map","https://courses.ffslc.fr/calendar","FFSLC Canicross import 2026-09-12"],
+            ["2027-02-13 to 2027-02-14","France","5th Dirty Dog Race – Canicross","not published","","FFSLC canicross event","announced","Official FFSLC 2027 calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2027-02-13 to 2027-02-19","France","Trophée des Lacs – Canicross","not published","","FFSLC canicross event","announced","Official FFSLC 2027 calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2027-02-13 to 2027-02-14","France","Les Courses de l'Étang – Canicross","not published","","FFSLC canicross event","announced","Official FFSLC 2027 calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2027-02-28","France","Interclub Manchois – Canicross","not published","","FFSLC canicross event","announced","Official FFSLC 2027 calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2027-04-03 to 2027-04-04","France","Canicross du Lac des Sapins","not published","","dedicated FFSLC canicross","announced","Official FFSLC 2027 calendar event.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2027-04-10 to 2027-04-11","France","Canicross XtremTrail de Brameloup – Canicross","not published","","FFSLC canicross event","announced","Official FFSLC 2027 calendar event; separate Canitrail row already exists in master data.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+            ["2027-04-24 to 2027-04-25","France","4e Castel'Canicross de Blangy le Château – Canicross","not published","","dedicated FFSLC canicross","announced","Official FFSLC 2027 calendar event; separate Canitrail row already exists in master data.","https://courses.ffslc.fr/calendar","","FFSLC Canicross import 2026-09-12"],
+
+            # VDSV 2026/27 dryland Mono races (Canicross/CaniX Run)
+            ["2026-10-24 to 2026-10-25","Germany","Harzer Luchstrail – Canicross","not published","","VDSV dryland Mono / Canicross","upcoming","VDSV race calendar; official organiser confirms 24–25 Oct 2026 and CaniX categories.","https://vdsv.de/kalender/","https://luchstrail.de/","VDSV Canicross import 2026-09-12"],
+            ["2026-11-07 to 2026-11-08","Germany","Visbek – Canicross","not published","","VDSV dryland Mono / Canicross","upcoming","VDSV-season dryland race with Mono classes.","https://vdsv.de/kalender/","https://www.zughunde-nds.de/events-und-ergebnisse/","VDSV Canicross import 2026-09-12"],
+            ["2026-11-14 to 2026-11-15","Germany","Ströhen – Canicross","not published","","VDSV dryland Mono / Canicross","upcoming","VDSV-season dryland race at Tierpark Ströhen.","https://vdsv.de/kalender/","https://www.zughunde-nds.de/events-und-ergebnisse/","VDSV Canicross import 2026-09-12"],
+            ["2026-11-19 to 2026-11-22","Germany","WSA WM Ströhen – Canicross / Mono","not published","","VDSV/WSA dryland Mono event","upcoming","Listed by VDSV as WSA World Championship dryland with Mono classes.","https://vdsv.de/kalender/","","VDSV Canicross import 2026-09-12"],
+            ["2026-11-21 to 2026-11-22","Germany","Frankonia Open – Lauf an der Pegnitz – Canicross","not published","","VDSV dryland Mono / Canicross","upcoming","VDSV qualification/ranking race with Mono classes.","https://vdsv.de/kalender/","","VDSV Canicross import 2026-09-12"],
+            ["2026-11-28 to 2026-11-29","Germany","CapitalCross 2026 – Canicross","5.6","","VDSV German Championship Canicross","upcoming","Official venue confirms DM and approx. 5.6 km Canicross course.","https://vdsv.de/kalender/","https://www.spargelhof-klaistow.de/klaistower-schlittenhunderennen/","VDSV Canicross import 2026-09-12"],
+            ["2026-12-05 to 2026-12-06","Germany","CapitalCross Mid Distance 2026 – Canicross","17|20","","Canicross mid-distance","upcoming","Official venue states 17–20 km and explicitly includes runners with one dog.","https://www.spargelhof-klaistow.de/klaistower-schlittenhund-rennen/","","web/VDSV ecosystem import 2026-09-12"],
+            ["2026-12-05 to 2026-12-06","Germany","Mühlberg – Canicross","not published","","VDSV dryland Mono / Canicross","upcoming","VDSV qualification/ranking race with Mono classes.","https://vdsv.de/kalender/","","VDSV Canicross import 2026-09-12"],
+            ["2026-12-05 to 2026-12-06","Germany","Silberbergtrail Wingst – Canicross","not published","","VDSV dryland Mono / Canicross","upcoming","VDSV dryland race with Mono classes.","https://vdsv.de/kalender/","","VDSV Canicross import 2026-09-12"],
+            ["2026-12-05 to 2026-12-06","Germany","Straßdorfer Staufertrail – Canicross","not published","","VDSV dryland Mono / Canicross","upcoming","VDSV dryland race with Mono classes.","https://vdsv.de/kalender/","","VDSV Canicross import 2026-09-12"],
+            ["2027-02-27 to 2027-02-28","Germany","Schwabentrail – Canicross","not published","","VDSV dryland Mono / Canicross","announced","VDSV calendar lists Schwabentrail as dryland race.","https://vdsv.de/kalender/","","VDSV Canicross import 2026-09-12"],
+            ["2027-03-13 to 2027-03-14","Germany","Vulcanicross – Canicross","not published","","VDSV dryland Mono / Canicross","announced","VDSV calendar lists Vulcanicross as season-closing dryland Mono race.","https://vdsv.de/kalender/","","VDSV Canicross import 2026-09-12"],
+          ]
+
+          with path.open("r", encoding="utf-8-sig", newline="") as f:
+              rows = list(csv.DictReader(f))
+
+          existing = {(r["Date"].strip(), r["Event"].strip().casefold()) for r in rows}
+          added = 0
+          for values in rows_to_add:
+              row = dict(zip(fields, values))
+              key = (row["Date"].strip(), row["Event"].strip().casefold())
+              if key not in existing:
+                  rows.append(row)
+                  existing.add(key)
+                  added += 1
+
+          def sort_key(r):
+              start = r["Date"].split(" to ", 1)[0]
+              return (date.fromisoformat(start), r["Event"].casefold())
+
+          rows.sort(key=sort_key)
+          with path.open("w", encoding="utf-8", newline="") as f:
+              w = csv.DictWriter(f, fieldnames=fields, lineterminator="\n")
+              w.writeheader()
+              w.writerows(rows)
+
+          print(f"Added {added} Canicross rows; total {len(rows)} rows.")
+
+      - name: Commit master CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/Canitrail_Masterkalender_2026_2027.csv
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "data: add Canicross events from FFSLC and VDSV"
+          git push origin HEAD:main
