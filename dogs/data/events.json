@@ -1,0 +1,619 @@
+{
+  "meta": {
+    "title": "Canicross & Canitrail Events",
+    "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
+    "generatedAt": "2026-09-12T16:27:33Z",
+    "source": "data/Canitrail_Masterkalender_2026_2027.csv",
+    "count": 33
+  },
+  "events": [
+    {
+      "id": "2026-01-10-otterlo-trailrun-054cc1",
+      "date": "2026-01-10",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "Otterlo Trailrun",
+      "distancesKm": [
+        11,
+        22,
+        35
+      ],
+      "elevationM": [],
+      "dogAccess": "dogs allowed in regular trail",
+      "status": "source-confirmed 2026",
+      "notes": "Dogs may join; keep dog leashed and start at the back.",
+      "primarySource": "https://canitrail.nl/events/otterlo-trailrun/",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-01-17-coalminers-trail-walk-80674b",
+      "date": "2026-01-17",
+      "dateEnd": null,
+      "country": "Belgium",
+      "event": "Coalminers’ Trail & Walk",
+      "distancesKm": [
+        10,
+        13,
+        19,
+        28
+      ],
+      "elevationM": [],
+      "dogAccess": "dogs allowed in regular trail",
+      "status": "source-confirmed 2026",
+      "notes": "Dogs explicitly allowed on both walk and trail; leashed.",
+      "primarySource": "https://canitrail.nl/events/coalminers-trail-walk/",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-01-17-mountainman-wintertrail-mittersill-kitzski-559f1b",
+      "date": "2026-01-17",
+      "dateEnd": null,
+      "country": "Austria",
+      "event": "MOUNTAINMAN Wintertrail Mittersill-KitzSki",
+      "distancesKm": [
+        10,
+        18,
+        31
+      ],
+      "elevationM": [
+        700,
+        1100,
+        2100
+      ],
+      "dogAccess": "Dogs-Trail / optional with dog",
+      "status": "cancelled",
+      "notes": "2026 edition cancelled because the route permit was withdrawn.",
+      "primarySource": "https://www.lg-mettenheim.de/veranstaltungen/mountainman-wintersill_20260117",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-11"
+    },
+    {
+      "id": "2026-01-24-yeti-dog-run-4bf3f5",
+      "date": "2026-01-24",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "Yeti Dog Run",
+      "distancesKm": [
+        16,
+        26
+      ],
+      "elevationM": [],
+      "dogAccess": "dog-only trail day",
+      "status": "source-confirmed 2026",
+      "notes": "Saturday is the DOG TRAIL; Sunday is without dogs.",
+      "primarySource": "https://canitrail.nl/events/yeti-dog-run-18km-en-26km/",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-02-07-natte-neuzen-trail-montferland-e3d45a",
+      "date": "2026-02-07",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "Natte Neuzen Trail Montferland",
+      "distancesKm": [
+        10,
+        12,
+        13,
+        15,
+        20,
+        22,
+        23,
+        25
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail event",
+      "status": "source-confirmed 2026",
+      "notes": "6 km snuffeltrail exists too, but excluded here because under 10 km.",
+      "primarySource": "https://canitrail.nl/de-natte-neuzen-trails-2025-2026/nnt-montferland-2026/",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-02-08-trail-des-fontaines-be3e62",
+      "date": "2026-02-08",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Trail des Fontaines",
+      "distancesKm": [
+        12
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail distance",
+      "status": "source-confirmed 2026",
+      "notes": "Chrono-Start lists a CaniTrail 12 km start.",
+      "primarySource": "https://chrono-start.com/events/trail-des-fontaines-624-922-102/",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-02-21-bosbokken-canitrail-437540",
+      "date": "2026-02-21",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "Bosbokken Canitrail",
+      "distancesKm": [
+        15
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail distance",
+      "status": "source-confirmed 2026",
+      "notes": "Official Bosbokken pages say Saturday has a separate canitrail; current program shows 15 km.",
+      "primarySource": "https://www.bosbokken.nl/info/",
+      "secondarySource": "https://www.bosbokken.nl/programma/",
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-03-01-alden-biesen-trail-walk-2c06c3",
+      "date": "2026-03-01",
+      "dateEnd": null,
+      "country": "Belgium",
+      "event": "Alden Biesen Trail & Walk",
+      "distancesKm": [
+        10,
+        16,
+        20,
+        27
+      ],
+      "elevationM": [],
+      "dogAccess": "dogs allowed in regular trail",
+      "status": "source-confirmed 2026",
+      "notes": "Dogs explicitly allowed on trail and walk; leashed.",
+      "primarySource": "https://canitrail.nl/events/alden-biesen-trail-walk/",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-03-07-mountainman-wintertrail-reit-im-winkl-b351c4",
+      "date": "2026-03-07",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "MOUNTAINMAN Wintertrail Reit im Winkl",
+      "distancesKm": [
+        14,
+        22
+      ],
+      "elevationM": [
+        150,
+        651
+      ],
+      "dogAccess": "own Dogs-Trail start + separate ranking",
+      "status": "held / sold out",
+      "notes": "Dog entries sold out; S 14 km and M 22 km available with dog.",
+      "primarySource": "https://mountainman.de/trailrunning-events/alps/wintertrail-reit-im-winkl/dogs-trail/",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-11"
+    },
+    {
+      "id": "2026-03-14-canitrail-lauf-durchs-nettetal-4-0-50f494",
+      "date": "2026-03-14",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "Canitrail-Lauf durchs Nettetal 4.0",
+      "distancesKm": [
+        10,
+        20
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail event",
+      "status": "source-confirmed 2026",
+      "notes": "Also offers 5 km and caniwalk, excluded here where under 10 km.",
+      "primarySource": "https://canitrail.nl/events/canitrail-nettetal/",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-03-14-dark-sky-trail-lauwersmeer-321116",
+      "date": "2026-03-14",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "Dark Sky Trail Lauwersmeer",
+      "distancesKm": [
+        10
+      ],
+      "elevationM": [],
+      "dogAccess": "separate canitrailer start in regular event",
+      "status": "source-confirmed 2026",
+      "notes": "Canitrailers start at 19:00; trailrunners at 19:15.",
+      "primarySource": "https://canitrail.nl/events/dark-sky-trail-lauwersmeer/",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-03-14-vuurtoren-trail-ameland-b48796",
+      "date": "2026-03-14",
+      "dateEnd": "2026-03-15",
+      "country": "Netherlands",
+      "event": "Vuurtoren Trail Ameland",
+      "distancesKm": [
+        10,
+        18
+      ],
+      "elevationM": [],
+      "dogAccess": "dogs allowed in regular trail",
+      "status": "source-confirmed 2026",
+      "notes": "Canitrailers can join 6|10|18 km; only 10 and 18 included here.",
+      "primarySource": "https://canitrail.nl/events/vuurtoren-trail-ameland/",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-04-10-raid-cani-trail-64ceda",
+      "date": "2026-04-10",
+      "dateEnd": "2026-04-12",
+      "country": "UK",
+      "event": "RAID Cani-Trail",
+      "distancesKm": [
+        87
+      ],
+      "elevationM": [],
+      "dogAccess": "multi-day dog trail event",
+      "status": "source-confirmed 2026",
+      "notes": "Day 1 32 km + Day 2 42.5 km + Day 3 12.5 km = 87 km total. Mini RAID is 34.5 km total.",
+      "primarySource": "https://www.canitrailuk.co.uk/about-1",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-04-19-lepouvantrail-b89af4",
+      "date": "2026-04-19",
+      "dateEnd": null,
+      "country": "France",
+      "event": "L’Epouvan’trail",
+      "distancesKm": [
+        10
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail distance",
+      "status": "source-confirmed 2026",
+      "notes": "Pyrénées Chrono lists a 10 km canitrail.",
+      "primarySource": "https://pyreneeschrono.fr/evenement/epouvantrail/",
+      "secondarySource": "https://www.finishers.com/en/event/l-epouvan-trail",
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-04-25-canitrail-des-moines-ca2211",
+      "date": "2026-04-25",
+      "dateEnd": "2026-04-26",
+      "country": "Switzerland",
+      "event": "Canitrail des Moines",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail event",
+      "status": "source-confirmed 2026",
+      "notes": "Date and dog format confirmed by Swiss Canicross; current 2026 page does not show exact km.",
+      "primarySource": "https://swiss-canicross.ch/courses/categorie/canitrails/",
+      "secondarySource": "https://swiss-canicross.ch/course/canitrails-des-moines/",
+      "origin": "uploaded 2026 CSV",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-05-08-mynydd-y-gaer-mountain-challenge-9a0ce5",
+      "date": "2026-05-08",
+      "dateEnd": "2026-05-10",
+      "country": "UK",
+      "event": "Mynydd Y Gaer Mountain Challenge",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "multi-day dog trail event",
+      "status": "source-confirmed 2026",
+      "notes": "10 km and 17 km stages are in-range; full 3-day challenge totals 35 km if you also do the 8 km day.",
+      "primarySource": "https://www.canitrailuk.co.uk/cani-trail-mountain-challenge",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV",
+      "distanceText": "10|17|35_total"
+    },
+    {
+      "id": "2026-05-10-cani-trail-trail-des-ardennes-5029d2",
+      "date": "2026-05-10",
+      "dateEnd": null,
+      "country": "Belgium",
+      "event": "Cani-Trail & Trail des Ardennes",
+      "distancesKm": [
+        11,
+        17,
+        27
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail distances",
+      "status": "source-confirmed 2026",
+      "notes": "Registration page lists separate Canitrail Découverte, Court, and Long.",
+      "primarySource": "https://www.ledossard.com/inscription/index.php?id=3530",
+      "secondarySource": "https://www.ultratiming.live/en/evenement/cani-trail-trail-des-ardennes-2026/epreuve/canitrail-court",
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-05-14-dauw-canitrail-xperience-b872d0",
+      "date": "2026-05-14",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "Dauw Canitrail Xperience",
+      "distancesKm": [
+        10,
+        15,
+        20
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail event",
+      "status": "source-confirmed 2026",
+      "notes": "Canitrail.NL event with 3 distances.",
+      "primarySource": "https://canitrail.nl/events/dauw-canitrail-xperience/",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-05-23-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02",
+      "date": "2026-05-23",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Les Gendarmes et les Voleurs de Temps – CaniTrail",
+      "distancesKm": [
+        11.3
+      ],
+      "elevationM": [
+        185
+      ],
+      "dogAccess": "dedicated canitrail",
+      "status": "held",
+      "notes": "CaniTrail 11.3 km, co-organised with CANIPAT87.",
+      "primarySource": "https://gendarmes-et-voleurs.com/canitrail/",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-11"
+    },
+    {
+      "id": "2026-05-30-clut-ultraktrail-chien-ultra-k-0bb9b6",
+      "date": "2026-05-30",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "CLUT / UltraKtrail / Chien Ultra K",
+      "distancesKm": [
+        10
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated dog class within trail event",
+      "status": "source-confirmed 2026",
+      "notes": "Official CLUT confirms 30 May 2026 event; Finishers confirms a 10 km dog class labeled Chien Ultra K / canitrail.",
+      "primarySource": "https://www.clut.run/quote-e-regolamento/",
+      "secondarySource": "https://www.finishers.com/course/ultraktrail",
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-07-04-festival-trail-semois-eb386e",
+      "date": "2026-07-04",
+      "dateEnd": null,
+      "country": "Belgium",
+      "event": "Festival Trail Semois",
+      "distancesKm": [
+        17,
+        26
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail distances",
+      "status": "source-confirmed 2026",
+      "notes": "Event also has a 9 km canitrail, excluded here because under 10 km.",
+      "primarySource": "https://www.ultratiming.live/en/evenement/festival-trail-semois-2026/epreuve/canitrail-17km",
+      "secondarySource": "https://www.ultratiming.live/en/evenement/festival-trail-semois-2026/epreuve/canitrail-26km",
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-08-18-cani-en-trail4daagse-veluwezoom-0c88a1",
+      "date": "2026-08-18",
+      "dateEnd": "2026-08-21",
+      "country": "Netherlands",
+      "event": "Cani- en Trail4Daagse Veluwezoom",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "multi-day trail opened to canitrailers",
+      "status": "source-confirmed 2026",
+      "notes": "4-day format; total distance depends on chosen daily route length.",
+      "primarySource": "https://canitrail.nl/events/cani-en-trail4daagse-veluwezoom-2026/",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV",
+      "distanceText": "37_to_73_total"
+    },
+    {
+      "id": "2026-09-19-arberland-ultra-trail-hundelauf-e0d397",
+      "date": "2026-09-19",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "ARBERLAND Ultra Trail – Hundelauf",
+      "distancesKm": [
+        20,
+        36
+      ],
+      "elevationM": [
+        900,
+        1500
+      ],
+      "dogAccess": "dedicated dog start + ranking",
+      "status": "upcoming",
+      "notes": "Dog ranking on Arbersee Trail and Schachtenbach Trail.",
+      "primarySource": "https://www.arberland-bayerischer-wald.de/aktiv-im-sommer/trailrunning/arberland-ultra-trail/",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-11"
+    },
+    {
+      "id": "2026-09-26-mountainman-reit-im-winkl-dogs-trail-2327c6",
+      "date": "2026-09-26",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "MOUNTAINMAN Reit im Winkl – Dogs-Trail",
+      "distancesKm": [
+        11,
+        26
+      ],
+      "elevationM": [
+        300,
+        900
+      ],
+      "dogAccess": "own dog starts + separate ranking",
+      "status": "upcoming",
+      "notes": "S and M trails allow dogs; own dog starts and finisher medal.",
+      "primarySource": "https://www.chiemsee-chiemgau.info/mountainman-reit-im-winkl",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-11"
+    },
+    {
+      "id": "2026-10-03-brekeld-runners-trail-f6cc69",
+      "date": "2026-10-03",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "Brekeld Runners Trail",
+      "distancesKm": [
+        10,
+        15,
+        20
+      ],
+      "elevationM": [],
+      "dogAccess": "dogs allowed in regular trail",
+      "status": "source-confirmed 2026",
+      "notes": "Dogs welcome on 10 km, 15 km and 20 km.",
+      "primarySource": "https://canitrail.nl/events/brekeld-runners-trail/",
+      "secondarySource": null,
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-10-03-canitrail-des-bisses-a7d83a",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "Switzerland",
+      "event": "Canitrail des Bisses",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail event",
+      "status": "source-confirmed 2026",
+      "notes": "Adult canitrail and dog requirements confirmed; current 2026 pages do not show exact km.",
+      "primarySource": "https://www.myswitzerland.com/en-gb/experiences/events/canitrail-des-bisses/",
+      "secondarySource": "https://lecanitraildesbisses.ch/informations/categories/",
+      "origin": "uploaded 2026 CSV",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-04-kustmarathon-zeeland-canitrail-e0fdda",
+      "date": "2026-10-04",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "Kustmarathon Zeeland Canitrail",
+      "distancesKm": [
+        16
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail distance",
+      "status": "source-confirmed 2026",
+      "notes": "Official Kustmarathon page says first canitrail is 16 km offroad on 4 October 2026.",
+      "primarySource": "https://www.kustmarathon.nl/wedstrijd/canitrail/",
+      "secondarySource": "https://www.kustmarathon.nl/",
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-10-31-trail-du-calvaire-34f8b7",
+      "date": "2026-10-31",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Trail du Calvaire",
+      "distancesKm": [
+        12
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail distance",
+      "status": "source-confirmed 2026",
+      "notes": "Finishers shows Cani-Trail du Calvaire 12 km; Esprit Trail gives the 2026 date.",
+      "primarySource": "https://www.finishers.com/en/event/trail-du-calvaire",
+      "secondarySource": "https://www.esprit-trail.com/calendrier_courses/le-noct%C2%92trail-du-calvaire/",
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-11-15-trail-des-ch-taignes-07ac4c",
+      "date": "2026-11-15",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Trail des Châtaignes",
+      "distancesKm": [
+        11
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated dog class within trail event",
+      "status": "source-confirmed 2026",
+      "notes": "Finishers shows an 11 km dog class ‘Le Cani’; Esprit Trail gives the 2026 date.",
+      "primarySource": "https://www.finishers.com/en/event/trail-des-chataignes-de-cormeille-en-parisis",
+      "secondarySource": "https://www.esprit-trail.com/calendrier_courses/trail-des-chataignes-2/",
+      "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-12-06-mountainman-nikolaus-trail-pommelsbrunn-dogs-trail-e8c17e",
+      "date": "2026-12-06",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "MOUNTAINMAN Nikolaus-Trail Pommelsbrunn – Dogs-Trail",
+      "distancesKm": [
+        12,
+        17
+      ],
+      "elevationM": [
+        370,
+        530
+      ],
+      "dogAccess": "own Dogs-Trail start window + separate ranking",
+      "status": "upcoming",
+      "notes": "Dogs start in a separate afternoon time window; S and M only.",
+      "primarySource": "https://mountainman.de/trailrunning-events/hills/nikolaustrail-pommelsbrunn/dogs-trail/",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-11"
+    },
+    {
+      "id": "2027-01-24-mountainman-dogs-winterloop-reit-im-winkl-ed8333",
+      "date": "2027-01-24",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "MOUNTAINMAN Dogs-Winterloop Reit im Winkl",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dog-only event day",
+      "status": "registration open",
+      "notes": "3-hour challenge; Sunday reserved for dog teams.",
+      "primarySource": "https://mountainman.de/trailrunning-events/alps/winterloop-reit-im-winkl/dogs-trail/",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-11",
+      "distanceText": "7.5 km loops",
+      "elevationText": "110 per loop"
+    },
+    {
+      "id": "2027-05-08-mountainman-nesselwang-dogs-trail-0999f0",
+      "date": "2027-05-08",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "MOUNTAINMAN Nesselwang – Dogs-Trail",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "own dog starts + separate ranking",
+      "status": "registration open",
+      "notes": "M trail confirmed at 21 km / 1,268 hm; dog slots limited to about 150.",
+      "primarySource": "https://mountainman.de/trailrunning-events/alps/nesselwang/dogs-trail/",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-11",
+      "distanceText": "21 + S-distance",
+      "elevationText": "1268 + S not captured"
+    },
+    {
+      "id": "2027-05-15-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02",
+      "date": "2027-05-15",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Les Gendarmes et les Voleurs de Temps – CaniTrail",
+      "distancesKm": [
+        11
+      ],
+      "elevationM": [
+        221
+      ],
+      "dogAccess": "dedicated canitrail",
+      "status": "announced",
+      "notes": "2027 event weekend is 15–16 May; canitrail page lists Saturday 15 May, 11 km.",
+      "primarySource": "https://gendarmes-et-voleurs.com/canitrail/",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-11"
+    }
+  ]
+}

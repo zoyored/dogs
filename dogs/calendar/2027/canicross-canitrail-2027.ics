@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sandsturm//Canicross Canitrail Events//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canicross & Canitrail Events
+X-WR-CALDESC:Canicross- und Canitrail-Veranstaltungen
+BEGIN:VEVENT
+UID:2027-01-24-mountainman-dogs-winterloop-reit-im-winkl-ed8333@sandsturm
+ .com
+DTSTAMP:20260912T162733Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:MOUNTAINMAN Dogs-Winterloop Reit im Winkl
+LOCATION:Germany
+DESCRIPTION:Distanz: 7.5 km loops\nHöhenmeter: 110 per loop\nHund: dog-on
+ ly event day\nStatus: registration open\n3-hour challenge\; Sunday reser
+ ved for dog teams.
+URL:https://mountainman.de/trailrunning-events/alps/winterloop-reit-im-wi
+ nkl/dogs-trail/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-08-mountainman-nesselwang-dogs-trail-0999f0@sandsturm.com
+DTSTAMP:20260912T162733Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:MOUNTAINMAN Nesselwang – Dogs-Trail
+LOCATION:Germany
+DESCRIPTION:Distanz: 21 + S-distance\nHöhenmeter: 1268 + S not captured\n
+ Hund: own dog starts + separate ranking\nStatus: registration open\nM tr
+ ail confirmed at 21 km / 1\,268 hm\; dog slots limited to about 150.
+URL:https://mountainman.de/trailrunning-events/alps/nesselwang/dogs-trail
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-15-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02@san
+ dsturm.com
+DTSTAMP:20260912T162733Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Les Gendarmes et les Voleurs de Temps – CaniTrail
+LOCATION:France
+DESCRIPTION:Distanzen: 11 km\nHöhenmeter: 221 hm\nHund: dedicated canitra
+ il\nStatus: announced\n2027 event weekend is 15–16 May\; canitrail page 
+ lists Saturday 15 May\, 11 km.
+URL:https://gendarmes-et-voleurs.com/canitrail/
+END:VEVENT
+END:VCALENDAR
