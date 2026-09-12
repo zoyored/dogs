@@ -2,9 +2,9 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-12T17:48:31Z",
+    "generatedAt": "2026-09-12T17:56:10Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 235,
+    "count": 261,
     "categories": [
       "bike jöring",
       "canicross",
@@ -703,6 +703,28 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-04-11-edc-paldiski-2026-1cd831",
+      "date": "2026-04-11",
+      "dateEnd": null,
+      "country": "Estonia",
+      "event": "EDC Paldiski 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        4.2
+      ],
+      "elevationM": [],
+      "dogAccess": "Estonian Dryland Cup",
+      "status": "held",
+      "notes": "Official EDC stage 1; adult Canicross, Bikejoring and Scooter classes on main course.",
+      "primarySource": "https://edc.ee/en/2026/paldiski",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
       "id": "2026-04-11-hmc-charity-cup-2026-51a7b1",
       "date": "2026-04-11",
       "dateEnd": "2026-04-12",
@@ -1017,6 +1039,28 @@
       "distanceText": "10|17|35_total"
     },
     {
+      "id": "2026-05-09-edc-vooremaee-2026-b13b12",
+      "date": "2026-05-09",
+      "dateEnd": null,
+      "country": "Estonia",
+      "event": "EDC Vooremäe 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        4
+      ],
+      "elevationM": [],
+      "dogAccess": "Estonian Dryland Cup",
+      "status": "held",
+      "notes": "Official EDC 2026 stage 2; series uses canicross, bikejoring and scooter classes.",
+      "primarySource": "https://edc.ee/en",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
       "id": "2026-05-10-cani-trail-trail-des-ardennes-5029d2",
       "date": "2026-05-10",
       "dateEnd": null,
@@ -1303,6 +1347,28 @@
       "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
+      "id": "2026-08-29-edc-viljandi-night-2026-a0c1a7",
+      "date": "2026-08-29",
+      "dateEnd": null,
+      "country": "Estonia",
+      "event": "EDC Viljandi Night 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        4
+      ],
+      "elevationM": [],
+      "dogAccess": "Estonian Dryland Cup",
+      "status": "held",
+      "notes": "Official EDC 2026 stage 3.",
+      "primarySource": "https://edc.ee/en",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
       "id": "2026-08-29-troph-e-de-sirius-des-aiguilles-darves-6bc367",
       "date": "2026-08-29",
       "dateEnd": "2026-08-30",
@@ -1338,6 +1404,27 @@
       "primarySource": "https://www.mushing.cz/race/",
       "secondarySource": null,
       "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-09-05-tanhuvaara-sprint-2026-1a2697",
+      "date": "2026-09-05",
+      "dateEnd": "2026-09-06",
+      "country": "Finland",
+      "event": "Tanhuvaara Sprint 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "VUL dryland race",
+      "status": "held",
+      "notes": "Official Finnish federation autumn calendar lists DC, DB and DS classes.",
+      "primarySource": "https://www.vul.fi/syksyn-kilpailukalenteri-2026/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12",
       "distanceText": "not published"
     },
     {
@@ -1400,6 +1487,29 @@
       "primarySource": "https://mushing.sk/pretek/pezinska-baba-09-2026/",
       "secondarySource": null,
       "origin": "European federation sweep round 2 2026-09-12"
+    },
+    {
+      "id": "2026-09-12-sisuva-dryland-race-2026-bf875c",
+      "date": "2026-09-12",
+      "dateEnd": "2026-09-13",
+      "country": "Finland",
+      "event": "SiSuVa Dryland Race 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        3.9,
+        4.9
+      ],
+      "elevationM": [],
+      "dogAccess": "VUL dryland race / World Cup round",
+      "status": "source-confirmed 2026",
+      "notes": "Official VUL calendar confirms 12–13 Sep 2026; organizer lists Canicross 3.9 km and Bikejoring/Scooter 4.9 km.",
+      "primarySource": "https://www.vul.fi/syksyn-kilpailukalenteri-2026/",
+      "secondarySource": "https://www.sisuva.fi/ajankohtaista/sisuva-dryland-race-2026/",
+      "origin": "Europe federation sweep round 4 2026-09-12"
     },
     {
       "id": "2026-09-12-ume-draget-f9d977",
@@ -1544,6 +1654,28 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-09-19-edc-ebavere-2026-1a725b",
+      "date": "2026-09-19",
+      "dateEnd": null,
+      "country": "Estonia",
+      "event": "EDC Ebavere 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        4
+      ],
+      "elevationM": [],
+      "dogAccess": "Estonian Dryland Cup",
+      "status": "source-confirmed 2026",
+      "notes": "Official EDC 2026 stage 4.",
+      "primarySource": "https://edc.ee/en",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
       "id": "2026-09-19-limitless-trails-trails-tarmac-summer-12h-byu-557450",
       "date": "2026-09-19",
       "dateEnd": null,
@@ -1561,6 +1693,27 @@
       "secondarySource": "https://www.limitlesstrails.co.uk/canicross-menu",
       "origin": "web verification 2026-09-12",
       "distanceText": "4.2 mile loops up to 12h"
+    },
+    {
+      "id": "2026-09-19-roicross-2026-2fcfbf",
+      "date": "2026-09-19",
+      "dateEnd": null,
+      "country": "Finland",
+      "event": "RoiCross 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "VUL dryland race",
+      "status": "source-confirmed 2026",
+      "notes": "Official Finnish federation calendar lists DC, DB and DS classes at Rovaniemi Pöyliövaara.",
+      "primarySource": "https://www.vul.fi/tapahtumakalenteri/kuukausi/2026-09/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2026-09-20-csen-canicross-borno-522f67",
@@ -1741,6 +1894,26 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2026-09-26-jaemin-syyskisa-2026-11d060",
+      "date": "2026-09-26",
+      "dateEnd": "2026-09-27",
+      "country": "Finland",
+      "event": "Jämin Syyskisa 2026",
+      "category": [
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "VUL dryland race",
+      "status": "source-confirmed 2026",
+      "notes": "Official VUL calendar lists DB and DS classes; no adult canicross class listed.",
+      "primarySource": "https://traildog.fi/pages/valjakkourheilukilpailut-ja-tapahtumat",
+      "secondarySource": "https://www.vul.fi/syksyn-kilpailukalenteri-2026/",
+      "origin": "Europe federation sweep round 4 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-09-26-louka-2026-3507f4",
       "date": "2026-09-26",
       "dateEnd": "2026-09-27",
@@ -1861,6 +2034,27 @@
       "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
       "origin": "FFSLC verification 2026-09-12",
       "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-10-03-alma-off-snow-2026-7b88ad",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "Finland",
+      "event": "Alma Off Snow 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "VUL dryland race",
+      "status": "source-confirmed 2026",
+      "notes": "Official Finnish race calendar lists DC, DB and DS classes.",
+      "primarySource": "https://traildog.fi/pages/valjakkourheilukilpailut-ja-tapahtumat",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2026-10-03-brekeld-runners-trail-f6cc69",
@@ -2223,6 +2417,28 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2026-10-10-edc-palivere-2026-254277",
+      "date": "2026-10-10",
+      "dateEnd": null,
+      "country": "Estonia",
+      "event": "EDC Palivere 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        3.2
+      ],
+      "elevationM": [],
+      "dogAccess": "Estonian Dryland Cup final",
+      "status": "source-confirmed 2026",
+      "notes": "Official EDC stage 5; main course 3.2 km with Canicross, Bikejoring and Scooter classes.",
+      "primarySource": "https://edc.ee/en/etapp/palivere",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
       "id": "2026-10-10-limitless-trails-the-loop-ultra-147c55",
       "date": "2026-10-10",
       "dateEnd": null,
@@ -2244,6 +2460,29 @@
       "primarySource": "https://www.limitlesstrails.co.uk/the-loop-ultra",
       "secondarySource": null,
       "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2026-10-10-lokarallit-2026-eca56a",
+      "date": "2026-10-10",
+      "dateEnd": "2026-10-11",
+      "country": "Finland",
+      "event": "Lokarallit 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        3,
+        5
+      ],
+      "elevationM": [],
+      "dogAccess": "VUL dryland race",
+      "status": "source-confirmed 2026",
+      "notes": "Official VUL event lists 3 km Canicross and 5 km Bikejoring/Scooter classes.",
+      "primarySource": "https://www.vul.fi/tapahtumakalenteri/lista/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
     },
     {
       "id": "2026-10-10-ouaffastienne-et-maxiouaffastienne-e1971c",
@@ -2593,6 +2832,26 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-10-24-ohkola-sm-2026-f54ed8",
+      "date": "2026-10-24",
+      "dateEnd": "2026-10-25",
+      "country": "Finland",
+      "event": "Ohkola SM 2026",
+      "category": [
+        "canicross",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Finnish dryland championship",
+      "status": "source-confirmed 2026",
+      "notes": "Official VUL calendar lists national Canicross and Scooter classes; DS1 championship classes.",
+      "primarySource": "https://www.vul.fi/tapahtumakalenteri/lista/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-10-25-canixfyn-dcf-dog-series-1-b6c717",
       "date": "2026-10-25",
       "dateEnd": null,
@@ -2668,6 +2927,25 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2026-10-31-jaemi-syys-sm-2026-59366b",
+      "date": "2026-10-31",
+      "dateEnd": "2026-11-01",
+      "country": "Finland",
+      "event": "Jämi Syys-SM 2026",
+      "category": [
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Finnish dryland championship",
+      "status": "source-confirmed 2026",
+      "notes": "Official VUL calendar lists DS scooter classes alongside rig classes.",
+      "primarySource": "https://www.vul.fi/tapahtumakalenteri/lista/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-10-31-trail-du-calvaire-34f8b7",
       "date": "2026-10-31",
       "dateEnd": null,
@@ -2686,6 +2964,26 @@
       "primarySource": "https://courses.ffslc.fr/calendar",
       "secondarySource": "https://www.finishers.com/en/event/trail-du-calvaire",
       "origin": "FFSLC + uploaded verification 2026-09-12"
+    },
+    {
+      "id": "2026-10-31-virttaan-syys-sm-2026-68c3e3",
+      "date": "2026-10-31",
+      "dateEnd": "2026-11-01",
+      "country": "Finland",
+      "event": "Virttaan Syys-SM 2026",
+      "category": [
+        "canicross",
+        "bike jöring"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Finnish dryland championship",
+      "status": "source-confirmed 2026",
+      "notes": "Official VUL calendar lists Finnish championship classes DB and DC.",
+      "primarySource": "https://www.vul.fi/tapahtumakalenteri/lista/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2026-11-01-lakeland-paws-grizedale-growl-west-side-96afbf",
@@ -3629,6 +3927,28 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2027-01-08-ukkohalla-paljakka-ajot-2027-521b35",
+      "date": "2027-01-08",
+      "dateEnd": "2027-01-10",
+      "country": "Finland",
+      "event": "Ukkohalla-Paljakka Ajot 2027",
+      "category": [
+        "ski jöring",
+        "pulka",
+        "sledge"
+      ],
+      "distancesKm": [
+        35
+      ],
+      "elevationM": [],
+      "dogAccess": "VUL winter race",
+      "status": "source-confirmed 2027",
+      "notes": "Official VUL winter calendar: MD sled classes plus 1–2 dog towline/pulka ski recreational class.",
+      "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
       "id": "2027-01-09-yorkshire-trail-runs-harewood-house-054718",
       "date": "2027-01-09",
       "dateEnd": null,
@@ -3688,6 +4008,51 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-01-15-lapland-quest-2027-a15a21",
+      "date": "2027-01-15",
+      "dateEnd": "2027-01-17",
+      "country": "Finland",
+      "event": "Lapland Quest 2027",
+      "category": [
+        "sledge"
+      ],
+      "distancesKm": [
+        250
+      ],
+      "elevationM": [],
+      "dogAccess": "Finnish long-distance championship",
+      "status": "source-confirmed 2027",
+      "notes": "Official VUL winter calendar lists LD long-distance sled championship class.",
+      "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
+      "id": "2027-01-16-jaemin-talvi-sm-2027-c087a8",
+      "date": "2027-01-16",
+      "dateEnd": "2027-01-17",
+      "country": "Finland",
+      "event": "Jämin Talvi-SM 2027",
+      "category": [
+        "sledge"
+      ],
+      "distancesKm": [
+        5,
+        9.6,
+        13,
+        17.5,
+        22.2,
+        40.6
+      ],
+      "elevationM": [],
+      "dogAccess": "Finnish winter championship",
+      "status": "source-confirmed 2027",
+      "notes": "Official VUL winter calendar lists sprint and middle-distance sled classes.",
+      "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
       "id": "2027-01-17-ccnl-bosschenhoofd-b0b6dd",
       "date": "2027-01-17",
       "dateEnd": null,
@@ -3724,6 +4089,30 @@
       "primarySource": "https://www.danskcanicross.dk/kalender",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-01-23-opky-80-v-valjakkohiihdon-sm-2027-a5a118",
+      "date": "2027-01-23",
+      "dateEnd": "2027-01-24",
+      "country": "Finland",
+      "event": "OPKY 80 v – Valjakkohiihdon SM 2027",
+      "category": [
+        "ski jöring",
+        "pulka"
+      ],
+      "distancesKm": [
+        5,
+        6,
+        10,
+        12
+      ],
+      "elevationM": [],
+      "dogAccess": "Finnish sled-ski championship",
+      "status": "source-confirmed 2027",
+      "notes": "Official VUL calendar lists sled-ski championship classes from 5–12 km.",
+      "primarySource": "https://www.vul.fi/tapahtumakalenteri/opky-80-v-koirahiihtoluokkien-ja-yhdistetyn-sm-oulu/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
     },
     {
       "id": "2027-01-24-3-canicross-citt-di-grosseto-77bb9d",
@@ -4055,6 +4444,25 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2027-02-17-ifss-winter-world-championships-2027-jaemijaervi-06c1de",
+      "date": "2027-02-17",
+      "dateEnd": "2027-02-21",
+      "country": "Finland",
+      "event": "IFSS Winter World Championships 2027 – Jämijärvi",
+      "category": [
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "IFSS winter world championship – sprint and MD",
+      "status": "source-confirmed 2027",
+      "notes": "Official Finnish federation confirms IFSS World Championships sprint and middle-distance sled classes.",
+      "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-02-21-csen-canicross-cismon-del-grappa-96844a",
       "date": "2027-02-21",
       "dateEnd": null,
@@ -4071,6 +4479,26 @@
       "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-02-23-ifss-winter-world-championships-2027-kontiolahti-dbb1bb",
+      "date": "2027-02-23",
+      "dateEnd": "2027-02-28",
+      "country": "Finland",
+      "event": "IFSS Winter World Championships 2027 – Kontiolahti",
+      "category": [
+        "ski jöring",
+        "pulka"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "IFSS winter world championship – ski classes",
+      "status": "source-confirmed 2027",
+      "notes": "Official Finnish federation confirms IFSS World Championships ski disciplines in Kontiolahti.",
+      "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2027-02-27-schwabentrail-canicross-d4ec63",
@@ -4170,6 +4598,25 @@
       "distanceText": "2.5 km laps / 3h"
     },
     {
+      "id": "2027-03-05-ifss-winter-world-championships-2027-finnmarksl-pet-e7cbd6",
+      "date": "2027-03-05",
+      "dateEnd": "2027-03-13",
+      "country": "Norway",
+      "event": "IFSS Winter World Championships 2027 – Finnmarksløpet",
+      "category": [
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "IFSS winter world championship – long distance",
+      "status": "source-confirmed 2027",
+      "notes": "Official Finnish federation calendar confirms IFSS long-distance world championship at Finnmarksløpet.",
+      "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-03-06-campionato-nazionale-canicross-csen-2027-973214",
       "date": "2027-03-06",
       "dateEnd": "2027-03-07",
@@ -4235,6 +4682,51 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2027-03-06-ruunaa-race-2027-83daf0",
+      "date": "2027-03-06",
+      "dateEnd": "2027-03-07",
+      "country": "Finland",
+      "event": "Ruunaa Race 2027",
+      "category": [
+        "sledge"
+      ],
+      "distancesKm": [
+        33,
+        45
+      ],
+      "elevationM": [],
+      "dogAccess": "Finnish middle-distance championship",
+      "status": "source-confirmed 2027",
+      "notes": "Official VUL calendar lists MD4 33 km and MD6/MD10 45 km classes over multiple heats.",
+      "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
+      "id": "2027-03-06-sisuva-winter-race-2027-feef67",
+      "date": "2027-03-06",
+      "dateEnd": "2027-03-07",
+      "country": "Finland",
+      "event": "SiSuVa Winter Race 2027",
+      "category": [
+        "ski jöring",
+        "sledge"
+      ],
+      "distancesKm": [
+        5,
+        6,
+        10,
+        12
+      ],
+      "elevationM": [],
+      "dogAccess": "VUL winter World Cup race",
+      "status": "source-confirmed 2027",
+      "notes": "Official VUL winter calendar lists sprint sled and dog-ski classes; source page contains a year typo but calendar placement and season identify 2027.",
+      "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
       "id": "2027-03-07-lakeland-paws-tour-de-grizedale-2d808a",
       "date": "2027-03-07",
       "dateEnd": null,
@@ -4291,6 +4783,27 @@
       "primarySource": "https://www.danskcanicross.dk/kalender",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-03-19-nuottavaara-md-2027-048737",
+      "date": "2027-03-19",
+      "dateEnd": "2027-03-21",
+      "country": "Finland",
+      "event": "Nuottavaara MD 2027",
+      "category": [
+        "sledge"
+      ],
+      "distancesKm": [
+        32,
+        45
+      ],
+      "elevationM": [],
+      "dogAccess": "VUL middle-distance sled race",
+      "status": "source-confirmed 2027",
+      "notes": "Official VUL calendar lists MD4, MD6 and MD8 middle-distance sled classes.",
+      "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
     },
     {
       "id": "2027-03-20-canicross-ireland-2026-27-event-six-drewstown-house-586b6b",
@@ -4414,6 +4927,25 @@
       "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-03-21-piana-di-segni-2027-canicross-csen-c84536",
+      "date": "2027-03-21",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "Piana di Segni 2027 – Canicross CSEN",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CSEN ICF-selection race",
+      "status": "provisional 2027",
+      "notes": "Official CSEN 2026/27 calendar lists Piana di Segni as an ICF 2027 selection race.",
+      "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2027-04-03-canicross-du-lac-des-sapins-30087c",
@@ -4681,6 +5213,27 @@
       "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
       "origin": "FFSLC verification 2026-09-12",
       "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2027-04-24-jaemin-kevaetkisa-2027-1c089e",
+      "date": "2027-04-24",
+      "dateEnd": "2027-04-25",
+      "country": "Finland",
+      "event": "Jämin Kevätkisa 2027",
+      "category": [
+        "scooter"
+      ],
+      "distancesKm": [
+        3.8,
+        6.1
+      ],
+      "elevationM": [],
+      "dogAccess": "VUL dryland race",
+      "status": "source-confirmed 2027",
+      "notes": "Official VUL calendar lists DS1 and DS2 scooter classes.",
+      "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 4 2026-09-12"
     },
     {
       "id": "2027-05-08-mountainman-nesselwang-dogs-trail-0999f0",
