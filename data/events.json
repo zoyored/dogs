@@ -2,9 +2,9 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-12T17:29:26Z",
+    "generatedAt": "2026-09-12T17:40:29Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 147,
+    "count": 191,
     "categories": [
       "bike jöring",
       "canicross",
@@ -61,6 +61,26 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-01-11-copa-de-espa-a-mushing-tierra-alcal-de-guada-ra-8a0a27",
+      "date": "2026-01-11",
+      "dateEnd": "2026-01-12",
+      "country": "Spain",
+      "event": "Copa de España Mushing Tierra – Alcalá de Guadaíra",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "RFEDI dryland mushing cup",
+      "status": "held",
+      "notes": "Official RFEDI 2025/26 calendar and event notice.",
+      "primarySource": "https://rfedi.es/mushing/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2026-01-17-coalminers-trail-walk-80674b",
       "date": "2026-01-17",
       "dateEnd": null,
@@ -110,6 +130,26 @@
       "origin": "web verification 2026-09-11"
     },
     {
+      "id": "2026-01-24-campeonato-de-espa-a-mushing-nieve-sprint-baqueira-beret-a1b0f7",
+      "date": "2026-01-24",
+      "dateEnd": "2026-01-25",
+      "country": "Spain",
+      "event": "Campeonato de España Mushing Nieve Sprint – Baqueira Beret",
+      "category": [
+        "canicross",
+        "ski jöring",
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "RFEDI snow mushing championship",
+      "status": "held",
+      "notes": "Official RFEDI 2025/26 mushing calendar.",
+      "primarySource": "https://rfedi.es/mushing/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2026-01-24-cani-trophy-fontainebleau-2026-canicross-857573",
       "date": "2026-01-24",
       "dateEnd": "2026-01-25",
@@ -150,6 +190,26 @@
       "primarySource": "https://canitrail.nl/events/yeti-dog-run-18km-en-26km/",
       "secondarySource": null,
       "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-02-07-copa-de-espa-a-mushing-tierra-sprint-villamanta-84d26a",
+      "date": "2026-02-07",
+      "dateEnd": "2026-02-08",
+      "country": "Spain",
+      "event": "Copa de España Mushing Tierra Sprint – Villamanta",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "RFEDI dryland mushing cup",
+      "status": "held",
+      "notes": "Official RFEDI event notice for Villamanta, Madrid.",
+      "primarySource": "https://rfedi.es/mushing/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2026-02-07-natte-neuzen-trail-montferland-e3d45a",
@@ -217,6 +277,26 @@
       "primarySource": "https://www.bosbokken.nl/info/",
       "secondarySource": "https://www.bosbokken.nl/programma/",
       "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-02-21-copa-de-espa-a-mushing-tierra-sprint-bobor-s-4d4a14",
+      "date": "2026-02-21",
+      "dateEnd": "2026-02-22",
+      "country": "Spain",
+      "event": "Copa de España Mushing Tierra Sprint – Boborás",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "RFEDI dryland mushing cup",
+      "status": "held",
+      "notes": "Official RFEDI event notice for Boborás, Orense.",
+      "primarySource": "https://rfedi.es/mushing/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2026-03-01-alden-biesen-trail-walk-2c06c3",
@@ -349,6 +429,27 @@
       "origin": "uploaded 2026 CSV"
     },
     {
+      "id": "2026-03-21-farkasord-t-2-0-44fac4",
+      "date": "2026-03-21",
+      "dateEnd": null,
+      "country": "Hungary",
+      "event": "Farkasordító 2.0",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "MCSE dryland race",
+      "status": "held",
+      "notes": "Official MCSE event with Canicross, Bikejöring and scooter classes.",
+      "primarySource": "https://www.canicross.hu/farkasordito-2-0/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12",
+      "distanceText": "4-5"
+    },
+    {
       "id": "2026-03-21-vulcanicross-bubeck-tour-badda1",
       "date": "2026-03-21",
       "dateEnd": null,
@@ -430,6 +531,28 @@
       "primarySource": "https://rawenergypursuits.co.uk/spring-run-the-seasons-cowdray-9am-saturday-11th-april-2026/",
       "secondarySource": null,
       "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2026-04-11-tavaszi-fog-cska-2-0-93f804",
+      "date": "2026-04-11",
+      "dateEnd": null,
+      "country": "Hungary",
+      "event": "Tavaszi fogócska 2.0",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        4.3
+      ],
+      "elevationM": [],
+      "dogAccess": "MCSE dryland race",
+      "status": "held",
+      "notes": "Official MCSE event; main distance 4.3 km, short route 2.3 km.",
+      "primarySource": "https://www.canicross.hu/category/bikejoring/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2026-04-18-thoresby-park-longhorn-trail-c68943",
@@ -555,6 +678,28 @@
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-05-02-baltosprint-2026-76dc90",
+      "date": "2026-05-02",
+      "dateEnd": null,
+      "country": "Estonia",
+      "event": "Baltosprint 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        4
+      ],
+      "elevationM": [],
+      "dogAccess": "Baltosport dryland race",
+      "status": "held",
+      "notes": "Official Baltosport event; 4 km adult trail with canicross, bikejoring and scooter classes.",
+      "primarySource": "https://baltosport.ee/en/baltosprint-2026-en/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2026-05-08-mynydd-y-gaer-mountain-challenge-9a0ce5",
@@ -843,6 +988,44 @@
       "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
+      "id": "2026-09-12-canicross-saint-cierges-678528",
+      "date": "2026-09-12",
+      "dateEnd": "2026-09-13",
+      "country": "Switzerland",
+      "event": "Canicross Saint-Cierges",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Swiss Canicross championship race",
+      "status": "current",
+      "notes": "Official Swiss Canicross calendar.",
+      "primarySource": "https://swiss-canicross.ch/de/nos-courses/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2026-09-12-ume-draget-f9d977",
+      "date": "2026-09-12",
+      "dateEnd": "2026-09-13",
+      "country": "Sweden",
+      "event": "Umeådraget",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Sweden BCD priority race",
+      "status": "current",
+      "notes": "Listed by Sweden BCD as a priority selection race for ICF WC 2027.",
+      "primarySource": "https://www.swedenbcd.se/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2026-09-12-woofest-7dc20a",
       "date": "2026-09-12",
       "dateEnd": "2026-09-13",
@@ -984,6 +1167,24 @@
       "distanceText": "4.2 mile loops up to 12h"
     },
     {
+      "id": "2026-09-20-csen-canicross-borno-522f67",
+      "date": "2026-09-20",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "CSEN Canicross Borno",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CSEN Canicross championship race",
+      "status": "upcoming",
+      "notes": "Official provisional CSEN 2026/27 calendar; ICF 2027 selection race.",
+      "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2026-09-20-interclub-des-menhirs-canicross-b1cb24",
       "date": "2026-09-20",
       "dateEnd": null,
@@ -1001,6 +1202,24 @@
       "secondarySource": "https://courses.ffslc.fr/calendar",
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-09-26-canicross-yens-ed972c",
+      "date": "2026-09-26",
+      "dateEnd": "2026-09-27",
+      "country": "Switzerland",
+      "event": "Canicross Yens",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Swiss Canicross championship race",
+      "status": "upcoming",
+      "notes": "Official Swiss Canicross calendar.",
+      "primarySource": "https://swiss-canicross.ch/de/nos-courses/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2026-09-26-canifadas-de-gr-oli-res-6817f4",
@@ -1245,6 +1464,26 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-10-03-graningedraget-7145a8",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "Sweden",
+      "event": "Graningedraget",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Sweden BCD priority race",
+      "status": "upcoming",
+      "notes": "Listed by Sweden BCD as a priority selection race for ICF WC 2027.",
+      "primarySource": "https://www.swedenbcd.se/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2026-10-03-crocs-de-la-vall-e-du-thouet-2-490f26",
       "date": "2026-10-03",
       "dateEnd": "2026-10-04",
@@ -1321,6 +1560,28 @@
       "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
+      "id": "2026-10-04-ccnl-harderwijk-e38ad1",
+      "date": "2026-10-04",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "CCNL Harderwijk",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        4.8
+      ],
+      "elevationM": [],
+      "dogAccess": "official CCNL race",
+      "status": "upcoming",
+      "notes": "Official Canicross Nederland event; long canicross, bikejoring and step are approx. 4.8 km.",
+      "primarySource": "https://www.canicrossnederland.nl/2026-harderwijk.html",
+      "secondarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2026-10-04-kustmarathon-zeeland-canitrail-e0fdda",
       "date": "2026-10-04",
       "dateEnd": null,
@@ -1358,6 +1619,24 @@
       "secondarySource": "https://courses.ffslc.fr/calendar",
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-10-canicross-koppigen-5cada6",
+      "date": "2026-10-10",
+      "dateEnd": "2026-10-11",
+      "country": "Switzerland",
+      "event": "Canicross Koppigen",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Swiss Canicross championship race",
+      "status": "upcoming",
+      "notes": "Official Swiss Canicross calendar.",
+      "primarySource": "https://swiss-canicross.ch/de/nos-courses/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2026-10-10-limitless-trails-the-loop-ultra-147c55",
@@ -1402,6 +1681,26 @@
       "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
+      "id": "2026-10-14-ifss-european-championships-dryland-2026-50f8e1",
+      "date": "2026-10-14",
+      "dateEnd": "2026-10-18",
+      "country": "Sweden",
+      "event": "IFSS European Championships Dryland 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "international dryland championship",
+      "status": "upcoming",
+      "notes": "Official AFSS listing places the IFSS European Championships in Gävle with Canicross, Bikejöring and Scooterjöring.",
+      "primarySource": "https://afss.at/event/european-championships-and-european-masters-dryland/",
+      "secondarySource": "https://www.swedenbcd.se/",
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2026-10-17-7e-challenge-transpyr-ari-geois-canicross-dc3c76",
       "date": "2026-10-17",
       "dateEnd": "2026-10-23",
@@ -1419,6 +1718,24 @@
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-17-canicross-la-givrine-f2879b",
+      "date": "2026-10-17",
+      "dateEnd": "2026-10-18",
+      "country": "Switzerland",
+      "event": "Canicross La Givrine",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Swiss Canicross championship race",
+      "status": "upcoming",
+      "notes": "Official Swiss Canicross calendar.",
+      "primarySource": "https://swiss-canicross.ch/de/nos-courses/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2026-10-17-canitrail-des-cadoles-9c0159",
@@ -1554,6 +1871,24 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-10-24-canicross-ardon-c90ebd",
+      "date": "2026-10-24",
+      "dateEnd": "2026-10-25",
+      "country": "Switzerland",
+      "event": "Canicross Ardon",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Swiss Canicross championship race",
+      "status": "upcoming",
+      "notes": "Official Swiss Canicross calendar.",
+      "primarySource": "https://swiss-canicross.ch/de/nos-courses/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2026-10-24-harzer-luchstrail-canicross-2e92d0",
       "date": "2026-10-24",
       "dateEnd": "2026-10-25",
@@ -1592,6 +1927,42 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-10-25-canixfyn-dcf-dog-series-1-b6c717",
+      "date": "2026-10-25",
+      "dateEnd": null,
+      "country": "Denmark",
+      "event": "CaniXFyn – DCF Dog Series 1",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Danish Canicross Federation series",
+      "status": "upcoming",
+      "notes": "Official DCF 2026/27 calendar, Morud.",
+      "primarySource": "https://www.danskcanicross.dk/kalender",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2026-10-25-franciacorsa-calino-3485d5",
+      "date": "2026-10-25",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "FranciacorSa – Calino",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CSEN Canicross championship race",
+      "status": "upcoming",
+      "notes": "Official CSEN 2026/27 calendar; ICF 2027 selection race.",
+      "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2026-10-25-la-canivertaco-canicross-4d0d68",
       "date": "2026-10-25",
       "dateEnd": null,
@@ -1609,6 +1980,26 @@
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-30-swedish-championship-nybro-45d9ec",
+      "date": "2026-10-30",
+      "dateEnd": "2026-11-01",
+      "country": "Sweden",
+      "event": "Swedish Championship Nybro",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Sweden BCD priority championship",
+      "status": "upcoming",
+      "notes": "Listed by Sweden BCD as Swedish championship and priority selection race.",
+      "primarySource": "https://www.swedenbcd.se/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2026-10-31-trail-du-calvaire-34f8b7",
@@ -1651,6 +2042,26 @@
       "primarySource": "https://lakelandpaws.com/events/",
       "secondarySource": "https://lakelandpaws.com/grizedale-growl/",
       "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2026-11-05-icf-world-championships-2026-owi-ska-430456",
+      "date": "2026-11-05",
+      "dateEnd": "2026-11-08",
+      "country": "Poland",
+      "event": "ICF World Championships 2026 – Owińska",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "ICF World Championship",
+      "status": "upcoming",
+      "notes": "ICF World Championship in Owińska, Poland; official federation sources confirm 5–8 Nov 2026.",
+      "primarySource": "https://afss.at/event/icf-world-championships-2026/",
+      "secondarySource": "https://www.canicross.cz/frontend/web/zavazne-prihlasky-na-ms-icf-2026-5-8-11-2026-owinska-polsko/a10272",
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2026-11-07-blue-castle-run-6b4b8c",
@@ -1941,6 +2352,24 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-11-21-csen-canicross-gattinara-426d27",
+      "date": "2026-11-21",
+      "dateEnd": "2026-11-22",
+      "country": "Italy",
+      "event": "CSEN Canicross Gattinara",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CSEN Canicross championship race",
+      "status": "upcoming",
+      "notes": "Official CSEN 2026/27 calendar; two-day ICF 2027 selection race.",
+      "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2026-11-21-frankonia-open-lauf-an-der-pegnitz-canicross-a8e2d3",
       "date": "2026-11-21",
       "dateEnd": "2026-11-22",
@@ -2172,6 +2601,24 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-12-06-5-romagna-race-milano-marittima-289415",
+      "date": "2026-12-06",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "5° Romagna Race – Milano Marittima",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CSEN Canicross championship race",
+      "status": "upcoming",
+      "notes": "Official CSEN 2026/27 calendar; ICF 2027 selection race.",
+      "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2026-12-06-atw-grafham-water-10-mile-canicross-72b498",
       "date": "2026-12-06",
       "dateEnd": null,
@@ -2192,6 +2639,24 @@
       "primarySource": "https://www.timeoutdoors.com/events/atw-grafham-water-trail-canicross/10-mile-canicross",
       "secondarySource": null,
       "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2026-12-06-k9runners-mariager-dcf-dog-series-2-ca5a1c",
+      "date": "2026-12-06",
+      "dateEnd": null,
+      "country": "Denmark",
+      "event": "K9Runners Mariager – DCF Dog Series 2",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Danish Canicross Federation series",
+      "status": "upcoming",
+      "notes": "Official DCF 2026/27 calendar, Mariager.",
+      "primarySource": "https://www.danskcanicross.dk/kalender",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2026-12-06-maidstone-harriers-turkey-run-canicross-542cba",
@@ -2236,6 +2701,25 @@
       "primarySource": "https://mountainman.de/trailrunning-events/hills/nikolaustrail-pommelsbrunn/dogs-trail/",
       "secondarySource": null,
       "origin": "web verification 2026-09-11"
+    },
+    {
+      "id": "2026-12-12-ccnl-ijmuiden-e65e31",
+      "date": "2026-12-12",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "CCNL IJmuiden",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "announced",
+      "status": "Official CCNL calendar lists a Canicross race in IJmuiden, subject to permit.",
+      "notes": "https://www.canicrossnederland.nl/kalender20262027.html",
+      "primarySource": null,
+      "secondarySource": "European federation sweep 2026-09-12",
+      "origin": "",
+      "elevationText": "official CCNL race"
     },
     {
       "id": "2026-12-12-cross-dog-de-cand-canicross-1a0f15",
@@ -2316,6 +2800,24 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2026-12-20-csen-canicross-basovizza-f92eed",
+      "date": "2026-12-20",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "CSEN Canicross Basovizza",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CSEN Canicross championship race",
+      "status": "upcoming",
+      "notes": "Official CSEN 2026/27 calendar; ICF 2027 selection race.",
+      "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2027-01-09-yorkshire-trail-runs-harewood-house-054718",
       "date": "2027-01-09",
       "dateEnd": null,
@@ -2338,6 +2840,24 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2027-01-10-8-canicross-agrileisuretime-terraia-spoleto-b2306e",
+      "date": "2027-01-10",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "8° Canicross Agrileisuretime – Terraia Spoleto",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CSEN Canicross championship race",
+      "status": "announced",
+      "notes": "Official CSEN 2026/27 calendar; ICF 2027 selection race.",
+      "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2027-01-10-canicross-de-cergy-l-le-aux-tr-sors-2027-1d2b85",
       "date": "2027-01-10",
       "dateEnd": null,
@@ -2355,6 +2875,62 @@
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2027-01-17-ccnl-bosschenhoofd-b0b6dd",
+      "date": "2027-01-17",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "CCNL Bosschenhoofd",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official CCNL race",
+      "status": "announced",
+      "notes": "Official CCNL calendar; permit pending.",
+      "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-01-23-danmarksmesterskab-dcf-dog-series-3-9d1024",
+      "date": "2027-01-23",
+      "dateEnd": null,
+      "country": "Denmark",
+      "event": "Danmarksmesterskab – DCF Dog Series 3",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Danish national championship",
+      "status": "announced",
+      "notes": "Official DCF calendar; hosted by DogRunDK in Hedeland.",
+      "primarySource": "https://www.danskcanicross.dk/kalender",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-01-24-3-canicross-citt-di-grosseto-77bb9d",
+      "date": "2027-01-24",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "3° Canicross Città di Grosseto",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CSEN Canicross championship race",
+      "status": "announced",
+      "notes": "Official CSEN 2026/27 calendar; ICF 2027 selection race.",
+      "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2027-01-24-canicross-de-lxtrem-5e-dition-b8fd1a",
@@ -2394,6 +2970,26 @@
       "origin": "web verification 2026-09-11",
       "distanceText": "7.5 km loops",
       "elevationText": "110 per loop"
+    },
+    {
+      "id": "2027-01-24-nederlands-kampioenschap-cc-bj-step-a75d3d",
+      "date": "2027-01-24",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "Nederlands Kampioenschap CC/BJ/Step",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CCNL national championship",
+      "status": "announced",
+      "notes": "Official CCNL calendar lists the Dutch championship; venue to be announced.",
+      "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2027-01-30-cani-trophy-fontainebleau-2027-canicross-3d4f3f",
@@ -2470,6 +3066,24 @@
       "secondarySource": "https://www.limitlesstrails.co.uk/canicross-menu",
       "origin": "web verification 2026-09-12",
       "distanceText": "4.2 mile loops up to 12h"
+    },
+    {
+      "id": "2027-02-07-5-canicross-mud-glory-beroide-spoleto-3fe7b2",
+      "date": "2027-02-07",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "5° Canicross Mud&Glory – Beroide Spoleto",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CSEN Canicross championship race",
+      "status": "announced",
+      "notes": "Official CSEN 2026/27 calendar; ICF 2027 selection race.",
+      "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2027-02-07-doggy-de-le-run-2-canicross-2f7edf",
@@ -2589,6 +3203,44 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-02-14-ccnl-gasselte-71cd96",
+      "date": "2027-02-14",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "CCNL Gasselte",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official CCNL race",
+      "status": "announced",
+      "notes": "Official CCNL calendar; permit pending.",
+      "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-02-21-csen-canicross-cismon-del-grappa-96844a",
+      "date": "2027-02-21",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "CSEN Canicross Cismon del Grappa",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CSEN Canicross championship race",
+      "status": "announced",
+      "notes": "Official CSEN 2026/27 calendar; ICF 2027 selection race.",
+      "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2027-02-27-schwabentrail-canicross-d4ec63",
       "date": "2027-02-27",
       "dateEnd": "2027-02-28",
@@ -2606,6 +3258,24 @@
       "secondarySource": null,
       "origin": "VDSV Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2027-02-28-canicross-stjylland-dcf-dog-series-4-15b1c3",
+      "date": "2027-02-28",
+      "dateEnd": null,
+      "country": "Denmark",
+      "event": "Canicross Østjylland – DCF Dog Series 4",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Danish Canicross Federation series",
+      "status": "announced",
+      "notes": "Official DCF calendar, Aarhus.",
+      "primarySource": "https://www.danskcanicross.dk/kalender",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2027-02-28-fountains-abbey-wild-trail-runs-cd37ac",
@@ -2666,6 +3336,44 @@
       "secondarySource": null,
       "origin": "web verification 2026-09-12",
       "distanceText": "2.5 km laps / 3h"
+    },
+    {
+      "id": "2027-03-06-campionato-nazionale-canicross-csen-2027-973214",
+      "date": "2027-03-06",
+      "dateEnd": "2027-03-07",
+      "country": "Italy",
+      "event": "Campionato Nazionale Canicross CSEN 2027",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CSEN national championship",
+      "status": "announced",
+      "notes": "Official CSEN calendar; location still to be defined.",
+      "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-03-06-ccnl-helden-669650",
+      "date": "2027-03-06",
+      "dateEnd": "2027-03-07",
+      "country": "Netherlands",
+      "event": "CCNL Helden",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official CCNL race",
+      "status": "announced",
+      "notes": "Official CCNL calendar; permit pending.",
+      "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2027-03-06-limitless-trails-beast-of-the-blacks-a8cf6f",
@@ -2735,6 +3443,24 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-03-14-dirty-paws-dcf-dog-series-5-4d517b",
+      "date": "2027-03-14",
+      "dateEnd": null,
+      "country": "Denmark",
+      "event": "Dirty Paws – DCF Dog Series 5",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Danish Canicross Federation series",
+      "status": "announced",
+      "notes": "Official DCF calendar, Frederiksværk.",
+      "primarySource": "https://www.danskcanicross.dk/kalender",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2027-03-20-grasmere-wild-trail-runs-79a7a4",
       "date": "2027-03-20",
       "dateEnd": null,
@@ -2757,6 +3483,44 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2027-03-21-ccnl-bruinisse-9bcb2d",
+      "date": "2027-03-21",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "CCNL Bruinisse",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official CCNL race",
+      "status": "announced",
+      "notes": "Official CCNL calendar; permit pending.",
+      "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-03-21-csen-canicross-piana-di-segni-dde311",
+      "date": "2027-03-21",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "CSEN Canicross Piana di Segni",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CSEN Canicross championship race",
+      "status": "announced",
+      "notes": "Official CSEN 2026/27 calendar; ICF 2027 selection race.",
+      "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
       "id": "2027-04-03-canicross-du-lac-des-sapins-30087c",
       "date": "2027-04-03",
       "dateEnd": "2027-04-04",
@@ -2774,6 +3538,44 @@
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2027-04-03-hapimag-v-r-vaggeryd-ff5fac",
+      "date": "2027-04-03",
+      "dateEnd": "2027-04-04",
+      "country": "Sweden",
+      "event": "Hapimag Vår Vaggeryd",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Sweden BCD priority race",
+      "status": "announced",
+      "notes": "Listed by Sweden BCD as priority selection race for ICF WC 2027.",
+      "primarySource": "https://www.swedenbcd.se/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-04-03-k9runners-mariager-dcf-dog-series-6-454809",
+      "date": "2027-04-03",
+      "dateEnd": null,
+      "country": "Denmark",
+      "event": "K9Runners Mariager – DCF Dog Series 6",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Danish Canicross Federation series",
+      "status": "announced",
+      "notes": "Official DCF calendar, Mariager.",
+      "primarySource": "https://www.danskcanicross.dk/kalender",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2027-04-04-lakeland-paws-tour-de-whinlatter-cab24f",
@@ -2856,6 +3658,46 @@
       "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
       "origin": "FFSLC verification 2026-09-12",
       "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2027-04-11-ccnl-zundert-8d0e0c",
+      "date": "2027-04-11",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "CCNL Zundert",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official CCNL race",
+      "status": "announced",
+      "notes": "Official CCNL calendar.",
+      "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-04-17-groenahoeg-open-4cfcd2",
+      "date": "2027-04-17",
+      "dateEnd": "2027-04-18",
+      "country": "Sweden",
+      "event": "Grönahög Open",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Sweden BCD priority race",
+      "status": "announced",
+      "notes": "Listed by Sweden BCD as priority selection race for ICF WC 2027.",
+      "primarySource": "https://www.swedenbcd.se/",
+      "secondarySource": null,
+      "origin": "European federation sweep 2026-09-12"
     },
     {
       "id": "2027-04-17-limitless-trails-beast-of-the-beacons-fbf99c",
