@@ -17,6 +17,7 @@ EXPECTED_COLUMNS = [
     "Date",
     "Country",
     "Event",
+    "Category",
     "Dog distance (km)",
     "Elevation (m+)",
     "Dog access",
@@ -29,6 +30,29 @@ EXPECTED_COLUMNS = [
 
 DATE_RANGE_RE = re.compile(r"^\s*(\d{4}-\d{2}-\d{2})\s+to\s+(\d{4}-\d{2}-\d{2})\s*$")
 DATE_SINGLE_RE = re.compile(r"^\s*(\d{4}-\d{2}-\d{2})\s*$")
+
+
+ALLOWED_CATEGORIES = {
+    "canicross",
+    "canitrail",
+    "dogs-trail",
+    "dog friendly trail",
+    "stage race",
+    "bike jöring",
+    "ski jöring",
+    "scooter",
+    "sledge",
+    "pulka",
+}
+
+
+def parse_categories(value: str) -> list[str]:
+    categories = [part.strip() for part in (value or "").split("|") if part.strip()]
+    unknown = [category for category in categories if category not in ALLOWED_CATEGORIES]
+    if unknown:
+        raise ValueError(f"Unknown category/categories: {unknown}")
+    # preserve CSV order while removing duplicates
+    return list(dict.fromkeys(categories))
 
 
 def parse_date_field(value: str) -> tuple[date, date]:
@@ -121,6 +145,8 @@ def fold_ics_line(line: str, limit: int = 73) -> list[str]:
 
 def event_description(event: dict) -> str:
     parts = []
+    if event.get("category"):
+        parts.append(f"Kategorie: {' / '.join(event['category'])}")
     if event["distancesKm"]:
         ds = " / ".join(f"{d:g} km" for d in event["distancesKm"])
         parts.append(f"Distanzen: {ds}")
@@ -226,6 +252,7 @@ def main() -> None:
                 "dateEnd": end.isoformat() if end != start else None,
                 "country": row["Country"].strip(),
                 "event": row["Event"].strip(),
+                "category": parse_categories(row["Category"]),
                 "distancesKm": [clean_number(x) for x in distance_values],
                 "elevationM": [clean_number(x) for x in elevation_values],
                 "dogAccess": row["Dog access"].strip(),
@@ -252,6 +279,7 @@ def main() -> None:
             "generatedAt": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
             "source": str(CSV_PATH.relative_to(ROOT)),
             "count": len(events),
+            "categories": sorted(ALLOWED_CATEGORIES),
         },
         "events": events,
     }

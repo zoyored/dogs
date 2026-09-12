@@ -2,9 +2,21 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-12T17:22:52Z",
+    "generatedAt": "2026-09-12T17:29:26Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 147
+    "count": 147,
+    "categories": [
+      "bike jöring",
+      "canicross",
+      "canitrail",
+      "dog friendly trail",
+      "dogs-trail",
+      "pulka",
+      "scooter",
+      "ski jöring",
+      "sledge",
+      "stage race"
+    ]
   },
   "events": [
     {
@@ -13,6 +25,9 @@
       "dateEnd": null,
       "country": "Netherlands",
       "event": "Otterlo Trailrun",
+      "category": [
+        "dog friendly trail"
+      ],
       "distancesKm": [
         11,
         22,
@@ -32,6 +47,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canicross de Cergy – L'île aux trésors",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -48,6 +66,9 @@
       "dateEnd": null,
       "country": "Belgium",
       "event": "Coalminers’ Trail & Walk",
+      "category": [
+        "dog friendly trail"
+      ],
       "distancesKm": [
         10,
         13,
@@ -68,6 +89,9 @@
       "dateEnd": null,
       "country": "Austria",
       "event": "MOUNTAINMAN Wintertrail Mittersill-KitzSki",
+      "category": [
+        "dogs-trail"
+      ],
       "distancesKm": [
         10,
         18,
@@ -91,6 +115,9 @@
       "dateEnd": "2026-01-25",
       "country": "France",
       "event": "CANI TROPHY FONTAINEBLEAU 2026 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         5,
         5.5
@@ -109,6 +136,9 @@
       "dateEnd": null,
       "country": "Germany",
       "event": "Yeti Dog Run",
+      "category": [
+        "dogs-trail"
+      ],
       "distancesKm": [
         16,
         26
@@ -127,6 +157,9 @@
       "dateEnd": null,
       "country": "Netherlands",
       "event": "Natte Neuzen Trail Montferland",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         10,
         12,
@@ -151,6 +184,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Trail des Fontaines",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         12
       ],
@@ -168,6 +204,9 @@
       "dateEnd": null,
       "country": "Netherlands",
       "event": "Bosbokken Canitrail",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         15
       ],
@@ -185,6 +224,9 @@
       "dateEnd": null,
       "country": "Belgium",
       "event": "Alden Biesen Trail & Walk",
+      "category": [
+        "dog friendly trail"
+      ],
       "distancesKm": [
         10,
         16,
@@ -205,6 +247,9 @@
       "dateEnd": "2026-03-08",
       "country": "France",
       "event": "Championnats de France Terre 2026 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         5
       ],
@@ -222,6 +267,9 @@
       "dateEnd": null,
       "country": "Germany",
       "event": "MOUNTAINMAN Wintertrail Reit im Winkl",
+      "category": [
+        "dogs-trail"
+      ],
       "distancesKm": [
         14,
         22
@@ -243,6 +291,9 @@
       "dateEnd": null,
       "country": "Germany",
       "event": "Canitrail-Lauf durchs Nettetal 4.0",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         10,
         20
@@ -261,6 +312,9 @@
       "dateEnd": null,
       "country": "Netherlands",
       "event": "Dark Sky Trail Lauwersmeer",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         10
       ],
@@ -278,6 +332,10 @@
       "dateEnd": "2026-03-15",
       "country": "Netherlands",
       "event": "Vuurtoren Trail Ameland",
+      "category": [
+        "canitrail",
+        "dog friendly trail"
+      ],
       "distancesKm": [
         10,
         18
@@ -296,6 +354,11 @@
       "dateEnd": null,
       "country": "Germany",
       "event": "VulCanicross – Bubeck Tour",
+      "category": [
+        "canicross",
+        "scooter",
+        "bike jöring"
+      ],
       "distancesKm": [
         10
       ],
@@ -313,6 +376,9 @@
       "dateEnd": "2026-04-05",
       "country": "France",
       "event": "6e Canicross du Domaine de Givray",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -329,6 +395,10 @@
       "dateEnd": "2026-04-12",
       "country": "UK",
       "event": "RAID Cani-Trail",
+      "category": [
+        "canitrail",
+        "stage race"
+      ],
       "distancesKm": [
         87
       ],
@@ -346,6 +416,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Spring Run the Seasons Cowdray – CaniRun",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         10,
         16.1
@@ -364,6 +437,10 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Thoresby Park Longhorn Trail",
+      "category": [
+        "canicross",
+        "dog friendly trail"
+      ],
       "distancesKm": [
         10,
         21.1
@@ -382,6 +459,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "L’Epouvan’trail",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         10
       ],
@@ -399,6 +479,10 @@
       "dateEnd": "2026-04-26",
       "country": "Switzerland",
       "event": "Canitrail des Moines",
+      "category": [
+        "canitrail",
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated canitrail event",
@@ -415,6 +499,9 @@
       "dateEnd": "2026-04-26",
       "country": "France",
       "event": "Trophée d'Agy 2026 – Canitrail",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         15
       ],
@@ -434,6 +521,10 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Scone Palace Trail Runs",
+      "category": [
+        "canicross",
+        "dog friendly trail"
+      ],
       "distancesKm": [
         10
       ],
@@ -451,6 +542,10 @@
       "dateEnd": "2026-05-03",
       "country": "France",
       "event": "3e Castel'Canicross de Blangy le Château – Canicross",
+      "category": [
+        "canitrail",
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -467,6 +562,9 @@
       "dateEnd": "2026-05-10",
       "country": "UK",
       "event": "Mynydd Y Gaer Mountain Challenge",
+      "category": [
+        "stage race"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "multi-day dog trail event",
@@ -483,6 +581,9 @@
       "dateEnd": null,
       "country": "Belgium",
       "event": "Cani-Trail & Trail des Ardennes",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         11,
         17,
@@ -502,6 +603,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Houghton Trail Event – 11K Canicross Run",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         11
       ],
@@ -519,6 +623,9 @@
       "dateEnd": null,
       "country": "Netherlands",
       "event": "Dauw Canitrail Xperience",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         10,
         15,
@@ -538,6 +645,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Les Gendarmes et les Voleurs de Temps – CaniTrail",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         11.3
       ],
@@ -557,6 +667,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "5e Cani-Cross des Sénons",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         4
       ],
@@ -574,6 +687,9 @@
       "dateEnd": "2026-05-31",
       "country": "France",
       "event": "Canitrail des biches",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         16.2
       ],
@@ -593,6 +709,9 @@
       "dateEnd": null,
       "country": "Italy",
       "event": "CLUT / UltraKtrail / Chien Ultra K",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         10
       ],
@@ -610,6 +729,9 @@
       "dateEnd": null,
       "country": "Belgium",
       "event": "Festival Trail Semois",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         17,
         26
@@ -628,6 +750,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canitrail dans le Taillefer",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canitrail",
@@ -644,6 +769,11 @@
       "dateEnd": "2026-08-21",
       "country": "Netherlands",
       "event": "Cani- en Trail4Daagse Veluwezoom",
+      "category": [
+        "canitrail",
+        "dog friendly trail",
+        "stage race"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "multi-day trail opened to canitrailers",
@@ -660,6 +790,10 @@
       "dateEnd": "2026-08-23",
       "country": "France",
       "event": "Canitrail du Diamant",
+      "category": [
+        "canitrail",
+        "stage race"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFST multi-day canitrail",
@@ -676,6 +810,9 @@
       "dateEnd": "2026-08-23",
       "country": "France",
       "event": "Canitrail sur les traces de Stevenson",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canitrail",
@@ -692,6 +829,9 @@
       "dateEnd": "2026-08-30",
       "country": "France",
       "event": "Trophée de Sirius des Aiguilles d'Arves",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canitrail",
@@ -708,6 +848,9 @@
       "dateEnd": "2026-09-13",
       "country": "France",
       "event": "Woofest",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC event with Canitrail",
@@ -724,6 +867,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Beat the Black Dog Canitrail & Trail Run",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         12
       ],
@@ -741,6 +887,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canitrail des montées du Daubenschlag",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         12
       ],
@@ -758,6 +907,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Woofest – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         6
       ],
@@ -775,6 +927,9 @@
       "dateEnd": null,
       "country": "Germany",
       "event": "ARBERLAND Ultra Trail – Hundelauf",
+      "category": [
+        "dogs-trail"
+      ],
       "distancesKm": [
         20,
         36
@@ -796,6 +951,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canicross du lac de Chour",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -812,6 +970,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Limitless Trails – Trails & Tarmac Summer 12h BYU",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "canicross-friendly endurance event",
@@ -828,6 +989,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Interclub des menhirs – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -844,6 +1008,9 @@
       "dateEnd": "2026-09-27",
       "country": "France",
       "event": "Canifadas de Gréolières",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC event with Canitrail",
@@ -860,6 +1027,10 @@
       "dateEnd": "2026-09-27",
       "country": "France",
       "event": "Canifadas de Gréolières – Canicross",
+      "category": [
+        "canitrail",
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -876,6 +1047,10 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Harewood Wild Autumn Trail Runs",
+      "category": [
+        "canicross",
+        "dog friendly trail"
+      ],
       "distancesKm": [
         16.1,
         24.1
@@ -894,6 +1069,9 @@
       "dateEnd": null,
       "country": "Germany",
       "event": "MOUNTAINMAN Reit im Winkl – Dogs-Trail",
+      "category": [
+        "dogs-trail"
+      ],
       "distancesKm": [
         11,
         26
@@ -915,6 +1093,9 @@
       "dateEnd": "2026-09-27",
       "country": "France",
       "event": "Roazhon Run – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -931,6 +1112,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "7e Canicross de Bully",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -947,6 +1131,9 @@
       "dateEnd": "2026-10-04",
       "country": "France",
       "event": "14e Challenge Canicrossbreizh – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -963,6 +1150,10 @@
       "dateEnd": "2026-10-04",
       "country": "France",
       "event": "14ème Challenge Canicrossbreizh",
+      "category": [
+        "canitrail",
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC event with Canitrail",
@@ -979,6 +1170,9 @@
       "dateEnd": null,
       "country": "Netherlands",
       "event": "Brekeld Runners Trail",
+      "category": [
+        "dog friendly trail"
+      ],
       "distancesKm": [
         10,
         15,
@@ -998,6 +1192,10 @@
       "dateEnd": "2026-10-04",
       "country": "France",
       "event": "Canicross de la Meute",
+      "category": [
+        "canitrail",
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC event with Canitrail",
@@ -1014,6 +1212,9 @@
       "dateEnd": "2026-10-04",
       "country": "France",
       "event": "Canicross de la Meute – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -1030,6 +1231,9 @@
       "dateEnd": "2026-10-04",
       "country": "Switzerland",
       "event": "Canitrail des Bisses",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated canitrail event",
@@ -1046,6 +1250,9 @@
       "dateEnd": "2026-10-04",
       "country": "France",
       "event": "À'crocs de la vallée du Thouet #2",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC event with Canitrail",
@@ -1062,6 +1269,9 @@
       "dateEnd": "2026-10-04",
       "country": "France",
       "event": "À'crocs de la vallée du Thouet #2 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -1078,6 +1288,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canicross de Bourghelles – 4e édition",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -1094,6 +1307,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canitrail des Bagnards",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canitrail",
@@ -1110,6 +1326,9 @@
       "dateEnd": null,
       "country": "Netherlands",
       "event": "Kustmarathon Zeeland Canitrail",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         16
       ],
@@ -1127,6 +1346,9 @@
       "dateEnd": "2026-10-11",
       "country": "France",
       "event": "ACCRO'RUN #5 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -1143,6 +1365,10 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Limitless Trails – The Loop Ultra",
+      "category": [
+        "canicross",
+        "dog friendly trail"
+      ],
       "distancesKm": [
         50
       ],
@@ -1162,6 +1388,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Ouaffastienne et Maxiouaffastienne",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canitrail",
@@ -1178,6 +1407,9 @@
       "dateEnd": "2026-10-23",
       "country": "France",
       "event": "7e Challenge Trans'Pyr Ariégeois – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -1194,6 +1426,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canitrail des Cadoles",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canitrail",
@@ -1210,6 +1445,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "La Tractopattes – Canicross caritatif",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -1226,6 +1464,9 @@
       "dateEnd": "2026-10-18",
       "country": "France",
       "event": "La Wati'Dogs Run II – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -1242,6 +1483,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canicross Val de Loire #17",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -1258,6 +1502,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canitrail de la Brie",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canitrail",
@@ -1274,6 +1521,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "La Tractopattes – Championnat Régional R7 Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC regional canicross championship",
@@ -1290,6 +1540,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Les Régionaux de Manehouarn – Canicross R9",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC regional canicross event",
@@ -1306,6 +1559,9 @@
       "dateEnd": "2026-10-25",
       "country": "Germany",
       "event": "Harzer Luchstrail – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "VDSV dryland Mono / Canicross",
@@ -1322,6 +1578,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "La Canidé'cathlon #2 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -1338,6 +1597,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "La CaniVertaco – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -1354,6 +1616,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Trail du Calvaire",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         12
       ],
@@ -1371,6 +1636,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Lakeland Paws – Grizedale Growl West Side",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         10
       ],
@@ -1390,6 +1658,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Blue Castle Run",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         11.3
       ],
@@ -1407,6 +1678,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canicross de Gallician – Acte 2",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -1423,6 +1697,9 @@
       "dateEnd": "2026-11-08",
       "country": "France",
       "event": "La Crocôtière #5 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -1439,6 +1716,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "The Grim Reservoir Dogs",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         10.8
       ],
@@ -1456,6 +1736,9 @@
       "dateEnd": "2026-11-08",
       "country": "Germany",
       "event": "Visbek – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "VDSV dryland Mono / Canicross",
@@ -1472,6 +1755,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canicross d'Eschau",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -1488,6 +1774,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "La Cani Haut-Marnaise – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -1504,6 +1793,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "La Cani Haut-Marnaise – Canitrail",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC event with Canitrail",
@@ -1520,6 +1812,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canicross de la Vente des Vins des Hospices de Beaune",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -1536,6 +1831,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canitrail des Châtaignes",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         11
       ],
@@ -1553,6 +1851,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canitrail d’Eguzon",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canitrail",
@@ -1569,6 +1870,9 @@
       "dateEnd": "2026-11-15",
       "country": "Germany",
       "event": "Ströhen – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "VDSV dryland Mono / Canicross",
@@ -1585,6 +1889,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Championnat de Normandie – 17e Canicross du Bois du Roule",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC regional canicross championship",
@@ -1601,6 +1908,9 @@
       "dateEnd": "2026-11-22",
       "country": "Germany",
       "event": "WSA WM Ströhen – Canicross / Mono",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "VDSV/WSA dryland Mono event",
@@ -1617,6 +1927,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canicross Coucy la Ville",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -1633,6 +1946,9 @@
       "dateEnd": "2026-11-22",
       "country": "Germany",
       "event": "Frankonia Open – Lauf an der Pegnitz – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "VDSV dryland Mono / Canicross",
@@ -1649,6 +1965,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canicross de Maurepas – 2e édition",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -1665,6 +1984,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "La Course Des Rives – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -1681,6 +2003,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Régional R6 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC regional canicross event",
@@ -1697,6 +2022,9 @@
       "dateEnd": "2026-11-29",
       "country": "Germany",
       "event": "CapitalCross 2026 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         5.6
       ],
@@ -1714,6 +2042,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canicross de la Côte d'Opale – Étaples-sur-Mer",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -1730,6 +2061,9 @@
       "dateEnd": "2026-12-06",
       "country": "Germany",
       "event": "CapitalCross Mid Distance 2026 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         17,
         20
@@ -1748,6 +2082,9 @@
       "dateEnd": "2026-12-06",
       "country": "France",
       "event": "La Montendraise – Canitrail",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canitrail",
@@ -1764,6 +2101,9 @@
       "dateEnd": "2026-12-06",
       "country": "Germany",
       "event": "Mühlberg – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "VDSV dryland Mono / Canicross",
@@ -1780,6 +2120,9 @@
       "dateEnd": "2026-12-06",
       "country": "Germany",
       "event": "Silberbergtrail Wingst – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "VDSV dryland Mono / Canicross",
@@ -1796,6 +2139,9 @@
       "dateEnd": "2026-12-06",
       "country": "Germany",
       "event": "Straßdorfer Staufertrail – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "VDSV dryland Mono / Canicross",
@@ -1812,6 +2158,9 @@
       "dateEnd": "2026-12-06",
       "country": "France",
       "event": "Verrie Speed Dogs #2 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -1828,6 +2177,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "ATW Grafham Water 10 Mile Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         16.1
       ],
@@ -1847,6 +2199,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Maidstone Harriers Turkey Run – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         12.1
       ],
@@ -1864,6 +2219,9 @@
       "dateEnd": null,
       "country": "Germany",
       "event": "MOUNTAINMAN Nikolaus-Trail Pommelsbrunn – Dogs-Trail",
+      "category": [
+        "dogs-trail"
+      ],
       "distancesKm": [
         12,
         17
@@ -1885,6 +2243,10 @@
       "dateEnd": "2026-12-13",
       "country": "France",
       "event": "Cross & Dog de Candé – Canicross",
+      "category": [
+        "canitrail",
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -1901,6 +2263,9 @@
       "dateEnd": "2026-12-13",
       "country": "France",
       "event": "Cross & Dog de Candé – Canitrail de Candé",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC event with Canitrail",
@@ -1917,6 +2282,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Championnat régional Occitanie – Red Paws Race #2 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC regional canicross championship",
@@ -1933,6 +2301,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Sherwood Pines Festive Trail Runs",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         10
       ],
@@ -1950,6 +2321,10 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Yorkshire Trail Runs – Harewood House",
+      "category": [
+        "canicross",
+        "dog friendly trail"
+      ],
       "distancesKm": [
         10,
         21.1
@@ -1968,6 +2343,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canicross de Cergy – L'île aux trésors 2027",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -1984,6 +2362,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Canicross de l'XTREM – 5e édition",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -2000,6 +2381,9 @@
       "dateEnd": null,
       "country": "Germany",
       "event": "MOUNTAINMAN Dogs-Winterloop Reit im Winkl",
+      "category": [
+        "dogs-trail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dog-only event day",
@@ -2017,6 +2401,9 @@
       "dateEnd": "2027-01-31",
       "country": "France",
       "event": "CANI TROPHY FONTAINEBLEAU 2027 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -2033,6 +2420,9 @@
       "dateEnd": "2027-01-31",
       "country": "France",
       "event": "CANI TROPHY FONTAINEBLEAU 2027 – Canitrail",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC event with Canitrail",
@@ -2049,6 +2439,9 @@
       "dateEnd": "2027-01-31",
       "country": "France",
       "event": "Trophée Canin des Plages 2027 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -2065,6 +2458,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Limitless Trails – Trails & Tarmac Winter 12h BYU",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "canicross-friendly endurance event",
@@ -2081,6 +2477,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Doggy Deûle Run #2 – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -2097,6 +2496,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "La Canidé'forts – 4e édition – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -2113,6 +2515,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Lakeland Paws – Whinlatter Tails South Side",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         10
       ],
@@ -2132,6 +2537,9 @@
       "dateEnd": "2027-02-14",
       "country": "France",
       "event": "5th Dirty Dog Race – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -2148,6 +2556,9 @@
       "dateEnd": "2027-02-14",
       "country": "France",
       "event": "Les Courses de l'Étang – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -2164,6 +2575,9 @@
       "dateEnd": "2027-02-19",
       "country": "France",
       "event": "Trophée des Lacs – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -2180,6 +2594,9 @@
       "dateEnd": "2027-02-28",
       "country": "Germany",
       "event": "Schwabentrail – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "VDSV dryland Mono / Canicross",
@@ -2196,6 +2613,10 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Fountains Abbey Wild Trail Runs",
+      "category": [
+        "canicross",
+        "dog friendly trail"
+      ],
       "distancesKm": [
         10,
         21.1
@@ -2214,6 +2635,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Interclub Manchois – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -2230,6 +2654,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Run With K9s – Endurance Relay",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated canicross endurance event",
@@ -2246,6 +2673,10 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Limitless Trails – Beast of the Blacks",
+      "category": [
+        "canicross",
+        "dog friendly trail"
+      ],
       "distancesKm": [
         16.9,
         32.5,
@@ -2269,6 +2700,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Lakeland Paws – Tour de Grizedale",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         12,
         22
@@ -2287,6 +2721,9 @@
       "dateEnd": "2027-03-14",
       "country": "Germany",
       "event": "Vulcanicross – Canicross",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "VDSV dryland Mono / Canicross",
@@ -2303,6 +2740,10 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Grasmere Wild Trail Runs",
+      "category": [
+        "canicross",
+        "dog friendly trail"
+      ],
       "distancesKm": [
         10,
         21.1
@@ -2321,6 +2762,9 @@
       "dateEnd": "2027-04-04",
       "country": "France",
       "event": "Canicross du Lac des Sapins",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -2337,6 +2781,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Lakeland Paws – Tour de Whinlatter",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [
         12
       ],
@@ -2354,6 +2801,10 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Scone Palace Trail Runs",
+      "category": [
+        "canicross",
+        "dog friendly trail"
+      ],
       "distancesKm": [
         10,
         21.1
@@ -2372,6 +2823,10 @@
       "dateEnd": "2027-04-11",
       "country": "France",
       "event": "Canicross XtremTrail de Brameloup – Canicross",
+      "category": [
+        "canitrail",
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC canicross event",
@@ -2388,6 +2843,10 @@
       "dateEnd": "2027-04-11",
       "country": "France",
       "event": "Canicross XtremTrail de Brameloup – Canitrail",
+      "category": [
+        "canitrail",
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC event with Canitrail",
@@ -2404,6 +2863,10 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Limitless Trails – Beast of the Beacons",
+      "category": [
+        "canicross",
+        "dog friendly trail"
+      ],
       "distancesKm": [
         16,
         32.5,
@@ -2427,6 +2890,10 @@
       "dateEnd": "2027-04-25",
       "country": "France",
       "event": "4e Castel'Canicross de Blangy le Château – Canicross",
+      "category": [
+        "canitrail",
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "dedicated FFSLC canicross",
@@ -2443,6 +2910,10 @@
       "dateEnd": "2027-04-25",
       "country": "France",
       "event": "4eme Castel'Canicross de Blangy le Château – Canitrail",
+      "category": [
+        "canitrail",
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "FFSLC event with Canitrail",
@@ -2459,6 +2930,9 @@
       "dateEnd": null,
       "country": "Germany",
       "event": "MOUNTAINMAN Nesselwang – Dogs-Trail",
+      "category": [
+        "dogs-trail"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "own dog starts + separate ranking",
@@ -2476,6 +2950,9 @@
       "dateEnd": null,
       "country": "France",
       "event": "Les Gendarmes et les Voleurs de Temps – CaniTrail",
+      "category": [
+        "canitrail"
+      ],
       "distancesKm": [
         11
       ],
@@ -2495,6 +2972,9 @@
       "dateEnd": null,
       "country": "UK",
       "event": "Limitless Trails – Tenacious Ten Endurance Challenge",
+      "category": [
+        "canicross"
+      ],
       "distancesKm": [],
       "elevationM": [],
       "dogAccess": "canicross-friendly endurance event",

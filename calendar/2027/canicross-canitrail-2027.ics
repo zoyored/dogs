@@ -7,421 +7,428 @@ X-WR-CALNAME:Canicross & Canitrail Events
 X-WR-CALDESC:Canicross- und Canitrail-Veranstaltungen
 BEGIN:VEVENT
 UID:2027-01-09-yorkshire-trail-runs-harewood-house-054718@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Yorkshire Trail Runs – Harewood House
 LOCATION:UK
-DESCRIPTION:Distanzen: 10 km / 21.1 km\nHund: canicross-friendly regular 
- trail with separate starts\nStatus: registration open\n10 km and half ma
- rathon have separate canicross start times\; 5 km excluded here.
+DESCRIPTION:Kategorie: canicross / dog friendly trail\nDistanzen: 10 km /
+  21.1 km\nHund: canicross-friendly regular trail with separate starts\nS
+ tatus: registration open\n10 km and half marathon have separate canicros
+ s start times\; 5 km excluded here.
 URL:https://www.wilddeerevents.co.uk/e/yorkshire-trail-runs-2027-harewood
  -house-14484
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-canicross-de-cergy-l-le-aux-tr-sors-2027-1d2b85@sandsturm.
  com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Canicross de Cergy – L'île aux trésors 2027
 LOCATION:France
-DESCRIPTION:Distanz: not published\nHund: dedicated FFSLC canicross\nStat
- us: announced\nOfficial FFSLC 2027 calendar event.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
+  FFSLC canicross\nStatus: announced\nOfficial FFSLC 2027 calendar event.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-canicross-de-lxtrem-5e-dition-b8fd1a@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Canicross de l'XTREM – 5e édition
 LOCATION:France
-DESCRIPTION:Distanz: not published\nHund: dedicated FFSLC canicross\nStat
- us: announced\nOfficial FFSLC 2027 calendar event.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
+  FFSLC canicross\nStatus: announced\nOfficial FFSLC 2027 calendar event.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-mountainman-dogs-winterloop-reit-im-winkl-ed8333@sandsturm
  .com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:MOUNTAINMAN Dogs-Winterloop Reit im Winkl
 LOCATION:Germany
-DESCRIPTION:Distanz: 7.5 km loops\nHöhenmeter: 110 per loop\nHund: dog-on
- ly event day\nStatus: registration open\n3-hour challenge\; Sunday reser
- ved for dog teams.
+DESCRIPTION:Kategorie: dogs-trail\nDistanz: 7.5 km loops\nHöhenmeter: 110
+  per loop\nHund: dog-only event day\nStatus: registration open\n3-hour c
+ hallenge\; Sunday reserved for dog teams.
 URL:https://mountainman.de/trailrunning-events/alps/winterloop-reit-im-wi
  nkl/dogs-trail/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-cani-trophy-fontainebleau-2027-canicross-3d4f3f@sandsturm.
  com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:CANI TROPHY FONTAINEBLEAU 2027 – Canicross
 LOCATION:France
-DESCRIPTION:Distanz: not published\nHund: FFSLC canicross event\nStatus: 
- announced\nOfficial FFSLC 2027 calendar lists adult Canicross.\nWeitere 
- Quelle: https://courses.ffslc.fr/calendar
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
+ icross event\nStatus: announced\nOfficial FFSLC 2027 calendar lists adul
+ t Canicross.\nWeitere Quelle: https://courses.ffslc.fr/calendar
 URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-cani-trophy-fontainebleau-2027-canitrail-c23db8@sandsturm.
  com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:CANI TROPHY FONTAINEBLEAU 2027 – Canitrail
 LOCATION:France
-DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: FFSLC even
- t with Canitrail\nStatus: announced\nOfficial FFSLC calendar lists Canit
- rail among the disciplines.\nWeitere Quelle: https://ffslc.fr/wp-content
- /uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pd
- f
+DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
+ les)\nHund: FFSLC event with Canitrail\nStatus: announced\nOfficial FFSL
+ C calendar lists Canitrail among the disciplines.\nWeitere Quelle: https
+ ://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Ca
+ nitrail-Ski-joering.pdf
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-troph-e-canin-des-plages-2027-canicross-79aedd@sandsturm.c
  om
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:Trophée Canin des Plages 2027 – Canicross
 LOCATION:France
-DESCRIPTION:Distanz: not published\nHund: FFSLC canicross event\nStatus: 
- announced\nOfficial FFSLC 2027 calendar event.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
+ icross event\nStatus: announced\nOfficial FFSLC 2027 calendar event.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-limitless-trails-trails-tarmac-winter-12h-byu-8b215e@sands
  turm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Limitless Trails – Trails & Tarmac Winter 12h BYU
 LOCATION:UK
-DESCRIPTION:Distanz: 4.2 mile loops up to 12h\nHund: canicross-friendly e
- ndurance event\nStatus: registration open\n12-hour backyard format on 4.
- 2-mile loops\; organiser states its events are canicross friendly.\nWeit
- ere Quelle: https://www.limitlesstrails.co.uk/canicross-menu
+DESCRIPTION:Kategorie: canicross\nDistanz: 4.2 mile loops up to 12h\nHund
+ : canicross-friendly endurance event\nStatus: registration open\n12-hour
+  backyard format on 4.2-mile loops\; organiser states its events are can
+ icross friendly.\nWeitere Quelle: https://www.limitlesstrails.co.uk/cani
+ cross-menu
 URL:https://www.limitlesstrails.co.uk/trails-and-tarmac-byu-2
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-doggy-de-le-run-2-canicross-2f7edf@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Doggy Deûle Run #2 – Canicross
 LOCATION:France
-DESCRIPTION:Distanz: not published\nHund: FFSLC canicross event\nStatus: 
- announced\nOfficial FFSLC 2027 calendar event.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
+ icross event\nStatus: announced\nOfficial FFSLC 2027 calendar event.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-la-canid-forts-4e-dition-canicross-7909a2@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:La Canidé'forts – 4e édition – Canicross
 LOCATION:France
-DESCRIPTION:Distanz: not published\nHund: FFSLC canicross event\nStatus: 
- announced\nOfficial FFSLC calendar lists adult Canicross.\nWeitere Quell
- e: https://courses.ffslc.fr/calendar
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
+ icross event\nStatus: announced\nOfficial FFSLC calendar lists adult Can
+ icross.\nWeitere Quelle: https://courses.ffslc.fr/calendar
 URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-lakeland-paws-whinlatter-tails-south-side-9d2783@sandsturm
  .com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Lakeland Paws – Whinlatter Tails South Side
 LOCATION:UK
-DESCRIPTION:Distanzen: 10 km\nHöhenmeter: 400 hm\nHund: dedicated canicro
- ss event\nStatus: registration open\n2026/27 series date is 7 Feb\; Sout
- h Side route offers a 10 km long option with about 400 m ascent.\nWeiter
- e Quelle: https://lakelandpaws.com/whinlatter-tails-south-side/
+DESCRIPTION:Kategorie: canicross\nDistanzen: 10 km\nHöhenmeter: 400 hm\nH
+ und: dedicated canicross event\nStatus: registration open\n2026/27 serie
+ s date is 7 Feb\; South Side route offers a 10 km long option with about
+  400 m ascent.\nWeitere Quelle: https://lakelandpaws.com/whinlatter-tail
+ s-south-side/
 URL:https://lakelandpaws.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-5th-dirty-dog-race-canicross-3fe979@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270215
 SUMMARY:5th Dirty Dog Race – Canicross
 LOCATION:France
-DESCRIPTION:Distanz: not published\nHund: FFSLC canicross event\nStatus: 
- announced\nOfficial FFSLC 2027 calendar event.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
+ icross event\nStatus: announced\nOfficial FFSLC 2027 calendar event.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-les-courses-de-l-tang-canicross-1a5ffe@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270215
 SUMMARY:Les Courses de l'Étang – Canicross
 LOCATION:France
-DESCRIPTION:Distanz: not published\nHund: FFSLC canicross event\nStatus: 
- announced\nOfficial FFSLC 2027 calendar event.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
+ icross event\nStatus: announced\nOfficial FFSLC 2027 calendar event.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-troph-e-des-lacs-canicross-a90503@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270220
 SUMMARY:Trophée des Lacs – Canicross
 LOCATION:France
-DESCRIPTION:Distanz: not published\nHund: FFSLC canicross event\nStatus: 
- announced\nOfficial FFSLC 2027 calendar event.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
+ icross event\nStatus: announced\nOfficial FFSLC 2027 calendar event.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-schwabentrail-canicross-d4ec63@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270301
 SUMMARY:Schwabentrail – Canicross
 LOCATION:Germany
-DESCRIPTION:Distanz: not published\nHund: VDSV dryland Mono / Canicross\n
- Status: announced\nVDSV calendar lists Schwabentrail as dryland race.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV dryl
+ and Mono / Canicross\nStatus: announced\nVDSV calendar lists Schwabentra
+ il as dryland race.
 URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-fountains-abbey-wild-trail-runs-cd37ac@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Fountains Abbey Wild Trail Runs
 LOCATION:UK
-DESCRIPTION:Distanzen: 10 km / 21.1 km\nHund: canicross-friendly regular 
- trail\nStatus: registration open\n10 km and half marathon are canicross 
- friendly\; one controlled dog per runner. 5 km excluded here.\nWeitere Q
- uelle: https://www.wilddeerevents.co.uk/
+DESCRIPTION:Kategorie: canicross / dog friendly trail\nDistanzen: 10 km /
+  21.1 km\nHund: canicross-friendly regular trail\nStatus: registration o
+ pen\n10 km and half marathon are canicross friendly\; one controlled dog
+  per runner. 5 km excluded here.\nWeitere Quelle: https://www.wilddeerev
+ ents.co.uk/
 URL:https://gotrail.run/en/race/fountains-abbey-wild-trail-runs
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-interclub-manchois-canicross-58f05e@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Interclub Manchois – Canicross
 LOCATION:France
-DESCRIPTION:Distanz: not published\nHund: FFSLC canicross event\nStatus: 
- announced\nOfficial FFSLC 2027 calendar event.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
+ icross event\nStatus: announced\nOfficial FFSLC 2027 calendar event.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-run-with-k9s-endurance-relay-e9bcec@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Run With K9s – Endurance Relay
 LOCATION:UK
-DESCRIPTION:Distanz: 2.5 km laps / 3h\nHund: dedicated canicross enduranc
- e event\nStatus: registration open\nSolo or teams of up to 3 complete as
-  many 2.5 km laps as possible in 3 hours.
+DESCRIPTION:Kategorie: canicross\nDistanz: 2.5 km laps / 3h\nHund: dedica
+ ted canicross endurance event\nStatus: registration open\nSolo or teams 
+ of up to 3 complete as many 2.5 km laps as possible in 3 hours.
 URL:https://www.runwithk9s.com/canicrossrelays
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-limitless-trails-beast-of-the-blacks-a8cf6f@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Limitless Trails – Beast of the Blacks
 LOCATION:UK
-DESCRIPTION:Distanzen: 16.9 km / 32.5 km / 65 km\nHöhenmeter: 468 hm / 13
- 60 hm / 2720 hm\nHund: canicross-friendly mountain trail\nStatus: regist
- ration open\nOfficial event page explicitly allows canicross on 10-\, 20
- - and 40-mile routes.
+DESCRIPTION:Kategorie: canicross / dog friendly trail\nDistanzen: 16.9 km
+  / 32.5 km / 65 km\nHöhenmeter: 468 hm / 1360 hm / 2720 hm\nHund: canicr
+ oss-friendly mountain trail\nStatus: registration open\nOfficial event p
+ age explicitly allows canicross on 10-\, 20- and 40-mile routes.
 URL:https://www.limitlesstrails.co.uk/beast-of-the-blacks
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-lakeland-paws-tour-de-grizedale-2d808a@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Lakeland Paws – Tour de Grizedale
 LOCATION:UK
-DESCRIPTION:Distanzen: 12 km / 22 km\nHund: dedicated canicross event\nSt
- atus: registration open\nOfficial route page lists 12 km and 22 km / hal
- f-marathon canicross options.\nWeitere Quelle: https://www.sientries.co.
- uk/event.php?elid=Y&event_id=17822
+DESCRIPTION:Kategorie: canicross\nDistanzen: 12 km / 22 km\nHund: dedicat
+ ed canicross event\nStatus: registration open\nOfficial route page lists
+  12 km and 22 km / half-marathon canicross options.\nWeitere Quelle: htt
+ ps://www.sientries.co.uk/event.php?elid=Y&event_id=17822
 URL:https://lakelandpaws.com/grizedale-growl-tour-de-grizedale/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-vulcanicross-canicross-17e585@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270315
 SUMMARY:Vulcanicross – Canicross
 LOCATION:Germany
-DESCRIPTION:Distanz: not published\nHund: VDSV dryland Mono / Canicross\n
- Status: announced\nVDSV calendar lists Vulcanicross as season-closing dr
- yland Mono race.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV dryl
+ and Mono / Canicross\nStatus: announced\nVDSV calendar lists Vulcanicros
+ s as season-closing dryland Mono race.
 URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-grasmere-wild-trail-runs-79a7a4@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Grasmere Wild Trail Runs
 LOCATION:UK
-DESCRIPTION:Distanzen: 10 km / 21.1 km\nHund: canicross-friendly regular 
- trail with separate start\nStatus: registration open\n10 km and half mar
- athon are canicross friendly with a separate dog start\; 5 km excluded h
- ere.
+DESCRIPTION:Kategorie: canicross / dog friendly trail\nDistanzen: 10 km /
+  21.1 km\nHund: canicross-friendly regular trail with separate start\nSt
+ atus: registration open\n10 km and half marathon are canicross friendly 
+ with a separate dog start\; 5 km excluded here.
 URL:https://www.wilddeerevents.co.uk/e/grasmere-wild-trail-runs-2027-1449
  3
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-03-canicross-du-lac-des-sapins-30087c@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270405
 SUMMARY:Canicross du Lac des Sapins
 LOCATION:France
-DESCRIPTION:Distanz: not published\nHund: dedicated FFSLC canicross\nStat
- us: announced\nOfficial FFSLC 2027 calendar event.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
+  FFSLC canicross\nStatus: announced\nOfficial FFSLC 2027 calendar event.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-04-lakeland-paws-tour-de-whinlatter-cab24f@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Lakeland Paws – Tour de Whinlatter
 LOCATION:UK
-DESCRIPTION:Distanzen: 12 km\nHund: dedicated canicross event\nStatus: re
- gistration open\n9 km and 12 km offered\; only the 12 km option is retai
- ned under the >=10 km rule.\nWeitere Quelle: https://lakelandpaws.com/ev
- ents/
+DESCRIPTION:Kategorie: canicross\nDistanzen: 12 km\nHund: dedicated canic
+ ross event\nStatus: registration open\n9 km and 12 km offered\; only the
+  12 km option is retained under the >=10 km rule.\nWeitere Quelle: https
+ ://lakelandpaws.com/events/
 URL:https://www.sientries.co.uk/event.php?elid=Y&event_id=17842
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-04-scone-palace-trail-runs-8e1222@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Scone Palace Trail Runs
 LOCATION:UK
-DESCRIPTION:Distanzen: 10 km / 21.1 km\nHund: canicross-friendly regular 
- trail\nStatus: registration open\n10 km and half marathon are canicross 
- friendly\; one controlled dog per runner. 5 km excluded here.
+DESCRIPTION:Kategorie: canicross / dog friendly trail\nDistanzen: 10 km /
+  21.1 km\nHund: canicross-friendly regular trail\nStatus: registration o
+ pen\n10 km and half marathon are canicross friendly\; one controlled dog
+  per runner. 5 km excluded here.
 URL:https://www.wilddeerevents.co.uk/e/scone-palace-trail-runs-2026-14510
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-10-canicross-xtremtrail-de-brameloup-canicross-0f8a24@sandstu
  rm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270412
 SUMMARY:Canicross XtremTrail de Brameloup – Canicross
 LOCATION:France
-DESCRIPTION:Distanz: not published\nHund: FFSLC canicross event\nStatus: 
- announced\nOfficial FFSLC 2027 calendar event\; separate Canitrail row a
- lready exists in master data.
+DESCRIPTION:Kategorie: canitrail / canicross\nDistanz: not published\nHun
+ d: FFSLC canicross event\nStatus: announced\nOfficial FFSLC 2027 calenda
+ r event\; separate Canitrail row already exists in master data.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-10-canicross-xtremtrail-de-brameloup-canitrail-931fd2@sandstu
  rm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270412
 SUMMARY:Canicross XtremTrail de Brameloup – Canitrail
 LOCATION:France
-DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: FFSLC even
- t with Canitrail\nStatus: announced\nOfficial FFSLC calendar lists Canit
- rail among the disciplines.\nWeitere Quelle: https://ffslc.fr/wp-content
- /uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pd
- f
+DESCRIPTION:Kategorie: canitrail / canicross\nDistanz: not published (>9 
+ per FFSLC rules)\nHund: FFSLC event with Canitrail\nStatus: announced\nO
+ fficial FFSLC calendar lists Canitrail among the disciplines.\nWeitere Q
+ uelle: https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-
+ Canicross-Canitrail-Ski-joering.pdf
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-17-limitless-trails-beast-of-the-beacons-fbf99c@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Limitless Trails – Beast of the Beacons
 LOCATION:UK
-DESCRIPTION:Distanzen: 16 km / 32.5 km / 65 km\nHöhenmeter: 617 hm / 1286
-  hm / 2572 hm\nHund: canicross-friendly mountain trail\nStatus: registra
- tion open\nOfficial event page explicitly allows canicross on 10-\, 20- 
- and 40-mile routes.
+DESCRIPTION:Kategorie: canicross / dog friendly trail\nDistanzen: 16 km /
+  32.5 km / 65 km\nHöhenmeter: 617 hm / 1286 hm / 2572 hm\nHund: canicros
+ s-friendly mountain trail\nStatus: registration open\nOfficial event pag
+ e explicitly allows canicross on 10-\, 20- and 40-mile routes.
 URL:https://www.limitlesstrails.co.uk/beast-of-the-beacons
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-24-4e-castelcanicross-de-blangy-le-ch-teau-canicross-63de72@s
  andsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270426
 SUMMARY:4e Castel'Canicross de Blangy le Château – Canicross
 LOCATION:France
-DESCRIPTION:Distanz: not published\nHund: dedicated FFSLC canicross\nStat
- us: announced\nOfficial FFSLC 2027 calendar event\; separate Canitrail r
- ow already exists in master data.
+DESCRIPTION:Kategorie: canitrail / canicross\nDistanz: not published\nHun
+ d: dedicated FFSLC canicross\nStatus: announced\nOfficial FFSLC 2027 cal
+ endar event\; separate Canitrail row already exists in master data.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-24-4eme-castelcanicross-de-blangy-le-ch-teau-canitrail-7a7895
  @sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270426
 SUMMARY:4eme Castel'Canicross de Blangy le Château – Canitrail
 LOCATION:France
-DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: FFSLC even
- t with Canitrail\nStatus: announced\nOfficial FFSLC calendar lists Canit
- rail among the disciplines.\nWeitere Quelle: https://ffslc.fr/wp-content
- /uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pd
- f
+DESCRIPTION:Kategorie: canitrail / canicross\nDistanz: not published (>9 
+ per FFSLC rules)\nHund: FFSLC event with Canitrail\nStatus: announced\nO
+ fficial FFSLC calendar lists Canitrail among the disciplines.\nWeitere Q
+ uelle: https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-
+ Canicross-Canitrail-Ski-joering.pdf
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-08-mountainman-nesselwang-dogs-trail-0999f0@sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:MOUNTAINMAN Nesselwang – Dogs-Trail
 LOCATION:Germany
-DESCRIPTION:Distanz: 21 + S-distance\nHöhenmeter: 1268 + S not captured\n
- Hund: own dog starts + separate ranking\nStatus: registration open\nM tr
- ail confirmed at 21 km / 1\,268 hm\; dog slots limited to about 150.
+DESCRIPTION:Kategorie: dogs-trail\nDistanz: 21 + S-distance\nHöhenmeter: 
+ 1268 + S not captured\nHund: own dog starts + separate ranking\nStatus: 
+ registration open\nM trail confirmed at 21 km / 1\,268 hm\; dog slots li
+ mited to about 150.
 URL:https://mountainman.de/trailrunning-events/alps/nesselwang/dogs-trail
  /
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-15-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02@san
  dsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Les Gendarmes et les Voleurs de Temps – CaniTrail
 LOCATION:France
-DESCRIPTION:Distanzen: 11 km\nHöhenmeter: 221 hm\nHund: dedicated canitra
- il\nStatus: announced\n2027 event weekend is 15–16 May\; canitrail page 
- lists Saturday 15 May\, 11 km.
+DESCRIPTION:Kategorie: canitrail\nDistanzen: 11 km\nHöhenmeter: 221 hm\nH
+ und: dedicated canitrail\nStatus: announced\n2027 event weekend is 15–16
+  May\; canitrail page lists Saturday 15 May\, 11 km.
 URL:https://gendarmes-et-voleurs.com/canitrail/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-10-limitless-trails-tenacious-ten-endurance-challenge-9e0dfb@
  sandsturm.com
-DTSTAMP:20260912T172252Z
+DTSTAMP:20260912T172926Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
 SUMMARY:Limitless Trails – Tenacious Ten Endurance Challenge
 LOCATION:UK
-DESCRIPTION:Distanz: 4.18 km loops / 10h\nHöhenmeter: 324 per loop\nHund:
-  canicross-friendly endurance event\nStatus: registration open\n10-hour 
- technical loop challenge\; organiser's canicross page states its events 
- are canicross friendly.\nWeitere Quelle: https://www.limitlesstrails.co.
- uk/canicross-menu
+DESCRIPTION:Kategorie: canicross\nDistanz: 4.18 km loops / 10h\nHöhenmete
+ r: 324 per loop\nHund: canicross-friendly endurance event\nStatus: regis
+ tration open\n10-hour technical loop challenge\; organiser's canicross p
+ age states its events are canicross friendly.\nWeitere Quelle: https://w
+ ww.limitlesstrails.co.uk/canicross-menu
 URL:https://www.limitlesstrails.co.uk/tenacious-ten
 END:VEVENT
 END:VCALENDAR
