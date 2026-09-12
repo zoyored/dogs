@@ -2,9 +2,9 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-12T18:24:42Z",
+    "generatedAt": "2026-09-12T18:28:27Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 273,
+    "count": 284,
     "categories": [
       "bike jöring",
       "canicross",
@@ -304,6 +304,25 @@
       "origin": "uploaded 2026 CSV"
     },
     {
+      "id": "2026-02-14-scandinavian-open-championship-sled-2026-world-cup-4a1db0",
+      "date": "2026-02-14",
+      "dateEnd": "2026-02-15",
+      "country": "Norway",
+      "event": "Scandinavian Open Championship sled 2026 / World Cup",
+      "category": [
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SOC / World Cup sled race",
+      "status": "held",
+      "notes": "Official SDSF calendar entry for Scandinavian Open Championship sled in Hamar, Norway.",
+      "primarySource": "https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=71",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 7 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-02-21-bosbokken-canitrail-437540",
       "date": "2026-02-21",
       "dateEnd": null,
@@ -344,6 +363,26 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2026-02-21-ifss-world-cup-soc-oebackadraget-f11ba0",
+      "date": "2026-02-21",
+      "dateEnd": "2026-02-22",
+      "country": "Sweden",
+      "event": "IFSS World Cup SOC Öbackadraget",
+      "category": [
+        "ski jöring",
+        "pulka"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SDSF Nordic-style World Cup / SOC event",
+      "status": "held",
+      "notes": "Official SDSF event lists ski and pulka competition classes; recreational courses about 5 and 10 km.",
+      "primarySource": "https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=47",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 7 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-03-01-alden-biesen-trail-walk-2c06c3",
       "date": "2026-03-01",
       "dateEnd": null,
@@ -365,6 +404,27 @@
       "primarySource": "https://canitrail.nl/events/alden-biesen-trail-walk/",
       "secondarySource": null,
       "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-03-06-sm-slaede-2026-sprint-och-medeldistans-96fb6a",
+      "date": "2026-03-06",
+      "dateEnd": "2026-03-08",
+      "country": "Sweden",
+      "event": "SM Släde 2026 Sprint och Medeldistans",
+      "category": [
+        "sledge"
+      ],
+      "distancesKm": [
+        5.5,
+        8
+      ],
+      "elevationM": [],
+      "dogAccess": "Swedish sled championship / World Cup",
+      "status": "held",
+      "notes": "Official SDSF event for Swedish Championship Sled Sprint and Middistance in Gävle; recreational routes 5.5 and 8 km.",
+      "primarySource": "https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=39",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 7 2026-09-12"
     },
     {
       "id": "2026-03-07-championnats-de-france-terre-2026-canicross-1881de",
@@ -430,6 +490,26 @@
       "secondarySource": null,
       "origin": "European federation sweep round 2 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-03-08-riksmaesterskapen-slaede-stafett-cd6983",
+      "date": "2026-03-08",
+      "dateEnd": null,
+      "country": "Sweden",
+      "event": "Riksmästerskapen Släde Stafett",
+      "category": [
+        "sledge"
+      ],
+      "distancesKm": [
+        13.5
+      ],
+      "elevationM": [],
+      "dogAccess": "Swedish national sled relay championship",
+      "status": "held",
+      "notes": "Official SDSF relay in Gävle; three legs of 4.5 km each, total 13.5 km.",
+      "primarySource": "https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=80",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 7 2026-09-12"
     },
     {
       "id": "2026-03-14-canitrail-lauf-durchs-nettetal-4-0-50f494",
@@ -957,6 +1037,26 @@
       "origin": "FFSLC verification 2026-09-12"
     },
     {
+      "id": "2026-04-26-gmbk-draget-v-r-2026-25b30b",
+      "date": "2026-04-26",
+      "dateEnd": null,
+      "country": "Sweden",
+      "event": "GMBK-draget vår 2026",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        2.2
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross / linlöpning race",
+      "status": "held",
+      "notes": "Official SDSF event explicitly described as linlöpning med hund (canicross), approximately 2.2 km.",
+      "primarySource": "https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=63",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 7 2026-09-12"
+    },
+    {
       "id": "2026-04-26-scone-palace-trail-runs-8e1222",
       "date": "2026-04-26",
       "dateEnd": null,
@@ -1018,6 +1118,29 @@
       "primarySource": "https://baltosport.ee/en/baltosprint-2026-en/",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2026-05-02-daladraget-v-r-2abdaa",
+      "date": "2026-05-02",
+      "dateEnd": "2026-05-03",
+      "country": "Sweden",
+      "event": "Daladraget Vår",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        2,
+        3.5
+      ],
+      "elevationM": [],
+      "dogAccess": "SDSF dryland race with run, bike and kickbike classes",
+      "status": "held",
+      "notes": "Official SDSF page lists recreational run, kickbike and bicycle classes on 2 km and 3.5 km courses; event status WCP.",
+      "primarySource": "https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=82",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 7 2026-09-12"
     },
     {
       "id": "2026-05-08-mynydd-y-gaer-mountain-challenge-9a0ce5",
@@ -1446,6 +1569,29 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2026-09-12-lule-draget-2026-6811cc",
+      "date": "2026-09-12",
+      "dateEnd": "2026-09-13",
+      "country": "Sweden",
+      "event": "Luleådraget 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        2.5,
+        5
+      ],
+      "elevationM": [],
+      "dogAccess": "SDSF dryland race",
+      "status": "source-confirmed 2026",
+      "notes": "Official SDSF calendar and race PM list canicross 2.5 km and bikejoring/scooter about 5 km.",
+      "primarySource": "https://draghundsport.se/kalender/",
+      "secondarySource": "https://draghundsport.se/kalender/pm/11/tavlingspm-11.pdf",
+      "origin": "Europe federation sweep round 7 2026-09-12"
+    },
+    {
       "id": "2026-09-12-nomina-n-z-vod-na-me-ifss-2026-hora-ovice-f8c811",
       "date": "2026-09-12",
       "dateEnd": "2026-09-13",
@@ -1510,6 +1656,27 @@
       "primarySource": "https://www.vul.fi/syksyn-kilpailukalenteri-2026/",
       "secondarySource": "https://www.sisuva.fi/ajankohtaista/sisuva-dryland-race-2026/",
       "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
+      "id": "2026-09-12-umedraget-2026-5ce0f7",
+      "date": "2026-09-12",
+      "dateEnd": "2026-09-13",
+      "country": "Sweden",
+      "event": "Umedraget 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Umeå DHK dryland race",
+      "status": "source-confirmed 2026",
+      "notes": "Two-day Umedraget dryland event at Bräntberget/Stadsliden; organiser states routes approximately 3–5 km.",
+      "primarySource": "https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=92",
+      "secondarySource": "https://stayhappening.com/e/umedraget-2026-E2ISYR0F8WY",
+      "origin": "Europe federation sweep round 7 2026-09-12",
+      "distanceText": "3-5"
     },
     {
       "id": "2026-09-12-ume-draget-f9d977",
@@ -2020,6 +2187,29 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-09-26-oebacka-barmark-dag-1-66de1b",
+      "date": "2026-09-26",
+      "dateEnd": null,
+      "country": "Sweden",
+      "event": "Öbacka barmark dag 1",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        2.8,
+        5
+      ],
+      "elevationM": [],
+      "dogAccess": "Härnösands DHK dryland race",
+      "status": "source-confirmed 2026",
+      "notes": "First of two one-day Öbacka dryland races; companion day lists linlöpning, scooter and bike with main recreational courses around 5 and 2.8 km.",
+      "primarySource": "https://draghundsport.se/kalender/",
+      "secondarySource": "https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=119",
+      "origin": "Europe federation sweep round 7 2026-09-12"
+    },
+    {
       "id": "2026-09-27-7e-canicross-de-bully-6bfc0a",
       "date": "2026-09-27",
       "dateEnd": null,
@@ -2037,6 +2227,29 @@
       "secondarySource": "https://courses.ffslc.fr/calendar",
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-09-27-oebacka-barmark-dag-2-fa7a8f",
+      "date": "2026-09-27",
+      "dateEnd": null,
+      "country": "Sweden",
+      "event": "Öbacka barmark dag 2",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        2.8,
+        5
+      ],
+      "elevationM": [],
+      "dogAccess": "Härnösands DHK dryland race",
+      "status": "source-confirmed 2026",
+      "notes": "Official SDSF event explicitly lists linlöpning, scooter and bike; main recreational routes approximately 5 km and 2.8 km.",
+      "primarySource": "https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=119",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 7 2026-09-12"
     },
     {
       "id": "2026-10-03-14e-challenge-canicrossbreizh-canicross-b2ec0c",
@@ -2218,6 +2431,27 @@
       "primarySource": "https://www.swedenbcd.se/",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2026-10-03-graningedraget-2026-73dec4",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "Sweden",
+      "event": "Graningedraget 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SDSF two-day dryland race",
+      "status": "source-confirmed 2026",
+      "notes": "Official SDSF event lists DC canicross, DB bike and DS1/DS2 scooter competition classes.",
+      "primarySource": "https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=44",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 7 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2026-10-03-hrobsk-j-zda-2026-9c588e",

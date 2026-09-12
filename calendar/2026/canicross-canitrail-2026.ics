@@ -7,7 +7,7 @@ X-WR-CALNAME:Canicross & Canitrail Events
 X-WR-CALDESC:Canicross- und Canitrail-Veranstaltungen
 BEGIN:VEVENT
 UID:2026-01-10-otterlo-trailrun-054cc1@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
 SUMMARY:Otterlo Trailrun
@@ -19,7 +19,7 @@ URL:https://canitrail.nl/events/otterlo-trailrun/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-11-canicross-de-cergy-l-le-aux-tr-sors-a91ffe@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260111
 DTEND;VALUE=DATE:20260112
 SUMMARY:Canicross de Cergy – L'île aux trésors
@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-11-copa-de-espa-a-mushing-tierra-alcal-de-guada-ra-8a0a27@san
  dsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260111
 DTEND;VALUE=DATE:20260113
 SUMMARY:Copa de España Mushing Tierra – Alcalá de Guadaíra
@@ -44,7 +44,7 @@ URL:https://rfedi.es/mushing/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-17-coalminers-trail-walk-80674b@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260117
 DTEND;VALUE=DATE:20260118
 SUMMARY:Coalminers’ Trail & Walk
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-17-mountainman-wintertrail-mittersill-kitzski-559f1b@sandstur
  m.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260117
 DTEND;VALUE=DATE:20260118
 SUMMARY:MOUNTAINMAN Wintertrail Mittersill-KitzSki
@@ -71,7 +71,7 @@ URL:https://www.lg-mettenheim.de/veranstaltungen/mountainman-wintersill_2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-23-kulm-race-2026-e09e63@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260126
 SUMMARY:Kulm Race 2026
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-24-campeonato-de-espa-a-mushing-nieve-sprint-baqueira-beret-a
  1b0f7@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260126
 SUMMARY:Campeonato de España Mushing Nieve Sprint – Baqueira Beret
@@ -97,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-24-cani-trophy-fontainebleau-2026-canicross-857573@sandsturm.
  com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260126
 SUMMARY:CANI TROPHY FONTAINEBLEAU 2026 – Canicross
@@ -109,7 +109,7 @@ URL:https://courses.ffslc.fr/event-fiche/971
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-24-yeti-dog-run-4bf3f5@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
 SUMMARY:Yeti Dog Run
@@ -122,7 +122,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-07-copa-de-espa-a-mushing-tierra-sprint-villamanta-84d26a@san
  dsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260209
 SUMMARY:Copa de España Mushing Tierra Sprint – Villamanta
@@ -134,7 +134,7 @@ URL:https://rfedi.es/mushing/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-07-natte-neuzen-trail-montferland-e3d45a@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260208
 SUMMARY:Natte Neuzen Trail Montferland
@@ -148,7 +148,7 @@ URL:https://canitrail.nl/de-natte-neuzen-trails-2025-2026/nnt-montferland
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-07-z-sada-2026-ed5bb1@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260209
 SUMMARY:Zásada 2026
@@ -161,7 +161,7 @@ URL:https://www.mushing.cz/race-proposition/default/1332
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-08-trail-des-fontaines-be3e62@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260208
 DTEND;VALUE=DATE:20260209
 SUMMARY:Trail des Fontaines
@@ -172,8 +172,21 @@ DESCRIPTION:Kategorie: canitrail\nDistanzen: 12 km\nHund: dedicated canit
 URL:https://chrono-start.com/events/trail-des-fontaines-624-922-102/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-02-14-scandinavian-open-championship-sled-2026-world-cup-4a1db0@
+ sandsturm.com
+DTSTAMP:20260912T182827Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260216
+SUMMARY:Scandinavian Open Championship sled 2026 / World Cup
+LOCATION:Norway
+DESCRIPTION:Kategorie: sledge\nDistanz: not published\nHund: SOC / World 
+ Cup sled race\nStatus: held\nOfficial SDSF calendar entry for Scandinavi
+ an Open Championship sled in Hamar\, Norway.
+URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=71
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-02-21-bosbokken-canitrail-437540@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
 SUMMARY:Bosbokken Canitrail
@@ -187,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-21-copa-de-espa-a-mushing-tierra-sprint-bobor-s-4d4a14@sandst
  urm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260223
 SUMMARY:Copa de España Mushing Tierra Sprint – Boborás
@@ -198,8 +211,21 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: RFEDI dry
 URL:https://rfedi.es/mushing/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-02-21-ifss-world-cup-soc-oebackadraget-f11ba0@sandsturm.com
+DTSTAMP:20260912T182827Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260223
+SUMMARY:IFSS World Cup SOC Öbackadraget
+LOCATION:Sweden
+DESCRIPTION:Kategorie: ski jöring / pulka\nDistanz: not published\nHund: 
+ SDSF Nordic-style World Cup / SOC event\nStatus: held\nOfficial SDSF eve
+ nt lists ski and pulka competition classes\; recreational courses about 
+ 5 and 10 km.
+URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=47
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-03-01-alden-biesen-trail-walk-2c06c3@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
 SUMMARY:Alden Biesen Trail & Walk
@@ -210,9 +236,23 @@ DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 10 km / 16 km / 20
 URL:https://canitrail.nl/events/alden-biesen-trail-walk/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-03-06-sm-slaede-2026-sprint-och-medeldistans-96fb6a@sandsturm.co
+ m
+DTSTAMP:20260912T182827Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260309
+SUMMARY:SM Släde 2026 Sprint och Medeldistans
+LOCATION:Sweden
+DESCRIPTION:Kategorie: sledge\nDistanzen: 5.5 km / 8 km\nHund: Swedish sl
+ ed championship / World Cup\nStatus: held\nOfficial SDSF event for Swedi
+ sh Championship Sled Sprint and Middistance in Gävle\; recreational rout
+ es 5.5 and 8 km.
+URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=39
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-03-07-championnats-de-france-terre-2026-canicross-1881de@sandstu
  rm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260309
 SUMMARY:Championnats de France Terre 2026 – Canicross
@@ -224,7 +264,7 @@ URL:https://courses.ffslc.fr/event-fiche/906
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-07-mountainman-wintertrail-reit-im-winkl-b351c4@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260308
 SUMMARY:MOUNTAINMAN Wintertrail Reit im Winkl
@@ -238,7 +278,7 @@ URL:https://mountainman.de/trailrunning-events/alps/wintertrail-reit-im-w
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-07-studienka-dog-race-2026-04bad2@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260309
 SUMMARY:Studienka Dog Race 2026
@@ -249,8 +289,20 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
 URL:https://mushing.sk/pretek/studienka-dog-race-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-03-08-riksmaesterskapen-slaede-stafett-cd6983@sandsturm.com
+DTSTAMP:20260912T182827Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:Riksmästerskapen Släde Stafett
+LOCATION:Sweden
+DESCRIPTION:Kategorie: sledge\nDistanzen: 13.5 km\nHund: Swedish national
+  sled relay championship\nStatus: held\nOfficial SDSF relay in Gävle\; t
+ hree legs of 4.5 km each\, total 13.5 km.
+URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=80
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-03-14-canitrail-lauf-durchs-nettetal-4-0-50f494@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
 SUMMARY:Canitrail-Lauf durchs Nettetal 4.0
@@ -262,7 +314,7 @@ URL:https://canitrail.nl/events/canitrail-nettetal/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-14-dark-sky-trail-lauwersmeer-321116@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
 SUMMARY:Dark Sky Trail Lauwersmeer
@@ -274,7 +326,7 @@ URL:https://canitrail.nl/events/dark-sky-trail-lauwersmeer/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-14-jarn-k-ry-mo-ovce-2026-8db958@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260316
 SUMMARY:Jarné káry Mošovce 2026
@@ -286,7 +338,7 @@ URL:https://mushing.sk/pretek/jarne-kary-mosovce-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-14-vuurtoren-trail-ameland-b48796@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260316
 SUMMARY:Vuurtoren Trail Ameland
@@ -298,7 +350,7 @@ URL:https://canitrail.nl/events/vuurtoren-trail-ameland/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-20-st-brsk-sprint-2026-a61680@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260323
 SUMMARY:STŘÍBRSKÝ SPRINT 2026
@@ -310,7 +362,7 @@ URL:https://www.mushing.cz/race-proposition/default/1357
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-21-farkasord-t-2-0-44fac4@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
 SUMMARY:Farkasordító 2.0
@@ -322,7 +374,7 @@ URL:https://www.canicross.hu/farkasordito-2-0/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-21-vulcanicross-bubeck-tour-badda1@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
 SUMMARY:VulCanicross – Bubeck Tour
@@ -335,7 +387,7 @@ URL:https://vdsv.de/wp-content/uploads/12.-VCC-Ausschreibung.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-28-prima-mushing-open-oravsk-h-j-39b3bb@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260330
 SUMMARY:PRIMA Mushing Open – Oravský Háj
@@ -347,7 +399,7 @@ URL:https://mushing.sk/pretek/oravsky-haj-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-28-stirnu-buks-canicross-2026-t-rvete-42a3e2@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
 SUMMARY:Stirnu Buks Canicross 2026 – Tērvete
@@ -359,7 +411,7 @@ URL:https://www.canicross.lv/stirnu-buks-kanikross-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-04-6e-canicross-du-domaine-de-givray-77addc@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260406
 SUMMARY:6e Canicross du Domaine de Givray
@@ -371,7 +423,7 @@ URL:https://courses.ffslc.fr/event-fiche/970
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-04-stupava-sady-2026-413cf1@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260405
 SUMMARY:Stupava sady 2026
@@ -384,7 +436,7 @@ URL:https://mushing.sk/pretek/stupava-sady-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-10-raid-cani-trail-64ceda@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260413
 SUMMARY:RAID Cani-Trail
@@ -396,7 +448,7 @@ URL:https://www.canitrailuk.co.uk/about-1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-11-bosorkin-canicross-2026-spring-round-c38900@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260413
 SUMMARY:Bosorkin Canicross 2026 – spring round
@@ -408,7 +460,7 @@ URL:https://mushing.sk/pretek/bosorkin-canicross-2026-1-jarne-kolo/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-11-edc-paldiski-2026-1cd831@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
 SUMMARY:EDC Paldiski 2026
@@ -420,7 +472,7 @@ URL:https://edc.ee/en/2026/paldiski
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-11-hmc-charity-cup-2026-51a7b1@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260413
 SUMMARY:HMC Charity Cup 2026
@@ -433,7 +485,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-11-spring-run-the-seasons-cowdray-canirun-34ebdf@sandsturm.co
  m
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
 SUMMARY:Spring Run the Seasons Cowdray – CaniRun
@@ -446,7 +498,7 @@ URL:https://rawenergypursuits.co.uk/spring-run-the-seasons-cowdray-9am-sa
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-11-tavaszi-fog-cska-2-0-93f804@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
 SUMMARY:Tavaszi fogócska 2.0
@@ -458,7 +510,7 @@ URL:https://www.canicross.hu/category/bikejoring/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-11-wienerwaldkraxler-dogtrail-41ca22@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
 SUMMARY:Wienerwaldkraxler Dogtrail
@@ -470,7 +522,7 @@ URL:https://afss.at/event/wienerwaldkraxler-dogtrail/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-18-pezinsk-baba-2026-29e39b@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260420
 SUMMARY:Pezinská Baba 2026
@@ -482,7 +534,7 @@ URL:https://mushing.sk/pretek/pezinska-baba-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-18-thoresby-park-longhorn-trail-c68943@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
 SUMMARY:Thoresby Park Longhorn Trail
@@ -497,7 +549,7 @@ URL:https://www.wilddeerevents.co.uk/e/thoresby-park-longhorn-trail-event
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-19-lepouvantrail-b89af4@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
 SUMMARY:L’Epouvan’trail
@@ -510,7 +562,7 @@ URL:https://pyreneeschrono.fr/evenement/epouvantrail/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-25-canitrail-des-moines-ca2211@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260427
 SUMMARY:Canitrail des Moines
@@ -524,7 +576,7 @@ URL:https://swiss-canicross.ch/courses/categorie/canitrails/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-25-rajeck-canicross-2026-048932@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260427
 SUMMARY:Rajecký Canicross 2026
@@ -536,7 +588,7 @@ URL:https://mushing.sk/pretek/rajecky-canicross-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-25-stirnu-buks-canicross-2026-tukums-e39498@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
 SUMMARY:Stirnu Buks Canicross 2026 – Tukums
@@ -548,7 +600,7 @@ URL:https://www.canicross.lv/stirnu-buks-kanikross-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-25-troph-e-dagy-2026-canitrail-596f9f@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260427
 SUMMARY:Trophée d'Agy 2026 – Canitrail
@@ -559,8 +611,20 @@ DESCRIPTION:Kategorie: canitrail\nDistanzen: 15 km\nHöhenmeter: 700 hm\nH
 URL:https://courses.ffslc.fr/event-fiche/1051
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-04-26-gmbk-draget-v-r-2026-25b30b@sandsturm.com
+DTSTAMP:20260912T182827Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:GMBK-draget vår 2026
+LOCATION:Sweden
+DESCRIPTION:Kategorie: canicross\nDistanzen: 2.2 km\nHund: dedicated cani
+ cross / linlöpning race\nStatus: held\nOfficial SDSF event explicitly de
+ scribed as linlöpning med hund (canicross)\, approximately 2.2 km.
+URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=63
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-04-26-scone-palace-trail-runs-8e1222@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
 SUMMARY:Scone Palace Trail Runs
@@ -575,7 +639,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-02-3e-castelcanicross-de-blangy-le-ch-teau-canicross-417ed0@s
  andsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260504
 SUMMARY:3e Castel'Canicross de Blangy le Château – Canicross
@@ -587,7 +651,7 @@ URL:https://courses.ffslc.fr/event-fiche/992
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-02-baltosprint-2026-76dc90@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
 SUMMARY:Baltosprint 2026
@@ -598,8 +662,21 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 4 km
 URL:https://baltosport.ee/en/baltosprint-2026-en/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-05-02-daladraget-v-r-2abdaa@sandsturm.com
+DTSTAMP:20260912T182827Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260504
+SUMMARY:Daladraget Vår
+LOCATION:Sweden
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 2 km
+  / 3.5 km\nHund: SDSF dryland race with run\, bike and kickbike classes\
+ nStatus: held\nOfficial SDSF page lists recreational run\, kickbike and 
+ bicycle classes on 2 km and 3.5 km courses\; event status WCP.
+URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=82
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-05-08-mynydd-y-gaer-mountain-challenge-9a0ce5@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260511
 SUMMARY:Mynydd Y Gaer Mountain Challenge
@@ -612,7 +689,7 @@ URL:https://www.canitrailuk.co.uk/cani-trail-mountain-challenge
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-09-edc-vooremaee-2026-b13b12@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
 SUMMARY:EDC Vooremäe 2026
@@ -624,7 +701,7 @@ URL:https://edc.ee/en
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-10-cani-trail-trail-des-ardennes-5029d2@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
 SUMMARY:Cani-Trail & Trail des Ardennes
@@ -639,7 +716,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-10-houghton-trail-event-11k-canicross-run-bac18d@sandsturm.co
  m
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
 SUMMARY:Houghton Trail Event – 11K Canicross Run
@@ -653,7 +730,7 @@ URL:https://www.houghton-trail-event.org.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-14-dauw-canitrail-xperience-b872d0@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:Dauw Canitrail Xperience
@@ -666,7 +743,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-23-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02@san
  dsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:Les Gendarmes et les Voleurs de Temps – CaniTrail
@@ -678,7 +755,7 @@ URL:https://gendarmes-et-voleurs.com/canitrail/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-23-stirnu-buks-canicross-2026-augstroze-baccf5@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:Stirnu Buks Canicross 2026 – Augstroze
@@ -690,7 +767,7 @@ URL:https://www.canicross.lv/stirnu-buks-kanikross-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-24-5e-cani-cross-des-s-nons-55e83b@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
 SUMMARY:5e Cani-Cross des Sénons
@@ -702,7 +779,7 @@ URL:https://courses.ffslc.fr/event-fiche/1067
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-30-canitrail-des-biches-9ee6b0@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260601
 SUMMARY:Canitrail des biches
@@ -716,7 +793,7 @@ URL:https://courses.ffslc.fr/event-fiche/1121/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-30-clut-ultraktrail-chien-ultra-k-0bb9b6@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 SUMMARY:CLUT / UltraKtrail / Chien Ultra K
@@ -730,7 +807,7 @@ URL:https://www.clut.run/quote-e-regolamento/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-20-stirnu-buks-canicross-2026-liep-ja-ee22ca@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
 SUMMARY:Stirnu Buks Canicross 2026 – Liepāja
@@ -742,7 +819,7 @@ URL:https://www.canicross.lv/stirnu-buks-kanikross-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-04-festival-trail-semois-eb386e@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 SUMMARY:Festival Trail Semois
@@ -757,7 +834,7 @@ URL:https://www.ultratiming.live/en/evenement/festival-trail-semois-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-09-canitrail-dans-le-taillefer-170d17@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
 SUMMARY:Canitrail dans le Taillefer
@@ -771,7 +848,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-18-cani-en-trail4daagse-veluwezoom-0c88a1@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260822
 SUMMARY:Cani- en Trail4Daagse Veluwezoom
@@ -784,7 +861,7 @@ URL:https://canitrail.nl/events/cani-en-trail4daagse-veluwezoom-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-21-canitrail-du-diamant-48f529@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260824
 SUMMARY:Canitrail du Diamant
@@ -798,7 +875,7 @@ URL:https://www.l-chrono.com/edition/canitrail-du-diamant-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-22-canitrail-sur-les-traces-de-stevenson-c0ff91@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
 SUMMARY:Canitrail sur les traces de Stevenson
@@ -812,7 +889,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-29-edc-viljandi-night-2026-a0c1a7@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:EDC Viljandi Night 2026
@@ -824,7 +901,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-29-troph-e-de-sirius-des-aiguilles-darves-6bc367@sandsturm.co
  m
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260831
 SUMMARY:Trophée de Sirius des Aiguilles d'Arves
@@ -838,7 +915,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-canicross-kolem-skal-studen-46a610@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Canicross Kolem Skal Studené
@@ -850,7 +927,7 @@ URL:https://www.mushing.cz/race/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-tanhuvaara-sprint-2026-1a2697@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260907
 SUMMARY:Tanhuvaara Sprint 2026
@@ -862,7 +939,7 @@ URL:https://www.vul.fi/syksyn-kilpailukalenteri-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-canicross-saint-cierges-678528@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 SUMMARY:Canicross Saint-Cierges
@@ -872,9 +949,23 @@ DESCRIPTION:Kategorie: canicross\nHund: Swiss Canicross championship race
 URL:https://swiss-canicross.ch/de/nos-courses/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-12-lule-draget-2026-6811cc@sandsturm.com
+DTSTAMP:20260912T182827Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Luleådraget 2026
+LOCATION:Sweden
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 2.5 
+ km / 5 km\nHund: SDSF dryland race\nStatus: source-confirmed 2026\nOffic
+ ial SDSF calendar and race PM list canicross 2.5 km and bikejoring/scoot
+ er about 5 km.\nWeitere Quelle: https://draghundsport.se/kalender/pm/11/
+ tavlingspm-11.pdf
+URL:https://draghundsport.se/kalender/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-12-nomina-n-z-vod-na-me-ifss-2026-hora-ovice-f8c811@sandsturm
  .com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 SUMMARY:Nominační závod na ME IFSS 2026 – Horažďovice
@@ -886,7 +977,7 @@ URL:https://www.mushing.cz/race-proposition/default/1397
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-pezinsk-baba-09-2026-592295@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 SUMMARY:Pezinská Baba 09/2026
@@ -898,7 +989,7 @@ URL:https://mushing.sk/pretek/pezinska-baba-09-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-sisuva-dryland-race-2026-bf875c@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 SUMMARY:SiSuVa Dryland Race 2026
@@ -911,8 +1002,22 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 3.9
 URL:https://www.vul.fi/syksyn-kilpailukalenteri-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-12-umedraget-2026-5ce0f7@sandsturm.com
+DTSTAMP:20260912T182827Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Umedraget 2026
+LOCATION:Sweden
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: 3-5\nH
+ und: Umeå DHK dryland race\nStatus: source-confirmed 2026\nTwo-day Umedr
+ aget dryland event at Bräntberget/Stadsliden\; organiser states routes a
+ pproximately 3–5 km.\nWeitere Quelle: https://stayhappening.com/e/umedra
+ get-2026-E2ISYR0F8WY
+URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=92
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-12-ume-draget-f9d977@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 SUMMARY:Umeådraget
@@ -924,7 +1029,7 @@ URL:https://www.swedenbcd.se/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-woofest-7dc20a@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 SUMMARY:Woofest
@@ -939,7 +1044,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-13-beat-the-black-dog-canitrail-trail-run-5c0d72@sandsturm.co
  m
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Beat the Black Dog Canitrail & Trail Run
@@ -952,7 +1057,7 @@ URL:https://www.eventbrite.co.uk/e/beat-the-black-dog-12km-canitrail-and-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-13-canitrail-des-mont-es-du-daubenschlag-8746f1@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Canitrail des montées du Daubenschlag
@@ -964,7 +1069,7 @@ URL:https://courses.ffslc.fr/event-fiche/1153/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-13-woofest-canicross-bb9162@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Woofest – Canicross
@@ -976,7 +1081,7 @@ URL:https://courses.ffslc.fr/event-fiche/1197
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-arberland-ultra-trail-hundelauf-e0d397@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:ARBERLAND Ultra Trail – Hundelauf
@@ -989,7 +1094,7 @@ URL:https://www.arberland-bayerischer-wald.de/aktiv-im-sommer/trailrunnin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-barmarksl-p-stav-sen-nc-d5b000@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
 SUMMARY:Barmarksløp Stavåsen NC
@@ -1004,7 +1109,7 @@ URL:https://www.sleddog.no/next/events/p/1000169637/barmarkslop-stavasen-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-canicross-du-lac-de-chour-8a399a@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Canicross du lac de Chour
@@ -1016,7 +1121,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-edc-ebavere-2026-1a725b@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:EDC Ebavere 2026
@@ -1029,7 +1134,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-limitless-trails-trails-tarmac-summer-12h-byu-557450@sands
  turm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Limitless Trails – Trails & Tarmac Summer 12h BYU
@@ -1043,7 +1148,7 @@ URL:https://www.limitlesstrails.co.uk/trails-and-tarmac-12hr-byu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-roicross-2026-2fcfbf@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:RoiCross 2026
@@ -1056,7 +1161,7 @@ URL:https://www.vul.fi/tapahtumakalenteri/kuukausi/2026-09/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-20-csen-canicross-borno-522f67@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:CSEN Canicross Borno
@@ -1068,7 +1173,7 @@ URL:https://discipline.csencinofilia.it/calendario-gare-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-20-haniska-09-2026-022d4e@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Haniska 09/2026
@@ -1081,7 +1186,7 @@ URL:https://mushing.sk/pretek/haniska-09-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-20-interclub-des-menhirs-canicross-b1cb24@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Interclub des menhirs – Canicross
@@ -1094,7 +1199,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-bosorkin-canicross-autumn-round-2026-eb5ffe@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Bosorkin Canicross – autumn round 2026
@@ -1106,7 +1211,7 @@ URL:https://mushing.sk/pretek/bosorkin-canicross-2-jarne-kolo-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-canicross-de-banneux-7c47c2@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Canicross de Banneux
@@ -1118,7 +1223,7 @@ URL:https://www.vlaamsecanicrossfederatie.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-canicross-yens-ed972c@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Canicross Yens
@@ -1129,7 +1234,7 @@ URL:https://swiss-canicross.ch/de/nos-courses/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-canifadas-de-gr-oli-res-6817f4@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Canifadas de Gréolières
@@ -1143,7 +1248,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-canifadas-de-gr-oli-res-canicross-9e6bfa@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Canifadas de Gréolières – Canicross
@@ -1156,7 +1261,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-harewood-wild-autumn-trail-runs-bd6b30@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Harewood Wild Autumn Trail Runs
@@ -1170,7 +1275,7 @@ URL:https://harewood.org/events/wild-autumn-trail-runs/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-jaemin-syyskisa-2026-11d060@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Jämin Syyskisa 2026
@@ -1183,7 +1288,7 @@ URL:https://traildog.fi/pages/valjakkourheilukilpailut-ja-tapahtumat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-louka-2026-3507f4@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:LOUKA 2026
@@ -1195,7 +1300,7 @@ URL:https://www.mushing.cz/race-proposition/default/1364
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-mountainman-reit-im-winkl-dogs-trail-2327c6@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:MOUNTAINMAN Reit im Winkl – Dogs-Trail
@@ -1207,7 +1312,7 @@ URL:https://www.chiemsee-chiemgau.info/mountainman-reit-im-winkl
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-nittedalsl-pet-barmark-2026-nc-844107@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Nittedalsløpet Barmark 2026 NC
@@ -1222,7 +1327,7 @@ URL:https://www.sleddog.no/next/events/p/1000169638/barmark-nittedalslope
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-roazhon-run-canicross-e50b2a@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Roazhon Run – Canicross
@@ -1233,8 +1338,23 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
 URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-26-oebacka-barmark-dag-1-66de1b@sandsturm.com
+DTSTAMP:20260912T182827Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Öbacka barmark dag 1
+LOCATION:Sweden
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 2.8 
+ km / 5 km\nHund: Härnösands DHK dryland race\nStatus: source-confirmed 2
+ 026\nFirst of two one-day Öbacka dryland races\; companion day lists lin
+ löpning\, scooter and bike with main recreational courses around 5 and 2
+ .8 km.\nWeitere Quelle: https://draghundsport.se/kalender/visa/default.a
+ spx?tavlingsid=119
+URL:https://draghundsport.se/kalender/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-27-7e-canicross-de-bully-6bfc0a@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:7e Canicross de Bully
@@ -1245,9 +1365,22 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
 URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-27-oebacka-barmark-dag-2-fa7a8f@sandsturm.com
+DTSTAMP:20260912T182827Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Öbacka barmark dag 2
+LOCATION:Sweden
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 2.8 
+ km / 5 km\nHund: Härnösands DHK dryland race\nStatus: source-confirmed 2
+ 026\nOfficial SDSF event explicitly lists linlöpning\, scooter and bike\
+ ; main recreational routes approximately 5 km and 2.8 km.
+URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=119
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-03-14e-challenge-canicrossbreizh-canicross-b2ec0c@sandsturm.c
  om
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:14e Challenge Canicrossbreizh – Canicross
@@ -1259,7 +1392,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-14-me-challenge-canicrossbreizh-2f0d81@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:14ème Challenge Canicrossbreizh
@@ -1273,7 +1406,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-alma-off-snow-2026-7b88ad@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:Alma Off Snow 2026
@@ -1285,7 +1418,7 @@ URL:https://traildog.fi/pages/valjakkourheilukilpailut-ja-tapahtumat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-brekeld-runners-trail-f6cc69@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Brekeld Runners Trail
@@ -1297,7 +1430,7 @@ URL:https://canitrail.nl/events/brekeld-runners-trail/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-canicross-de-la-meute-33555c@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:Canicross de la Meute
@@ -1311,7 +1444,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-canicross-de-la-meute-canicross-d3c413@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:Canicross de la Meute – Canicross
@@ -1324,7 +1457,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-canitrail-des-bisses-a7d83a@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:Canitrail des Bisses
@@ -1338,7 +1471,7 @@ URL:https://www.myswitzerland.com/en-gb/experiences/events/canitrail-des-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-genk-bcf-canicross-d4771b@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:Genk – BCF Canicross
@@ -1352,7 +1485,7 @@ URL:https://vlaamsecanicrossfed.wixsite.com/canicross
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-graningedraget-7145a8@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:Graningedraget
@@ -1363,8 +1496,21 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: Sweden BC
 URL:https://www.swedenbcd.se/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-03-graningedraget-2026-73dec4@sandsturm.com
+DTSTAMP:20260912T182827Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Graningedraget 2026
+LOCATION:Sweden
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: SDSF two-day dryland race\nStatus: source-confirmed 2026\
+ nOfficial SDSF event lists DC canicross\, DB bike and DS1/DS2 scooter co
+ mpetition classes.
+URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=44
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-03-hrobsk-j-zda-2026-9c588e@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:HROBSKÁ JÍZDA 2026
@@ -1376,7 +1522,7 @@ URL:https://www.mushing.cz/race-proposition/default/1375
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-oravsk-h-j-autumn-2026-97e436@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:Oravský Háj – autumn 2026
@@ -1389,7 +1535,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-skylos-twisted-trails-ifss-world-cup-polish-cup-cd879e@san
  dsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:SKYLOS Twisted Trails – IFSS World Cup / Polish Cup
@@ -1405,7 +1551,7 @@ URL:https://sleddogsport.net/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-tlapkros-2026-fbab5c@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:TLAPKROS 2026
@@ -1418,7 +1564,7 @@ URL:https://www.mushing.cz/race-proposition/default/1345
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-crocs-de-la-vall-e-du-thouet-2-490f26@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:À'crocs de la vallée du Thouet #2
@@ -1433,7 +1579,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-crocs-de-la-vall-e-du-thouet-2-canicross-151e6a@sandsturm.
  com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:À'crocs de la vallée du Thouet #2 – Canicross
@@ -1446,7 +1592,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-04-canicross-de-bourghelles-4e-dition-35d87e@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Canicross de Bourghelles – 4e édition
@@ -1458,7 +1604,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-04-canitrail-des-bagnards-ec7ea7@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Canitrail des Bagnards
@@ -1472,7 +1618,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-04-ccnl-harderwijk-e38ad1@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:CCNL Harderwijk
@@ -1485,7 +1631,7 @@ URL:https://www.canicrossnederland.nl/2026-harderwijk.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-04-drammen-barmarksfest-nc-wc-23c296@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Drammen Barmarksfest NC/WC
@@ -1500,7 +1646,7 @@ URL:https://www.sleddog.no/next/events/p/1000169639/barmark-drammen-barma
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-04-kustmarathon-zeeland-canitrail-e0fdda@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Kustmarathon Zeeland Canitrail
@@ -1513,7 +1659,7 @@ URL:https://www.kustmarathon.nl/wedstrijd/canitrail/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-abertamy-2026-ceece6@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
 SUMMARY:Abertamy 2026
@@ -1525,7 +1671,7 @@ URL:https://mushing.cz/race-proposition/default/1378
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-accrorun-5-canicross-b84812@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
 SUMMARY:ACCRO'RUN #5 – Canicross
@@ -1538,7 +1684,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-canicross-koppigen-5cada6@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
 SUMMARY:Canicross Koppigen
@@ -1549,7 +1695,7 @@ URL:https://swiss-canicross.ch/de/nos-courses/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-edc-palivere-2026-254277@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:EDC Palivere 2026
@@ -1562,7 +1708,7 @@ URL:https://edc.ee/en/etapp/palivere
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-limitless-trails-the-loop-ultra-147c55@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Limitless Trails – The Loop Ultra
@@ -1575,7 +1721,7 @@ URL:https://www.limitlesstrails.co.uk/the-loop-ultra
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-lokarallit-2026-eca56a@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
 SUMMARY:Lokarallit 2026
@@ -1587,7 +1733,7 @@ URL:https://www.vul.fi/tapahtumakalenteri/lista/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-ouaffastienne-et-maxiouaffastienne-e1971c@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Ouaffastienne et Maxiouaffastienne
@@ -1601,7 +1747,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-stirnu-buks-canicross-2026-prieku-i-57de9a@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Stirnu Buks Canicross 2026 – Priekuļi
@@ -1614,7 +1760,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-ifss-european-championships-dryland-2026-50f8e1@sandsturm.
  com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261019
 SUMMARY:IFSS European Championships Dryland 2026
@@ -1629,7 +1775,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-ifss-european-championships-dryland-2026-gaevle-3dc498@san
  dsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 SUMMARY:IFSS European Championships Dryland 2026 – Gävle
@@ -1644,7 +1790,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-7e-challenge-transpyr-ari-geois-canicross-dc3c76@sandsturm
  .com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261024
 SUMMARY:7e Challenge Trans'Pyr Ariégeois – Canicross
@@ -1657,7 +1803,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-canicross-ireland-2026-27-event-one-lough-boora-097f3f@san
  dsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Canicross Ireland 2026/27 – Event One – Lough Boora
@@ -1671,7 +1817,7 @@ URL:https://www.canicross-ireland.com/upcoming-events/ecanicrossirelandev
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-canicross-la-givrine-f2879b@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 SUMMARY:Canicross La Givrine
@@ -1682,7 +1828,7 @@ URL:https://swiss-canicross.ch/de/nos-courses/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-canitrail-des-cadoles-9c0159@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Canitrail des Cadoles
@@ -1696,7 +1842,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-la-tractopattes-canicross-caritatif-6750dc@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:La Tractopattes – Canicross caritatif
@@ -1707,7 +1853,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-la-watidogs-run-ii-canicross-cd87c9@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 SUMMARY:La Wati'Dogs Run II – Canicross
@@ -1719,7 +1865,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-canicross-ireland-2026-27-event-two-lough-boora-a6b5e6@san
  dsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Canicross Ireland 2026/27 – Event Two – Lough Boora
@@ -1732,7 +1878,7 @@ URL:https://www.canicross-ireland.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-canicross-val-de-loire-17-ccd730@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Canicross Val de Loire #17
@@ -1743,7 +1889,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-canitrail-de-la-brie-ffa3f6@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Canitrail de la Brie
@@ -1758,7 +1904,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-la-tractopattes-championnat-r-gional-r7-canicross-ef366b@s
  andsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:La Tractopattes – Championnat Régional R7 Canicross
@@ -1772,7 +1918,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-les-r-gionaux-de-manehouarn-canicross-r9-7de828@sandsturm.
  com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Les Régionaux de Manehouarn – Canicross R9
@@ -1783,7 +1929,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-25-lubieszowski-cross-puchar-polski-18062f@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:25. Lubieszowski Cross – Puchar Polski
@@ -1796,7 +1942,7 @@ URL:https://mushing.pl/index.php?show=kalendarz
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-canicross-ardon-c90ebd@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Canicross Ardon
@@ -1807,7 +1953,7 @@ URL:https://swiss-canicross.ch/de/nos-courses/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-etalle-bcf-canicross-cb3920@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Etalle – BCF Canicross
@@ -1821,7 +1967,7 @@ URL:https://vlaamsecanicrossfed.wixsite.com/canicross
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-harzer-luchstrail-canicross-2e92d0@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Harzer Luchstrail – Canicross
@@ -1834,7 +1980,7 @@ URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-la-canid-cathlon-2-canicross-2a602f@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:La Canidé'cathlon #2 – Canicross
@@ -1845,7 +1991,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-nm-barmark-2026-573a04@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:NM Barmark 2026
@@ -1859,7 +2005,7 @@ URL:https://www.sleddog.no/next/events/p/1000169396/nm-barmark-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-ohkola-sm-2026-f54ed8@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Ohkola SM 2026
@@ -1872,7 +2018,7 @@ URL:https://www.vul.fi/tapahtumakalenteri/lista/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-canixfyn-dcf-dog-series-1-b6c717@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:CaniXFyn – DCF Dog Series 1
@@ -1883,7 +2029,7 @@ URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-franciacorsa-calino-3485d5@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:FranciacorSa – Calino
@@ -1895,7 +2041,7 @@ URL:https://discipline.csencinofilia.it/calendario-gare-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-la-canivertaco-canicross-4d0d68@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:La CaniVertaco – Canicross
@@ -1906,7 +2052,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-sm-barmark-2026-nybro-a4e6e7@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
 SUMMARY:SM Barmark 2026 – Nybro
@@ -1920,7 +2066,7 @@ URL:https://draghundsport.se/sv/217
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-swedish-championship-nybro-45d9ec@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
 SUMMARY:Swedish Championship Nybro
@@ -1932,7 +2078,7 @@ URL:https://www.swedenbcd.se/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-jaemi-syys-sm-2026-59366b@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
 SUMMARY:Jämi Syys-SM 2026
@@ -1944,7 +2090,7 @@ URL:https://www.vul.fi/tapahtumakalenteri/lista/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-trail-du-calvaire-34f8b7@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Trail du Calvaire
@@ -1957,7 +2103,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-virttaan-syys-sm-2026-68c3e3@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
 SUMMARY:Virttaan Syys-SM 2026
@@ -1970,7 +2116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-lakeland-paws-grizedale-growl-west-side-96afbf@sandsturm.c
  om
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Lakeland Paws – Grizedale Growl West Side
@@ -1983,7 +2129,7 @@ URL:https://lakelandpaws.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-icf-world-championships-2026-owi-ska-430456@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261109
 SUMMARY:ICF World Championships 2026 – Owińska
@@ -1997,7 +2143,7 @@ URL:https://afss.at/event/icf-world-championships-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-blue-castle-run-6b4b8c@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Blue Castle Run
@@ -2011,7 +2157,7 @@ URL:https://www.bluecastlerun.co.uk/blue-castle-run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-canicross-de-gallician-acte-2-04e7e6@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Canicross de Gallician – Acte 2
@@ -2022,7 +2168,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-la-croc-ti-re-5-canicross-38e50d@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
 SUMMARY:La Crocôtière #5 – Canicross
@@ -2033,7 +2179,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-the-grim-reservoir-dogs-694a7c@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:The Grim Reservoir Dogs
@@ -2046,7 +2192,7 @@ URL:https://www.itsgrimupnorthrunning.co.uk/e/the-grim-reservoir-dogs-116
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-visbek-canicross-e5be26@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
 SUMMARY:Visbek – Canicross
@@ -2059,7 +2205,7 @@ URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-canicross-deschau-34cbbf@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Canicross d'Eschau
@@ -2070,7 +2216,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-la-cani-haut-marnaise-canicross-31062f@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:La Cani Haut-Marnaise – Canicross
@@ -2081,7 +2227,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-la-cani-haut-marnaise-canitrail-ec998b@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:La Cani Haut-Marnaise – Canitrail
@@ -2095,7 +2241,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-acana-zaje-ov-2026-d7d72f@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY:Acana Zaječov 2026
@@ -2109,7 +2255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-canicross-de-la-vente-des-vins-des-hospices-de-beaune-7c08
  ec@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Canicross de la Vente des Vins des Hospices de Beaune
@@ -2120,7 +2266,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-canitrail-des-ch-taignes-b09f2c@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Canitrail des Châtaignes
@@ -2134,7 +2280,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-canitrail-deguzon-8f4177@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Canitrail d’Eguzon
@@ -2149,7 +2295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-mistrzostwa-polski-dryland-szczekowyje-967d0b@sandsturm.co
  m
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY:Mistrzostwa Polski Dryland "Szczekowyje"
@@ -2162,7 +2308,7 @@ URL:https://mushing.pl/index.php?show=kalendarz
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-stroehen-canicross-9cd786@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY:Ströhen – Canicross
@@ -2175,7 +2321,7 @@ URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-canicross-genendijk-eb401e@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Canicross Genendijk
@@ -2188,7 +2334,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-championnat-de-normandie-17e-canicross-du-bois-du-roule-af
  b32d@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Championnat de Normandie – 17e Canicross du Bois du Roule
@@ -2201,7 +2347,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-wsa-wm-stroehen-canicross-mono-f87b22@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261123
 SUMMARY:WSA WM Ströhen – Canicross / Mono
@@ -2213,7 +2359,7 @@ URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-canicross-coucy-la-ville-33bbae@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Canicross Coucy la Ville
@@ -2224,7 +2370,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-csen-canicross-gattinara-426d27@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
 SUMMARY:CSEN Canicross Gattinara
@@ -2237,7 +2383,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-frankonia-open-lauf-an-der-pegnitz-canicross-a8e2d3@sandst
  urm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
 SUMMARY:Frankonia Open – Lauf an der Pegnitz – Canicross
@@ -2250,7 +2396,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-waasmunster-federatie-kampioenschap-scooter-0af51a@sandstu
  rm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Waasmunster – Federatie Kampioenschap Scooter
@@ -2263,7 +2409,7 @@ URL:https://vlaamsecanicrossfed.wixsite.com/canicross
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-canicross-de-maurepas-2e-dition-569887@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Canicross de Maurepas – 2e édition
@@ -2274,7 +2420,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-la-course-des-rives-canicross-dfb4a7@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:La Course Des Rives – Canicross
@@ -2286,7 +2432,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-r-gional-r6-canicross-edf1e3@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Régional R6 – Canicross
@@ -2298,7 +2444,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-3-kucobski-mid-6a0658@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 SUMMARY:3. Kucobski MID
@@ -2310,7 +2456,7 @@ URL:https://mushing.pl/index.php?show=kalendarz
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-capitalcross-2026-canicross-ab5902@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 SUMMARY:CapitalCross 2026 – Canicross
@@ -2324,7 +2470,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-maldegem-belgisch-kampioenschap-canicross-9a0616@sandsturm
  .com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Maldegem – Belgisch Kampioenschap Canicross
@@ -2338,7 +2484,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-canicross-de-la-c-te-dopale-taples-sur-mer-b5efcd@sandstur
  m.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Canicross de la Côte d'Opale – Étaples-sur-Mer
@@ -2350,7 +2496,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-capitalcross-mid-distance-2026-canicross-49c141@sandsturm.
  com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:CapitalCross Mid Distance 2026 – Canicross
@@ -2362,7 +2508,7 @@ URL:https://www.spargelhof-klaistow.de/klaistower-schlittenhund-rennen/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-la-montendraise-canitrail-cce7cf@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:La Montendraise – Canitrail
@@ -2376,7 +2522,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-muehlberg-canicross-f02e1d@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Mühlberg – Canicross
@@ -2388,7 +2534,7 @@ URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-silberbergtrail-wingst-canicross-8e57ec@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Silberbergtrail Wingst – Canicross
@@ -2400,7 +2546,7 @@ URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-strassdorfer-staufertrail-canicross-f5b6b1@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Straßdorfer Staufertrail – Canicross
@@ -2412,7 +2558,7 @@ URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-verrie-speed-dogs-2-canicross-3a1472@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Verrie Speed Dogs #2 – Canicross
@@ -2424,7 +2570,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-5-romagna-race-milano-marittima-289415@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:5° Romagna Race – Milano Marittima
@@ -2436,7 +2582,7 @@ URL:https://discipline.csencinofilia.it/calendario-gare-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-atw-grafham-water-10-mile-canicross-72b498@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:ATW Grafham Water 10 Mile Canicross
@@ -2449,7 +2595,7 @@ URL:https://www.timeoutdoors.com/events/atw-grafham-water-trail-canicross
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-canicross-scherpenheuvel-zichem-ce0e70@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Canicross Scherpenheuvel-Zichem
@@ -2461,7 +2607,7 @@ URL:https://www.vlaamsecanicrossfederatie.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-k9runners-mariager-dcf-dog-series-2-ca5a1c@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:K9Runners Mariager – DCF Dog Series 2
@@ -2473,7 +2619,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-maidstone-harriers-turkey-run-canicross-542cba@sandsturm.c
  om
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Maidstone Harriers Turkey Run – Canicross
@@ -2486,7 +2632,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-mountainman-nikolaus-trail-pommelsbrunn-dogs-trail-e8c17e@
  sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:MOUNTAINMAN Nikolaus-Trail Pommelsbrunn – Dogs-Trail
@@ -2501,7 +2647,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-canicross-ireland-2026-27-event-three-finnamore-lakes-ef0c
  f3@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Canicross Ireland 2026/27 – Event Three – Finnamore Lakes
@@ -2515,7 +2661,7 @@ URL:https://www.canicross-ireland.com/upcoming-events/canicrossirelandeve
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-ccnl-ijmuiden-e65e31@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:CCNL IJmuiden
@@ -2527,7 +2673,7 @@ DESCRIPTION:Kategorie: canicross\nHöhenmeter: official CCNL race\nHund: a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-cross-dog-de-cand-canicross-1a0f15@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
 SUMMARY:Cross & Dog de Candé – Canicross
@@ -2540,7 +2686,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-cross-dog-de-cand-canitrail-de-cand-036082@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
 SUMMARY:Cross & Dog de Candé – Canitrail de Candé
@@ -2555,7 +2701,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-canicross-ireland-2026-27-event-four-finnamore-lakes-782df
  9@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Canicross Ireland 2026/27 – Event Four – Finnamore Lakes
@@ -2569,7 +2715,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-championnat-r-gional-occitanie-red-paws-race-2-canicross-d
  16a35@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Championnat régional Occitanie – Red Paws Race #2 – Canicross
@@ -2582,7 +2728,7 @@ URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-sherwood-pines-festive-trail-runs-b51ba1@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Sherwood Pines Festive Trail Runs
@@ -2595,7 +2741,7 @@ URL:https://www.wilddeerevents.co.uk/e/sherwood-pines-festive-trail-runs-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-csen-canicross-basovizza-f92eed@sandsturm.com
-DTSTAMP:20260912T182442Z
+DTSTAMP:20260912T182827Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:CSEN Canicross Basovizza
