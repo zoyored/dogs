@@ -1,0 +1,35 @@
+Country,Source,URL,Source type,Notes
+Germany,VDSV,https://vdsv.de/kalender/,federation,Official German sleddog sports federation race calendar
+France,FFST,https://ffstmushing.org/manifestations-sportives/,federation,Official French FFST mushing event source
+France,FFSLC,https://courses.ffslc.fr/calendar,federation,Official FFSLC race calendar; important source for Canicross and Canitrail
+Netherlands,Canitrail.nl,https://canitrail.nl/,calendar,Canitrail and dog-friendly trail calendar for the Netherlands and neighbouring countries
+International,Finishers,https://www.finishers.com/,event-platform,Event discovery platform; dog-friendly races require verification against primary source
+UK,Lakeland Paws,https://www.lakelandpaws.com/,organizer,Canicross and Canitrail series in the Lake District
+UK,Wild Deer Events,https://wilddeerevents.co.uk/,organizer,Trail organiser with multiple canicross-friendly events
+UK,Run with K9s,https://runwithk9s.com/,organizer,Canicross and endurance relay events
+UK,TRAILDOG,https://traildog.co.uk/,organizer,Dog running and obstacle events
+UK,Maverick Race,https://www.maverick-race.com/,organizer,Trail-running organiser; dog access must be checked event by event
+UK,ATW,https://www.atwevents.co.uk/,organizer,Running and multisport organiser; dog access must be checked event by event
+UK,Ascend Events,https://ascendevents.co.uk/,organizer,Trail and canicross event organiser
+UK,Bespoke Fitness and Events,https://www.bespokefitnessandevents.co.uk/,organizer,Trail-running organiser; canicross availability varies by event
+UK,Blended Trails,https://www.blendedtrails.com/,organizer,Trail event organiser; dog access must be verified per event
+UK,Blue Castle Run,https://www.bluecastlerun.co.uk/,organizer,Running event organiser with dog-friendly/canicross events
+UK,Climb South West,https://www.climbsouthwest.com/,organizer,Trail-running organiser; dog access must be checked per event
+UK,Consett Canicross,https://www.consettcanicross.co.uk/,organizer,Canicross organiser
+UK,Dave Talbot Adventures,https://www.davet albot.net/,organizer,Adventure and trail event source; URL requires verification
+UK,Endurancelife,https://www.endurancelife.com/,organizer,Long-distance trail organiser; dog policy requires event-level verification
+UK,Hobo Pace,https://www.hobopace.co.uk/,organizer,Trail-running organiser; dog access requires verification
+UK,Houghton Trail Event,https://www.houghtontrailevent.co.uk/,organizer,Trail event source with dog-friendly formats
+UK,How Hard Can It Be Events,https://www.howhardcanitbe.co.uk/,organizer,Running event organiser; dog access must be verified
+UK,It's Grim Up North Running,https://www.itsgrimupnorthrunning.co.uk/,organizer,Trail and endurance organiser with selected dog-friendly events
+UK,Ledbury Harriers,https://www.ledburyharriers.org.uk/,organizer,Running club and event organiser; dog access must be checked
+UK,Limitless Trails,https://www.limitlesstrails.co.uk/,organizer,Trail and ultra organiser with selected canicross-friendly races
+UK,Maidstone Harriers,https://www.maidstoneharriers.co.uk/,organizer,Running club/event source; dog access requires event-level verification
+UK,Pulse Events,https://www.pulseevents.co.uk/,organizer,Event organiser; dog access must be verified
+UK,Raw Energy Pursuits,https://rawrunning.co.uk/,organizer,Trail-running organiser with selected dog-friendly events
+UK,Run Rebel,https://www.runrebel.co.uk/,organizer,Trail event organiser; dog access must be verified
+UK,Running Monk Trail Events,https://www.runningmonktrailevents.com/,organizer,Trail-running organiser; dog access requires verification
+UK,South West Runners,https://www.southwestrunners.co.uk/,organizer,Running event source; dog access must be verified
+UK,Trail Escape Events,https://www.trailescape.co.uk/,organizer,Trail-running organiser; dog access must be checked event by event
+UK,Trails and Tails Events,https://www.trailsandtails.co.uk/,organizer,Dog-focused trail event organiser
+UK,YPB Events,https://www.ypbevents.co.uk/,organizer,Running event organiser; dog access must be verified
