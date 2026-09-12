@@ -2,9 +2,9 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-12T17:45:32Z",
+    "generatedAt": "2026-09-12T17:48:31Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 216,
+    "count": 235,
     "categories": [
       "bike jöring",
       "canicross",
@@ -602,6 +602,25 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-03-28-stirnu-buks-canicross-2026-t-rvete-42a3e2",
+      "date": "2026-03-28",
+      "dateEnd": null,
+      "country": "Latvia",
+      "event": "Stirnu Buks Canicross 2026 – Tērvete",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "RaceDog Latvia Stirnu Buks canicross",
+      "status": "held",
+      "notes": "Official 2026 series round; Vāveres course 5–7 km.",
+      "primarySource": "https://www.canicross.lv/stirnu-buks-kanikross-2026/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "5-7"
+    },
+    {
       "id": "2026-04-04-6e-canicross-du-domaine-de-givray-77addc",
       "date": "2026-04-04",
       "dateEnd": "2026-04-05",
@@ -875,6 +894,25 @@
       "origin": "European federation sweep round 2 2026-09-12"
     },
     {
+      "id": "2026-04-25-stirnu-buks-canicross-2026-tukums-e39498",
+      "date": "2026-04-25",
+      "dateEnd": null,
+      "country": "Latvia",
+      "event": "Stirnu Buks Canicross 2026 – Tukums",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "RaceDog Latvia Stirnu Buks canicross",
+      "status": "held",
+      "notes": "Official 2026 series round; Vāveres course 5–7 km.",
+      "primarySource": "https://www.canicross.lv/stirnu-buks-kanikross-2026/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "5-7"
+    },
+    {
       "id": "2026-04-25-troph-e-dagy-2026-canitrail-596f9f",
       "date": "2026-04-25",
       "dateEnd": "2026-04-26",
@@ -1065,6 +1103,25 @@
       "origin": "web verification 2026-09-11"
     },
     {
+      "id": "2026-05-23-stirnu-buks-canicross-2026-augstroze-baccf5",
+      "date": "2026-05-23",
+      "dateEnd": null,
+      "country": "Latvia",
+      "event": "Stirnu Buks Canicross 2026 – Augstroze",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "RaceDog Latvia Stirnu Buks canicross",
+      "status": "held",
+      "notes": "Official 2026 series round; Vāveres course 5–7 km.",
+      "primarySource": "https://www.canicross.lv/stirnu-buks-kanikross-2026/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "5-7"
+    },
+    {
       "id": "2026-05-24-5e-cani-cross-des-s-nons-55e83b",
       "date": "2026-05-24",
       "dateEnd": null,
@@ -1125,6 +1182,25 @@
       "primarySource": "https://www.clut.run/quote-e-regolamento/",
       "secondarySource": "https://www.finishers.com/course/ultraktrail",
       "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-06-20-stirnu-buks-canicross-2026-liep-ja-ee22ca",
+      "date": "2026-06-20",
+      "dateEnd": null,
+      "country": "Latvia",
+      "event": "Stirnu Buks Canicross 2026 – Liepāja",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "RaceDog Latvia Stirnu Buks canicross",
+      "status": "held",
+      "notes": "Official 2026 series round; Vāveres course 5–7 km.",
+      "primarySource": "https://www.canicross.lv/stirnu-buks-kanikross-2026/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "5-7"
     },
     {
       "id": "2026-07-04-festival-trail-semois-eb386e",
@@ -1565,6 +1641,27 @@
       "origin": "European federation sweep round 2 2026-09-12"
     },
     {
+      "id": "2026-09-26-canicross-de-banneux-7c47c2",
+      "date": "2026-09-26",
+      "dateEnd": "2026-09-27",
+      "country": "Belgium",
+      "event": "Canicross de Banneux",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "VCF canicross / bike / step",
+      "status": "source-confirmed 2026",
+      "notes": "Official VCF event; two race days.",
+      "primarySource": "https://www.vlaamsecanicrossfederatie.org/events",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-09-26-canicross-yens-ed972c",
       "date": "2026-09-26",
       "dateEnd": "2026-09-27",
@@ -1843,6 +1940,27 @@
       "primarySource": "https://www.myswitzerland.com/en-gb/experiences/events/canitrail-des-bisses/",
       "secondarySource": "https://lecanitraildesbisses.ch/informations/categories/",
       "origin": "uploaded 2026 CSV",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-03-genk-bcf-canicross-d4771b",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "Belgium",
+      "event": "Genk – BCF Canicross",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "BCF canicross / bike / step",
+      "status": "source-confirmed 2026",
+      "notes": "Listed in Belgium 2026/27 canisports calendar as BCF CC/BJ/Step.",
+      "primarySource": "https://vlaamsecanicrossfed.wixsite.com/canicross",
+      "secondarySource": "https://www.canisports2enjoy.nl/canisportskalender-2026-2027/",
+      "origin": "Europe federation sweep round 3 2026-09-12",
       "distanceText": "not published"
     },
     {
@@ -2147,6 +2265,25 @@
       "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
+      "id": "2026-10-10-stirnu-buks-canicross-2026-prieku-i-57de9a",
+      "date": "2026-10-10",
+      "dateEnd": null,
+      "country": "Latvia",
+      "event": "Stirnu Buks Canicross 2026 – Priekuļi",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "RaceDog Latvia Stirnu Buks canicross",
+      "status": "source-confirmed 2026",
+      "notes": "Official 2026 series final; Vāveres course 5–7 km.",
+      "primarySource": "https://www.canicross.lv/stirnu-buks-kanikross-2026/",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "5-7"
+    },
+    {
       "id": "2026-10-14-ifss-european-championships-dryland-2026-50f8e1",
       "date": "2026-10-14",
       "dateEnd": "2026-10-18",
@@ -2183,6 +2320,27 @@
       "primarySource": "https://courses.ffslc.fr/calendar",
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-17-canicross-ireland-2026-27-event-one-lough-boora-097f3f",
+      "date": "2026-10-17",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event One – Lough Boora",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Canicross Ireland championship / recreational classes",
+      "status": "source-confirmed 2026",
+      "notes": "First race of Canicross Ireland 2026/27 season at Lough Boora Parklands – Turraun.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events/ecanicrossirelandevent1",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
       "distanceText": "not published"
     },
     {
@@ -2258,6 +2416,27 @@
       "primarySource": "https://courses.ffslc.fr/calendar",
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-18-canicross-ireland-2026-27-event-two-lough-boora-a6b5e6",
+      "date": "2026-10-18",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event Two – Lough Boora",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Canicross Ireland championship / recreational classes",
+      "status": "source-confirmed 2026",
+      "notes": "Second race of Canicross Ireland 2026/27 season; standalone event.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
       "distanceText": "not published"
     },
     {
@@ -2353,6 +2532,27 @@
       "primarySource": "https://swiss-canicross.ch/de/nos-courses/",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2026-10-24-etalle-bcf-canicross-cb3920",
+      "date": "2026-10-24",
+      "dateEnd": null,
+      "country": "Belgium",
+      "event": "Etalle – BCF Canicross",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "BCF canicross / bike / step",
+      "status": "source-confirmed 2026",
+      "notes": "Listed in Belgium 2026/27 canisports calendar as BCF CC/BJ/Step.",
+      "primarySource": "https://vlaamsecanicrossfed.wixsite.com/canicross",
+      "secondarySource": "https://www.canisports2enjoy.nl/canisportskalender-2026-2027/",
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2026-10-24-harzer-luchstrail-canicross-2e92d0",
@@ -2782,6 +2982,27 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-11-15-canicross-genendijk-eb401e",
+      "date": "2026-11-15",
+      "dateEnd": null,
+      "country": "Belgium",
+      "event": "Canicross Genendijk",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "VCF canicross / bike / dogscooter",
+      "status": "source-confirmed 2026",
+      "notes": "Official VCF event in Ham; multiple distances and disciplines.",
+      "primarySource": "https://www.vlaamsecanicrossfederatie.org/events",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-11-15-championnat-de-normandie-17e-canicross-du-bois-du-roule-afb32d",
       "date": "2026-11-15",
       "dateEnd": null,
@@ -2876,6 +3097,27 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-11-21-waasmunster-federatie-kampioenschap-scooter-0af51a",
+      "date": "2026-11-21",
+      "dateEnd": null,
+      "country": "Belgium",
+      "event": "Waasmunster – Federatie Kampioenschap Scooter",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "BCF canicross / bike / step",
+      "status": "source-confirmed 2026",
+      "notes": "BCF event; federation scooter championship.",
+      "primarySource": "https://vlaamsecanicrossfed.wixsite.com/canicross",
+      "secondarySource": "https://www.canisports2enjoy.nl/canisportskalender-2026-2027/",
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-11-22-canicross-de-maurepas-2e-dition-569887",
       "date": "2026-11-22",
       "dateEnd": null,
@@ -2951,6 +3193,27 @@
       "primarySource": "https://vdsv.de/kalender/",
       "secondarySource": "https://www.spargelhof-klaistow.de/klaistower-schlittenhunderennen/",
       "origin": "VDSV Canicross import 2026-09-12"
+    },
+    {
+      "id": "2026-11-28-maldegem-belgisch-kampioenschap-canicross-9a0616",
+      "date": "2026-11-28",
+      "dateEnd": null,
+      "country": "Belgium",
+      "event": "Maldegem – Belgisch Kampioenschap Canicross",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "BCF Belgian Canicross Championship",
+      "status": "source-confirmed 2026",
+      "notes": "Belgian Canicross championship; CC/BJ/Step listed.",
+      "primarySource": "https://vlaamsecanicrossfed.wixsite.com/canicross",
+      "secondarySource": "https://www.canisports2enjoy.nl/canisportskalender-2026-2027/",
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2026-11-29-canicross-de-la-c-te-dopale-taples-sur-mer-b5efcd",
@@ -3128,6 +3391,25 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2026-12-06-canicross-scherpenheuvel-zichem-ce0e70",
+      "date": "2026-12-06",
+      "dateEnd": null,
+      "country": "Belgium",
+      "event": "Canicross Scherpenheuvel-Zichem",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "VCF canicross only",
+      "status": "provisional 2026",
+      "notes": "Official VCF calendar marks date provisional and canicross only.",
+      "primarySource": "https://www.vlaamsecanicrossfederatie.org/events",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-12-06-k9runners-mariager-dcf-dog-series-2-ca5a1c",
       "date": "2026-12-06",
       "dateEnd": null,
@@ -3190,6 +3472,27 @@
       "origin": "web verification 2026-09-11"
     },
     {
+      "id": "2026-12-12-canicross-ireland-2026-27-event-three-finnamore-lakes-ef0cf3",
+      "date": "2026-12-12",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event Three – Finnamore Lakes",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Canicross Ireland championship / recreational classes",
+      "status": "source-confirmed 2026",
+      "notes": "Third race of 2026/27 season at Finnamore Lakes, Co. Offaly.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events/canicrossirelandevent3-fr4an",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-12-12-ccnl-ijmuiden-e65e31",
       "date": "2026-12-12",
       "dateEnd": null,
@@ -3246,6 +3549,27 @@
       "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
       "origin": "FFSLC verification 2026-09-12",
       "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-12-13-canicross-ireland-2026-27-event-four-finnamore-lakes-782df9",
+      "date": "2026-12-13",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event Four – Finnamore Lakes",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Canicross Ireland championship / recreational classes",
+      "status": "source-confirmed 2026",
+      "notes": "Fourth race of 2026/27 season at Finnamore Lakes, Co. Offaly.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2026-12-13-championnat-r-gional-occitanie-red-paws-race-2-canicross-d16a35",
@@ -3571,6 +3895,27 @@
       "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-02-07-canicross-ireland-2026-27-event-five-rathwood-d693cc",
+      "date": "2027-02-07",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event Five – Rathwood",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Canicross Ireland championship / recreational classes",
+      "status": "source-confirmed 2027",
+      "notes": "Fifth race of 2026/27 season at Rathwood.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2027-02-07-doggy-de-le-run-2-canicross-2f7edf",
@@ -3948,6 +4293,27 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2027-03-20-canicross-ireland-2026-27-event-six-drewstown-house-586b6b",
+      "date": "2027-03-20",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event Six – Drewstown House",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Canicross Ireland championship / recreational classes",
+      "status": "source-confirmed 2027",
+      "notes": "Sixth race meeting of 2026/27 season at Drewstown House.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-03-20-grasmere-wild-trail-runs-79a7a4",
       "date": "2027-03-20",
       "dateEnd": null,
@@ -3988,6 +4354,27 @@
       "primarySource": "https://mushing.cz/cesky-pohar",
       "secondarySource": null,
       "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2027-03-21-canicross-ireland-2026-27-event-seven-drewstown-house-6a7510",
+      "date": "2027-03-21",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event Seven – Drewstown House",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Canicross Ireland championship / recreational classes",
+      "status": "source-confirmed 2027",
+      "notes": "Seventh race of 2026/27 season at Drewstown House.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 3 2026-09-12",
       "distanceText": "not published"
     },
     {
