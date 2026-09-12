@@ -11,8 +11,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 CSV_PATH = ROOT / "data" / "Canitrail_Masterkalender_2026_2027.csv"
-JSON_PATH = ROOT / "data" / "events.json"
-CALENDAR_ROOT = ROOT / "calendar"
+JSON_PATH = ROOT / "dogs" / "data" / "events.json"
+CALENDAR_ROOT = ROOT / "dogs" / "calendar"
 
 EXPECTED_COLUMNS = [
     "Date",
