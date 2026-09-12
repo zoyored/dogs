@@ -7,7 +7,7 @@ X-WR-CALNAME:Canicross & Canitrail Events
 X-WR-CALDESC:Canicross- und Canitrail-Veranstaltungen
 BEGIN:VEVENT
 UID:2026-01-10-otterlo-trailrun-054cc1@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
 SUMMARY:Otterlo Trailrun
@@ -19,7 +19,7 @@ URL:https://canitrail.nl/events/otterlo-trailrun/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-17-coalminers-trail-walk-80674b@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260117
 DTEND;VALUE=DATE:20260118
 SUMMARY:Coalminers’ Trail & Walk
@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-17-mountainman-wintertrail-mittersill-kitzski-559f1b@sandstur
  m.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260117
 DTEND;VALUE=DATE:20260118
 SUMMARY:MOUNTAINMAN Wintertrail Mittersill-KitzSki
@@ -45,7 +45,7 @@ URL:https://www.lg-mettenheim.de/veranstaltungen/mountainman-wintersill_2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-01-24-yeti-dog-run-4bf3f5@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
 SUMMARY:Yeti Dog Run
@@ -57,7 +57,7 @@ URL:https://canitrail.nl/events/yeti-dog-run-18km-en-26km/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-07-natte-neuzen-trail-montferland-e3d45a@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260208
 SUMMARY:Natte Neuzen Trail Montferland
@@ -71,7 +71,7 @@ URL:https://canitrail.nl/de-natte-neuzen-trails-2025-2026/nnt-montferland
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-08-trail-des-fontaines-be3e62@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260208
 DTEND;VALUE=DATE:20260209
 SUMMARY:Trail des Fontaines
@@ -82,7 +82,7 @@ URL:https://chrono-start.com/events/trail-des-fontaines-624-922-102/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-21-bosbokken-canitrail-437540@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
 SUMMARY:Bosbokken Canitrail
@@ -95,7 +95,7 @@ URL:https://www.bosbokken.nl/info/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-01-alden-biesen-trail-walk-2c06c3@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
 SUMMARY:Alden Biesen Trail & Walk
@@ -107,7 +107,7 @@ URL:https://canitrail.nl/events/alden-biesen-trail-walk/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-07-mountainman-wintertrail-reit-im-winkl-b351c4@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260308
 SUMMARY:MOUNTAINMAN Wintertrail Reit im Winkl
@@ -120,7 +120,7 @@ URL:https://mountainman.de/trailrunning-events/alps/wintertrail-reit-im-w
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-14-canitrail-lauf-durchs-nettetal-4-0-50f494@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
 SUMMARY:Canitrail-Lauf durchs Nettetal 4.0
@@ -132,7 +132,7 @@ URL:https://canitrail.nl/events/canitrail-nettetal/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-14-dark-sky-trail-lauwersmeer-321116@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
 SUMMARY:Dark Sky Trail Lauwersmeer
@@ -144,7 +144,7 @@ URL:https://canitrail.nl/events/dark-sky-trail-lauwersmeer/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-14-vuurtoren-trail-ameland-b48796@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260316
 SUMMARY:Vuurtoren Trail Ameland
@@ -155,8 +155,20 @@ DESCRIPTION:Distanzen: 10 km / 18 km\nHund: dogs allowed in regular trail
 URL:https://canitrail.nl/events/vuurtoren-trail-ameland/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-03-21-vulcanicross-bubeck-tour-badda1@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:VulCanicross – Bubeck Tour
+LOCATION:Germany
+DESCRIPTION:Distanzen: 10 km\nHund: dog-powered runner tour within VDSV r
+ ace\nStatus: held\nVDSV official race notice lists the Bubeck Tour at ab
+ out 10 km for runners\, bikers and scooters.
+URL:https://vdsv.de/wp-content/uploads/12.-VCC-Ausschreibung.pdf
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-04-10-raid-cani-trail-64ceda@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260413
 SUMMARY:RAID Cani-Trail
@@ -169,7 +181,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-11-spring-run-the-seasons-cowdray-canirun-34ebdf@sandsturm.co
  m
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
 SUMMARY:Spring Run the Seasons Cowdray – CaniRun
@@ -182,7 +194,7 @@ URL:https://rawenergypursuits.co.uk/spring-run-the-seasons-cowdray-9am-sa
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-18-thoresby-park-longhorn-trail-c68943@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
 SUMMARY:Thoresby Park Longhorn Trail
@@ -197,7 +209,7 @@ URL:https://www.wilddeerevents.co.uk/e/thoresby-park-longhorn-trail-event
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-19-lepouvantrail-b89af4@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
 SUMMARY:L’Epouvan’trail
@@ -209,7 +221,7 @@ URL:https://pyreneeschrono.fr/evenement/epouvantrail/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-25-canitrail-des-moines-ca2211@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260427
 SUMMARY:Canitrail des Moines
@@ -221,8 +233,20 @@ DESCRIPTION:Distanz: not published\nHund: dedicated canitrail event\nStat
 URL:https://swiss-canicross.ch/courses/categorie/canitrails/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-04-25-troph-e-dagy-2026-canitrail-596f9f@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260427
+SUMMARY:Trophée d'Agy 2026 – Canitrail
+LOCATION:France
+DESCRIPTION:Distanzen: 15 km\nHöhenmeter: 700 hm\nHund: dedicated FFSLC c
+ anitrail\nStatus: held\nOfficial FFSLC event page lists a 15 km canitrai
+ l with 700 m D+ on Sunday.
+URL:https://courses.ffslc.fr/event-fiche/1051
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-04-26-scone-palace-trail-runs-8e1222@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
 SUMMARY:Scone Palace Trail Runs
@@ -235,7 +259,7 @@ URL:https://www.wilddeerevents.co.uk/e/scone-palace-trail-runs-2026-14510
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-08-mynydd-y-gaer-mountain-challenge-9a0ce5@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260511
 SUMMARY:Mynydd Y Gaer Mountain Challenge
@@ -247,7 +271,7 @@ URL:https://www.canitrailuk.co.uk/cani-trail-mountain-challenge
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-10-cani-trail-trail-des-ardennes-5029d2@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
 SUMMARY:Cani-Trail & Trail des Ardennes
@@ -262,7 +286,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-10-houghton-trail-event-11k-canicross-run-bac18d@sandsturm.co
  m
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
 SUMMARY:Houghton Trail Event – 11K Canicross Run
@@ -275,7 +299,7 @@ URL:https://www.houghton-trail-event.org.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-14-dauw-canitrail-xperience-b872d0@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:Dauw Canitrail Xperience
@@ -288,7 +312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-23-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02@san
  dsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:Les Gendarmes et les Voleurs de Temps – CaniTrail
@@ -298,8 +322,21 @@ DESCRIPTION:Distanzen: 11.3 km\nHöhenmeter: 185 hm\nHund: dedicated canit
 URL:https://gendarmes-et-voleurs.com/canitrail/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-05-30-canitrail-des-biches-9ee6b0@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260601
+SUMMARY:Canitrail des biches
+LOCATION:France
+DESCRIPTION:Distanzen: 16.2 km\nHöhenmeter: 300 hm\nHund: dedicated FFSLC
+  canitrail\nStatus: held\nOfficial FFSLC event page lists 16.2 km and 30
+ 0 m D+.\nWeitere Quelle: https://ffslc.fr/wp-content/uploads/2025/06/REG
+ -03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/event-fiche/1121/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-05-30-clut-ultraktrail-chien-ultra-k-0bb9b6@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 SUMMARY:CLUT / UltraKtrail / Chien Ultra K
@@ -312,7 +349,7 @@ URL:https://www.clut.run/quote-e-regolamento/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-04-festival-trail-semois-eb386e@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 SUMMARY:Festival Trail Semois
@@ -325,8 +362,22 @@ URL:https://www.ultratiming.live/en/evenement/festival-trail-semois-2026/
  epreuve/canitrail-17km
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-08-09-canitrail-dans-le-taillefer-170d17@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:Canitrail dans le Taillefer
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: dedicated 
+ FFSLC canitrail\nStatus: held\nOfficial FFSLC calendar classifies this a
+ s Canitrail\; FFSLC rules define Canitrail as over 9 km.\nWeitere Quelle
+ : https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canic
+ ross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-08-18-cani-en-trail4daagse-veluwezoom-0c88a1@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260822
 SUMMARY:Cani- en Trail4Daagse Veluwezoom
@@ -337,9 +388,64 @@ DESCRIPTION:Distanz: 37_to_73_total\nHund: multi-day trail opened to cani
 URL:https://canitrail.nl/events/cani-en-trail4daagse-veluwezoom-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-08-21-canitrail-du-diamant-48f529@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260824
+SUMMARY:Canitrail du Diamant
+LOCATION:France
+DESCRIPTION:Distanz: multi-stage >10 total\nHund: dedicated FFST multi-da
+ y canitrail\nStatus: held\nThree-stage Canitrail in Praz-sur-Arly\; offi
+ cial timing confirms 21–23 August 2026 and FFST lists it in the 2025/26 
+ dryland season.\nWeitere Quelle: https://ffstmushing.org/saison-2025-202
+ 6/
+URL:https://www.l-chrono.com/edition/canitrail-du-diamant-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-canitrail-sur-les-traces-de-stevenson-c0ff91@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+SUMMARY:Canitrail sur les traces de Stevenson
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: dedicated 
+ FFSLC canitrail\nStatus: held\nOfficial FFSLC calendar lists a Canitrail
+  on 22–23 August\; FFSLC rules define Canitrail as over 9 km.\nWeitere Q
+ uelle: https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-
+ Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-29-troph-e-de-sirius-des-aiguilles-darves-6bc367@sandsturm.co
+ m
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Trophée de Sirius des Aiguilles d'Arves
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: dedicated 
+ FFSLC canitrail\nStatus: held\nOfficial FFSLC calendar classifies this e
+ vent as Canitrail.\nWeitere Quelle: https://ffslc.fr/wp-content/uploads/
+ 2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-12-woofest-7dc20a@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Woofest
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: FFSLC even
+ t with Canitrail\nStatus: held\nOfficial FFSLC calendar lists Canitrail 
+ among the disciplines.\nWeitere Quelle: https://ffslc.fr/wp-content/uplo
+ ads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-13-beat-the-black-dog-canitrail-trail-run-5c0d72@sandsturm.co
  m
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Beat the Black Dog Canitrail & Trail Run
@@ -351,8 +457,20 @@ URL:https://www.eventbrite.co.uk/e/beat-the-black-dog-12km-canitrail-and-
  trail-run-in-aid-of-papyrus-tickets-1987041685170
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-13-canitrail-des-mont-es-du-daubenschlag-8746f1@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Canitrail des montées du Daubenschlag
+LOCATION:France
+DESCRIPTION:Distanzen: 12 km\nHund: dedicated FFSLC canitrail\nStatus: he
+ ld\nOfficial FFSLC event page states 12 km for the 2026 edition.\nWeiter
+ e Quelle: https://courses.ffslc.fr/calendar
+URL:https://courses.ffslc.fr/event-fiche/1153/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-19-arberland-ultra-trail-hundelauf-e0d397@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:ARBERLAND Ultra Trail – Hundelauf
@@ -366,7 +484,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-limitless-trails-trails-tarmac-summer-12h-byu-557450@sands
  turm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Limitless Trails – Trails & Tarmac Summer 12h BYU
@@ -378,8 +496,21 @@ DESCRIPTION:Distanz: 4.2 mile loops up to 12h\nHund: canicross-friendly e
 URL:https://www.limitlesstrails.co.uk/trails-and-tarmac-12hr-byu
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-26-canifadas-de-gr-oli-res-6817f4@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Canifadas de Gréolières
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: FFSLC even
+ t with Canitrail\nStatus: upcoming\nOfficial FFSLC calendar lists Canitr
+ ail among the disciplines.\nWeitere Quelle: https://ffslc.fr/wp-content/
+ uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-26-harewood-wild-autumn-trail-runs-bd6b30@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Harewood Wild Autumn Trail Runs
@@ -392,7 +523,7 @@ URL:https://harewood.org/events/wild-autumn-trail-runs/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-mountainman-reit-im-winkl-dogs-trail-2327c6@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:MOUNTAINMAN Reit im Winkl – Dogs-Trail
@@ -403,8 +534,21 @@ DESCRIPTION:Distanzen: 11 km / 26 km\nHöhenmeter: 300 hm / 900 hm\nHund:
 URL:https://www.chiemsee-chiemgau.info/mountainman-reit-im-winkl
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-03-14-me-challenge-canicrossbreizh-2f0d81@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:14ème Challenge Canicrossbreizh
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: FFSLC even
+ t with Canitrail\nStatus: upcoming\nOfficial FFSLC calendar lists Canitr
+ ail among the disciplines.\nWeitere Quelle: https://ffslc.fr/wp-content/
+ uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-03-brekeld-runners-trail-f6cc69@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Brekeld Runners Trail
@@ -415,8 +559,21 @@ DESCRIPTION:Distanzen: 10 km / 15 km / 20 km\nHund: dogs allowed in regul
 URL:https://canitrail.nl/events/brekeld-runners-trail/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-03-canicross-de-la-meute-33555c@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Canicross de la Meute
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: FFSLC even
+ t with Canitrail\nStatus: upcoming\nOfficial FFSLC calendar lists Canitr
+ ail among the disciplines.\nWeitere Quelle: https://ffslc.fr/wp-content/
+ uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-03-canitrail-des-bisses-a7d83a@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:Canitrail des Bisses
@@ -429,8 +586,34 @@ URL:https://www.myswitzerland.com/en-gb/experiences/events/canitrail-des-
  bisses/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-03-crocs-de-la-vall-e-du-thouet-2-490f26@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:À'crocs de la vallée du Thouet #2
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: FFSLC even
+ t with Canitrail\nStatus: upcoming\nOfficial FFSLC calendar lists Canitr
+ ail among the disciplines.\nWeitere Quelle: https://ffslc.fr/wp-content/
+ uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-04-canitrail-des-bagnards-ec7ea7@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Canitrail des Bagnards
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: dedicated 
+ FFSLC canitrail\nStatus: upcoming\nOfficial FFSLC calendar classifies th
+ is as Canitrail.\nWeitere Quelle: https://ffslc.fr/wp-content/uploads/20
+ 25/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-04-kustmarathon-zeeland-canitrail-e0fdda@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Kustmarathon Zeeland Canitrail
@@ -443,7 +626,7 @@ URL:https://www.kustmarathon.nl/wedstrijd/canitrail/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-limitless-trails-the-loop-ultra-147c55@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Limitless Trails – The Loop Ultra
@@ -454,22 +637,61 @@ DESCRIPTION:Distanzen: 50 km\nHöhenmeter: 1482 hm\nHund: canicross-friend
 URL:https://www.limitlesstrails.co.uk/the-loop-ultra
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-10-ouaffastienne-et-maxiouaffastienne-e1971c@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Ouaffastienne et Maxiouaffastienne
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: dedicated 
+ FFSLC canitrail\nStatus: upcoming\nOfficial FFSLC calendar classifies th
+ e event as Canitrail.\nWeitere Quelle: https://ffslc.fr/wp-content/uploa
+ ds/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-canitrail-des-cadoles-9c0159@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Canitrail des Cadoles
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: dedicated 
+ FFSLC canitrail\nStatus: upcoming\nOfficial FFSLC calendar classifies th
+ is as Canitrail.\nWeitere Quelle: https://ffslc.fr/wp-content/uploads/20
+ 25/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-18-canitrail-de-la-brie-ffa3f6@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Canitrail de la Brie
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: dedicated 
+ FFSLC canitrail\nStatus: upcoming\nOfficial FFSLC calendar classifies th
+ is as Canitrail.\nWeitere Quelle: https://ffslc.fr/wp-content/uploads/20
+ 25/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-trail-du-calvaire-34f8b7@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Trail du Calvaire
 LOCATION:France
 DESCRIPTION:Distanzen: 12 km\nHund: dedicated canitrail distance\nStatus:
-  source-confirmed 2026\nFinishers shows Cani-Trail du Calvaire 12 km\; E
- sprit Trail gives the 2026 date.\nWeitere Quelle: https://www.esprit-tra
- il.com/calendrier_courses/le-noct%C2%92trail-du-calvaire/
-URL:https://www.finishers.com/en/event/trail-du-calvaire
+  source-confirmed 2026\nFinishers shows Cani-Trail du Calvaire 12 km\; o
+ fficial FFSLC calendar confirms the 31 October date.\nWeitere Quelle: ht
+ tps://www.finishers.com/en/event/trail-du-calvaire
+URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-lakeland-paws-grizedale-growl-west-side-96afbf@sandsturm.c
  om
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Lakeland Paws – Grizedale Growl West Side
@@ -482,7 +704,7 @@ URL:https://lakelandpaws.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-blue-castle-run-6b4b8c@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Blue Castle Run
@@ -495,7 +717,7 @@ URL:https://www.bluecastlerun.co.uk/blue-castle-run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-the-grim-reservoir-dogs-694a7c@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:The Grim Reservoir Dogs
@@ -507,22 +729,60 @@ URL:https://www.itsgrimupnorthrunning.co.uk/e/the-grim-reservoir-dogs-116
  15
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-15-trail-des-ch-taignes-07ac4c@sandsturm.com
-DTSTAMP:20260912T170953Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Trail des Châtaignes
+UID:2026-11-08-la-cani-haut-marnaise-canitrail-ec998b@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:La Cani Haut-Marnaise – Canitrail
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: FFSLC even
+ t with Canitrail\nStatus: upcoming\nOfficial FFSLC calendar lists Canitr
+ ail among the disciplines.\nWeitere Quelle: https://ffslc.fr/wp-content/
+ uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-canitrail-des-ch-taignes-b09f2c@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Canitrail des Châtaignes
 LOCATION:France
 DESCRIPTION:Distanzen: 11 km\nHund: dedicated dog class within trail even
- t\nStatus: source-confirmed 2026\nFinishers shows an 11 km dog class ‘Le
-  Cani’\; Esprit Trail gives the 2026 date.\nWeitere Quelle: https://www.
- esprit-trail.com/calendrier_courses/trail-des-chataignes-2/
-URL:https://www.finishers.com/en/event/trail-des-chataignes-de-cormeille-
- en-parisis
+ t\nStatus: upcoming\nOfficial FFSLC calendar gives 14 November 2026\; pr
+ eviously stored 15 November date corrected.\nWeitere Quelle: https://www
+ .finishers.com/en/event/trail-des-chataignes-de-cormeille-en-parisis
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-canitrail-deguzon-8f4177@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Canitrail d’Eguzon
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: dedicated 
+ FFSLC canitrail\nStatus: upcoming\nOfficial FFSLC calendar classifies th
+ is as Canitrail.\nWeitere Quelle: https://ffslc.fr/wp-content/uploads/20
+ 25/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-la-montendraise-canitrail-cce7cf@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:La Montendraise – Canitrail
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: dedicated 
+ FFSLC canitrail\nStatus: upcoming\nOfficial FFSLC calendar classifies th
+ is as Canitrail.\nWeitere Quelle: https://ffslc.fr/wp-content/uploads/20
+ 25/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-atw-grafham-water-10-mile-canicross-72b498@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:ATW Grafham Water 10 Mile Canicross
@@ -536,7 +796,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-maidstone-harriers-turkey-run-canicross-542cba@sandsturm.c
  om
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Maidstone Harriers Turkey Run – Canicross
@@ -549,7 +809,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-mountainman-nikolaus-trail-pommelsbrunn-dogs-trail-e8c17e@
  sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:MOUNTAINMAN Nikolaus-Trail Pommelsbrunn – Dogs-Trail
@@ -561,8 +821,21 @@ URL:https://mountainman.de/trailrunning-events/hills/nikolaustrail-pommel
  sbrunn/dogs-trail/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-12-cross-dog-de-cand-canitrail-de-cand-036082@sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Cross & Dog de Candé – Canitrail de Candé
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: FFSLC even
+ t with Canitrail\nStatus: upcoming\nOfficial FFSLC calendar lists Canitr
+ ail among the disciplines.\nWeitere Quelle: https://ffslc.fr/wp-content/
+ uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-13-sherwood-pines-festive-trail-runs-b51ba1@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Sherwood Pines Festive Trail Runs

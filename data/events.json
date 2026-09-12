@@ -2,9 +2,9 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-12T17:09:53Z",
+    "generatedAt": "2026-09-12T17:14:06Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 59
+    "count": 83
   },
   "events": [
     {
@@ -240,6 +240,23 @@
       "origin": "uploaded 2026 CSV"
     },
     {
+      "id": "2026-03-21-vulcanicross-bubeck-tour-badda1",
+      "date": "2026-03-21",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "VulCanicross – Bubeck Tour",
+      "distancesKm": [
+        10
+      ],
+      "elevationM": [],
+      "dogAccess": "dog-powered runner tour within VDSV race",
+      "status": "held",
+      "notes": "VDSV official race notice lists the Bubeck Tour at about 10 km for runners, bikers and scooters.",
+      "primarySource": "https://vdsv.de/wp-content/uploads/12.-VCC-Ausschreibung.pdf",
+      "secondarySource": null,
+      "origin": "VDSV verification 2026-09-12"
+    },
+    {
       "id": "2026-04-10-raid-cani-trail-64ceda",
       "date": "2026-04-10",
       "dateEnd": "2026-04-12",
@@ -324,6 +341,25 @@
       "secondarySource": "https://swiss-canicross.ch/course/canitrails-des-moines/",
       "origin": "uploaded 2026 CSV",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-04-25-troph-e-dagy-2026-canitrail-596f9f",
+      "date": "2026-04-25",
+      "dateEnd": "2026-04-26",
+      "country": "France",
+      "event": "Trophée d'Agy 2026 – Canitrail",
+      "distancesKm": [
+        15
+      ],
+      "elevationM": [
+        700
+      ],
+      "dogAccess": "dedicated FFSLC canitrail",
+      "status": "held",
+      "notes": "Official FFSLC event page lists a 15 km canitrail with 700 m D+ on Sunday.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1051",
+      "secondarySource": null,
+      "origin": "FFSLC verification 2026-09-12"
     },
     {
       "id": "2026-04-26-scone-palace-trail-runs-8e1222",
@@ -433,6 +469,25 @@
       "origin": "web verification 2026-09-11"
     },
     {
+      "id": "2026-05-30-canitrail-des-biches-9ee6b0",
+      "date": "2026-05-30",
+      "dateEnd": "2026-05-31",
+      "country": "France",
+      "event": "Canitrail des biches",
+      "distancesKm": [
+        16.2
+      ],
+      "elevationM": [
+        300
+      ],
+      "dogAccess": "dedicated FFSLC canitrail",
+      "status": "held",
+      "notes": "Official FFSLC event page lists 16.2 km and 300 m D+.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1121/",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12"
+    },
+    {
       "id": "2026-05-30-clut-ultraktrail-chien-ultra-k-0bb9b6",
       "date": "2026-05-30",
       "dateEnd": null,
@@ -468,6 +523,22 @@
       "origin": "uploaded 2026 CSV"
     },
     {
+      "id": "2026-08-09-canitrail-dans-le-taillefer-170d17",
+      "date": "2026-08-09",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canitrail dans le Taillefer",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC canitrail",
+      "status": "held",
+      "notes": "Official FFSLC calendar classifies this as Canitrail; FFSLC rules define Canitrail as over 9 km.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
       "id": "2026-08-18-cani-en-trail4daagse-veluwezoom-0c88a1",
       "date": "2026-08-18",
       "dateEnd": "2026-08-21",
@@ -482,6 +553,70 @@
       "secondarySource": null,
       "origin": "uploaded 2026 CSV",
       "distanceText": "37_to_73_total"
+    },
+    {
+      "id": "2026-08-21-canitrail-du-diamant-48f529",
+      "date": "2026-08-21",
+      "dateEnd": "2026-08-23",
+      "country": "France",
+      "event": "Canitrail du Diamant",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFST multi-day canitrail",
+      "status": "held",
+      "notes": "Three-stage Canitrail in Praz-sur-Arly; official timing confirms 21–23 August 2026 and FFST lists it in the 2025/26 dryland season.",
+      "primarySource": "https://www.l-chrono.com/edition/canitrail-du-diamant-2026/",
+      "secondarySource": "https://ffstmushing.org/saison-2025-2026/",
+      "origin": "FFST verification 2026-09-12",
+      "distanceText": "multi-stage >10 total"
+    },
+    {
+      "id": "2026-08-22-canitrail-sur-les-traces-de-stevenson-c0ff91",
+      "date": "2026-08-22",
+      "dateEnd": "2026-08-23",
+      "country": "France",
+      "event": "Canitrail sur les traces de Stevenson",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC canitrail",
+      "status": "held",
+      "notes": "Official FFSLC calendar lists a Canitrail on 22–23 August; FFSLC rules define Canitrail as over 9 km.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-08-29-troph-e-de-sirius-des-aiguilles-darves-6bc367",
+      "date": "2026-08-29",
+      "dateEnd": "2026-08-30",
+      "country": "France",
+      "event": "Trophée de Sirius des Aiguilles d'Arves",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC canitrail",
+      "status": "held",
+      "notes": "Official FFSLC calendar classifies this event as Canitrail.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-09-12-woofest-7dc20a",
+      "date": "2026-09-12",
+      "dateEnd": "2026-09-13",
+      "country": "France",
+      "event": "Woofest",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "FFSLC event with Canitrail",
+      "status": "held",
+      "notes": "Official FFSLC calendar lists Canitrail among the disciplines.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
       "id": "2026-09-13-beat-the-black-dog-canitrail-trail-run-5c0d72",
@@ -499,6 +634,23 @@
       "primarySource": "https://www.eventbrite.co.uk/e/beat-the-black-dog-12km-canitrail-and-trail-run-in-aid-of-papyrus-tickets-1987041685170",
       "secondarySource": null,
       "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2026-09-13-canitrail-des-mont-es-du-daubenschlag-8746f1",
+      "date": "2026-09-13",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canitrail des montées du Daubenschlag",
+      "distancesKm": [
+        12
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC canitrail",
+      "status": "held",
+      "notes": "Official FFSLC event page states 12 km for the 2026 edition.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1153/",
+      "secondarySource": "https://courses.ffslc.fr/calendar",
+      "origin": "FFSLC verification 2026-09-12"
     },
     {
       "id": "2026-09-19-arberland-ultra-trail-hundelauf-e0d397",
@@ -536,6 +688,22 @@
       "secondarySource": "https://www.limitlesstrails.co.uk/canicross-menu",
       "origin": "web verification 2026-09-12",
       "distanceText": "4.2 mile loops up to 12h"
+    },
+    {
+      "id": "2026-09-26-canifadas-de-gr-oli-res-6817f4",
+      "date": "2026-09-26",
+      "dateEnd": "2026-09-27",
+      "country": "France",
+      "event": "Canifadas de Gréolières",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "FFSLC event with Canitrail",
+      "status": "upcoming",
+      "notes": "Official FFSLC calendar lists Canitrail among the disciplines.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
       "id": "2026-09-26-harewood-wild-autumn-trail-runs-bd6b30",
@@ -577,6 +745,22 @@
       "origin": "web verification 2026-09-11"
     },
     {
+      "id": "2026-10-03-14-me-challenge-canicrossbreizh-2f0d81",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "France",
+      "event": "14ème Challenge Canicrossbreizh",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "FFSLC event with Canitrail",
+      "status": "upcoming",
+      "notes": "Official FFSLC calendar lists Canitrail among the disciplines.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
       "id": "2026-10-03-brekeld-runners-trail-f6cc69",
       "date": "2026-10-03",
       "dateEnd": null,
@@ -596,6 +780,22 @@
       "origin": "uploaded 2026 CSV"
     },
     {
+      "id": "2026-10-03-canicross-de-la-meute-33555c",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "France",
+      "event": "Canicross de la Meute",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "FFSLC event with Canitrail",
+      "status": "upcoming",
+      "notes": "Official FFSLC calendar lists Canitrail among the disciplines.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
       "id": "2026-10-03-canitrail-des-bisses-a7d83a",
       "date": "2026-10-03",
       "dateEnd": "2026-10-04",
@@ -610,6 +810,38 @@
       "secondarySource": "https://lecanitraildesbisses.ch/informations/categories/",
       "origin": "uploaded 2026 CSV",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-03-crocs-de-la-vall-e-du-thouet-2-490f26",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "France",
+      "event": "À'crocs de la vallée du Thouet #2",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "FFSLC event with Canitrail",
+      "status": "upcoming",
+      "notes": "Official FFSLC calendar lists Canitrail among the disciplines.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-10-04-canitrail-des-bagnards-ec7ea7",
+      "date": "2026-10-04",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canitrail des Bagnards",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC canitrail",
+      "status": "upcoming",
+      "notes": "Official FFSLC calendar classifies this as Canitrail.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
       "id": "2026-10-04-kustmarathon-zeeland-canitrail-e0fdda",
@@ -648,6 +880,54 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2026-10-10-ouaffastienne-et-maxiouaffastienne-e1971c",
+      "date": "2026-10-10",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Ouaffastienne et Maxiouaffastienne",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC canitrail",
+      "status": "upcoming",
+      "notes": "Official FFSLC calendar classifies the event as Canitrail.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-10-17-canitrail-des-cadoles-9c0159",
+      "date": "2026-10-17",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canitrail des Cadoles",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC canitrail",
+      "status": "upcoming",
+      "notes": "Official FFSLC calendar classifies this as Canitrail.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-10-18-canitrail-de-la-brie-ffa3f6",
+      "date": "2026-10-18",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canitrail de la Brie",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC canitrail",
+      "status": "upcoming",
+      "notes": "Official FFSLC calendar classifies this as Canitrail.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
       "id": "2026-10-31-trail-du-calvaire-34f8b7",
       "date": "2026-10-31",
       "dateEnd": null,
@@ -659,10 +939,10 @@
       "elevationM": [],
       "dogAccess": "dedicated canitrail distance",
       "status": "source-confirmed 2026",
-      "notes": "Finishers shows Cani-Trail du Calvaire 12 km; Esprit Trail gives the 2026 date.",
-      "primarySource": "https://www.finishers.com/en/event/trail-du-calvaire",
-      "secondarySource": "https://www.esprit-trail.com/calendrier_courses/le-noct%C2%92trail-du-calvaire/",
-      "origin": "uploaded 2026 CSV"
+      "notes": "Finishers shows Cani-Trail du Calvaire 12 km; official FFSLC calendar confirms the 31 October date.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://www.finishers.com/en/event/trail-du-calvaire",
+      "origin": "FFSLC + uploaded verification 2026-09-12"
     },
     {
       "id": "2026-11-01-lakeland-paws-grizedale-growl-west-side-96afbf",
@@ -718,21 +998,69 @@
       "origin": "web verification 2026-09-12"
     },
     {
-      "id": "2026-11-15-trail-des-ch-taignes-07ac4c",
-      "date": "2026-11-15",
+      "id": "2026-11-08-la-cani-haut-marnaise-canitrail-ec998b",
+      "date": "2026-11-08",
       "dateEnd": null,
       "country": "France",
-      "event": "Trail des Châtaignes",
+      "event": "La Cani Haut-Marnaise – Canitrail",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "FFSLC event with Canitrail",
+      "status": "upcoming",
+      "notes": "Official FFSLC calendar lists Canitrail among the disciplines.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-11-14-canitrail-des-ch-taignes-b09f2c",
+      "date": "2026-11-14",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canitrail des Châtaignes",
       "distancesKm": [
         11
       ],
       "elevationM": [],
       "dogAccess": "dedicated dog class within trail event",
-      "status": "source-confirmed 2026",
-      "notes": "Finishers shows an 11 km dog class ‘Le Cani’; Esprit Trail gives the 2026 date.",
-      "primarySource": "https://www.finishers.com/en/event/trail-des-chataignes-de-cormeille-en-parisis",
-      "secondarySource": "https://www.esprit-trail.com/calendrier_courses/trail-des-chataignes-2/",
-      "origin": "uploaded 2026 CSV"
+      "status": "upcoming",
+      "notes": "Official FFSLC calendar gives 14 November 2026; previously stored 15 November date corrected.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://www.finishers.com/en/event/trail-des-chataignes-de-cormeille-en-parisis",
+      "origin": "FFSLC correction 2026-09-12"
+    },
+    {
+      "id": "2026-11-14-canitrail-deguzon-8f4177",
+      "date": "2026-11-14",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canitrail d’Eguzon",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC canitrail",
+      "status": "upcoming",
+      "notes": "Official FFSLC calendar classifies this as Canitrail.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-12-05-la-montendraise-canitrail-cce7cf",
+      "date": "2026-12-05",
+      "dateEnd": "2026-12-06",
+      "country": "France",
+      "event": "La Montendraise – Canitrail",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC canitrail",
+      "status": "upcoming",
+      "notes": "Official FFSLC calendar classifies this as Canitrail.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
       "id": "2026-12-06-atw-grafham-water-10-mile-canicross-72b498",
@@ -792,6 +1120,22 @@
       "origin": "web verification 2026-09-11"
     },
     {
+      "id": "2026-12-12-cross-dog-de-cand-canitrail-de-cand-036082",
+      "date": "2026-12-12",
+      "dateEnd": "2026-12-13",
+      "country": "France",
+      "event": "Cross & Dog de Candé – Canitrail de Candé",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "FFSLC event with Canitrail",
+      "status": "upcoming",
+      "notes": "Official FFSLC calendar lists Canitrail among the disciplines.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
       "id": "2026-12-13-sherwood-pines-festive-trail-runs-b51ba1",
       "date": "2026-12-13",
       "dateEnd": null,
@@ -842,6 +1186,22 @@
       "origin": "web verification 2026-09-11",
       "distanceText": "7.5 km loops",
       "elevationText": "110 per loop"
+    },
+    {
+      "id": "2027-01-30-cani-trophy-fontainebleau-2027-canitrail-c23db8",
+      "date": "2027-01-30",
+      "dateEnd": "2027-01-31",
+      "country": "France",
+      "event": "CANI TROPHY FONTAINEBLEAU 2027 – Canitrail",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "FFSLC event with Canitrail",
+      "status": "announced",
+      "notes": "Official FFSLC calendar lists Canitrail among the disciplines.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
       "id": "2027-02-06-limitless-trails-trails-tarmac-winter-12h-byu-8b215e",
@@ -1007,6 +1367,22 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2027-04-10-canicross-xtremtrail-de-brameloup-canitrail-931fd2",
+      "date": "2027-04-10",
+      "dateEnd": "2027-04-11",
+      "country": "France",
+      "event": "Canicross XtremTrail de Brameloup – Canitrail",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "FFSLC event with Canitrail",
+      "status": "announced",
+      "notes": "Official FFSLC calendar lists Canitrail among the disciplines.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
       "id": "2027-04-17-limitless-trails-beast-of-the-beacons-fbf99c",
       "date": "2027-04-17",
       "dateEnd": null,
@@ -1028,6 +1404,22 @@
       "primarySource": "https://www.limitlesstrails.co.uk/beast-of-the-beacons",
       "secondarySource": null,
       "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2027-04-24-4eme-castelcanicross-de-blangy-le-ch-teau-canitrail-7a7895",
+      "date": "2027-04-24",
+      "dateEnd": "2027-04-25",
+      "country": "France",
+      "event": "4eme Castel'Canicross de Blangy le Château – Canitrail",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "FFSLC event with Canitrail",
+      "status": "announced",
+      "notes": "Official FFSLC calendar lists Canitrail among the disciplines.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
+      "origin": "FFSLC verification 2026-09-12",
+      "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
       "id": "2027-05-08-mountainman-nesselwang-dogs-trail-0999f0",

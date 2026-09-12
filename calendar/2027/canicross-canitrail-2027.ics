@@ -7,7 +7,7 @@ X-WR-CALNAME:Canicross & Canitrail Events
 X-WR-CALDESC:Canicross- und Canitrail-Veranstaltungen
 BEGIN:VEVENT
 UID:2027-01-09-yorkshire-trail-runs-harewood-house-054718@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Yorkshire Trail Runs – Harewood House
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-mountainman-dogs-winterloop-reit-im-winkl-ed8333@sandsturm
  .com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:MOUNTAINMAN Dogs-Winterloop Reit im Winkl
@@ -33,9 +33,24 @@ URL:https://mountainman.de/trailrunning-events/alps/winterloop-reit-im-wi
  nkl/dogs-trail/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-30-cani-trophy-fontainebleau-2027-canitrail-c23db8@sandsturm.
+ com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+SUMMARY:CANI TROPHY FONTAINEBLEAU 2027 – Canitrail
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: FFSLC even
+ t with Canitrail\nStatus: announced\nOfficial FFSLC calendar lists Canit
+ rail among the disciplines.\nWeitere Quelle: https://ffslc.fr/wp-content
+ /uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pd
+ f
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-06-limitless-trails-trails-tarmac-winter-12h-byu-8b215e@sands
  turm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Limitless Trails – Trails & Tarmac Winter 12h BYU
@@ -49,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-lakeland-paws-whinlatter-tails-south-side-9d2783@sandsturm
  .com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Lakeland Paws – Whinlatter Tails South Side
@@ -62,7 +77,7 @@ URL:https://lakelandpaws.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-fountains-abbey-wild-trail-runs-cd37ac@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Fountains Abbey Wild Trail Runs
@@ -75,7 +90,7 @@ URL:https://gotrail.run/en/race/fountains-abbey-wild-trail-runs
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-run-with-k9s-endurance-relay-e9bcec@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Run With K9s – Endurance Relay
@@ -87,7 +102,7 @@ URL:https://www.runwithk9s.com/canicrossrelays
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-limitless-trails-beast-of-the-blacks-a8cf6f@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Limitless Trails – Beast of the Blacks
@@ -100,7 +115,7 @@ URL:https://www.limitlesstrails.co.uk/beast-of-the-blacks
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-lakeland-paws-tour-de-grizedale-2d808a@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Lakeland Paws – Tour de Grizedale
@@ -113,7 +128,7 @@ URL:https://lakelandpaws.com/grizedale-growl-tour-de-grizedale/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-grasmere-wild-trail-runs-79a7a4@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Grasmere Wild Trail Runs
@@ -127,7 +142,7 @@ URL:https://www.wilddeerevents.co.uk/e/grasmere-wild-trail-runs-2027-1449
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-04-lakeland-paws-tour-de-whinlatter-cab24f@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Lakeland Paws – Tour de Whinlatter
@@ -140,7 +155,7 @@ URL:https://www.sientries.co.uk/event.php?elid=Y&event_id=17842
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-04-scone-palace-trail-runs-8e1222@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Scone Palace Trail Runs
@@ -151,8 +166,23 @@ DESCRIPTION:Distanzen: 10 km / 21.1 km\nHund: canicross-friendly regular
 URL:https://www.wilddeerevents.co.uk/e/scone-palace-trail-runs-2026-14510
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-10-canicross-xtremtrail-de-brameloup-canitrail-931fd2@sandstu
+ rm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270412
+SUMMARY:Canicross XtremTrail de Brameloup – Canitrail
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: FFSLC even
+ t with Canitrail\nStatus: announced\nOfficial FFSLC calendar lists Canit
+ rail among the disciplines.\nWeitere Quelle: https://ffslc.fr/wp-content
+ /uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pd
+ f
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-17-limitless-trails-beast-of-the-beacons-fbf99c@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Limitless Trails – Beast of the Beacons
@@ -164,8 +194,23 @@ DESCRIPTION:Distanzen: 16 km / 32.5 km / 65 km\nHöhenmeter: 617 hm / 1286
 URL:https://www.limitlesstrails.co.uk/beast-of-the-beacons
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-24-4eme-castelcanicross-de-blangy-le-ch-teau-canitrail-7a7895
+ @sandsturm.com
+DTSTAMP:20260912T171406Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270426
+SUMMARY:4eme Castel'Canicross de Blangy le Château – Canitrail
+LOCATION:France
+DESCRIPTION:Distanz: not published (>9 per FFSLC rules)\nHund: FFSLC even
+ t with Canitrail\nStatus: announced\nOfficial FFSLC calendar lists Canit
+ rail among the disciplines.\nWeitere Quelle: https://ffslc.fr/wp-content
+ /uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pd
+ f
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-05-08-mountainman-nesselwang-dogs-trail-0999f0@sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:MOUNTAINMAN Nesselwang – Dogs-Trail
@@ -179,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-15-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02@san
  dsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Les Gendarmes et les Voleurs de Temps – CaniTrail
@@ -192,7 +237,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-10-limitless-trails-tenacious-ten-endurance-challenge-9e0dfb@
  sandsturm.com
-DTSTAMP:20260912T170953Z
+DTSTAMP:20260912T171406Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
 SUMMARY:Limitless Trails – Tenacious Ten Endurance Challenge
