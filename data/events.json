@@ -2,9 +2,9 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-12T17:40:29Z",
+    "generatedAt": "2026-09-12T17:45:32Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 191,
+    "count": 216,
     "categories": [
       "bike jöring",
       "canicross",
@@ -130,6 +130,26 @@
       "origin": "web verification 2026-09-11"
     },
     {
+      "id": "2026-01-23-kulm-race-2026-e09e63",
+      "date": "2026-01-23",
+      "dateEnd": "2026-01-25",
+      "country": "Austria",
+      "event": "Kulm Race 2026",
+      "category": [
+        "canicross",
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "AFSS snow race incl. Schneecanicross and sled classes",
+      "status": "held",
+      "notes": "Official AFSS event page; race postponed to 23–25 Jan 2026.",
+      "primarySource": "https://afss.at/event/kulm-race/",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-01-24-campeonato-de-espa-a-mushing-nieve-sprint-baqueira-beret-a1b0f7",
       "date": "2026-01-24",
       "dateEnd": "2026-01-25",
@@ -237,6 +257,31 @@
       "primarySource": "https://canitrail.nl/de-natte-neuzen-trails-2025-2026/nnt-montferland-2026/",
       "secondarySource": null,
       "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-02-07-z-sada-2026-ed5bb1",
+      "date": "2026-02-07",
+      "dateEnd": "2026-02-08",
+      "country": "Czech Republic",
+      "event": "Zásada 2026",
+      "category": [
+        "ski jöring",
+        "sledge"
+      ],
+      "distancesKm": [
+        5.2,
+        8.3,
+        11.3,
+        13.8,
+        14.1
+      ],
+      "elevationM": [],
+      "dogAccess": "ČASS on-snow race",
+      "status": "held",
+      "notes": "Official ČASS proposition lists skijoring and sled classes with distances by class.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1332",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12"
     },
     {
       "id": "2026-02-08-trail-des-fontaines-be3e62",
@@ -366,6 +411,27 @@
       "origin": "web verification 2026-09-11"
     },
     {
+      "id": "2026-03-07-studienka-dog-race-2026-04bad2",
+      "date": "2026-03-07",
+      "dateEnd": "2026-03-08",
+      "country": "Slovakia",
+      "event": "Studienka Dog Race 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "held",
+      "notes": "Official SZPZ event includes Canicross, Bikejöring and Scooter classes.",
+      "primarySource": "https://mushing.sk/pretek/studienka-dog-race-2026/",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-03-14-canitrail-lauf-durchs-nettetal-4-0-50f494",
       "date": "2026-03-14",
       "dateEnd": null,
@@ -407,6 +473,28 @@
       "origin": "uploaded 2026 CSV"
     },
     {
+      "id": "2026-03-14-jarn-k-ry-mo-ovce-2026-8db958",
+      "date": "2026-03-14",
+      "dateEnd": "2026-03-15",
+      "country": "Slovakia",
+      "event": "Jarné káry Mošovce 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        5.3
+      ],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "cancelled",
+      "notes": "Official SZPZ event was cancelled due veterinary restrictions; planned 5.3 km main course.",
+      "primarySource": "https://mushing.sk/pretek/jarne-kary-mosovce-2026/",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12"
+    },
+    {
       "id": "2026-03-14-vuurtoren-trail-ameland-b48796",
       "date": "2026-03-14",
       "dateEnd": "2026-03-15",
@@ -427,6 +515,27 @@
       "primarySource": "https://canitrail.nl/events/vuurtoren-trail-ameland/",
       "secondarySource": null,
       "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-03-20-st-brsk-sprint-2026-a61680",
+      "date": "2026-03-20",
+      "dateEnd": "2026-03-22",
+      "country": "Czech Republic",
+      "event": "STŘÍBRSKÝ SPRINT 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "ČASS dryland sprint",
+      "status": "held",
+      "notes": "Official ČASS proposition lists CC, BKJ and scooter classes.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1357",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2026-03-21-farkasord-t-2-0-44fac4",
@@ -472,6 +581,27 @@
       "origin": "VDSV verification 2026-09-12"
     },
     {
+      "id": "2026-03-28-prima-mushing-open-oravsk-h-j-39b3bb",
+      "date": "2026-03-28",
+      "dateEnd": "2026-03-29",
+      "country": "Slovakia",
+      "event": "PRIMA Mushing Open – Oravský Háj",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "held",
+      "notes": "Official SZPZ event lists Canicross and mono dryland classes.",
+      "primarySource": "https://mushing.sk/pretek/oravsky-haj-2026/",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-04-04-6e-canicross-du-domaine-de-givray-77addc",
       "date": "2026-04-04",
       "dateEnd": "2026-04-05",
@@ -488,6 +618,27 @@
       "primarySource": "https://courses.ffslc.fr/event-fiche/970",
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-04-04-stupava-sady-2026-413cf1",
+      "date": "2026-04-04",
+      "dateEnd": null,
+      "country": "Slovakia",
+      "event": "Stupava sady 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "held",
+      "notes": "Official SZPZ event; helmet rule and event regulations confirm Canicross and wheeled mono classes.",
+      "primarySource": "https://mushing.sk/pretek/stupava-sady-2026/",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
       "distanceText": "not published"
     },
     {
@@ -510,6 +661,49 @@
       "primarySource": "https://www.canitrailuk.co.uk/about-1",
       "secondarySource": null,
       "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-04-11-bosorkin-canicross-2026-spring-round-c38900",
+      "date": "2026-04-11",
+      "dateEnd": "2026-04-12",
+      "country": "Slovakia",
+      "event": "Bosorkin Canicross 2026 – spring round",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SZPZ Canicross event",
+      "status": "held",
+      "notes": "Official SZPZ Bosorkin spring race; regulations cover CC, BKJ and SC.",
+      "primarySource": "https://mushing.sk/pretek/bosorkin-canicross-2026-1-jarne-kolo/",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-04-11-hmc-charity-cup-2026-51a7b1",
+      "date": "2026-04-11",
+      "dateEnd": "2026-04-12",
+      "country": "Czech Republic",
+      "event": "HMC Charity Cup 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        4
+      ],
+      "elevationM": [],
+      "dogAccess": "ČASS dryland race",
+      "status": "held",
+      "notes": "Official ČASS proposition lists CC, BKJ and scooter classes; 4 km stages.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1328",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12"
     },
     {
       "id": "2026-04-11-spring-run-the-seasons-cowdray-canirun-34ebdf",
@@ -553,6 +747,48 @@
       "primarySource": "https://www.canicross.hu/category/bikejoring/",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2026-04-11-wienerwaldkraxler-dogtrail-41ca22",
+      "date": "2026-04-11",
+      "dateEnd": null,
+      "country": "Austria",
+      "event": "Wienerwaldkraxler Dogtrail",
+      "category": [
+        "canicross",
+        "dogs-trail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "AFSS listed Canicross / Dogtrail",
+      "status": "held",
+      "notes": "Official AFSS event in Naturpark Purkersdorf.",
+      "primarySource": "https://afss.at/event/wienerwaldkraxler-dogtrail/",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-04-18-pezinsk-baba-2026-29e39b",
+      "date": "2026-04-18",
+      "dateEnd": "2026-04-19",
+      "country": "Slovakia",
+      "event": "Pezinská Baba 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        2.8
+      ],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "held",
+      "notes": "Official SZPZ page lists CC, BKJ, SC1 and SC2; course 2.8 km.",
+      "primarySource": "https://mushing.sk/pretek/pezinska-baba-2026/",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12"
     },
     {
       "id": "2026-04-18-thoresby-park-longhorn-trail-c68943",
@@ -615,6 +851,28 @@
       "secondarySource": "https://swiss-canicross.ch/course/canitrails-des-moines/",
       "origin": "uploaded 2026 CSV",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-04-25-rajeck-canicross-2026-048932",
+      "date": "2026-04-25",
+      "dateEnd": "2026-04-26",
+      "country": "Slovakia",
+      "event": "Rajecký Canicross 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        3.1
+      ],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "held",
+      "notes": "Official SZPZ page lists Canicross, Bikejöring and Scooter; course 3.1 km.",
+      "primarySource": "https://mushing.sk/pretek/rajecky-canicross-2026/",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12"
     },
     {
       "id": "2026-04-25-troph-e-dagy-2026-canitrail-596f9f",
@@ -988,6 +1246,25 @@
       "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
+      "id": "2026-09-05-canicross-kolem-skal-studen-46a610",
+      "date": "2026-09-05",
+      "dateEnd": null,
+      "country": "Czech Republic",
+      "event": "Canicross Kolem Skal Studené",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "ČASS Canicross race",
+      "status": "held",
+      "notes": "Official ČASS calendar lists III. liga Canicross Kolem Skal Studené.",
+      "primarySource": "https://www.mushing.cz/race/",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-09-12-canicross-saint-cierges-678528",
       "date": "2026-09-12",
       "dateEnd": "2026-09-13",
@@ -1004,6 +1281,49 @@
       "primarySource": "https://swiss-canicross.ch/de/nos-courses/",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2026-09-12-nomina-n-z-vod-na-me-ifss-2026-hora-ovice-f8c811",
+      "date": "2026-09-12",
+      "dateEnd": "2026-09-13",
+      "country": "Czech Republic",
+      "event": "Nominační závod na ME IFSS 2026 – Horažďovice",
+      "category": [
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        3
+      ],
+      "elevationM": [],
+      "dogAccess": "ČASS nomination race",
+      "status": "held",
+      "notes": "Official proposition lists BKJW, SC1W and SC2 on 3+3 km.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1397",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12"
+    },
+    {
+      "id": "2026-09-12-pezinsk-baba-09-2026-592295",
+      "date": "2026-09-12",
+      "dateEnd": "2026-09-13",
+      "country": "Slovakia",
+      "event": "Pezinská Baba 09/2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        2.8
+      ],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "held",
+      "notes": "Official SZPZ page lists CC, BKJ, SC1 and SC2; course 2.8 km.",
+      "primarySource": "https://mushing.sk/pretek/pezinska-baba-09-2026/",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12"
     },
     {
       "id": "2026-09-12-ume-draget-f9d977",
@@ -1185,6 +1505,27 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2026-09-20-haniska-09-2026-022d4e",
+      "date": "2026-09-20",
+      "dateEnd": null,
+      "country": "Slovakia",
+      "event": "Haniska 09/2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "upcoming",
+      "notes": "Official SZPZ event lists Canicross, Bikejöring, SC1 and SC2 classes.",
+      "primarySource": "https://mushing.sk/pretek/haniska-09-2026/",
+      "secondarySource": "https://mushing.sk/preteky/",
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-09-20-interclub-des-menhirs-canicross-b1cb24",
       "date": "2026-09-20",
       "dateEnd": null,
@@ -1202,6 +1543,26 @@
       "secondarySource": "https://courses.ffslc.fr/calendar",
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-09-26-bosorkin-canicross-autumn-round-2026-eb5ffe",
+      "date": "2026-09-26",
+      "dateEnd": "2026-09-27",
+      "country": "Slovakia",
+      "event": "Bosorkin Canicross – autumn round 2026",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        4.5
+      ],
+      "elevationM": [],
+      "dogAccess": "SZPZ Canicross event",
+      "status": "upcoming",
+      "notes": "Official SZPZ page gives approx. 4.5 km course.",
+      "primarySource": "https://mushing.sk/pretek/bosorkin-canicross-2-jarne-kolo-2026/",
+      "secondarySource": "https://mushing.sk/preteky/",
+      "origin": "European federation sweep round 2 2026-09-12"
     },
     {
       "id": "2026-09-26-canicross-yens-ed972c",
@@ -1281,6 +1642,27 @@
       "primarySource": "https://harewood.org/events/wild-autumn-trail-runs/",
       "secondarySource": "https://www.wilddeerevents.co.uk/",
       "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2026-09-26-louka-2026-3507f4",
+      "date": "2026-09-26",
+      "dateEnd": "2026-09-27",
+      "country": "Czech Republic",
+      "event": "LOUKA 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "ČASS dryland sprint",
+      "status": "upcoming",
+      "notes": "Official proposition lists CC, BKJ and scooter classes.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1364",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2026-09-26-mountainman-reit-im-winkl-dogs-trail-2327c6",
@@ -1484,6 +1866,69 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2026-10-03-hrobsk-j-zda-2026-9c588e",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "Czech Republic",
+      "event": "HROBSKÁ JÍZDA 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "ČASS dryland sprint",
+      "status": "upcoming",
+      "notes": "Official proposition lists CC, BKJ and scooter classes.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1375",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-03-oravsk-h-j-autumn-2026-97e436",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "Slovakia",
+      "event": "Oravský Háj – autumn 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "cancelled",
+      "notes": "Official SZPZ season calendar marks this event cancelled.",
+      "primarySource": "https://mushing.sk/preteky/",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-03-tlapkros-2026-fbab5c",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "Czech Republic",
+      "event": "TLAPKROS 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "ČASS dryland sprint",
+      "status": "cancelled",
+      "notes": "Official ČASS calendar marks race cancelled; proposition lists Canicross, Scooterjöring and Bikejöring.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1345",
+      "secondarySource": "https://www.mushing.cz/race/",
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-10-03-crocs-de-la-vall-e-du-thouet-2-490f26",
       "date": "2026-10-03",
       "dateEnd": "2026-10-04",
@@ -1600,6 +2045,27 @@
       "primarySource": "https://www.kustmarathon.nl/wedstrijd/canitrail/",
       "secondarySource": "https://www.kustmarathon.nl/",
       "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-10-09-abertamy-2026-ceece6",
+      "date": "2026-10-09",
+      "dateEnd": "2026-10-11",
+      "country": "Czech Republic",
+      "event": "Abertamy 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "ČASS dryland sprint",
+      "status": "upcoming",
+      "notes": "Official proposition lists CC, BKJ and scooter classes.",
+      "primarySource": "https://mushing.cz/race-proposition/default/1378",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2026-10-10-accrorun-5-canicross-b84812",
@@ -2216,6 +2682,27 @@
       "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
       "origin": "FFSLC verification 2026-09-12",
       "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-11-14-acana-zaje-ov-2026-d7d72f",
+      "date": "2026-11-14",
+      "dateEnd": "2026-11-15",
+      "country": "Czech Republic",
+      "event": "Acana Zaječov 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "ČASS mid-distance dryland race",
+      "status": "upcoming",
+      "notes": "Official proposition lists MCC, MBKJ and scooter classes; longer team classes are 14+14 km.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1350",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2026-11-14-canicross-de-la-vente-des-vins-des-hospices-de-beaune-7c08ec",
@@ -3483,6 +3970,27 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2027-03-20-slane-ek-race-2027-0dd8df",
+      "date": "2027-03-20",
+      "dateEnd": "2027-03-21",
+      "country": "Czech Republic",
+      "event": "Slaneček Race 2027",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "ČASS dryland sprint",
+      "status": "announced",
+      "notes": "Official ČASS 2026/27 cup calendar lists Slaneček Race 2027; discipline set follows ČASS dryland cup format and requires event-level confirmation when proposition is published.",
+      "primarySource": "https://mushing.cz/cesky-pohar",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-03-21-ccnl-bruinisse-9bcb2d",
       "date": "2027-03-21",
       "dateEnd": null,
@@ -3576,6 +4084,27 @@
       "primarySource": "https://www.danskcanicross.dk/kalender",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-04-03-st-brsk-sprint-2027-b0ae2c",
+      "date": "2027-04-03",
+      "dateEnd": "2027-04-04",
+      "country": "Czech Republic",
+      "event": "STŘÍBRSKÝ SPRINT 2027",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "ČASS dryland sprint",
+      "status": "announced",
+      "notes": "Official ČASS 2026/27 cup calendar lists the 2027 Stříbrský Sprint; exact proposition pending.",
+      "primarySource": "https://mushing.cz/cesky-pohar",
+      "secondarySource": null,
+      "origin": "European federation sweep round 2 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2027-04-04-lakeland-paws-tour-de-whinlatter-cab24f",

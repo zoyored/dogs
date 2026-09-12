@@ -7,7 +7,7 @@ X-WR-CALNAME:Canicross & Canitrail Events
 X-WR-CALDESC:Canicross- und Canitrail-Veranstaltungen
 BEGIN:VEVENT
 UID:2027-01-09-yorkshire-trail-runs-harewood-house-054718@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Yorkshire Trail Runs – Harewood House
@@ -22,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-8-canicross-agrileisuretime-terraia-spoleto-b2306e@sandstu
  rm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:8° Canicross Agrileisuretime – Terraia Spoleto
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-canicross-de-cergy-l-le-aux-tr-sors-2027-1d2b85@sandsturm.
  com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Canicross de Cergy – L'île aux trésors 2027
@@ -46,7 +46,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-ccnl-bosschenhoofd-b0b6dd@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:CCNL Bosschenhoofd
@@ -57,7 +57,7 @@ URL:https://www.canicrossnederland.nl/kalender20262027.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-danmarksmesterskab-dcf-dog-series-3-9d1024@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Danmarksmesterskab – DCF Dog Series 3
@@ -68,7 +68,7 @@ URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-3-canicross-citt-di-grosseto-77bb9d@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:3° Canicross Città di Grosseto
@@ -80,7 +80,7 @@ URL:https://discipline.csencinofilia.it/calendario-gare-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-canicross-de-lxtrem-5e-dition-b8fd1a@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Canicross de l'XTREM – 5e édition
@@ -92,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-mountainman-dogs-winterloop-reit-im-winkl-ed8333@sandsturm
  .com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:MOUNTAINMAN Dogs-Winterloop Reit im Winkl
@@ -105,7 +105,7 @@ URL:https://mountainman.de/trailrunning-events/alps/winterloop-reit-im-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-nederlands-kampioenschap-cc-bj-step-a75d3d@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Nederlands Kampioenschap CC/BJ/Step
@@ -118,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-cani-trophy-fontainebleau-2027-canicross-3d4f3f@sandsturm.
  com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:CANI TROPHY FONTAINEBLEAU 2027 – Canicross
@@ -131,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-cani-trophy-fontainebleau-2027-canitrail-c23db8@sandsturm.
  com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:CANI TROPHY FONTAINEBLEAU 2027 – Canitrail
@@ -146,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-troph-e-canin-des-plages-2027-canicross-79aedd@sandsturm.c
  om
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:Trophée Canin des Plages 2027 – Canicross
@@ -158,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-limitless-trails-trails-tarmac-winter-12h-byu-8b215e@sands
  turm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Limitless Trails – Trails & Tarmac Winter 12h BYU
@@ -172,7 +172,7 @@ URL:https://www.limitlesstrails.co.uk/trails-and-tarmac-byu-2
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-5-canicross-mud-glory-beroide-spoleto-3fe7b2@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:5° Canicross Mud&Glory – Beroide Spoleto
@@ -184,7 +184,7 @@ URL:https://discipline.csencinofilia.it/calendario-gare-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-doggy-de-le-run-2-canicross-2f7edf@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Doggy Deûle Run #2 – Canicross
@@ -195,7 +195,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-la-canid-forts-4e-dition-canicross-7909a2@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:La Canidé'forts – 4e édition – Canicross
@@ -208,7 +208,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-lakeland-paws-whinlatter-tails-south-side-9d2783@sandsturm
  .com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Lakeland Paws – Whinlatter Tails South Side
@@ -222,7 +222,7 @@ URL:https://lakelandpaws.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-5th-dirty-dog-race-canicross-3fe979@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270215
 SUMMARY:5th Dirty Dog Race – Canicross
@@ -233,7 +233,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-les-courses-de-l-tang-canicross-1a5ffe@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270215
 SUMMARY:Les Courses de l'Étang – Canicross
@@ -244,7 +244,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-troph-e-des-lacs-canicross-a90503@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270220
 SUMMARY:Trophée des Lacs – Canicross
@@ -255,7 +255,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-ccnl-gasselte-71cd96@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:CCNL Gasselte
@@ -266,7 +266,7 @@ URL:https://www.canicrossnederland.nl/kalender20262027.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-csen-canicross-cismon-del-grappa-96844a@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:CSEN Canicross Cismon del Grappa
@@ -278,7 +278,7 @@ URL:https://discipline.csencinofilia.it/calendario-gare-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-schwabentrail-canicross-d4ec63@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270301
 SUMMARY:Schwabentrail – Canicross
@@ -290,7 +290,7 @@ URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-canicross-stjylland-dcf-dog-series-4-15b1c3@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Canicross Østjylland – DCF Dog Series 4
@@ -301,7 +301,7 @@ URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-fountains-abbey-wild-trail-runs-cd37ac@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Fountains Abbey Wild Trail Runs
@@ -315,7 +315,7 @@ URL:https://gotrail.run/en/race/fountains-abbey-wild-trail-runs
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-interclub-manchois-canicross-58f05e@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Interclub Manchois – Canicross
@@ -326,7 +326,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-run-with-k9s-endurance-relay-e9bcec@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Run With K9s – Endurance Relay
@@ -339,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-campionato-nazionale-canicross-csen-2027-973214@sandsturm.
  com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270308
 SUMMARY:Campionato Nazionale Canicross CSEN 2027
@@ -350,7 +350,7 @@ URL:https://discipline.csencinofilia.it/calendario-gare-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-ccnl-helden-669650@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270308
 SUMMARY:CCNL Helden
@@ -361,7 +361,7 @@ URL:https://www.canicrossnederland.nl/kalender20262027.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-limitless-trails-beast-of-the-blacks-a8cf6f@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Limitless Trails – Beast of the Blacks
@@ -374,7 +374,7 @@ URL:https://www.limitlesstrails.co.uk/beast-of-the-blacks
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-lakeland-paws-tour-de-grizedale-2d808a@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Lakeland Paws – Tour de Grizedale
@@ -387,7 +387,7 @@ URL:https://lakelandpaws.com/grizedale-growl-tour-de-grizedale/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-vulcanicross-canicross-17e585@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270315
 SUMMARY:Vulcanicross – Canicross
@@ -399,7 +399,7 @@ URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-dirty-paws-dcf-dog-series-5-4d517b@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Dirty Paws – DCF Dog Series 5
@@ -410,7 +410,7 @@ URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-grasmere-wild-trail-runs-79a7a4@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Grasmere Wild Trail Runs
@@ -423,8 +423,22 @@ URL:https://www.wilddeerevents.co.uk/e/grasmere-wild-trail-runs-2027-1449
  3
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-20-slane-ek-race-2027-0dd8df@sandsturm.com
+DTSTAMP:20260912T174532Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270322
+SUMMARY:Slaneček Race 2027
+LOCATION:Czech Republic
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: ČASS dryland sprint\nStatus: announced\nOfficial ČASS 202
+ 6/27 cup calendar lists Slaneček Race 2027\; discipline set follows ČASS
+  dryland cup format and requires event-level confirmation when propositi
+ on is published.
+URL:https://mushing.cz/cesky-pohar
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-03-21-ccnl-bruinisse-9bcb2d@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:CCNL Bruinisse
@@ -435,7 +449,7 @@ URL:https://www.canicrossnederland.nl/kalender20262027.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-csen-canicross-piana-di-segni-dde311@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:CSEN Canicross Piana di Segni
@@ -447,7 +461,7 @@ URL:https://discipline.csencinofilia.it/calendario-gare-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-03-canicross-du-lac-des-sapins-30087c@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270405
 SUMMARY:Canicross du Lac des Sapins
@@ -458,7 +472,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-03-hapimag-v-r-vaggeryd-ff5fac@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270405
 SUMMARY:Hapimag Vår Vaggeryd
@@ -470,7 +484,7 @@ URL:https://www.swedenbcd.se/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-03-k9runners-mariager-dcf-dog-series-6-454809@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:K9Runners Mariager – DCF Dog Series 6
@@ -480,8 +494,21 @@ DESCRIPTION:Kategorie: canicross\nHund: Danish Canicross Federation serie
 URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-03-st-brsk-sprint-2027-b0ae2c@sandsturm.com
+DTSTAMP:20260912T174532Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270405
+SUMMARY:STŘÍBRSKÝ SPRINT 2027
+LOCATION:Czech Republic
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: ČASS dryland sprint\nStatus: announced\nOfficial ČASS 202
+ 6/27 cup calendar lists the 2027 Stříbrský Sprint\; exact proposition pe
+ nding.
+URL:https://mushing.cz/cesky-pohar
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-04-lakeland-paws-tour-de-whinlatter-cab24f@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Lakeland Paws – Tour de Whinlatter
@@ -494,7 +521,7 @@ URL:https://www.sientries.co.uk/event.php?elid=Y&event_id=17842
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-04-scone-palace-trail-runs-8e1222@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Scone Palace Trail Runs
@@ -508,7 +535,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-10-canicross-xtremtrail-de-brameloup-canicross-0f8a24@sandstu
  rm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270412
 SUMMARY:Canicross XtremTrail de Brameloup – Canicross
@@ -521,7 +548,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-10-canicross-xtremtrail-de-brameloup-canitrail-931fd2@sandstu
  rm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270412
 SUMMARY:Canicross XtremTrail de Brameloup – Canitrail
@@ -535,7 +562,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-11-ccnl-zundert-8d0e0c@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:CCNL Zundert
@@ -546,7 +573,7 @@ URL:https://www.canicrossnederland.nl/kalender20262027.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-17-groenahoeg-open-4cfcd2@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270419
 SUMMARY:Grönahög Open
@@ -558,7 +585,7 @@ URL:https://www.swedenbcd.se/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-17-limitless-trails-beast-of-the-beacons-fbf99c@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Limitless Trails – Beast of the Beacons
@@ -572,7 +599,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-24-4e-castelcanicross-de-blangy-le-ch-teau-canicross-63de72@s
  andsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270426
 SUMMARY:4e Castel'Canicross de Blangy le Château – Canicross
@@ -585,7 +612,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-24-4eme-castelcanicross-de-blangy-le-ch-teau-canitrail-7a7895
  @sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270426
 SUMMARY:4eme Castel'Canicross de Blangy le Château – Canitrail
@@ -599,7 +626,7 @@ URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-08-mountainman-nesselwang-dogs-trail-0999f0@sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:MOUNTAINMAN Nesselwang – Dogs-Trail
@@ -614,7 +641,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-15-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02@san
  dsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Les Gendarmes et les Voleurs de Temps – CaniTrail
@@ -627,7 +654,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-10-limitless-trails-tenacious-ten-endurance-challenge-9e0dfb@
  sandsturm.com
-DTSTAMP:20260912T174029Z
+DTSTAMP:20260912T174532Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
 SUMMARY:Limitless Trails – Tenacious Ten Endurance Challenge
