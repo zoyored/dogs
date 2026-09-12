@@ -2,9 +2,9 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-12T18:20:48Z",
+    "generatedAt": "2026-09-12T18:24:42Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 266,
+    "count": 273,
     "categories": [
       "bike jöring",
       "canicross",
@@ -2630,6 +2630,27 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2026-10-16-ifss-european-championships-dryland-2026-gaevle-3dc498",
+      "date": "2026-10-16",
+      "dateEnd": "2026-10-18",
+      "country": "Sweden",
+      "event": "IFSS European Championships Dryland 2026 – Gävle",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "IFSS/SDSF European dryland championship; all classes",
+      "status": "source-confirmed 2026",
+      "notes": "Official SDSF 2026 competition overview lists EM Barmark in Gävle with all classes.",
+      "primarySource": "https://draghundsport.se/sv/217",
+      "secondarySource": "https://draghundsport.se/kalender/",
+      "origin": "Europe federation sweep round 6 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-10-17-7e-challenge-transpyr-ari-geois-canicross-dc3c76",
       "date": "2026-10-17",
       "dateEnd": "2026-10-23",
@@ -2842,6 +2863,27 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-10-24-25-lubieszowski-cross-puchar-polski-18062f",
+      "date": "2026-10-24",
+      "dateEnd": "2026-10-25",
+      "country": "Poland",
+      "event": "25. Lubieszowski Cross – Puchar Polski",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "PZSPZ Polish Cup dryland event",
+      "status": "source-confirmed 2026",
+      "notes": "Official PZSPZ competition calendar lists the 25th Lubieszowski Cross as a Polish Cup event.",
+      "primarySource": "https://mushing.pl/index.php?show=kalendarz",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 6 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-10-24-canicross-ardon-c90ebd",
       "date": "2026-10-24",
       "dateEnd": "2026-10-25",
@@ -3012,6 +3054,27 @@
       "primarySource": "https://courses.ffslc.fr/calendar",
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-30-sm-barmark-2026-nybro-a4e6e7",
+      "date": "2026-10-30",
+      "dateEnd": "2026-11-01",
+      "country": "Sweden",
+      "event": "SM Barmark 2026 – Nybro",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Swedish national dryland championship; all classes",
+      "status": "source-confirmed 2026",
+      "notes": "Official SDSF 2026 competition overview lists Swedish dryland championship in Nybro with all classes.",
+      "primarySource": "https://draghundsport.se/sv/217",
+      "secondarySource": "https://draghundsport.se/kalender/",
+      "origin": "Europe federation sweep round 6 2026-09-12",
       "distanceText": "not published"
     },
     {
@@ -3369,6 +3432,27 @@
       "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
+      "id": "2026-11-14-mistrzostwa-polski-dryland-szczekowyje-967d0b",
+      "date": "2026-11-14",
+      "dateEnd": "2026-11-15",
+      "country": "Poland",
+      "event": "Mistrzostwa Polski Dryland \"Szczekowyje\"",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "PZSPZ Polish national dryland championship",
+      "status": "TBC",
+      "notes": "Official PZSPZ calendar lists the Polish Dryland Championships at Pierstnica Mała; event marked TBC.",
+      "primarySource": "https://mushing.pl/index.php?show=kalendarz",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 6 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-11-14-stroehen-canicross-9cd786",
       "date": "2026-11-14",
       "dateEnd": "2026-11-15",
@@ -3578,6 +3662,27 @@
       "primarySource": "https://courses.ffslc.fr/calendar-map",
       "secondarySource": "https://courses.ffslc.fr/calendar",
       "origin": "FFSLC Canicross import 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-11-28-3-kucobski-mid-6a0658",
+      "date": "2026-11-28",
+      "dateEnd": "2026-11-29",
+      "country": "Poland",
+      "event": "3. Kucobski MID",
+      "category": [
+        "bike jöring",
+        "scooter",
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "PZSPZ mid-distance event",
+      "status": "TBC",
+      "notes": "Official PZSPZ calendar lists 3. Kucobski MID in Kucoby; event marked TBC.",
+      "primarySource": "https://mushing.pl/index.php?show=kalendarz",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 6 2026-09-12",
       "distanceText": "not published"
     },
     {
@@ -4935,6 +5040,27 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-03-20-dog-adventure-sprint-race-puchar-polski-sprint-918c7f",
+      "date": "2027-03-20",
+      "dateEnd": "2027-03-21",
+      "country": "Poland",
+      "event": "Dog Adventure Sprint Race – Puchar Polski Sprint",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "PZSPZ Polish Cup sprint dryland event",
+      "status": "TBC",
+      "notes": "Official PZSPZ calendar lists Dog Adventure Sprint Race in Kuźnia Raciborska; event marked TBC.",
+      "primarySource": "https://mushing.pl/index.php?show=kalendarz",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 6 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-03-20-grasmere-wild-trail-runs-79a7a4",
       "date": "2027-03-20",
       "dateEnd": null,
@@ -5111,6 +5237,27 @@
       "primarySource": "https://www.danskcanicross.dk/kalender",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-04-03-polarex-cup-puchar-polski-sprint-e190d5",
+      "date": "2027-04-03",
+      "dateEnd": "2027-04-04",
+      "country": "Poland",
+      "event": "Polarex CUP – Puchar Polski Sprint",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "PZSPZ Polish Cup sprint event",
+      "status": "source-confirmed 2027",
+      "notes": "Official PZSPZ calendar lists Polarex CUP in Kucoby as a Polish Cup sprint event.",
+      "primarySource": "https://mushing.pl/index.php?show=kalendarz",
+      "secondarySource": null,
+      "origin": "Europe federation sweep round 6 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2027-04-03-st-brsk-sprint-2027-b0ae2c",
