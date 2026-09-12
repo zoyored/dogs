@@ -1,0 +1,192 @@
+name: Migrate event categories
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/migrate-event-categories.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Add Category to CSV and JSON generator
+        shell: python
+        run: |
+          import csv
+          import io
+          from pathlib import Path
+
+          csv_path = Path("data/Canitrail_Masterkalender_2026_2027.csv")
+          script_path = Path("scripts/build_events.py")
+
+          allowed = [
+              "canicross",
+              "canitrail",
+              "dogs-trail",
+              "dog friendly trail",
+              "stage race",
+              "bike jöring",
+              "ski jöring",
+              "scooter",
+              "sledge",
+              "pulka",
+          ]
+
+          def categories_for(row):
+              event = (row.get("Event") or "").lower()
+              access = (row.get("Dog access") or "").lower()
+              notes = (row.get("Notes") or "").lower()
+              origin = (row.get("Origin") or "").lower()
+              text = " | ".join([event, access, notes, origin])
+              cats = []
+
+              def add(cat):
+                  if cat not in cats:
+                      cats.append(cat)
+
+              # Running disciplines
+              if any(x in text for x in ["canitrail", "cani-trail", "cani trail", "chien ultra k"]):
+                  add("canitrail")
+              if any(x in text for x in ["canicross", "canirun", "cani-cross", "cani cross", "dog race"]):
+                  add("canicross")
+
+              # Explicit Dogs-Trail branded / dedicated dog trail formats
+              if any(x in text for x in ["dogs-trail", "dogs trail", "dog-only trail", "own dog start", "dog start + ranking", "dog-only event day"]):
+                  add("dogs-trail")
+
+              # Dog-friendly ordinary trail races (not necessarily pull sport)
+              if any(x in text for x in [
+                  "dogs allowed in regular trail",
+                  "canicross-friendly regular trail",
+                  "canicross-friendly ultra",
+                  "canicross-friendly mountain trail",
+                  "trail opened to canitrailers",
+                  "one controlled dog per runner",
+              ]):
+                  add("dog friendly trail")
+
+              # Multi-stage/endurance stage formats
+              if any(x in text for x in [
+                  "multi-day", "multi-stage", "three-stage", "4-day format",
+                  "3-day challenge", "stage race", "stages are", "etappen"
+              ]):
+                  add("stage race")
+
+              # Other pulling disciplines when explicitly present in source data
+              if any(x in text for x in ["bikejöring", "bike jöring", "bikejoering", "bike joring"]):
+                  add("bike jöring")
+              if any(x in text for x in ["skijöring", "ski jöring", "skijoering", "ski joring"]):
+                  add("ski jöring")
+              if "scooter" in text:
+                  add("scooter")
+              if any(x in text for x in ["sledge", "sled dog", "sleddog", "schlitten"]):
+                  add("sledge")
+              if "pulka" in text:
+                  add("pulka")
+
+              # VDSV dryland events imported as mixed-discipline meetings.
+              # The master only stores one event row, so retain all explicitly
+              # supported event disciplines in the category field.
+              if "vdsv" in origin or "vdsv" in notes or "vdsv" in access:
+                  if any(x in text for x in ["mono", "canicross", "runner", "lauf"]):
+                      add("canicross")
+                  if any(x in text for x in ["bike", "bikejöring", "bikejoering"]):
+                      add("bike jöring")
+                  if "scooter" in text:
+                      add("scooter")
+
+              # Existing long-distance entries that are clearly dog trail events
+              # but do not use the exact Canitrail label.
+              if not cats and any(x in access for x in ["dedicated dog", "dog-powered runner", "dog trail"]):
+                  add("dogs-trail")
+
+              # Last-resort classification for legacy rows: if dogs are simply
+              # allowed in a trail event, classify as dog friendly trail.
+              if not cats and "dog" in text:
+                  add("dog friendly trail")
+
+              return "|".join(cats)
+
+          with csv_path.open("r", encoding="utf-8-sig", newline="") as f:
+              reader = csv.DictReader(f)
+              rows = list(reader)
+              fields = list(reader.fieldnames or [])
+
+          if "Category" not in fields:
+              idx = fields.index("Event") + 1
+              fields.insert(idx, "Category")
+
+          for row in rows:
+              row["Category"] = categories_for(row)
+
+          with csv_path.open("w", encoding="utf-8", newline="") as f:
+              writer = csv.DictWriter(f, fieldnames=fields, lineterminator="\n")
+              writer.writeheader()
+              writer.writerows(rows)
+
+          script = script_path.read_text(encoding="utf-8")
+
+          if '"Category",' not in script:
+              script = script.replace(
+                  '    "Event",\n    "Dog distance (km)",',
+                  '    "Event",\n    "Category",\n    "Dog distance (km)",'
+              )
+
+          marker = 'DATE_SINGLE_RE = re.compile(r"^\\s*(\\d{4}-\\d{2}-\\d{2})\\s*$")\n'
+          if "ALLOWED_CATEGORIES =" not in script:
+              addition = '''\n\nALLOWED_CATEGORIES = {\n    "canicross",\n    "canitrail",\n    "dogs-trail",\n    "dog friendly trail",\n    "stage race",\n    "bike jöring",\n    "ski jöring",\n    "scooter",\n    "sledge",\n    "pulka",\n}\n\n\ndef parse_categories(value: str) -> list[str]:\n    categories = [part.strip() for part in (value or "").split("|") if part.strip()]\n    unknown = [category for category in categories if category not in ALLOWED_CATEGORIES]\n    if unknown:\n        raise ValueError(f"Unknown category/categories: {unknown}")\n    # preserve CSV order while removing duplicates\n    return list(dict.fromkeys(categories))\n'''
+              script = script.replace(marker, marker + addition)
+
+          if '"category": parse_categories(row["Category"]),' not in script:
+              script = script.replace(
+                  '                "event": row["Event"].strip(),\n',
+                  '                "event": row["Event"].strip(),\n                "category": parse_categories(row["Category"]),\n'
+              )
+
+          if 'parts.append(f"Kategorie:' not in script:
+              script = script.replace(
+                  'def event_description(event: dict) -> str:\n    parts = []\n',
+                  'def event_description(event: dict) -> str:\n    parts = []\n    if event.get("category"):\n        parts.append(f"Kategorie: {\' / \'.join(event[\'category\'])}")\n'
+              )
+
+          if '"categories": sorted(ALLOWED_CATEGORIES),' not in script:
+              script = script.replace(
+                  '            "count": len(events),\n',
+                  '            "count": len(events),\n            "categories": sorted(ALLOWED_CATEGORIES),\n'
+              )
+
+          script_path.write_text(script, encoding="utf-8")
+
+      - name: Validate migration locally
+        run: |
+          python scripts/build_events.py
+          python -m json.tool data/events.json > /dev/null
+          python - <<'PY'
+          import csv, json
+          with open('data/Canitrail_Masterkalender_2026_2027.csv', encoding='utf-8') as f:
+              rows = list(csv.DictReader(f))
+          assert 'Category' in rows[0]
+          assert all(r['Category'].strip() for r in rows), 'Every event must have at least one category'
+          with open('data/events.json', encoding='utf-8') as f:
+              data = json.load(f)
+          assert all(isinstance(e.get('category'), list) and e['category'] for e in data['events'])
+          print(f"Validated {len(rows)} categorized events")
+          PY
+
+      - name: Commit migration and rebuilt feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/Canitrail_Masterkalender_2026_2027.csv scripts/build_events.py data/events.json calendar/
+          git commit -m "feat: add event categories to master data"
+          git push origin HEAD:main
