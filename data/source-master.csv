@@ -1,9 +1,36 @@
 Country,Source,URL,Source type,Notes
-Germany,VDSV,https://vdsv.de/kalender/,federation,Official German sleddog sports federation race calendar
+Germany,VDSV,https://vdsv.de/kalender/,federation,Official German sleddog sports federation race calendar; ICF member federation
 France,FFST,https://ffstmushing.org/manifestations-sportives/,federation,Official French FFST mushing event source
-France,FFSLC,https://courses.ffslc.fr/calendar,federation,Official FFSLC race calendar; important source for Canicross and Canitrail
+France,FFSLC,https://courses.ffslc.fr/calendar,federation,Official FFSLC race calendar; ICF member federation and important source for Canicross and Canitrail
 Netherlands,Canitrail.nl,https://canitrail.nl/,calendar,Canitrail and dog-friendly trail calendar for the Netherlands and neighbouring countries
 International,Finishers,https://www.finishers.com/,event-platform,Event discovery platform; dog-friendly races require verification against primary source
+Austria,AFSS,https://afss.at/,federation,Austrian Federation of Sleddogsports; ICF member federation
+Belgium,FCB / BCF,https://www.cani-cross.be/,federation,Belgische Canicross Federatie; ICF member federation
+Bulgaria,Sleddog Sport Bulgaria,https://canicross.international/?page_id=3125,federation-directory,ICF member; ICF currently publishes no national federation website
+Czech Republic,Canicross TJ Sokol Maxicky,https://www.canicross.cz/,federation,ICF member federation / national Canicross source
+Denmark,Danish Canicross Federation,https://www.danskcanicross.dk/,federation,ICF member federation
+Estonia,Kelgukoerte Klubi Baltosport,https://baltosport.ee/,federation,ICF member federation / Sleddogs Club Baltosport
+Finland,SKVH,https://canicross.international/?page_id=3125,federation-directory,Suomen koiravaljakkoharrastajat ry; ICF member; ICF directory currently shows an apparently incorrect Estonia website so directory retained as reference
+Greece,CaniCross Greece,https://canicrossgreece.org/,federation,FULLFACE Non Profit Civil Association - CaniCross Greece; ICF member federation
+Hungary,MCSE,http://canicross.hu/,federation,Magyar Canicross Sportegyesulet; ICF member federation
+Ireland,Canicross Ireland,https://canicrossireland.wordpress.com/,federation,ICF member federation
+Italy,CSEN,https://www.csen.it/,federation,Centro Sportivo Educativo Nazionale; ICF member federation for Italy Canicross
+Latvia,LKSSF,https://www.sleddog.lv/english,federation,Latvian Federation of Sleddog Sports; ICF member federation
+Lithuania,LFSS,https://sleddogsport.lt/,federation,Lithuanian Federation of Sleddog Sport; ICF member federation
+Luxembourg,CLSCU,https://www.clscu.lu/,federation,Centrale luxembourgeoise du sport pour chiens d'utilité; listed by ICF as Luxembourg member body
+Netherlands,Canicross Netherlands,https://www.canicrossnederland.nl/,federation,CCNL; ICF member federation
+Norway,Canicross Norge,https://canicross.international/?page_id=3125,federation-directory,ICF member; ICF currently lists contact/social details but no standalone federation website
+Poland,PZSPZ,https://mushing.pl/,federation,Polskiego Związku Sportu Psich Zaprzęgów; ICF member federation
+Portugal,APMC,https://ruipdresende.wixsite.com/apmc/socio-vantagens,federation,Associacao Portuguesa de Mantrailing e Canicross; ICF member federation
+San Marino,SMAA Canicross San Marino,https://canicross.international/?page_id=3125,federation-directory,San Marino Athletics Academy - Canicross San Marino; ICF member; no federation website published by ICF
+Serbia,ICF Serbia member entry,https://canicross.international/?page_id=3125,federation-directory,Serbia is listed by ICF but the directory currently publishes no federation details
+Slovakia,SZPZ,https://mushing.sk/,federation,Slovak sleddog federation; ICF member federation
+Slovenia,SKVVP,http://www.skvvp.si/,federation,Slovenski Klub Vodnikov Vlečnih Psov; ICF member federation
+Spain,RFEDI,https://rfedi.es/mushing/,federation,Real Federación Española de Deportes de Invierno; ICF member federation and official mushing source
+Sweden,Sweden BCD,https://www.swedenbcd.se/,federation,Sweden Bikejoring Canicross & Dogscooter; ICF member federation
+Switzerland,FSCS,https://www.suisse-canicross.ch/,federation,Fédération Sportive Cynologique Suisse; ICF member federation; Canicross Bikejöring and scooter source
+Türkiye,Canicross Türkiye,https://canicross.international/?page_id=3125,federation-directory,AKUT Spor Kulübü Canicross Türkiye; ICF member; directory used instead of social-media-only website entry
+UK,BSSF,https://thebssf.org.uk/,federation,British Sleddog Sports Federation; ICF and IFSS member federation
 UK,Lakeland Paws,https://www.lakelandpaws.com/,organizer,Canicross and Canitrail series in the Lake District
 UK,Wild Deer Events,https://wilddeerevents.co.uk/,organizer,Trail organiser with multiple canicross-friendly events
 UK,Run with K9s,https://runwithk9s.com/,organizer,Canicross and endurance relay events
