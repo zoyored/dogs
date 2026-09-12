@@ -62,4 +62,4 @@ jobs:
           git commit -m "chore: rebuild event feeds"
           git push origin HEAD:main
 
-# Feed rebuild triggered after Canicross master-data import.
+# Feed rebuild triggered after Europe federation sweep round 2.
