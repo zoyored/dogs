@@ -6,9 +6,22 @@ METHOD:PUBLISH
 X-WR-CALNAME:Canicross & Canitrail Events
 X-WR-CALDESC:Canicross- und Canitrail-Veranstaltungen
 BEGIN:VEVENT
+UID:2027-01-09-yorkshire-trail-runs-harewood-house-054718@sandsturm.com
+DTSTAMP:20260912T170953Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Yorkshire Trail Runs – Harewood House
+LOCATION:UK
+DESCRIPTION:Distanzen: 10 km / 21.1 km\nHund: canicross-friendly regular 
+ trail with separate starts\nStatus: registration open\n10 km and half ma
+ rathon have separate canicross start times\; 5 km excluded here.
+URL:https://www.wilddeerevents.co.uk/e/yorkshire-trail-runs-2027-harewood
+ -house-14484
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-24-mountainman-dogs-winterloop-reit-im-winkl-ed8333@sandsturm
  .com
-DTSTAMP:20260912T163627Z
+DTSTAMP:20260912T170953Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:MOUNTAINMAN Dogs-Winterloop Reit im Winkl
@@ -20,8 +33,139 @@ URL:https://mountainman.de/trailrunning-events/alps/winterloop-reit-im-wi
  nkl/dogs-trail/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-06-limitless-trails-trails-tarmac-winter-12h-byu-8b215e@sands
+ turm.com
+DTSTAMP:20260912T170953Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Limitless Trails – Trails & Tarmac Winter 12h BYU
+LOCATION:UK
+DESCRIPTION:Distanz: 4.2 mile loops up to 12h\nHund: canicross-friendly e
+ ndurance event\nStatus: registration open\n12-hour backyard format on 4.
+ 2-mile loops\; organiser states its events are canicross friendly.\nWeit
+ ere Quelle: https://www.limitlesstrails.co.uk/canicross-menu
+URL:https://www.limitlesstrails.co.uk/trails-and-tarmac-byu-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-lakeland-paws-whinlatter-tails-south-side-9d2783@sandsturm
+ .com
+DTSTAMP:20260912T170953Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Lakeland Paws – Whinlatter Tails South Side
+LOCATION:UK
+DESCRIPTION:Distanzen: 10 km\nHöhenmeter: 400 hm\nHund: dedicated canicro
+ ss event\nStatus: registration open\n2026/27 series date is 7 Feb\; Sout
+ h Side route offers a 10 km long option with about 400 m ascent.\nWeiter
+ e Quelle: https://lakelandpaws.com/whinlatter-tails-south-side/
+URL:https://lakelandpaws.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-fountains-abbey-wild-trail-runs-cd37ac@sandsturm.com
+DTSTAMP:20260912T170953Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Fountains Abbey Wild Trail Runs
+LOCATION:UK
+DESCRIPTION:Distanzen: 10 km / 21.1 km\nHund: canicross-friendly regular 
+ trail\nStatus: registration open\n10 km and half marathon are canicross 
+ friendly\; one controlled dog per runner. 5 km excluded here.\nWeitere Q
+ uelle: https://www.wilddeerevents.co.uk/
+URL:https://gotrail.run/en/race/fountains-abbey-wild-trail-runs
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-run-with-k9s-endurance-relay-e9bcec@sandsturm.com
+DTSTAMP:20260912T170953Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Run With K9s – Endurance Relay
+LOCATION:UK
+DESCRIPTION:Distanz: 2.5 km laps / 3h\nHund: dedicated canicross enduranc
+ e event\nStatus: registration open\nSolo or teams of up to 3 complete as
+  many 2.5 km laps as possible in 3 hours.
+URL:https://www.runwithk9s.com/canicrossrelays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-limitless-trails-beast-of-the-blacks-a8cf6f@sandsturm.com
+DTSTAMP:20260912T170953Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Limitless Trails – Beast of the Blacks
+LOCATION:UK
+DESCRIPTION:Distanzen: 16.9 km / 32.5 km / 65 km\nHöhenmeter: 468 hm / 13
+ 60 hm / 2720 hm\nHund: canicross-friendly mountain trail\nStatus: regist
+ ration open\nOfficial event page explicitly allows canicross on 10-\, 20
+ - and 40-mile routes.
+URL:https://www.limitlesstrails.co.uk/beast-of-the-blacks
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-07-lakeland-paws-tour-de-grizedale-2d808a@sandsturm.com
+DTSTAMP:20260912T170953Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Lakeland Paws – Tour de Grizedale
+LOCATION:UK
+DESCRIPTION:Distanzen: 12 km / 22 km\nHund: dedicated canicross event\nSt
+ atus: registration open\nOfficial route page lists 12 km and 22 km / hal
+ f-marathon canicross options.\nWeitere Quelle: https://www.sientries.co.
+ uk/event.php?elid=Y&event_id=17822
+URL:https://lakelandpaws.com/grizedale-growl-tour-de-grizedale/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-grasmere-wild-trail-runs-79a7a4@sandsturm.com
+DTSTAMP:20260912T170953Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Grasmere Wild Trail Runs
+LOCATION:UK
+DESCRIPTION:Distanzen: 10 km / 21.1 km\nHund: canicross-friendly regular 
+ trail with separate start\nStatus: registration open\n10 km and half mar
+ athon are canicross friendly with a separate dog start\; 5 km excluded h
+ ere.
+URL:https://www.wilddeerevents.co.uk/e/grasmere-wild-trail-runs-2027-1449
+ 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-04-lakeland-paws-tour-de-whinlatter-cab24f@sandsturm.com
+DTSTAMP:20260912T170953Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Lakeland Paws – Tour de Whinlatter
+LOCATION:UK
+DESCRIPTION:Distanzen: 12 km\nHund: dedicated canicross event\nStatus: re
+ gistration open\n9 km and 12 km offered\; only the 12 km option is retai
+ ned under the >=10 km rule.\nWeitere Quelle: https://lakelandpaws.com/ev
+ ents/
+URL:https://www.sientries.co.uk/event.php?elid=Y&event_id=17842
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-04-scone-palace-trail-runs-8e1222@sandsturm.com
+DTSTAMP:20260912T170953Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Scone Palace Trail Runs
+LOCATION:UK
+DESCRIPTION:Distanzen: 10 km / 21.1 km\nHund: canicross-friendly regular 
+ trail\nStatus: registration open\n10 km and half marathon are canicross 
+ friendly\; one controlled dog per runner. 5 km excluded here.
+URL:https://www.wilddeerevents.co.uk/e/scone-palace-trail-runs-2026-14510
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-17-limitless-trails-beast-of-the-beacons-fbf99c@sandsturm.com
+DTSTAMP:20260912T170953Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Limitless Trails – Beast of the Beacons
+LOCATION:UK
+DESCRIPTION:Distanzen: 16 km / 32.5 km / 65 km\nHöhenmeter: 617 hm / 1286
+  hm / 2572 hm\nHund: canicross-friendly mountain trail\nStatus: registra
+ tion open\nOfficial event page explicitly allows canicross on 10-\, 20- 
+ and 40-mile routes.
+URL:https://www.limitlesstrails.co.uk/beast-of-the-beacons
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-05-08-mountainman-nesselwang-dogs-trail-0999f0@sandsturm.com
-DTSTAMP:20260912T163627Z
+DTSTAMP:20260912T170953Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:MOUNTAINMAN Nesselwang – Dogs-Trail
@@ -35,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-15-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02@san
  dsturm.com
-DTSTAMP:20260912T163627Z
+DTSTAMP:20260912T170953Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Les Gendarmes et les Voleurs de Temps – CaniTrail
@@ -44,5 +188,20 @@ DESCRIPTION:Distanzen: 11 km\nHöhenmeter: 221 hm\nHund: dedicated canitra
  il\nStatus: announced\n2027 event weekend is 15–16 May\; canitrail page 
  lists Saturday 15 May\, 11 km.
 URL:https://gendarmes-et-voleurs.com/canitrail/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-10-limitless-trails-tenacious-ten-endurance-challenge-9e0dfb@
+ sandsturm.com
+DTSTAMP:20260912T170953Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Limitless Trails – Tenacious Ten Endurance Challenge
+LOCATION:UK
+DESCRIPTION:Distanz: 4.18 km loops / 10h\nHöhenmeter: 324 per loop\nHund:
+  canicross-friendly endurance event\nStatus: registration open\n10-hour 
+ technical loop challenge\; organiser's canicross page states its events 
+ are canicross friendly.\nWeitere Quelle: https://www.limitlesstrails.co.
+ uk/canicross-menu
+URL:https://www.limitlesstrails.co.uk/tenacious-ten
 END:VEVENT
 END:VCALENDAR

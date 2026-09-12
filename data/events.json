@@ -2,9 +2,9 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-12T16:36:27Z",
+    "generatedAt": "2026-09-12T17:09:53Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 33
+    "count": 59
   },
   "events": [
     {
@@ -257,6 +257,42 @@
       "origin": "uploaded 2026 CSV"
     },
     {
+      "id": "2026-04-11-spring-run-the-seasons-cowdray-canirun-34ebdf",
+      "date": "2026-04-11",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Spring Run the Seasons Cowdray – CaniRun",
+      "distancesKm": [
+        10,
+        16.1
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated CaniRun starts",
+      "status": "source-confirmed 2026",
+      "notes": "Official page lists separate 10 km and 10 mile CaniRun starts; 5 km excluded here.",
+      "primarySource": "https://rawenergypursuits.co.uk/spring-run-the-seasons-cowdray-9am-saturday-11th-april-2026/",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2026-04-18-thoresby-park-longhorn-trail-c68943",
+      "date": "2026-04-18",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Thoresby Park Longhorn Trail",
+      "distancesKm": [
+        10,
+        21.1
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross-friendly regular trail with separate start",
+      "status": "source-confirmed 2026",
+      "notes": "10 km and half marathon are canicross friendly; separate canicross start. 5 km also dog-friendly but excluded here.",
+      "primarySource": "https://www.wilddeerevents.co.uk/e/thoresby-park-longhorn-trail-event-2026-14505",
+      "secondarySource": "https://thoresby.com/events/the-longhorn-trail/",
+      "origin": "web verification 2026-09-12"
+    },
+    {
       "id": "2026-04-19-lepouvantrail-b89af4",
       "date": "2026-04-19",
       "dateEnd": null,
@@ -288,6 +324,23 @@
       "secondarySource": "https://swiss-canicross.ch/course/canitrails-des-moines/",
       "origin": "uploaded 2026 CSV",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-04-26-scone-palace-trail-runs-8e1222",
+      "date": "2026-04-26",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Scone Palace Trail Runs",
+      "distancesKm": [
+        10
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross-friendly regular trail",
+      "status": "source-confirmed 2026",
+      "notes": "10 km route was canicross friendly; one controlled dog per runner. 5 km excluded here.",
+      "primarySource": "https://www.wilddeerevents.co.uk/e/scone-palace-trail-runs-2026-14510",
+      "secondarySource": "https://gotrail.run/en/race/scone-palace-trail-runs",
+      "origin": "web verification 2026-09-12"
     },
     {
       "id": "2026-05-08-mynydd-y-gaer-mountain-challenge-9a0ce5",
@@ -323,6 +376,23 @@
       "primarySource": "https://www.ledossard.com/inscription/index.php?id=3530",
       "secondarySource": "https://www.ultratiming.live/en/evenement/cani-trail-trail-des-ardennes-2026/epreuve/canitrail-court",
       "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-05-10-houghton-trail-event-11k-canicross-run-bac18d",
+      "date": "2026-05-10",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Houghton Trail Event – 11K Canicross Run",
+      "distancesKm": [
+        11
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross distance",
+      "status": "source-confirmed 2026",
+      "notes": "Annual event includes a separate 11 km canicross run alongside the trail run.",
+      "primarySource": "https://www.houghton-trail-event.org.uk/",
+      "secondarySource": "https://www.timeoutdoors.com/events/the-houghton-trail-event/11k-canicross-run",
+      "origin": "web verification 2026-09-12"
     },
     {
       "id": "2026-05-14-dauw-canitrail-xperience-b872d0",
@@ -414,6 +484,23 @@
       "distanceText": "37_to_73_total"
     },
     {
+      "id": "2026-09-13-beat-the-black-dog-canitrail-trail-run-5c0d72",
+      "date": "2026-09-13",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Beat the Black Dog Canitrail & Trail Run",
+      "distancesKm": [
+        12
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail + trail event",
+      "status": "upcoming",
+      "notes": "12 km canitrail and trail run in Ogmore Vale; Canitrail UK terms referenced by organiser.",
+      "primarySource": "https://www.eventbrite.co.uk/e/beat-the-black-dog-12km-canitrail-and-trail-run-in-aid-of-papyrus-tickets-1987041685170",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-12"
+    },
+    {
       "id": "2026-09-19-arberland-ultra-trail-hundelauf-e0d397",
       "date": "2026-09-19",
       "dateEnd": null,
@@ -433,6 +520,40 @@
       "primarySource": "https://www.arberland-bayerischer-wald.de/aktiv-im-sommer/trailrunning/arberland-ultra-trail/",
       "secondarySource": null,
       "origin": "web verification 2026-09-11"
+    },
+    {
+      "id": "2026-09-19-limitless-trails-trails-tarmac-summer-12h-byu-557450",
+      "date": "2026-09-19",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Limitless Trails – Trails & Tarmac Summer 12h BYU",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "canicross-friendly endurance event",
+      "status": "upcoming",
+      "notes": "12-hour backyard format on 4.2-mile loops; organiser states its events are canicross friendly.",
+      "primarySource": "https://www.limitlesstrails.co.uk/trails-and-tarmac-12hr-byu",
+      "secondarySource": "https://www.limitlesstrails.co.uk/canicross-menu",
+      "origin": "web verification 2026-09-12",
+      "distanceText": "4.2 mile loops up to 12h"
+    },
+    {
+      "id": "2026-09-26-harewood-wild-autumn-trail-runs-bd6b30",
+      "date": "2026-09-26",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Harewood Wild Autumn Trail Runs",
+      "distancesKm": [
+        16.1,
+        24.1
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross-friendly regular trail",
+      "status": "upcoming",
+      "notes": "10-mile and 15-mile routes are canicross friendly; one controlled dog per runner. 5-mile route excluded here.",
+      "primarySource": "https://harewood.org/events/wild-autumn-trail-runs/",
+      "secondarySource": "https://www.wilddeerevents.co.uk/",
+      "origin": "web verification 2026-09-12"
     },
     {
       "id": "2026-09-26-mountainman-reit-im-winkl-dogs-trail-2327c6",
@@ -508,6 +629,25 @@
       "origin": "uploaded 2026 CSV"
     },
     {
+      "id": "2026-10-10-limitless-trails-the-loop-ultra-147c55",
+      "date": "2026-10-10",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Limitless Trails – The Loop Ultra",
+      "distancesKm": [
+        50
+      ],
+      "elevationM": [
+        1482
+      ],
+      "dogAccess": "canicross-friendly ultra",
+      "status": "upcoming",
+      "notes": "32-mile / 50 km marked trail ultra; official event page explicitly says canicross friendly.",
+      "primarySource": "https://www.limitlesstrails.co.uk/the-loop-ultra",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-12"
+    },
+    {
       "id": "2026-10-31-trail-du-calvaire-34f8b7",
       "date": "2026-10-31",
       "dateEnd": null,
@@ -525,6 +665,59 @@
       "origin": "uploaded 2026 CSV"
     },
     {
+      "id": "2026-11-01-lakeland-paws-grizedale-growl-west-side-96afbf",
+      "date": "2026-11-01",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Lakeland Paws – Grizedale Growl West Side",
+      "distancesKm": [
+        10
+      ],
+      "elevationM": [
+        250
+      ],
+      "dogAccess": "dedicated canicross event",
+      "status": "upcoming",
+      "notes": "2026/27 series date confirmed for 1 Nov; West Side route offers 5 km and 10 km, with 10 km retained here.",
+      "primarySource": "https://lakelandpaws.com/events/",
+      "secondarySource": "https://lakelandpaws.com/grizedale-growl/",
+      "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2026-11-07-blue-castle-run-6b4b8c",
+      "date": "2026-11-07",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Blue Castle Run",
+      "distancesKm": [
+        11.3
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross category within trail race",
+      "status": "upcoming / sold out",
+      "notes": "7-mile trail race with capped canicross entry and canicross prizes.",
+      "primarySource": "https://www.bluecastlerun.co.uk/blue-castle-run",
+      "secondarySource": "https://dashboard.race-nation.co.uk/register/blue-castle-run/blue-castle-run-2026",
+      "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2026-11-07-the-grim-reservoir-dogs-694a7c",
+      "date": "2026-11-07",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "The Grim Reservoir Dogs",
+      "distancesKm": [
+        10.8
+      ],
+      "elevationM": [],
+      "dogAccess": "dog race / canicross-friendly trail",
+      "status": "upcoming",
+      "notes": "6.7-mile dog race around Fewston and Swinsty reservoirs; shorter 3.3-mile option excluded here.",
+      "primarySource": "https://www.itsgrimupnorthrunning.co.uk/e/the-grim-reservoir-dogs-11615",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-12"
+    },
+    {
       "id": "2026-11-15-trail-des-ch-taignes-07ac4c",
       "date": "2026-11-15",
       "dateEnd": null,
@@ -540,6 +733,42 @@
       "primarySource": "https://www.finishers.com/en/event/trail-des-chataignes-de-cormeille-en-parisis",
       "secondarySource": "https://www.esprit-trail.com/calendrier_courses/trail-des-chataignes-2/",
       "origin": "uploaded 2026 CSV"
+    },
+    {
+      "id": "2026-12-06-atw-grafham-water-10-mile-canicross-72b498",
+      "date": "2026-12-06",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "ATW Grafham Water 10 Mile Canicross",
+      "distancesKm": [
+        16.1
+      ],
+      "elevationM": [
+        100
+      ],
+      "dogAccess": "dedicated canicross distance",
+      "status": "upcoming",
+      "notes": "Dedicated 10-mile canicross start at 09:00 around Grafham Water.",
+      "primarySource": "https://www.timeoutdoors.com/events/atw-grafham-water-trail-canicross/10-mile-canicross",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2026-12-06-maidstone-harriers-turkey-run-canicross-542cba",
+      "date": "2026-12-06",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Maidstone Harriers Turkey Run – Canicross",
+      "distancesKm": [
+        12.1
+      ],
+      "elevationM": [],
+      "dogAccess": "separate canicross event",
+      "status": "upcoming",
+      "notes": "7.5-mile multi-terrain Turkey Run with a separate canicross race; one dog per runner.",
+      "primarySource": "https://maidstoneharriers.co.uk/events-community/the-turkey-run/",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-12"
     },
     {
       "id": "2026-12-06-mountainman-nikolaus-trail-pommelsbrunn-dogs-trail-e8c17e",
@@ -563,6 +792,41 @@
       "origin": "web verification 2026-09-11"
     },
     {
+      "id": "2026-12-13-sherwood-pines-festive-trail-runs-b51ba1",
+      "date": "2026-12-13",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Sherwood Pines Festive Trail Runs",
+      "distancesKm": [
+        10
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross-friendly trail with separate canicross start",
+      "status": "upcoming",
+      "notes": "10 km trail is canicross friendly with a 09:30 canicross start; 5 km excluded here.",
+      "primarySource": "https://www.wilddeerevents.co.uk/e/sherwood-pines-festive-trail-runs-2026-14700",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2027-01-09-yorkshire-trail-runs-harewood-house-054718",
+      "date": "2027-01-09",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Yorkshire Trail Runs – Harewood House",
+      "distancesKm": [
+        10,
+        21.1
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross-friendly regular trail with separate starts",
+      "status": "registration open",
+      "notes": "10 km and half marathon have separate canicross start times; 5 km excluded here.",
+      "primarySource": "https://www.wilddeerevents.co.uk/e/yorkshire-trail-runs-2027-harewood-house-14484",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-12"
+    },
+    {
       "id": "2027-01-24-mountainman-dogs-winterloop-reit-im-winkl-ed8333",
       "date": "2027-01-24",
       "dateEnd": null,
@@ -578,6 +842,192 @@
       "origin": "web verification 2026-09-11",
       "distanceText": "7.5 km loops",
       "elevationText": "110 per loop"
+    },
+    {
+      "id": "2027-02-06-limitless-trails-trails-tarmac-winter-12h-byu-8b215e",
+      "date": "2027-02-06",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Limitless Trails – Trails & Tarmac Winter 12h BYU",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "canicross-friendly endurance event",
+      "status": "registration open",
+      "notes": "12-hour backyard format on 4.2-mile loops; organiser states its events are canicross friendly.",
+      "primarySource": "https://www.limitlesstrails.co.uk/trails-and-tarmac-byu-2",
+      "secondarySource": "https://www.limitlesstrails.co.uk/canicross-menu",
+      "origin": "web verification 2026-09-12",
+      "distanceText": "4.2 mile loops up to 12h"
+    },
+    {
+      "id": "2027-02-07-lakeland-paws-whinlatter-tails-south-side-9d2783",
+      "date": "2027-02-07",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Lakeland Paws – Whinlatter Tails South Side",
+      "distancesKm": [
+        10
+      ],
+      "elevationM": [
+        400
+      ],
+      "dogAccess": "dedicated canicross event",
+      "status": "registration open",
+      "notes": "2026/27 series date is 7 Feb; South Side route offers a 10 km long option with about 400 m ascent.",
+      "primarySource": "https://lakelandpaws.com/events/",
+      "secondarySource": "https://lakelandpaws.com/whinlatter-tails-south-side/",
+      "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2027-02-28-fountains-abbey-wild-trail-runs-cd37ac",
+      "date": "2027-02-28",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Fountains Abbey Wild Trail Runs",
+      "distancesKm": [
+        10,
+        21.1
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross-friendly regular trail",
+      "status": "registration open",
+      "notes": "10 km and half marathon are canicross friendly; one controlled dog per runner. 5 km excluded here.",
+      "primarySource": "https://gotrail.run/en/race/fountains-abbey-wild-trail-runs",
+      "secondarySource": "https://www.wilddeerevents.co.uk/",
+      "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2027-02-28-run-with-k9s-endurance-relay-e9bcec",
+      "date": "2027-02-28",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Run With K9s – Endurance Relay",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross endurance event",
+      "status": "registration open",
+      "notes": "Solo or teams of up to 3 complete as many 2.5 km laps as possible in 3 hours.",
+      "primarySource": "https://www.runwithk9s.com/canicrossrelays",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-12",
+      "distanceText": "2.5 km laps / 3h"
+    },
+    {
+      "id": "2027-03-06-limitless-trails-beast-of-the-blacks-a8cf6f",
+      "date": "2027-03-06",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Limitless Trails – Beast of the Blacks",
+      "distancesKm": [
+        16.9,
+        32.5,
+        65
+      ],
+      "elevationM": [
+        468,
+        1360,
+        2720
+      ],
+      "dogAccess": "canicross-friendly mountain trail",
+      "status": "registration open",
+      "notes": "Official event page explicitly allows canicross on 10-, 20- and 40-mile routes.",
+      "primarySource": "https://www.limitlesstrails.co.uk/beast-of-the-blacks",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2027-03-07-lakeland-paws-tour-de-grizedale-2d808a",
+      "date": "2027-03-07",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Lakeland Paws – Tour de Grizedale",
+      "distancesKm": [
+        12,
+        22
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross event",
+      "status": "registration open",
+      "notes": "Official route page lists 12 km and 22 km / half-marathon canicross options.",
+      "primarySource": "https://lakelandpaws.com/grizedale-growl-tour-de-grizedale/",
+      "secondarySource": "https://www.sientries.co.uk/event.php?elid=Y&event_id=17822",
+      "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2027-03-20-grasmere-wild-trail-runs-79a7a4",
+      "date": "2027-03-20",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Grasmere Wild Trail Runs",
+      "distancesKm": [
+        10,
+        21.1
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross-friendly regular trail with separate start",
+      "status": "registration open",
+      "notes": "10 km and half marathon are canicross friendly with a separate dog start; 5 km excluded here.",
+      "primarySource": "https://www.wilddeerevents.co.uk/e/grasmere-wild-trail-runs-2027-14493",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2027-04-04-lakeland-paws-tour-de-whinlatter-cab24f",
+      "date": "2027-04-04",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Lakeland Paws – Tour de Whinlatter",
+      "distancesKm": [
+        12
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross event",
+      "status": "registration open",
+      "notes": "9 km and 12 km offered; only the 12 km option is retained under the >=10 km rule.",
+      "primarySource": "https://www.sientries.co.uk/event.php?elid=Y&event_id=17842",
+      "secondarySource": "https://lakelandpaws.com/events/",
+      "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2027-04-04-scone-palace-trail-runs-8e1222",
+      "date": "2027-04-04",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Scone Palace Trail Runs",
+      "distancesKm": [
+        10,
+        21.1
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross-friendly regular trail",
+      "status": "registration open",
+      "notes": "10 km and half marathon are canicross friendly; one controlled dog per runner. 5 km excluded here.",
+      "primarySource": "https://www.wilddeerevents.co.uk/e/scone-palace-trail-runs-2026-14510",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2027-04-17-limitless-trails-beast-of-the-beacons-fbf99c",
+      "date": "2027-04-17",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Limitless Trails – Beast of the Beacons",
+      "distancesKm": [
+        16,
+        32.5,
+        65
+      ],
+      "elevationM": [
+        617,
+        1286,
+        2572
+      ],
+      "dogAccess": "canicross-friendly mountain trail",
+      "status": "registration open",
+      "notes": "Official event page explicitly allows canicross on 10-, 20- and 40-mile routes.",
+      "primarySource": "https://www.limitlesstrails.co.uk/beast-of-the-beacons",
+      "secondarySource": null,
+      "origin": "web verification 2026-09-12"
     },
     {
       "id": "2027-05-08-mountainman-nesselwang-dogs-trail-0999f0",
@@ -614,6 +1064,23 @@
       "primarySource": "https://gendarmes-et-voleurs.com/canitrail/",
       "secondarySource": null,
       "origin": "web verification 2026-09-11"
+    },
+    {
+      "id": "2027-07-10-limitless-trails-tenacious-ten-endurance-challenge-9e0dfb",
+      "date": "2027-07-10",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Limitless Trails – Tenacious Ten Endurance Challenge",
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "canicross-friendly endurance event",
+      "status": "registration open",
+      "notes": "10-hour technical loop challenge; organiser's canicross page states its events are canicross friendly.",
+      "primarySource": "https://www.limitlesstrails.co.uk/tenacious-ten",
+      "secondarySource": "https://www.limitlesstrails.co.uk/canicross-menu",
+      "origin": "web verification 2026-09-12",
+      "distanceText": "4.18 km loops / 10h",
+      "elevationText": "324 per loop"
     }
   ]
 }
