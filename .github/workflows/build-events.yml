@@ -1,1 +1,51 @@
-foo
+name: Build event feeds
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/Canitrail_Masterkalender_2026_2027.csv"
+      - "scripts/build_events.py"
+      - ".github/workflows/build-events.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-event-feeds
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate JSON and ICS
+        run: python scripts/build_events.py
+
+      - name: Validate JSON
+        run: python -m json.tool dogs/data/events.json > /dev/null
+
+      - name: Commit generated files
+        run: |
+          if git diff --quiet -- dogs/data/events.json dogs/calendar/; then
+            echo "No generated changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add dogs/data/events.json dogs/calendar/
+          git commit -m "chore: rebuild event feeds"
+          git push
