@@ -2,9 +2,9 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-12T18:28:27Z",
+    "generatedAt": "2026-09-12T18:33:28Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 284,
+    "count": 291,
     "categories": [
       "bike jöring",
       "canicross",
@@ -1823,6 +1823,30 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-09-19-bdif-barmark-e37c11",
+      "date": "2026-09-19",
+      "dateEnd": null,
+      "country": "Sweden",
+      "event": "BDIF barmark",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        3.15,
+        3.5,
+        6
+      ],
+      "elevationM": [],
+      "dogAccess": "Yes",
+      "status": "confirmed",
+      "notes": "2026 date/location confirmed by SDSF. Discipline/distance profile supported by official BDIF federation results from prior detailed edition.",
+      "primarySource": "https://draghundsport.se/kalender/",
+      "secondarySource": "https://draghundsport.se/tavling/dbresultat/visaresultat.aspx?visa=1623",
+      "origin": "SDSF federation sweep round 8"
+    },
+    {
       "id": "2026-09-19-canicross-du-lac-de-chour-8a399a",
       "date": "2026-09-19",
       "dateEnd": null,
@@ -1904,6 +1928,26 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-09-19-vattudalsdraget-a627db",
+      "date": "2026-09-19",
+      "dateEnd": null,
+      "country": "Sweden",
+      "event": "Vattudalsdraget",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Yes",
+      "status": "confirmed",
+      "notes": "2026 date/location confirmed by SDSF. Dryland disciplines assigned from federation/series context; detailed 2026 class sheet not yet exposed.",
+      "primarySource": "https://draghundsport.se/kalender/",
+      "secondarySource": null,
+      "origin": "SDSF federation sweep round 8"
+    },
+    {
       "id": "2026-09-20-csen-canicross-borno-522f67",
       "date": "2026-09-20",
       "dateEnd": null,
@@ -1960,6 +2004,29 @@
       "secondarySource": "https://courses.ffslc.fr/calendar",
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-09-20-tavelsjoedraget-3ccb2d",
+      "date": "2026-09-20",
+      "dateEnd": null,
+      "country": "Sweden",
+      "event": "Tavelsjödraget",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        2.3,
+        4.6
+      ],
+      "elevationM": [],
+      "dogAccess": "Yes",
+      "status": "confirmed",
+      "notes": "SDSF calendar confirms 2026 date at Klacken IP, Tavelsjö; official race PM specifies Canicross, cycle and kickbike classes at 2.3/4.6 km.",
+      "primarySource": "https://draghundsport.se/kalender/",
+      "secondarySource": "https://draghundsport.se/kalender/pm/1/tavlingspm-1.pdf",
+      "origin": "SDSF federation sweep round 8"
     },
     {
       "id": "2026-09-26-bosorkin-canicross-autumn-round-2026-eb5ffe",
@@ -2058,6 +2125,26 @@
       "secondarySource": "https://courses.ffslc.fr/calendar",
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-09-26-hapimag-hoest-9a619c",
+      "date": "2026-09-26",
+      "dateEnd": null,
+      "country": "Sweden",
+      "event": "Hapimag höst",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Yes",
+      "status": "confirmed",
+      "notes": "SDSF lists 2026 Hapimag höst in Svenarum/Vaggeryd as WCP Dryland. Detailed prior federation edition explicitly includes running/canicross and vehicle classes.",
+      "primarySource": "https://draghundsport.se/kalender/",
+      "secondarySource": "https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=3",
+      "origin": "SDSF federation sweep round 8"
     },
     {
       "id": "2026-09-26-harewood-wild-autumn-trail-runs-bd6b30",
@@ -2185,6 +2272,26 @@
       "secondarySource": "https://courses.ffslc.fr/calendar",
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-09-26-saevastdraget-e094f1",
+      "date": "2026-09-26",
+      "dateEnd": null,
+      "country": "Sweden",
+      "event": "Sävastdraget",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Yes",
+      "status": "confirmed",
+      "notes": "2026 date and Sävast/Boden location confirmed by SDSF; dryland event of Boden Draghund IF.",
+      "primarySource": "https://draghundsport.se/kalender/",
+      "secondarySource": "https://www.bdif.nu/valkommen/",
+      "origin": "SDSF federation sweep round 8"
     },
     {
       "id": "2026-09-26-oebacka-barmark-dag-1-66de1b",
@@ -3000,6 +3107,26 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-10-17-lavterskell-p-p-gj-vik-227152",
+      "date": "2026-10-17",
+      "dateEnd": null,
+      "country": "Norway",
+      "event": "Lavterskelløp på Gjøvik",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Yes",
+      "status": "confirmed",
+      "notes": "Current NHF termin list confirms low-threshold dryland race on Gjøvik; NHF 2026 Barmark Cup disciplines are snøreløping, snøresykling and kickbike.",
+      "primarySource": "https://www.sleddog.no/next/p/74113/kurs-og-aktiviteter",
+      "secondarySource": "https://www.sleddog.no/next/p/82758/barmark",
+      "origin": "NHF federation sweep round 8"
+    },
+    {
       "id": "2026-10-18-canicross-ireland-2026-27-event-two-lough-boora-a6b5e6",
       "date": "2026-10-18",
       "dateEnd": null,
@@ -3489,6 +3616,26 @@
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-11-07-lavterskel-barmarksl-p-kongsberg-6465f4",
+      "date": "2026-11-07",
+      "dateEnd": null,
+      "country": "Norway",
+      "event": "Lavterskel Barmarksløp Kongsberg",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Yes",
+      "status": "confirmed",
+      "notes": "Current NHF termin list confirms Kongsberg low-threshold dryland race; federation barmark disciplines are snøreløping, snøresykling and kickbike.",
+      "primarySource": "https://www.sleddog.no/next/p/74113/kurs-og-aktiviteter",
+      "secondarySource": "https://www.sleddog.no/next/p/82758/barmark",
+      "origin": "NHF federation sweep round 8"
     },
     {
       "id": "2026-11-07-the-grim-reservoir-dogs-694a7c",
