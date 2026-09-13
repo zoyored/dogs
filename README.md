@@ -1,45 +1,81 @@
-# dogs
+# Canicross & Canitrail Event Calendar
 
-Öffentlicher Kalender für Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.
+Öffentlicher Kalender für Canicross-, Canitrail- und hundefreundliche Trail-Veranstaltungen mit Schwerpunkt Europa.
 
 ## Kalender abonnieren
 
-Nach Aktivierung von GitHub Pages ist der 2027-Kalender unter dieser Adresse erreichbar:
+Die erzeugten iCalendar-Dateien liegen im Verzeichnis `calendar/`.
+
+2026:
+
+`https://zoyored.github.io/dogs/calendar/2026/canicross-canitrail-2026.ics`
+
+2027:
 
 `https://zoyored.github.io/dogs/calendar/2027/canicross-canitrail-2027.ics`
 
-Auf iPhone/iPad kann diese URL als abonnierter Kalender hinzugefügt werden. Änderungen an der ICS-Datei werden anschließend über dieselbe URL veröffentlicht.
+Auf iPhone/iPad können diese URLs als abonnierte Kalender hinzugefügt werden. Änderungen an den erzeugten ICS-Dateien werden anschließend über dieselben URLs veröffentlicht.
+
+> Hinweis: Der URL-Bestandteil `/dogs/` stammt vom Repository-Namen `zoyored/dogs`. Er bezeichnet **kein** Unterverzeichnis `dogs/` im Repository.
 
 ## Repository-Struktur
 
 ```text
 .
-├── README.md
-├── LICENSE
+├── .github/
+│   └── workflows/
+│       └── build-events.yml
+├── calendar/
+│   ├── 2026/
+│   │   └── canicross-canitrail-2026.ics
+│   └── 2027/
+│       └── canicross-canitrail-2027.ics
 ├── data/
-│   └── Canitrail_Masterkalender_2026_2027.csv
-├── dogs/
-│   ├── .nojekyll
-│   ├── index.html
-│   └── calendar/
-│       └── 2027/
-│           └── canicross-canitrail-2027.ics
-└── sources/
-    └── README.md
+│   ├── Canitrail_Masterkalender_2026_2027.csv
+│   ├── events.json
+│   └── source-master.csv
+├── scripts/
+│   ├── build_events.py
+│   └── dedupe_master.py
+├── LICENSE
+└── README.md
 ```
+
+## Datenfluss
+
+`data/Canitrail_Masterkalender_2026_2027.csv` ist die zentrale Datenquelle.
+
+Bei Änderungen am Masterkalender startet der GitHub-Actions-Workflow `Build event feeds` automatisch und führt folgende Schritte aus:
+
+1. `scripts/dedupe_master.py` erkennt doppelte Events anhand von Datum/Zeitraum, Land und normalisiertem Eventnamen und führt deren Daten zusammen.
+2. `scripts/build_events.py` erzeugt daraus `data/events.json`.
+3. Für jedes enthaltene Jahr werden die ICS-Dateien unter `calendar/<Jahr>/` neu erzeugt.
+4. Geänderte Master-, JSON- und Kalenderdateien werden automatisch zurück nach `main` committed.
+
+Die Dateien `data/events.json` und `calendar/**/*.ics` sind damit **generierte Dateien** und sollten nicht manuell gepflegt werden.
 
 ## Datenpflege
 
-- `data/` enthält die recherchierten Masterdaten.
-- `dogs/calendar/` enthält die veröffentlichten Kalenderdateien.
-- `sources/` dokumentiert Quellen und Pflegekonventionen.
-- Vorläufige Termine werden in der ICS als `TENTATIVE` gekennzeichnet.
+Neue und korrigierte Veranstaltungen werden ausschließlich im Masterkalender gepflegt:
+
+`data/Canitrail_Masterkalender_2026_2027.csv`
+
+Der Masterkalender enthält unter anderem Datum, Land, Eventname, Kategorie, Distanz, Höhenmeter, Hundezugang, Status, Hinweise und Quellen.
+
+`data/source-master.csv` dient als ergänzende Quellen-/Importbasis.
 
 ## GitHub Pages
 
-GitHub Pages sollte auf **Deploy from a branch** gestellt werden:
+Wenn die Kalenderdateien über GitHub Pages ausgeliefert werden, sollte Pages den Branch `main` aus dem Repository-Root (`/`) veröffentlichen. Die öffentlichen URLs enthalten aufgrund des Repository-Namens weiterhin den Pfad `/dogs/`, zum Beispiel:
 
-- Branch: `main`
-- Folder: `/dogs`
+`https://zoyored.github.io/dogs/calendar/2027/canicross-canitrail-2027.ics`
 
-Danach ist die Kalenderdatei unter der oben genannten URL öffentlich erreichbar.
+Ein zusätzliches Repository-Unterverzeichnis `dogs/` wird dafür nicht benötigt.
+
+## Automatisierung
+
+Der Workflow befindet sich unter:
+
+`.github/workflows/build-events.yml`
+
+Er kann zusätzlich manuell über **Actions → Build event feeds → Run workflow** gestartet werden.
