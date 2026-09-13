@@ -65,7 +65,13 @@ jobs:
       - name: Verify generated files are committed
         run: |
           set -euo pipefail
-          if ! git diff --exit-code -- data/events.json calendar/; then
+          # generatedAt and ICS DTSTAMP intentionally record build time and therefore
+          # change on every rebuild. Ignore only those volatile metadata lines while
+          # requiring every substantive feed change to be committed.
+          if ! git diff --exit-code \
+            --ignore-matching-lines='^[[:space:]]*"generatedAt":' \
+            --ignore-matching-lines='^DTSTAMP:' \
+            -- data/events.json calendar/; then
             echo "::error::Generated feeds are out of date. Run python scripts/build_events.py and commit data/events.json and calendar/."
             exit 1
           fi
@@ -73,4 +79,5 @@ jobs:
       - name: Validation summary
         run: |
           echo "Event source and generated feeds are consistent."
+          echo "Volatile generation timestamps are excluded from the reproducibility comparison."
           echo "This workflow is read-only and never pushes to main."
