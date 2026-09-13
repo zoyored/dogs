@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Together Further//Validation Test//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20260401-wolkenlauf-flughunde-validation-test@together-further.invalid
+DTSTAMP:20260913T070000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Wolkenlauf – nur für Flughunde 🪽
+LOCATION:Über den Wolken
+DESCRIPTION:APRILSCHERZ / TESTEVENT – temporärer Dummy-Termin zur Prüfung des PR-Validation-Workflows. Nicht mergen.
+END:VEVENT
+END:VCALENDAR
