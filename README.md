@@ -2,34 +2,32 @@
 
 Öffentlicher Kalender für Canicross-, Canitrail- und hundefreundliche Trail-Veranstaltungen mit Schwerpunkt Europa.
 
+## Mitmachen
+
+Hinweise, Korrekturen und neue Veranstaltungen aus der Community sind ausdrücklich willkommen. Änderungen an den Kalenderdaten sollen über **Issues oder Pull Requests** eingebracht werden. Der Branch `main` ist die veröffentlichte Datenquelle; Änderungen werden vor der Übernahme geprüft.
+
+Details zum Ablauf stehen in [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Kalender abonnieren
 
 Die erzeugten iCalendar-Dateien liegen im Verzeichnis `calendar/`.
 
 2026:
-
 `https://zoyored.github.io/dogs/calendar/2026/canicross-canitrail-2026.ics`
 
 2027:
-
 `https://zoyored.github.io/dogs/calendar/2027/canicross-canitrail-2027.ics`
 
 Auf iPhone/iPad können diese URLs als abonnierte Kalender hinzugefügt werden. Änderungen an den erzeugten ICS-Dateien werden anschließend über dieselben URLs veröffentlicht.
 
-> Hinweis: Der URL-Bestandteil `/dogs/` stammt vom Repository-Namen `zoyored/dogs`. Er bezeichnet **kein** Unterverzeichnis `dogs/` im Repository.
+> Hinweis: Der URL-Bestandteil `/dogs/` stammt vom Repository-Namen `zoyored/dogs`. Er bezeichnet kein Unterverzeichnis `dogs/` im Repository.
 
 ## Repository-Struktur
 
 ```text
 .
-├── .github/
-│   └── workflows/
-│       └── build-events.yml
+├── .github/workflows/build-events.yml
 ├── calendar/
-│   ├── 2026/
-│   │   └── canicross-canitrail-2026.ics
-│   └── 2027/
-│       └── canicross-canitrail-2027.ics
 ├── data/
 │   ├── Canitrail_Masterkalender_2026_2027.csv
 │   ├── events.json
@@ -37,6 +35,7 @@ Auf iPhone/iPad können diese URLs als abonnierte Kalender hinzugefügt werden. 
 ├── scripts/
 │   ├── build_events.py
 │   └── dedupe_master.py
+├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
 ```
@@ -45,14 +44,17 @@ Auf iPhone/iPad können diese URLs als abonnierte Kalender hinzugefügt werden. 
 
 `data/Canitrail_Masterkalender_2026_2027.csv` ist die zentrale Datenquelle.
 
-Bei Änderungen am Masterkalender startet der GitHub-Actions-Workflow `Build event feeds` automatisch und führt folgende Schritte aus:
+Zu jeder Änderung an den Eventdaten werden die abgeleiteten Dateien bereits im selben Pull Request erzeugt und mit eingecheckt:
 
-1. `scripts/dedupe_master.py` erkennt doppelte Events anhand von Datum/Zeitraum, Land und normalisiertem Eventnamen und führt deren Daten zusammen.
-2. `scripts/build_events.py` erzeugt daraus `data/events.json`.
-3. Für jedes enthaltene Jahr werden die ICS-Dateien unter `calendar/<Jahr>/` neu erzeugt.
-4. Geänderte Master-, JSON- und Kalenderdateien werden automatisch zurück nach `main` committed.
+1. `python scripts/dedupe_master.py` prüft und bereinigt doppelte Events.
+2. `python scripts/build_events.py` erzeugt `data/events.json` und die ICS-Dateien unter `calendar/<Jahr>/`.
+3. Der GitHub-Actions-Workflow `Validate event feeds` führt dieselben Prüfungen erneut in einer schreibgeschützten Umgebung aus.
+4. Nur wenn Masterdaten und generierte Dateien konsistent sind, ist die Validierung erfolgreich.
+5. Nach dem geprüften Merge enthält `main` sofort die vollständige, veröffentlichungsfähige Version.
 
-Die Dateien `data/events.json` und `calendar/**/*.ics` sind damit **generierte Dateien** und sollten nicht manuell gepflegt werden.
+Der Workflow besitzt nur `contents: read` und schreibt **nicht** selbst nach `main`. Dadurch kann `main` geschützt werden, ohne dass die Automatisierung eine Ausnahme mit Schreibrechten benötigt.
+
+Die Dateien `data/events.json` und `calendar/**/*.ics` sind generierte Dateien und sollten nicht manuell editiert werden.
 
 ## Datenpflege
 
@@ -60,22 +62,14 @@ Neue und korrigierte Veranstaltungen werden ausschließlich im Masterkalender ge
 
 `data/Canitrail_Masterkalender_2026_2027.csv`
 
-Der Masterkalender enthält unter anderem Datum, Land, Eventname, Kategorie, Distanz, Höhenmeter, Hundezugang, Status, Hinweise und Quellen.
-
 `data/source-master.csv` dient als ergänzende Quellen-/Importbasis.
 
 ## GitHub Pages
 
-Wenn die Kalenderdateien über GitHub Pages ausgeliefert werden, sollte Pages den Branch `main` aus dem Repository-Root (`/`) veröffentlichen. Die öffentlichen URLs enthalten aufgrund des Repository-Namens weiterhin den Pfad `/dogs/`, zum Beispiel:
-
-`https://zoyored.github.io/dogs/calendar/2027/canicross-canitrail-2027.ics`
-
-Ein zusätzliches Repository-Unterverzeichnis `dogs/` wird dafür nicht benötigt.
+GitHub Pages kann den Branch `main` aus dem Repository-Root (`/`) veröffentlichen. Die öffentlichen URLs enthalten aufgrund des Repository-Namens weiterhin den Pfad `/dogs/`.
 
 ## Automatisierung
 
-Der Workflow befindet sich unter:
+Der Workflow befindet sich unter `.github/workflows/build-events.yml`.
 
-`.github/workflows/build-events.yml`
-
-Er kann zusätzlich manuell über **Actions → Build event feeds → Run workflow** gestartet werden.
+Er läuft bei passenden Pull Requests und nach Änderungen auf `main` als Konsistenzprüfung. Er kann zusätzlich manuell über **Actions → Validate event feeds → Run workflow** gestartet werden.
