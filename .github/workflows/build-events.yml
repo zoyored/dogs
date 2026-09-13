@@ -9,6 +9,7 @@ on:
     paths:
       - "data/Canitrail_Masterkalender_2026_2027.csv"
       - "scripts/build_events.py"
+      - "scripts/dedupe_master.py"
       - ".github/workflows/build-events.yml"
 
 permissions:
@@ -28,6 +29,10 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Remove duplicate master events
+        run: |
+          python scripts/dedupe_master.py
 
       - name: Generate JSON and ICS
         run: |
@@ -51,6 +56,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          git add data/Canitrail_Masterkalender_2026_2027.csv
           git add data/events.json
           git add calendar/
 
@@ -62,4 +68,4 @@ jobs:
           git commit -m "chore: rebuild event feeds"
           git push origin HEAD:main
 
-# Feed rebuild triggered after Europe federation sweep round 8.
+# Feed rebuild triggered after master calendar deduplication.
