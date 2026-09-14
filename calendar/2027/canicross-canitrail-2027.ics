@@ -308,6 +308,19 @@ DESCRIPTION:Kategorie: canicross / ski jöring / sledge\nDistanz: not publ
 URL:https://www.schlittenhundesport.at/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-30-traildog-the-collective-druridge-night-run-f60553@sandstur
+ m.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:TRAILDOG The Collective – Druridge Night Run
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross\nHund: dedicated dog-running event\nStat
+ us: source-confirmed 2027\nNight-run round of TRAILDOG The Collective at
+  Druridge Bay.
+URL:https://www.traildogevents.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-30-troph-e-canin-des-plages-2027-1f901a@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270130
@@ -527,6 +540,18 @@ LOCATION:Netherlands
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: official 
  CCNL race\nStatus: announced\nOfficial CCNL calendar\; permit pending.
 URL:https://www.canicrossnederland.nl/kalender20262027.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-14-traildog-the-collective-wallington-b3f25c@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:TRAILDOG The Collective – Wallington
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross\nHund: dedicated dog-running event\nStat
+ us: source-confirmed 2027\nPart of TRAILDOG The Collective series\; Wall
+ ington National Trust.
+URL:https://www.traildogevents.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-ifss-winter-world-championships-2027-jaemijaervi-06c1de@sa
@@ -835,6 +860,18 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
 URL:https://www.canicross-ireland.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-20-discover-kielder-ultra-1babe2@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Discover Kielder Ultra
+LOCATION:UK
+DESCRIPTION:Kategorie: canitrail\nHund: dog endurance event\nStatus: sour
+ ce-confirmed 2027\nTRAILDOG event calendar lists Discover Kielder Ultra 
+ on 20 March 2027.
+URL:https://www.traildogevents.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-03-20-dog-adventure-sprint-race-puchar-polski-sprint-918c7f@sand
  sturm.com
 DTSTAMP:20260914T085651Z
@@ -950,6 +987,19 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: CSEN ICF-
  selection race\nStatus: provisional 2027\nOfficial CSEN 2026/27 calendar
   lists Piana di Segni as an ICF 2027 selection race.
 URL:https://discipline.csencinofilia.it/calendario-gare-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-traildog-the-collective-kielder-waterside-e4b6ba@sandsturm
+ .com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:TRAILDOG The Collective – Kielder Waterside
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross\nHund: dedicated dog-running event\nStat
+ us: source-confirmed 2027\nPart of TRAILDOG The Collective series\; Kiel
+ der Waterside.
+URL:https://www.traildogevents.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-03-canicross-du-lac-des-sapins-30087c@sandsturm.com
