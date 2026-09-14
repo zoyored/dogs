@@ -32,6 +32,21 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
 URL:https://lakelandpaws.com/events/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-08-int-schlittenhunderennen-auf-der-postalm-2027-36a7ca@sands
+ turm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270111
+SUMMARY:Int. Schlittenhunderennen auf der Postalm 2027
+LOCATION:Austria
+DESCRIPTION:Kategorie: canicross / ski jöring / sledge\nDistanz: not publ
+ ished\nHund: official ÖSHS snow race incl. Canicross and Skijöring\nStat
+ us: source-confirmed 2027\nPostalm\; official classes include Canicross 
+ 1 dog\, Skijöring 1/2 dogs and sled teams.\nWeitere Quelle: https://vere
+ insportal.schlittenhundesport.at/events_public.php
+URL:https://www.schlittenhundesport.at/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-08-ukkohalla-paljakka-ajot-2027-521b35@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270108
@@ -143,6 +158,19 @@ LOCATION:Netherlands
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: official 
  CCNL race\nStatus: announced\nOfficial CCNL calendar\; permit pending.
 URL:https://www.canicrossnederland.nl/kalender20262027.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-hsvrm-canicross-wintercup-rossdorf-7d2b7e@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:HSVRM CaniCross-Wintercup Roßdorf
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated HSVRM CaniCross-Wintercup\nStatus: provisional 
+ / source-confirmed\nVdH Roßdorf\; CC/GL\, Dogscooter and Bikejöring\; da
+ te listed under reservation.
+URL:https://www.hsvrm.de/sportangebote/turnierhundsport/aktuell/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-danmarksmesterskab-dcf-dog-series-3-9d1024@sandsturm.com
@@ -275,6 +303,21 @@ DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-30-int-schlittenhunderennen-in-hintersee-2027-16397d@sandstur
+ m.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+SUMMARY:Int. Schlittenhunderennen in Hintersee 2027
+LOCATION:Austria
+DESCRIPTION:Kategorie: canicross / ski jöring / sledge\nDistanz: not publ
+ ished\nHund: official ÖSHS snow race incl. Canicross and Skijöring\nStat
+ us: source-confirmed 2027\nHintersee\; official classes include Canicros
+ s 1 dog\, Skijöring 1/2 dogs and sled teams.\nWeitere Quelle: https://ve
+ reinsportal.schlittenhundesport.at/events_public.php
+URL:https://www.schlittenhundesport.at/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-30-troph-e-canin-des-plages-2027-1f901a@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270130
@@ -327,15 +370,17 @@ DESCRIPTION:Kategorie: canicross\nDistanz: 4.2 mile loops up to 12h\nHund
 URL:https://www.limitlesstrails.co.uk/trails-and-tarmac-byu-2
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-07-5-canicross-mud-glory-beroide-spoleto-3fe7b2@sandsturm.com
+UID:2027-02-07-5-canicross-mud-glory-beroide-spoleto-8e1907@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-SUMMARY:5° Canicross Mud&Glory – Beroide Spoleto
+SUMMARY:5° Canicross Mud & Glory – Beroide Spoleto
 LOCATION:Italy
-DESCRIPTION:Kategorie: canicross\nHund: CSEN Canicross championship race\
- nStatus: announced\nOfficial CSEN 2026/27 calendar\; ICF 2027 selection 
- race.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: CSEN cham
+ pionship race | CSEN Canicross championship race\nStatus: provisional ca
+ lendar / source-confirmed\nBeroide\, Spoleto (PG)\; organizer Mud & Glor
+ y Canicross ASD. | Official CSEN 2026/27 calendar\; ICF 2027 selection r
+ ace.
 URL:https://discipline.csencinofilia.it/calendario-gare-2027/
 END:VEVENT
 BEGIN:VEVENT
@@ -518,6 +563,20 @@ DESCRIPTION:Kategorie: canicross\nHund: CSEN Canicross championship race\
  nStatus: announced\nOfficial CSEN 2026/27 calendar\; ICF 2027 selection 
  race.
 URL:https://discipline.csencinofilia.it/calendario-gare-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-21-hsvrm-canicross-wintercup-bergen-enkheim-6122bf@sandsturm.
+ com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:HSVRM CaniCross-Wintercup Bergen-Enkheim
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated HSVRM CaniCross-Wintercup\nStatus: provisional 
+ / source-confirmed\nPSV Bergen-Enkheim\; CC/GL\, Dogscooter and Bikejöri
+ ng\; date listed under reservation.
+URL:https://www.hsvrm.de/sportangebote/turnierhundsport/aktuell/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-23-ifss-winter-world-championships-2027-kontiolahti-dbb1bb@sa
@@ -721,6 +780,20 @@ DESCRIPTION:Kategorie: canicross\nDistanzen: 12 km / 22 km\nHund: dedicat
   12 km and 22 km / half-marathon canicross options.\nWeitere Quelle: htt
  ps://www.sientries.co.uk/event.php?elid=Y&event_id=17822
 URL:https://lakelandpaws.com/grizedale-growl-tour-de-grizedale/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-7-internationales-schlittenhundewagenrennen-apenburg-29fee
+ 3@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+SUMMARY:7. Internationales Schlittenhundewagenrennen Apenburg
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter / sledge\nDistan
+ z: not published\nHund: dedicated dryland mushing race\nStatus: source-c
+ onfirmed 2027\nApenburg\; Canicross women/men\, Velo 1/2 dogs\, Scooter 
+ 1/2 dogs and team classes.
+URL:https://www.schlittenhundesportclubsa.de/rennen-apenburg
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-vulcanicross-canicross-17e585@sandsturm.com
@@ -1079,6 +1152,20 @@ DESCRIPTION:Kategorie: canicross / dog friendly trail\nDistanzen: 16 km /
 URL:https://www.limitlesstrails.co.uk/beast-of-the-beacons
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-18-roe-cross-ultra-trail-2027-bf2d1f@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:ROE-CROSS Ultra-Trail 2027
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / canitrail\nDistanzen: 76 km\nHöhenmete
+ r: 1040 hm\nHund: Canicross teams explicitly allowed on ultra distance\n
+ Status: source-confirmed 2027\nRöthlein-Heidenfeld\; 76 km / 1\,040 m+\;
+  max. 50 starters\; Canicross teams explicitly admitted.\nWeitere Quelle
+ : https://roe-cross.de/
+URL:https://roe-cross.de/ultra-trail-2027.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-24-4e-castelcanicross-de-blangy-le-ch-teau-canicross-63de72@s
  andsturm.com
 DTSTAMP:20260914T085651Z
@@ -1199,6 +1286,19 @@ DESCRIPTION:Kategorie: canitrail\nDistanzen: 11 km\nHöhenmeter: 221 hm\nH
 URL:https://gendarmes-et-voleurs.com/canitrail/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-05-21-cc-jabloneck-tahoun-jarn-pohon-vol-2-d149f1@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270523
+SUMMARY:CC Jablonecký Tahoun – Jarní Pohon vol. 2
+LOCATION:Czech Republic
+DESCRIPTION:Kategorie: canicross / stage race\nDistanzen: 3.5 km / 5.7 km
+ \nHund: dedicated canicross race\nStatus: source-confirmed 2027\nMaršovi
+ ce u Jablonce nad Nisou\; 5.7 km Hunter and 3.5 km Rocket\; two-day comb
+ ined classification available.
+URL:https://www.jabloneckytahoun.cz/zavod/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-05-22-maverick-cotswolds-trail-2027-b04e9a@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270522
@@ -1223,6 +1323,18 @@ DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 5 km / 10 km / 21.1
  egistration open\nOfficial organiser page explicitly confirms canicross 
  access for the 2027 event.
 URL:https://www.wilddeerevents.co.uk/e/margam-wild-trail-runs-14954
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-05-trutnovsk-10-canicross-2027-43b3ba@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270607
+SUMMARY:Trutnovská 10 – Canicross 2027
+LOCATION:Czech Republic
+DESCRIPTION:Kategorie: canicross\nDistanzen: 3 km\nHund: dedicated canicr
+ oss category\nStatus: source-confirmed 2027\nTrutnov\; organizer page an
+ nounces 2027 event and dedicated Canicross category.
+URL:https://www.kst.events/trutnovska10
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-27-alice-holt-wild-trail-runs-32075b@sandsturm.com

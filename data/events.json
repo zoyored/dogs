@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 319,
+    "count": 334,
     "categories": [
       "bike jöring",
       "canicross",
@@ -1551,6 +1551,26 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-09-11-tough-hunter-nachtlauf-2026-b3d885",
+      "date": "2026-09-11",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "TOUGH HUNTER Nachtlauf 2026",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        5
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross night run",
+      "status": "source-confirmed 2026",
+      "notes": "TOUGH HUNTER weekend in Warmensteinach; Friday night run without obstacles; start about 20:30.",
+      "primarySource": "https://tough-cross.de/tough-hunter/",
+      "secondarySource": null,
+      "origin": "new European organizer sweep 2026-09-14"
+    },
+    {
       "id": "2026-09-12-canicross-saint-cierges-678528",
       "date": "2026-09-12",
       "dateEnd": "2026-09-13",
@@ -2091,6 +2111,27 @@
       "primarySource": "https://www.vlaamsecanicrossfederatie.org/events",
       "secondarySource": null,
       "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-09-26-canicross-de-banneux-7c47c2",
+      "date": "2026-09-26",
+      "dateEnd": null,
+      "country": "Belgium",
+      "event": "Canicross de Banneux",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "VCF canicross event",
+      "status": "source-confirmed 2026",
+      "notes": "Banneux/Sprimont; VCF lists Cross, Bike and Step 1&2; event runs 26–27 September.",
+      "primarySource": "https://www.vlaamsecanicrossfederatie.org/events",
+      "secondarySource": "https://www.canisports2enjoy.nl/canisportskalender-2026-2027/",
+      "origin": "new European organizer sweep 2026-09-14",
       "distanceText": "not published"
     },
     {
@@ -2992,6 +3033,31 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-10-16-strongdog-wild-dirty-north-2026-b37e18",
+      "date": "2026-10-16",
+      "dateEnd": "2026-10-18",
+      "country": "Germany",
+      "event": "StrongDog wild & dirty North 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        2.5,
+        3,
+        5,
+        8
+      ],
+      "elevationM": [],
+      "dogAccess": "dog obstacle runs plus dedicated Friday mono classes",
+      "status": "source-confirmed 2026",
+      "notes": "Luhmühlen; Friday approx. 3 km Canicross night run and Bikejöring/Scooter; obstacle runs 2.5/5/8 km.",
+      "primarySource": "https://strongdog.de/event/wild-dirty-north-2026/",
+      "secondarySource": null,
+      "origin": "new European organizer sweep 2026-09-14"
+    },
+    {
       "id": "2026-10-17-7e-challenge-transpyr-ari-geois-canicross-dc3c76",
       "date": "2026-10-17",
       "dateEnd": "2026-10-23",
@@ -3067,6 +3133,27 @@
       "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
       "origin": "FFSLC verification 2026-09-12",
       "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-10-17-hsvrm-canicross-wintercup-hof-b46045",
+      "date": "2026-10-17",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "HSVRM CaniCross-Wintercup Hof",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated HSVRM CaniCross-Wintercup",
+      "status": "provisional / source-confirmed",
+      "notes": "Hundesportverein Hof; CC/GL, Dogscooter and Bikejöring; date listed under reservation.",
+      "primarySource": "https://www.hsvrm.de/sportangebote/turnierhundsport/aktuell/",
+      "secondarySource": null,
+      "origin": "new European organizer sweep 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2026-10-17-la-tractopattes-canicross-caritatif-6750dc",
@@ -3418,6 +3505,30 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-10-25-roe-cross-herbstlauf-2026-6290cd",
+      "date": "2026-10-25",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "ROE-CROSS Herbstlauf 2026",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        2,
+        4,
+        5.7,
+        10.5,
+        21.2
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated Canicross starts and ranking",
+      "status": "source-confirmed 2026",
+      "notes": "Röthlein-Heidenfeld; separate Canicross starts at 30-second intervals and separate rankings.",
+      "primarySource": "https://roe-cross.de/herbstlauf.html",
+      "secondarySource": null,
+      "origin": "new European organizer sweep 2026-09-14"
+    },
+    {
       "id": "2026-10-30-sm-barmark-2026-nybro-a4e6e7",
       "date": "2026-10-30",
       "dateEnd": "2026-11-01",
@@ -3437,6 +3548,29 @@
       "secondarySource": "https://draghundsport.se/kalender/",
       "origin": "Europe federation sweep round 6 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-30-strongdog-wild-halloween-south-2026-0f0c8a",
+      "date": "2026-10-30",
+      "dateEnd": "2026-10-31",
+      "country": "Germany",
+      "event": "StrongDog wild Halloween South 2026",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        2,
+        3,
+        5,
+        8
+      ],
+      "elevationM": [],
+      "dogAccess": "dog obstacle runs plus dedicated night runs",
+      "status": "source-confirmed 2026",
+      "notes": "Gut Matheshof, Rieden; Canicross night run approx. 2 km and Halloween night run approx. 3 km; obstacle distances 2/5/8 km.",
+      "primarySource": "https://strongdog.de/event/wild-halloween-south-2026/",
+      "secondarySource": null,
+      "origin": "new European organizer sweep 2026-09-14"
     },
     {
       "id": "2026-10-30-swedish-championship-nybro-45d9ec",
@@ -4304,6 +4438,27 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-12-06-hsvrm-canicross-wintercup-einhausen-eee023",
+      "date": "2026-12-06",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "HSVRM CaniCross-Wintercup Einhausen",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated HSVRM CaniCross-Wintercup",
+      "status": "provisional / source-confirmed",
+      "notes": "SGV Einhausen; CC/GL, Dogscooter and Bikejöring; date listed under reservation.",
+      "primarySource": "https://www.hsvrm.de/sportangebote/turnierhundsport/aktuell/",
+      "secondarySource": null,
+      "origin": "new European organizer sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-12-06-k9runners-mariager-dcf-dog-series-2-ca5a1c",
       "date": "2026-12-06",
       "dateEnd": null,
@@ -4562,6 +4717,27 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-01-08-int-schlittenhunderennen-auf-der-postalm-2027-36a7ca",
+      "date": "2027-01-08",
+      "dateEnd": "2027-01-10",
+      "country": "Austria",
+      "event": "Int. Schlittenhunderennen auf der Postalm 2027",
+      "category": [
+        "canicross",
+        "ski jöring",
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official ÖSHS snow race incl. Canicross and Skijöring",
+      "status": "source-confirmed 2027",
+      "notes": "Postalm; official classes include Canicross 1 dog, Skijöring 1/2 dogs and sled teams.",
+      "primarySource": "https://www.schlittenhundesport.at/",
+      "secondarySource": "https://vereinsportal.schlittenhundesport.at/events_public.php",
+      "origin": "new European organizer sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-01-08-ukkohalla-paljakka-ajot-2027-521b35",
       "date": "2027-01-08",
       "dateEnd": "2027-01-10",
@@ -4749,6 +4925,27 @@
       "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-01-17-hsvrm-canicross-wintercup-rossdorf-7d2b7e",
+      "date": "2027-01-17",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "HSVRM CaniCross-Wintercup Roßdorf",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated HSVRM CaniCross-Wintercup",
+      "status": "provisional / source-confirmed",
+      "notes": "VdH Roßdorf; CC/GL, Dogscooter and Bikejöring; date listed under reservation.",
+      "primarySource": "https://www.hsvrm.de/sportangebote/turnierhundsport/aktuell/",
+      "secondarySource": null,
+      "origin": "new European organizer sweep 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2027-01-23-danmarksmesterskab-dcf-dog-series-3-9d1024",
@@ -4950,6 +5147,27 @@
       "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
+      "id": "2027-01-30-int-schlittenhunderennen-in-hintersee-2027-16397d",
+      "date": "2027-01-30",
+      "dateEnd": "2027-01-31",
+      "country": "Austria",
+      "event": "Int. Schlittenhunderennen in Hintersee 2027",
+      "category": [
+        "canicross",
+        "ski jöring",
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official ÖSHS snow race incl. Canicross and Skijöring",
+      "status": "source-confirmed 2027",
+      "notes": "Hintersee; official classes include Canicross 1 dog, Skijöring 1/2 dogs and sled teams.",
+      "primarySource": "https://www.schlittenhundesport.at/",
+      "secondarySource": "https://vereinsportal.schlittenhundesport.at/events_public.php",
+      "origin": "new European organizer sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-01-30-troph-e-canin-des-plages-2027-1f901a",
       "date": "2027-01-30",
       "dateEnd": "2027-01-31",
@@ -5026,22 +5244,23 @@
       "distanceText": "4.2 mile loops up to 12h"
     },
     {
-      "id": "2027-02-07-5-canicross-mud-glory-beroide-spoleto-3fe7b2",
+      "id": "2027-02-07-5-canicross-mud-glory-beroide-spoleto-8e1907",
       "date": "2027-02-07",
       "dateEnd": null,
       "country": "Italy",
-      "event": "5° Canicross Mud&Glory – Beroide Spoleto",
+      "event": "5° Canicross Mud & Glory – Beroide Spoleto",
       "category": [
         "canicross"
       ],
       "distancesKm": [],
       "elevationM": [],
-      "dogAccess": "CSEN Canicross championship race",
-      "status": "announced",
-      "notes": "Official CSEN 2026/27 calendar; ICF 2027 selection race.",
+      "dogAccess": "CSEN championship race | CSEN Canicross championship race",
+      "status": "provisional calendar / source-confirmed",
+      "notes": "Beroide, Spoleto (PG); organizer Mud & Glory Canicross ASD. | Official CSEN 2026/27 calendar; ICF 2027 selection race.",
       "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
       "secondarySource": null,
-      "origin": "European federation sweep 2026-09-12"
+      "origin": "new European organizer sweep 2026-09-14 | European federation sweep 2026-09-12",
+      "distanceText": "not published"
     },
     {
       "id": "2027-02-07-canicross-ireland-2026-27-event-five-rathwood-d693cc",
@@ -5332,6 +5551,27 @@
       "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-02-21-hsvrm-canicross-wintercup-bergen-enkheim-6122bf",
+      "date": "2027-02-21",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "HSVRM CaniCross-Wintercup Bergen-Enkheim",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated HSVRM CaniCross-Wintercup",
+      "status": "provisional / source-confirmed",
+      "notes": "PSV Bergen-Enkheim; CC/GL, Dogscooter and Bikejöring; date listed under reservation.",
+      "primarySource": "https://www.hsvrm.de/sportangebote/turnierhundsport/aktuell/",
+      "secondarySource": null,
+      "origin": "new European organizer sweep 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2027-02-23-ifss-winter-world-championships-2027-kontiolahti-dbb1bb",
@@ -5659,6 +5899,28 @@
       "primarySource": "https://lakelandpaws.com/grizedale-growl-tour-de-grizedale/",
       "secondarySource": "https://www.sientries.co.uk/event.php?elid=Y&event_id=17822",
       "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2027-03-13-7-internationales-schlittenhundewagenrennen-apenburg-29fee3",
+      "date": "2027-03-13",
+      "dateEnd": "2027-03-14",
+      "country": "Germany",
+      "event": "7. Internationales Schlittenhundewagenrennen Apenburg",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter",
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated dryland mushing race",
+      "status": "source-confirmed 2027",
+      "notes": "Apenburg; Canicross women/men, Velo 1/2 dogs, Scooter 1/2 dogs and team classes.",
+      "primarySource": "https://www.schlittenhundesportclubsa.de/rennen-apenburg",
+      "secondarySource": null,
+      "origin": "new European organizer sweep 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2027-03-13-vulcanicross-canicross-17e585",
@@ -6239,6 +6501,29 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2027-04-18-roe-cross-ultra-trail-2027-bf2d1f",
+      "date": "2027-04-18",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "ROE-CROSS Ultra-Trail 2027",
+      "category": [
+        "canicross",
+        "canitrail"
+      ],
+      "distancesKm": [
+        76
+      ],
+      "elevationM": [
+        1040
+      ],
+      "dogAccess": "Canicross teams explicitly allowed on ultra distance",
+      "status": "source-confirmed 2027",
+      "notes": "Röthlein-Heidenfeld; 76 km / 1,040 m+; max. 50 starters; Canicross teams explicitly admitted.",
+      "primarySource": "https://roe-cross.de/ultra-trail-2027.html",
+      "secondarySource": "https://roe-cross.de/",
+      "origin": "new European organizer sweep 2026-09-14"
+    },
+    {
       "id": "2027-04-24-4e-castelcanicross-de-blangy-le-ch-teau-canicross-63de72",
       "date": "2027-04-24",
       "dateEnd": "2027-04-25",
@@ -6424,6 +6709,28 @@
       "origin": "web verification 2026-09-11"
     },
     {
+      "id": "2027-05-21-cc-jabloneck-tahoun-jarn-pohon-vol-2-d149f1",
+      "date": "2027-05-21",
+      "dateEnd": "2027-05-22",
+      "country": "Czech Republic",
+      "event": "CC Jablonecký Tahoun – Jarní Pohon vol. 2",
+      "category": [
+        "canicross",
+        "stage race"
+      ],
+      "distancesKm": [
+        3.5,
+        5.7
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross race",
+      "status": "source-confirmed 2027",
+      "notes": "Maršovice u Jablonce nad Nisou; 5.7 km Hunter and 3.5 km Rocket; two-day combined classification available.",
+      "primarySource": "https://www.jabloneckytahoun.cz/zavod/",
+      "secondarySource": null,
+      "origin": "new European organizer sweep 2026-09-14"
+    },
+    {
       "id": "2027-05-22-maverick-cotswolds-trail-2027-b04e9a",
       "date": "2027-05-22",
       "dateEnd": null,
@@ -6472,6 +6779,26 @@
       "primarySource": "https://www.wilddeerevents.co.uk/e/margam-wild-trail-runs-14954",
       "secondarySource": null,
       "origin": "source-master sweep 2026-09-14"
+    },
+    {
+      "id": "2027-06-05-trutnovsk-10-canicross-2027-43b3ba",
+      "date": "2027-06-05",
+      "dateEnd": "2027-06-06",
+      "country": "Czech Republic",
+      "event": "Trutnovská 10 – Canicross 2027",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        3
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross category",
+      "status": "source-confirmed 2027",
+      "notes": "Trutnov; organizer page announces 2027 event and dedicated Canicross category.",
+      "primarySource": "https://www.kst.events/trutnovska10",
+      "secondarySource": null,
+      "origin": "new European organizer sweep 2026-09-14"
     },
     {
       "id": "2027-06-27-alice-holt-wild-trail-runs-32075b",
