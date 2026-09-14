@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 369,
+    "count": 368,
     "categories": [
       "bike jöring",
       "canicross",
@@ -2146,33 +2146,13 @@
       ],
       "distancesKm": [],
       "elevationM": [],
-      "dogAccess": "SZPZ dryland race",
+      "dogAccess": "SZPZ dryland race | SZPZ Canicross event",
       "status": "source-confirmed 2026/27",
-      "notes": "Official SZPZ 2026/27 race calendar; Košice.",
+      "notes": "Official SZPZ 2026/27 race calendar; Košice. | Official SZPZ page gives approx. 4.5 km course.",
       "primarySource": "https://mushing.sk/preteky/",
-      "secondarySource": null,
-      "origin": "Europe gap large sweep 2026-09-14",
-      "distanceText": "not published"
-    },
-    {
-      "id": "2026-09-26-bosorkin-canicross-autumn-round-2026-eb5ffe",
-      "date": "2026-09-26",
-      "dateEnd": "2026-09-27",
-      "country": "Slovakia",
-      "event": "Bosorkin Canicross – autumn round 2026",
-      "category": [
-        "canicross"
-      ],
-      "distancesKm": [
-        4.5
-      ],
-      "elevationM": [],
-      "dogAccess": "SZPZ Canicross event",
-      "status": "upcoming",
-      "notes": "Official SZPZ page gives approx. 4.5 km course.",
-      "primarySource": "https://mushing.sk/pretek/bosorkin-canicross-2-jarne-kolo-2026/",
-      "secondarySource": "https://mushing.sk/preteky/",
-      "origin": "European federation sweep round 2 2026-09-12"
+      "secondarySource": "https://mushing.sk/pretek/bosorkin-canicross-2-jarne-kolo-2026/",
+      "origin": "Europe gap large sweep 2026-09-14 | European federation sweep round 2 2026-09-12",
+      "distanceText": "not published|4.5"
     },
     {
       "id": "2026-09-26-canicross-de-banneux-7c47c2",
