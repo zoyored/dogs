@@ -54,6 +54,11 @@ COUNTRY_ALIASES = {
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 RANGE_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})\s+to\s+(\d{4}-\d{2}-\d{2})$", re.I)
+ROUND_LABEL_RE = re.compile(
+    r"\b(?:spring|summer|autumn|fall|winter)\s+(?:round|race|edition)\b|"
+    r"\b(?:round|race|edition)\s+(?:spring|summer|autumn|fall|winter)\b",
+    re.I,
+)
 
 
 def normalize_space(value: str) -> str:
@@ -80,9 +85,6 @@ def normalize_country(value: str) -> str:
     folded = value.casefold()
     if folded in COUNTRY_ALIASES:
         return COUNTRY_ALIASES[folded]
-
-    # If debris remains around a known country, accept it only when the other
-    # tokens are punctuation/numbers rather than arbitrary words.
     tokens = re.findall(r"[^\W\d_]+", folded, flags=re.UNICODE)
     for alias, canonical in COUNTRY_ALIASES.items():
         alias_tokens = re.findall(r"[^\W\d_]+", alias, flags=re.UNICODE)
@@ -94,8 +96,11 @@ def normalize_country(value: str) -> str:
 def normalize_event_name(value: str) -> str:
     value = clean_text(value)
     value = value.replace("–", "-").replace("—", "-").replace("’", "'")
-    # Edition years are metadata, not identity, when Date already carries year.
-    value = re.sub(r"(?:\s*[-–—,:/]?\s*)\b(?:2026|2027)\b\s*$", "", value)
+    # Date/country already constrain identity. Ignore edition years and generic
+    # seasonal round labels so e.g. "Bosorkin Canicross – autumn round 2026"
+    # can match "Bosorkin Canicross" on the same overlapping date.
+    value = re.sub(r"\b(?:2026|2027)\b", " ", value)
+    value = ROUND_LABEL_RE.sub(" ", value)
     value = value.casefold()
     value = re.sub(r"[^\w]+", " ", value, flags=re.UNICODE)
     return normalize_space(value)
@@ -165,15 +170,9 @@ def merge_sources(target: dict[str, str], incoming: dict[str, str]) -> None:
     target["Secondary source"] = sources[1] if len(sources) > 1 else ""
     if len(sources) > 2:
         target["Notes"] = merge_text(target.get("Notes", ""), "Additional sources: " + " ; ".join(sources[2:]))
-
     domains = {source_domain(s) for s in sources if source_domain(s)}
     if len(domains) > 1:
-        # We can prove multiple independent listings, but not automatically infer
-        # that every listing is an organiser. Keep all links visible in Notes.
-        target["Notes"] = merge_text(
-            target.get("Notes", ""),
-            "Multiple independent event listings: " + " ; ".join(sources),
-        )
+        target["Notes"] = merge_text(target.get("Notes", ""), "Multiple independent event listings: " + " ; ".join(sources))
 
 
 def merge_row(target: dict[str, str], incoming: dict[str, str]) -> None:
@@ -211,7 +210,6 @@ def main() -> None:
     deduped: list[dict[str, str]] = []
     groups: dict[tuple[str, str], list[dict[str, str]]] = {}
     duplicate_count = 0
-
     for row in rows:
         key = event_country_key(row)
         candidates = groups.setdefault(key, [])
@@ -228,7 +226,6 @@ def main() -> None:
     with CSV_PATH.open("w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=EXPECTED_COLUMNS, lineterminator="\r\n")
         writer.writeheader(); writer.writerows(deduped)
-
     print(f"Normalized {CSV_PATH.relative_to(ROOT)}; merged {duplicate_count} duplicate row(s): {len(rows)} -> {len(deduped)} rows.")
 
 
