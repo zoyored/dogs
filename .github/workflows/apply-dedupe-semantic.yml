@@ -1,0 +1,35 @@
+name: Apply semantic dedupe
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - fix/dedupe-semantic-round-labels
+    paths:
+      - ".github/workflows/apply-dedupe-semantic.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/dedupe-semantic-round-labels
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run dedupe and regenerate feeds
+        run: |
+          python scripts/dedupe_master.py
+          python scripts/build_events.py
+      - name: Remove temporary workflow and commit
+        run: |
+          rm .github/workflows/apply-dedupe-semantic.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'data: apply semantic event dedupe' || exit 0
+          git push
