@@ -1311,22 +1311,12 @@ DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Bosorkin Canicross
 LOCATION:Slovakia
-DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: SZPZ dryl
- and race\nStatus: source-confirmed 2026/27\nOfficial SZPZ 2026/27 race c
- alendar\; Košice.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published|4.5\nHund: SZPZ 
+ dryland race | SZPZ Canicross event\nStatus: source-confirmed 2026/27\nO
+ fficial SZPZ 2026/27 race calendar\; Košice. | Official SZPZ page gives 
+ approx. 4.5 km course.\nWeitere Quelle: https://mushing.sk/pretek/bosork
+ in-canicross-2-jarne-kolo-2026/
 URL:https://mushing.sk/preteky/
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-26-bosorkin-canicross-autumn-round-2026-eb5ffe@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260928
-SUMMARY:Bosorkin Canicross – autumn round 2026
-LOCATION:Slovakia
-DESCRIPTION:Kategorie: canicross\nDistanzen: 4.5 km\nHund: SZPZ Canicross
-  event\nStatus: upcoming\nOfficial SZPZ page gives approx. 4.5 km course
- .\nWeitere Quelle: https://mushing.sk/preteky/
-URL:https://mushing.sk/pretek/bosorkin-canicross-2-jarne-kolo-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-canicross-de-banneux-7c47c2@sandsturm.com
