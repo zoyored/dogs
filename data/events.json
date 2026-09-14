@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 364,
+    "count": 369,
     "categories": [
       "bike jöring",
       "canicross",
@@ -1391,6 +1391,25 @@
       "origin": "uploaded 2026 CSV"
     },
     {
+      "id": "2026-07-31-crossdog-summer-nights-8ff6b6",
+      "date": "2026-07-31",
+      "dateEnd": "2026-08-01",
+      "country": "Germany",
+      "event": "CROSSDOG Summer Nights",
+      "category": [
+        "dogs-trail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated CROSSDOG dog-running event",
+      "status": "source-confirmed",
+      "notes": "Goldbach; official CROSSDOG event calendar.",
+      "primarySource": "https://crossdog.de/events/",
+      "secondarySource": null,
+      "origin": "master quality audit 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-08-09-canitrail-dans-le-taillefer-170d17",
       "date": "2026-08-09",
       "dateEnd": null,
@@ -2005,28 +2024,10 @@
       ],
       "dogAccess": "dedicated canisport race",
       "status": "source-confirmed 2026",
-      "notes": "2nd Be WILD Canicross; Bikejoring and Scooterjoring also offered; Borno, Brescia.",
+      "notes": "2nd Be WILD Born to Run; Borno (BS). Official CSEN-recognized race and ICF 2027 selection race; Canicross, Bikejoring and Scooterjoring; 3 km / ca. 50 m+.",
       "primarySource": "https://www.bewildogs.com/borntorun",
-      "secondarySource": null,
-      "origin": "European independent-source sweep 2026-09-14"
-    },
-    {
-      "id": "2026-09-20-csen-canicross-borno-522f67",
-      "date": "2026-09-20",
-      "dateEnd": null,
-      "country": "Italy",
-      "event": "CSEN Canicross Borno",
-      "category": [
-        "canicross"
-      ],
-      "distancesKm": [],
-      "elevationM": [],
-      "dogAccess": "CSEN Canicross championship race",
-      "status": "upcoming",
-      "notes": "Official provisional CSEN 2026/27 calendar; ICF 2027 selection race.",
-      "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
-      "secondarySource": null,
-      "origin": "European federation sweep 2026-09-12"
+      "secondarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
+      "origin": "European independent-source sweep 2026-09-14 | European federation sweep 2026-09-12"
     },
     {
       "id": "2026-09-20-haniska-d3ea52",
@@ -3512,6 +3513,25 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2026-10-24-crossdog-das-event-am-sauerberg-1f7ab4",
+      "date": "2026-10-24",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "CROSSDOG DAS EVENT am SAUERBERG",
+      "category": [
+        "dogs-trail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated CROSSDOG dog-running event",
+      "status": "source-confirmed",
+      "notes": "Frammersbach; official CROSSDOG event calendar.",
+      "primarySource": "https://crossdog.de/events/",
+      "secondarySource": null,
+      "origin": "master quality audit 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-10-24-etalle-bcf-canicross-cb3920",
       "date": "2026-10-24",
       "dateEnd": null,
@@ -4167,6 +4187,25 @@
       "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
       "origin": "FFSLC verification 2026-09-12",
       "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-11-14-crossdogs-donnersbergtrail-6fe981",
+      "date": "2026-11-14",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "CROSSDOGs DONNERSBERGTRAIL",
+      "category": [
+        "dogs-trail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated CROSSDOG dog-running event",
+      "status": "source-confirmed",
+      "notes": "Kirchheimbolanden; official CROSSDOG event calendar.",
+      "primarySource": "https://crossdog.de/events/",
+      "secondarySource": null,
+      "origin": "master quality audit 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2026-11-14-mistrzostwa-polski-dryland-szczekowyje-967d0b",
@@ -4998,6 +5037,25 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2026-12-31-crossdogs-silvester-trail-5f72bd",
+      "date": "2026-12-31",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "CROSSDOGs Silvester Trail",
+      "category": [
+        "dogs-trail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated CROSSDOG dog-running event",
+      "status": "source-confirmed",
+      "notes": "Rothenbuch; official CROSSDOG event calendar.",
+      "primarySource": "https://crossdog.de/events/",
+      "secondarySource": null,
+      "origin": "master quality audit 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-01-02-ypb-seven-sins-challenge-canicross-a4cc8a",
       "date": "2027-01-02",
       "dateEnd": null,
@@ -5586,6 +5644,25 @@
       "distanceText": "7-8 miles"
     },
     {
+      "id": "2027-02-06-crossdogs-streetwaldcross-42612e",
+      "date": "2027-02-06",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "CROSSDOGs Streetwaldcross",
+      "category": [
+        "dogs-trail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated CROSSDOG dog-running event",
+      "status": "source-confirmed",
+      "notes": "Mainaschaff; official CROSSDOG event calendar.",
+      "primarySource": "https://crossdog.de/events/",
+      "secondarySource": null,
+      "origin": "master quality audit 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-02-06-limitless-trails-trails-tarmac-winter-12h-byu-8b215e",
       "date": "2027-02-06",
       "dateEnd": null,
@@ -5992,6 +6069,28 @@
       "secondarySource": null,
       "origin": "Europe federation sweep round 4 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2027-02-27-crossdog-on-the-beach-fb8d9b",
+      "date": "2027-02-27",
+      "dateEnd": "2027-02-28",
+      "country": "Germany",
+      "event": "CROSSDOG on the beach",
+      "category": [
+        "dogs-trail"
+      ],
+      "distancesKm": [
+        5.5,
+        11,
+        20
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated CROSSDOG dog-running event",
+      "status": "source-confirmed",
+      "notes": "Grömitz; CaniX RUN S/M/L approx. 5.5/11/20 km; also OCR 5.5 km and Challenge 4.5 km.",
+      "primarySource": "https://crossdog.de/event/crossdog-on-the-beach/",
+      "secondarySource": null,
+      "origin": "master quality audit 2026-09-14"
     },
     {
       "id": "2027-02-27-schwabentrail-canicross-d4ec63",
@@ -6496,9 +6595,9 @@
       ],
       "distancesKm": [],
       "elevationM": [],
-      "dogAccess": "dog endurance event",
+      "dogAccess": "dedicated TRAILDOG dog-running event",
       "status": "source-confirmed 2027",
-      "notes": "TRAILDOG event calendar lists Discover Kielder Ultra on 20 March 2027.",
+      "notes": "TRAILDOG official calendar confirms Discover Kielder Ultra for 20 March 2027; distance/elevation not yet published on the accessible event listing.",
       "primarySource": "https://www.traildogevents.co.uk/events",
       "secondarySource": null,
       "origin": "European independent-source sweep 2026-09-14"
@@ -7385,7 +7484,7 @@
     {
       "id": "2027-06-05-trutnovsk-10-canicross-2027-43b3ba",
       "date": "2027-06-05",
-      "dateEnd": "2027-06-06",
+      "dateEnd": null,
       "country": "Czech Republic",
       "event": "Trutnovská 10 – Canicross 2027",
       "category": [
@@ -7397,9 +7496,9 @@
       "elevationM": [],
       "dogAccess": "dedicated canicross category",
       "status": "source-confirmed 2027",
-      "notes": "Trutnov; organizer page announces 2027 event and dedicated Canicross category.",
+      "notes": "Trutnov; organizer page announces 5 June 2027 and a dedicated Canicross category; official route page lists a 3 km canicross loop.",
       "primarySource": "https://www.kst.events/trutnovska10",
-      "secondarySource": null,
+      "secondarySource": "https://www.kst.events/trutnovska10/trasa",
       "origin": "new European organizer sweep 2026-09-14"
     },
     {
