@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 310,
+    "count": 319,
     "categories": [
       "bike jöring",
       "canicross",
@@ -4523,6 +4523,45 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2027-01-02-ypb-seven-sins-challenge-canicross-a4cc8a",
+      "date": "2027-01-02",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "YPB Seven Sins Challenge – Canicross",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        11.3
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross start",
+      "status": "registration open",
+      "notes": "Seven Sins weekend; organiser explicitly lists Canicross on Saturday 2 Jan at 10:00. Approx. 7-mile course.",
+      "primarySource": "https://www.ypbevents.co.uk/7-sins-immortal",
+      "secondarySource": null,
+      "origin": "source-master sweep round 2 2026-09-14"
+    },
+    {
+      "id": "2027-01-03-lakeland-paws-grizedale-growl-east-side-a69000",
+      "date": "2027-01-03",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Lakeland Paws – Grizedale Growl East Side",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross event",
+      "status": "registration open",
+      "notes": "Official Lakeland Paws 2026/27 series lists Grizedale Growl East Side on 3 Jan 2027.",
+      "primarySource": "https://lakelandpaws.com/events/",
+      "secondarySource": null,
+      "origin": "source-master sweep round 2 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-01-08-ukkohalla-paljakka-ajot-2027-521b35",
       "date": "2027-01-08",
       "dateEnd": "2027-01-10",
@@ -4666,6 +4705,30 @@
       "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
       "secondarySource": null,
       "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
+      "id": "2027-01-16-maverick-new-forest-gravel-2027-04236d",
+      "date": "2027-01-16",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Maverick New Forest Gravel 2027",
+      "category": [
+        "dog friendly trail"
+      ],
+      "distancesKm": [
+        12,
+        22
+      ],
+      "elevationM": [
+        111,
+        172
+      ],
+      "dogAccess": "dogs allowed with separate dog entry",
+      "status": "dog entries sold out",
+      "notes": "Official event page is dog-friendly with limited dog spaces; 6 km option omitted here.",
+      "primarySource": "https://www.maverick-race.com/products/2027/2027-01-16",
+      "secondarySource": null,
+      "origin": "source-master sweep round 2 2026-09-14"
     },
     {
       "id": "2027-01-17-ccnl-bosschenhoofd-b0b6dd",
@@ -4923,6 +4986,25 @@
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2027-01-30-ypb-may-hill-massacre-canicross-40bfe9",
+      "date": "2027-01-30",
+      "dateEnd": "2027-01-31",
+      "country": "UK",
+      "event": "YPB May Hill Massacre – Canicross",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross start",
+      "status": "registration open",
+      "notes": "Official organiser page publishes the 30–31 Jan weekend and a Canicross start at 10:00; main Massacre route is 7–8 miles.",
+      "primarySource": "https://www.ypbevents.co.uk/mayhill-massacre",
+      "secondarySource": null,
+      "origin": "source-master sweep round 2 2026-09-14",
+      "distanceText": "7-8 miles"
     },
     {
       "id": "2027-02-06-limitless-trails-trails-tarmac-winter-12h-byu-8b215e",
@@ -5701,6 +5783,30 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2027-03-20-maverick-hampshire-trail-2027-46bed8",
+      "date": "2027-03-20",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Maverick Hampshire Trail 2027",
+      "category": [
+        "dog friendly trail"
+      ],
+      "distancesKm": [
+        16,
+        24
+      ],
+      "elevationM": [
+        298,
+        410
+      ],
+      "dogAccess": "dogs allowed with separate dog entry",
+      "status": "registration open",
+      "notes": "Official event page confirms dog-friendly entries; 5 km option omitted here.",
+      "primarySource": "https://www.maverick-race.com/products/2027/2027-03-20",
+      "secondarySource": null,
+      "origin": "source-master sweep round 2 2026-09-14"
+    },
+    {
       "id": "2027-03-20-slane-ek-race-2027-0dd8df",
       "date": "2027-03-20",
       "dateEnd": "2027-03-21",
@@ -5876,6 +5982,30 @@
       "primarySource": "https://www.danskcanicross.dk/kalender",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-04-03-maverick-east-sussex-trail-2027-651082",
+      "date": "2027-04-03",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Maverick East Sussex Trail 2027",
+      "category": [
+        "dog friendly trail"
+      ],
+      "distancesKm": [
+        13,
+        21
+      ],
+      "elevationM": [
+        339,
+        457
+      ],
+      "dogAccess": "dogs allowed with separate dog entry",
+      "status": "registration open",
+      "notes": "Official event page confirms dog-friendly entries; 5 km option omitted here.",
+      "primarySource": "https://www.maverick-race.com/products/the-maverick-east-sussex-trail-2027",
+      "secondarySource": null,
+      "origin": "source-master sweep round 2 2026-09-14"
     },
     {
       "id": "2027-04-03-polarex-cup-puchar-polski-sprint-e190d5",
@@ -6189,6 +6319,44 @@
       "origin": "Europe federation sweep round 4 2026-09-12"
     },
     {
+      "id": "2027-04-24-lakeland-paws-dogs-dodd-double-header-d4b766",
+      "date": "2027-04-24",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Lakeland Paws – Dogs @ Dodd Double Header",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross event",
+      "status": "registration open",
+      "notes": "First day of Lakeland Paws Double Header; official 2026/27 events page confirms 24 Apr 2027.",
+      "primarySource": "https://lakelandpaws.com/events/",
+      "secondarySource": null,
+      "origin": "source-master sweep round 2 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2027-04-25-lakeland-paws-whinlatter-tails-seat-how-double-header-d56d54",
+      "date": "2027-04-25",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Lakeland Paws – Whinlatter Tails Seat How Double Header",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross event",
+      "status": "registration open",
+      "notes": "Second day of Lakeland Paws Double Header; official 2026/27 events page confirms 25 Apr 2027.",
+      "primarySource": "https://lakelandpaws.com/events/",
+      "secondarySource": null,
+      "origin": "source-master sweep round 2 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-05-05-gibside-national-trust-wild-trail-runs-af60dd",
       "date": "2027-05-05",
       "dateEnd": null,
@@ -6254,6 +6422,34 @@
       "primarySource": "https://gendarmes-et-voleurs.com/canitrail/",
       "secondarySource": null,
       "origin": "web verification 2026-09-11"
+    },
+    {
+      "id": "2027-05-22-maverick-cotswolds-trail-2027-b04e9a",
+      "date": "2027-05-22",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Maverick Cotswolds Trail 2027",
+      "category": [
+        "dog friendly trail"
+      ],
+      "distancesKm": [
+        11,
+        23,
+        42,
+        50
+      ],
+      "elevationM": [
+        302,
+        580,
+        1175,
+        1495
+      ],
+      "dogAccess": "dogs allowed with separate dog entry",
+      "status": "registration open",
+      "notes": "Official event page confirms dog-friendly entries; 7 km option omitted here.",
+      "primarySource": "https://www.maverick-race.com/products/2027/2027-05-22",
+      "secondarySource": null,
+      "origin": "source-master sweep round 2 2026-09-14"
     },
     {
       "id": "2027-05-23-margam-wild-trail-runs-593f8e",
