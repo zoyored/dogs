@@ -1285,22 +1285,13 @@ DTEND;VALUE=DATE:20260928
 SUMMARY:Canicross de Banneux
 LOCATION:Belgium
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
- blished\nHund: VCF canicross / bike / step\nStatus: source-confirmed 202
- 6\nOfficial VCF event\; two race days.
-URL:https://www.vlaamsecanicrossfederatie.org/events
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-26-canicross-de-banneux-7c47c2@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Canicross de Banneux
-LOCATION:Belgium
-DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
- blished\nHund: VCF canicross event\nStatus: source-confirmed 2026\nBanne
- ux/Sprimont\; VCF lists Cross\, Bike and Step 1&2\; event runs 26–27 Sep
- tember.\nWeitere Quelle: https://www.canisports2enjoy.nl/canisportskalen
- der-2026-2027/
+ blished\nHund: VCF canicross / bike / step | VCF canicross event\nStatus
+ : source-confirmed 2026\nOfficial VCF event\; two race days. | Banneux/S
+ primont\; VCF lists Cross\, Bike and Step 1&2\; event runs 26–27 Septemb
+ er. | Multiple independent event listings: https://www.vlaamsecanicrossf
+ ederatie.org/events \; https://www.canisports2enjoy.nl/canisportskalende
+ r-2026-2027/\nWeitere Quelle: https://www.canisports2enjoy.nl/canisports
+ kalender-2026-2027/
 URL:https://www.vlaamsecanicrossfederatie.org/events
 END:VEVENT
 BEGIN:VEVENT
@@ -1587,23 +1578,15 @@ DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:Graningedraget
 LOCATION:Sweden
-DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: Sweden BC
- D priority race\nStatus: upcoming\nListed by Sweden BCD as a priority se
- lection race for ICF WC 2027.
-URL:https://www.swedenbcd.se/
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-03-graningedraget-2026-73dec4@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-SUMMARY:Graningedraget 2026
-LOCATION:Sweden
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
- blished\nHund: SDSF two-day dryland race\nStatus: source-confirmed 2026\
- nOfficial SDSF event lists DC canicross\, DB bike and DS1/DS2 scooter co
- mpetition classes.
-URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=44
+ blished\nHund: Sweden BCD priority race | SDSF two-day dryland race\nSta
+ tus: upcoming\nListed by Sweden BCD as a priority selection race for ICF
+  WC 2027. | Official SDSF event lists DC canicross\, DB bike and DS1/DS2
+  scooter competition classes. | Multiple independent event listings: htt
+ ps://www.swedenbcd.se/ \; https://draghundsport.se/kalender/visa/default
+ .aspx?tavlingsid=44\nWeitere Quelle: https://draghundsport.se/kalender/v
+ isa/default.aspx?tavlingsid=44
+URL:https://www.swedenbcd.se/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-hrobsk-j-zda-2026-9c588e@sandsturm.com
