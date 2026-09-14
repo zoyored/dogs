@@ -1,45 +1,85 @@
 Country,Source,URL,Source type,Notes
-Germany,VDSV,https://vdsv.de/kalender/,federation,Official German sleddog sports federation race calendar; ICF member federation
-France,FFST,https://ffstmushing.org/manifestations-sportives/,federation,Official French FFST mushing event source
-France,FFSLC,https://courses.ffslc.fr/calendar,federation-calendar,Official FFSLC race calendar; ICF member federation and important source for Canicross and Canitrail
-Netherlands,Canitrail.nl,https://canitrail.nl/,discovery-calendar,Canitrail and dog-friendly trail calendar for the Netherlands and neighbouring countries; verify events against primary source where possible
-International,Finishers,https://www.finishers.com/,discovery-calendar,Event discovery platform; dog-friendly races require verification against primary source
 Austria,AFSS,https://afss.at/,federation,Austrian Federation of Sleddogsports; ICF member federation
+Austria,BSSC Austria,https://bssc-austria.at/veranstaltungen/,club,Austrian sleddog club and race organiser; dryland events include Canicross Bikejoring and Scooter classes.
+Austria,ÖSHS - Österreichischer Schlittenhundesportclub,https://www.schlittenhundesport.at/,club,Club event calendar with sleddog Skijöring and Canicross races
+Belgium,Canicross Calendar Belgium,https://vlaamsecanicrossfed.wixsite.com/canicross,discovery-calendar,Joint planning calendar for VCF and FCB-BCF dates; verify event details against federation or organiser
 Belgium,FCB / BCF,https://www.cani-cross.be/,federation,Belgische Canicross Federatie; ICF member federation
+Belgium,VCF - Vlaamse Canicross Federatie,https://www.vlaamsecanicrossfederatie.org/events,federation-calendar,Official VCF event calendar with Canicross Bikejöring and Dogscooter
 Bulgaria,Sleddog Sport Bulgaria,https://canicross.international/?page_id=3125,federation-directory,ICF member; ICF currently publishes no national federation website
 Czech Republic,Canicross TJ Sokol Maxicky,https://www.canicross.cz/,federation,ICF member federation / national Canicross source
+Czech Republic,Jablonecký Tahoun,https://www.jabloneckytahoun.cz/,club,Canicross club and race organiser; also covers Bikejöring Scooterjöring and Skijöring
+Czech Republic,KST Events,https://www.kst.events/,organizer,Running event organiser with dedicated Canicross races including Trutnovská 10
+Czech Republic,Mammoth Race / Canicross Prerov,https://www.mammothrace.cz/,organizer,Independent dedicated Canicross Dog Sprint organiser in Prerov
+Czech Republic,ČASS - Česká asociace sleddog sportů,https://www.mushing.cz/,federation,Official Czech IFSS national member federation
 Denmark,Danish Canicross Federation,https://www.danskcanicross.dk/,federation,ICF member federation
+Denmark,DCF Dog Series,https://www.danskcanicross.dk/kalender,federation-calendar,DCF season calendar identifies individual organiser clubs such as CaniXFyn K9Runners Mariager DogRunDK Canicross Ostjylland and Dirty Paws
+Denmark,DIRTY PAWS,https://dirtypawscanicross.dk/,club,National Canicross/Canihike club and DCF member club; organiser of DCF Dog Series rounds
+Denmark,DTK - Dansk Trækhundeklub,https://sleddogs.dk/,federation,Official Danish IFSS national member federation
 Estonia,Kelgukoerte Klubi Baltosport,https://baltosport.ee/,federation,ICF member federation / Sleddogs Club Baltosport
 Finland,SKVH,https://canicross.international/?page_id=3125,federation-directory,Suomen koiravaljakkoharrastajat ry; ICF member; ICF directory currently shows an apparently incorrect Estonia website so directory retained as reference
+Finland,Traildog.fi event calendar,https://traildog.fi/pages/valjakkourheilukilpailut-ja-tapahtumat,discovery-calendar,Continuously updated Finnish sleddog sport calendar covering Canicross Bikejoring Scooter and race organiser clubs; verify against VUL or organiser
+Finland,VUL - Finnish Sleddog Sport Federation,https://www.vul.fi/,federation,Official Finnish sleddog sport federation; IFSS national member
+France,Canicross Breizh,https://www.canicrossbreizh.fr/,club,Independent Breton canicross club and organiser of the annual Challenge Canicrossbreizh
+France,Canicross Val de Loire,https://www.helloasso.com/associations/canicross-val-de-loire,club,Canicross/Canitrail club and organiser of the Canicross Val de Loire race
+France,Canikazes 86,https://canikazes86.wixsite.com/canikazes-86,club,FFSLC club active in Canicross CaniVTT and CaniTrot; organiser selected for the 2026 French Canitrail championship
+France,FFSLC,https://courses.ffslc.fr/calendar,federation-calendar,Official FFSLC race calendar; ICF member federation and important source for Canicross and Canitrail
+France,FFST,https://ffstmushing.org/manifestations-sportives/,federation,Official French FFST mushing event source
+France,Les CaniPirates,https://www.les-canipirates.fr/,club,FFSLC-affiliated Canicross/Canitrail club and organiser of Canitrail des Châtaignes and L'Ile aux Tresors
+France,X-Trem34 Canisport,https://sites.google.com/view/x-trem34canisport/accueil,club,Canicross and Canitrail club; organiser/source for X-Trem canisport events
+Germany,CROSSDOG,https://crossdog.de/events/,organizer,Dog-sport organiser with CaniX Run OCR Challenge Hike and other event formats
+Germany,HSVRM CaniCross-Wintercup,https://www.hsvrm.de/sportangebote/turnierhundsport/aktuell/,federation-calendar,Regional association Canicross Wintercup calendar with Geländelauf Dogscooter and Bikejöring
+Germany,ROE-CROSS,https://roe-cross.de/,organizer,Running and Canicross series in Röthlein including trail and ultra formats
+Germany,Sachsen-Anhalter Schlittenhundesportclub,https://www.schlittenhundesportclubsa.de/,club,Club and race organiser with Canicross Velo Scooter and sleddog classes
+Germany,StrongDog,https://strongdog.de/,organizer,Independent dog-sport event organiser; Canicross Bikejöring Dogscooter and dog obstacle formats
+Germany,Tough Cross / Tough Hunter,https://tough-cross.de/tough-hunter/,organizer,Dog obstacle and trail organiser; includes Canicross night run and running formats
+Germany,VDSV,https://vdsv.de/kalender/,federation,Official German sleddog sports federation race calendar; ICF member federation
 Greece,CaniCross Greece,https://canicrossgreece.org/,federation,FULLFACE Non Profit Civil Association - CaniCross Greece; ICF member federation
 Hungary,MCSE,http://canicross.hu/,federation,Magyar Canicross Sportegyesulet; ICF member federation
+International,Finishers,https://www.finishers.com/,discovery-calendar,Event discovery platform; dog-friendly races require verification against primary source
+International,IFSS Competition Calendar,https://sleddogsport.net/events/,federation-calendar,Official International Federation of Sleddog Sports competition calendar
+International,IFSS Member Federations,https://sleddogsport.net/federation/default.aspx,federation-directory,Official IFSS member federation directory; used to identify national sleddog/mushing bodies
 Ireland,Canicross Ireland,https://canicrossireland.wordpress.com/,federation,ICF member federation
+Ireland,Canicross Ireland Events,https://www.canicross-ireland.com/upcoming-events,federation-calendar,Current official Canicross Ireland 2026/27 event calendar; Canicross Bikejoring and Scooter classes.
+Italy,Be WILD,https://www.bewildogs.com/,organizer,Canicross Bikejoring and Scooterjoring organiser; CSEN calendar organiser for Born to Run
+Italy,Canpus Cinofilia,https://www.canpuscinofilia.it/,organizer,Canine sport centre with Canicross and Scooterjoring; CSEN calendar organiser for FranciacorSa
+Italy,Cinofilia Italiana Sportiva - Canicross,https://www.federazionecinofila.it/index.php/canicross/,federation-calendar,National Canicross source covering Canicross Dog-Trail MTB and Dogscooter with continuously updated competition calendar
 Italy,CSEN,https://www.csen.it/,federation,Centro Sportivo Educativo Nazionale; ICF member federation for Italy Canicross
+Italy,CSEN Canicross Competition Calendar,https://discipline.csencinofilia.it/calendario-gare-2027/,federation-calendar,Official Canicross Italia CSEN competition calendar with organiser details and national/selective races
+Italy,Mad Dogs Sporting Center,https://www.maddogssportingcenter.it/,organizer,Canine sport centre and Canicross organiser; listed by CSEN for Basovizza 2026
+Italy,Scuola Cinotecnica Italiana,https://scuolacinotecnicaitaliana.it/,organizer,Canine training and event organisation; listed by CSEN as organiser of Canicross Citta di Grosseto 2027
 Latvia,LKSSF,https://www.sleddog.lv/english,federation,Latvian Federation of Sleddog Sports; ICF member federation
 Lithuania,LFSS,https://sleddogsport.lt/,federation,Lithuanian Federation of Sleddog Sport; ICF member federation
 Luxembourg,CLSCU,https://www.clscu.lu/,federation,Centrale luxembourgeoise du sport pour chiens d'utilité; listed by ICF as Luxembourg member body
 Netherlands,Canicross Netherlands,https://www.canicrossnederland.nl/,federation,CCNL; ICF member federation
+Netherlands,Canitrail.nl,https://canitrail.nl/,discovery-calendar,Canitrail and dog-friendly trail calendar for the Netherlands and neighbouring countries; verify events against primary source where possible
+Netherlands/Belgium,Canisport2Enjoy,https://www.canisports2enjoy.nl/canisportskalender-2026-2027/,discovery-calendar,Discovery calendar for Canicross Bikejöring Scooter Canitrail and Dogsurvival in NL BE and some DE; verify against primary source
 Norway,Canicross Norge,https://canicross.international/?page_id=3125,federation-directory,ICF member; ICF currently lists contact/social details but no standalone federation website
+Norway,Norges Hundekjørerforbund,https://www.sleddog.no/,federation,Official Norwegian sleddog federation; IFSS national member
+Poland,Puchar Polski w Dogtrekkingu,https://dogtrekking.pl/,organizer,National Dogtrekking cup organised by Sportshooter and Fundacja Sportowa Polska; useful dog-endurance discovery source
 Poland,PZSPZ,https://mushing.pl/,federation,Polskiego Związku Sportu Psich Zaprzęgów; ICF member federation
+Poland,PZSPZ Competition Calendar,https://mushing.pl/index.php?show=kalendarz,federation-calendar,Official Polish sleddog federation competition calendar
+Poland,Warsaw Dog Run,https://dogrun.com.pl/,organizer,Fundacja Maraton Warszawski dog-running event with dedicated Canicross and Dogtrekking formats
 Portugal,APMC,https://ruipdresende.wixsite.com/apmc/socio-vantagens,federation,Associacao Portuguesa de Mantrailing e Canicross; ICF member federation
 San Marino,SMAA Canicross San Marino,https://canicross.international/?page_id=3125,federation-directory,San Marino Athletics Academy - Canicross San Marino; ICF member; no federation website published by ICF
 Serbia,ICF Serbia member entry,https://canicross.international/?page_id=3125,federation-directory,Serbia is listed by ICF but the directory currently publishes no federation details
 Slovakia,SZPZ,https://mushing.sk/,federation,Slovak sleddog federation; ICF member federation
 Slovenia,SKVVP,http://www.skvvp.si/,federation,Slovenski Klub Vodnikov Vlečnih Psov; ICF member federation
+Spain,Cross Madrid Canicross – Calendario Mushing,https://canicrosscrossmadrid.com/competiciones/,discovery-calendar,Detailed Spanish 2026/27 mushing and canicross calendar; verify individual races against federation or organiser where possible.
+Spain,Euskadiko Txakurkros Liga,https://txakurkros.com/pages/etl.html,league-calendar,Basque/Navarre popular canicross league run by independent clubs; publishes provisional 2026/27 dates and distances.
 Spain,RFEDI,https://rfedi.es/mushing/,federation,Real Federación Española de Deportes de Invierno; ICF member federation and official mushing source
+Sweden,SDSF Competition Calendar,https://draghundsport.se/kalender/,federation-calendar,Official Svenska Draghundsportförbundet competition calendar
+Sweden,Svenska Draghundsportförbundet,https://draghundsport.se/,federation,Official Swedish sleddog/dryland federation; IFSS national member
 Sweden,Sweden BCD,https://www.swedenbcd.se/,federation,Sweden Bikejoring Canicross & Dogscooter; ICF member federation
 Switzerland,FSCS,https://www.suisse-canicross.ch/,federation,Fédération Sportive Cynologique Suisse; ICF member federation; Canicross Bikejöring and scooter source
+Switzerland,Swiss Canicross Competition Calendar,https://swiss-canicross.ch/courses/,federation-calendar,Current Swiss Canicross federation event calendar with Canicross and Canitrail dates and organiser/event detail pages.
 Türkiye,Canicross Türkiye,https://canicross.international/?page_id=3125,federation-directory,AKUT Spor Kulübü Canicross Türkiye; ICF member; directory used instead of social-media-only website entry
-UK,BSSF,https://thebssf.org.uk/,federation,British Sleddog Sports Federation; ICF and IFSS member federation
-UK,Lakeland Paws,https://www.lakelandpaws.com/,organizer,Canicross and Canitrail series in the Lake District
-UK,Wild Deer Events,https://wilddeerevents.co.uk/,organizer,Trail organiser with multiple canicross-friendly events
-UK,Run with K9s,https://runwithk9s.com/,organizer,Canicross and endurance relay events
-UK,Maverick Race,https://www.maverick-race.com/,organizer,Trail-running organiser; dog access must be checked event by event
-UK,ATW,https://www.atwevents.co.uk/,organizer,Running and multisport organiser; dog access must be checked event by event
 UK,Ascend Events,https://ascendevents.co.uk/,organizer,Trail and canicross event organiser
+UK,ATW,https://www.atwevents.co.uk/,organizer,Running and multisport organiser; dog access must be checked event by event
 UK,Bespoke Fitness and Events,https://www.bespokefitnessandevents.co.uk/,organizer,Trail-running organiser; canicross availability varies by event
+UK,Big Bear Events,https://bigbearevents.net/,organizer,Trail/endurance organiser with selected dedicated Canicross starts and dog-friendly challenge events; verify each event
 UK,Blended Trails,https://www.blendedtrails.com/,organizer,Trail event organiser; dog access must be verified per event
 UK,Blue Castle Run,https://www.bluecastlerun.co.uk/,organizer,Running event organiser with dog-friendly/canicross events
+UK,BSSF,https://thebssf.org.uk/,federation,British Sleddog Sports Federation; ICF and IFSS member federation
 UK,Climb South West,https://www.climbsouthwest.com/,organizer,Trail-running organiser; dog access must be checked per event
 UK,Consett Canicross,https://www.consettcanicross.co.uk/,organizer,Canicross organiser
 UK,Dave Talbot Adventures,https://www.davet albot.net/,organizer,Adventure and trail event source; URL requires verification
@@ -48,55 +88,20 @@ UK,Hobo Pace,https://www.hobopace.co.uk/,organizer,Trail-running organiser; dog 
 UK,Houghton Trail Event,https://www.houghtontrailevent.co.uk/,organizer,Trail event source with dog-friendly formats
 UK,How Hard Can It Be Events,https://www.howhardcanitbe.co.uk/,organizer,Running event organiser; dog access must be verified
 UK,It's Grim Up North Running,https://www.itsgrimupnorthrunning.co.uk/,organizer,Trail and endurance organiser with selected dog-friendly events
+UK,Lakeland Paws,https://www.lakelandpaws.com/,organizer,Canicross and Canitrail series in the Lake District
 UK,Ledbury Harriers,https://www.ledburyharriers.org.uk/,organizer,Running club and event organiser; dog access must be checked
 UK,Limitless Trails,https://www.limitlesstrails.co.uk/,organizer,Trail and ultra organiser with selected canicross-friendly races
 UK,Maidstone Harriers,https://www.maidstoneharriers.co.uk/,organizer,Running club/event source; dog access requires event-level verification
+UK,Maverick Race,https://www.maverick-race.com/,organizer,Trail-running organiser; dog access must be checked event by event
 UK,Pulse Events,https://www.pulseevents.co.uk/,organizer,Event organiser; dog access must be verified
 UK,Raw Energy Pursuits,https://rawrunning.co.uk/,organizer,Trail-running organiser with selected dog-friendly events
 UK,Run Rebel,https://www.runrebel.co.uk/,organizer,Trail event organiser; dog access must be verified
+UK,Run with K9s,https://runwithk9s.com/,organizer,Canicross and endurance relay events
 UK,Running Monk Trail Events,https://www.runningmonktrailevents.com/,organizer,Trail-running organiser; dog access requires verification
+UK,Running On Point,https://runningonpoint.co.uk/,discovery-calendar,UK discovery platform focused on Canicross and dog-friendly running; verify listings against the organiser
 UK,South West Runners,https://www.southwestrunners.co.uk/,organizer,Running event source; dog access must be verified
 UK,Trail Escape Events,https://www.trailescape.co.uk/,organizer,Trail-running organiser; dog access must be checked event by event
-UK,Trails and Tails Events,https://www.trailsandtails.co.uk/,organizer,Dog-focused trail event organiser
-UK,YPB Events,https://www.ypbevents.co.uk/,organizer,Running event organiser; dog access must be verified
-International,IFSS Competition Calendar,https://sleddogsport.net/events/,federation-calendar,Official International Federation of Sleddog Sports competition calendar
-International,IFSS Member Federations,https://sleddogsport.net/federation/default.aspx,federation-directory,Official IFSS member federation directory; used to identify national sleddog/mushing bodies
-Norway,Norges Hundekjørerforbund,https://www.sleddog.no/,federation,Official Norwegian sleddog federation; IFSS national member
-Sweden,Svenska Draghundsportförbundet,https://draghundsport.se/,federation,Official Swedish sleddog/dryland federation; IFSS national member
-Finland,VUL - Finnish Sleddog Sport Federation,https://www.vul.fi/,federation,Official Finnish sleddog sport federation; IFSS national member
-Denmark,DTK - Dansk Trækhundeklub,https://sleddogs.dk/,federation,Official Danish IFSS national member federation
-Czech Republic,ČASS - Česká asociace sleddog sportů,https://www.mushing.cz/,federation,Official Czech IFSS national member federation
-Sweden,SDSF Competition Calendar,https://draghundsport.se/kalender/,federation-calendar,Official Svenska Draghundsportförbundet competition calendar
-Poland,PZSPZ Competition Calendar,https://mushing.pl/index.php?show=kalendarz,federation-calendar,Official Polish sleddog federation competition calendar
-Germany,StrongDog,https://strongdog.de/,organizer,Independent dog-sport event organiser; Canicross Bikejöring Dogscooter and dog obstacle formats
-Germany,CROSSDOG,https://crossdog.de/events/,organizer,Dog-sport organiser with CaniX Run OCR Challenge Hike and other event formats
-Germany,Tough Cross / Tough Hunter,https://tough-cross.de/tough-hunter/,organizer,Dog obstacle and trail organiser; includes Canicross night run and running formats
-Germany,ROE-CROSS,https://roe-cross.de/,organizer,Running and Canicross series in Röthlein including trail and ultra formats
-Germany,HSVRM CaniCross-Wintercup,https://www.hsvrm.de/sportangebote/turnierhundsport/aktuell/,federation-calendar,Regional association Canicross Wintercup calendar with Geländelauf Dogscooter and Bikejöring
-Germany,Sachsen-Anhalter Schlittenhundesportclub,https://www.schlittenhundesportclubsa.de/,club,Club and race organiser with Canicross Velo Scooter and sleddog classes
-Austria,ÖSHS - Österreichischer Schlittenhundesportclub,https://www.schlittenhundesport.at/,club,Club event calendar with sleddog Skijöring and Canicross races
-Belgium,VCF - Vlaamse Canicross Federatie,https://www.vlaamsecanicrossfederatie.org/events,federation-calendar,Official VCF event calendar with Canicross Bikejöring and Dogscooter
-Belgium,Canicross Calendar Belgium,https://vlaamsecanicrossfed.wixsite.com/canicross,discovery-calendar,Joint planning calendar for VCF and FCB-BCF dates; verify event details against federation or organiser
-Netherlands/Belgium,Canisport2Enjoy,https://www.canisports2enjoy.nl/canisportskalender-2026-2027/,discovery-calendar,Discovery calendar for Canicross Bikejöring Scooter Canitrail and Dogsurvival in NL BE and some DE; verify against primary source
-Czech Republic,Jablonecký Tahoun,https://www.jabloneckytahoun.cz/,club,Canicross club and race organiser; also covers Bikejöring Scooterjöring and Skijöring
-Czech Republic,KST Events,https://www.kst.events/,organizer,Running event organiser with dedicated Canicross races including Trutnovská 10
-Italy,CSEN Canicross Competition Calendar,https://discipline.csencinofilia.it/calendario-gare-2027/,federation-calendar,Official Canicross Italia CSEN competition calendar with organiser details and national/selective races
-Italy,Cinofilia Italiana Sportiva - Canicross,https://www.federazionecinofila.it/index.php/canicross/,federation-calendar,National Canicross source covering Canicross Dog-Trail MTB and Dogscooter with continuously updated competition calendar
-France,Les CaniPirates,https://www.les-canipirates.fr/,club,FFSLC-affiliated Canicross/Canitrail club and organiser of Canitrail des Châtaignes and L'Ile aux Tresors
-France,Canicross Breizh,https://www.canicrossbreizh.fr/,club,Independent Breton canicross club and organiser of the annual Challenge Canicrossbreizh
-France,X-Trem34 Canisport,https://sites.google.com/view/x-trem34canisport/accueil,club,Canicross and Canitrail club; organiser/source for X-Trem canisport events
-France,Canikazes 86,https://canikazes86.wixsite.com/canikazes-86,club,FFSLC club active in Canicross CaniVTT and CaniTrot; organiser selected for the 2026 French Canitrail championship
-France,Canicross Val de Loire,https://www.helloasso.com/associations/canicross-val-de-loire,club,Canicross/Canitrail club and organiser of the Canicross Val de Loire race
 UK,TRAILDOG Events,https://www.traildogevents.co.uk/events,organizer,Dedicated North East dog-running organiser with The Collective UltiMutt MultiSport and Kielder events
-UK,Big Bear Events,https://bigbearevents.net/,organizer,Trail/endurance organiser with selected dedicated Canicross starts and dog-friendly challenge events; verify each event
-UK,Running On Point,https://runningonpoint.co.uk/,discovery-calendar,UK discovery platform focused on Canicross and dog-friendly running; verify listings against the organiser
-Italy,Be WILD,https://www.bewildogs.com/,organizer,Canicross Bikejoring and Scooterjoring organiser; CSEN calendar organiser for Born to Run
-Italy,Canpus Cinofilia,https://www.canpuscinofilia.it/,organizer,Canine sport centre with Canicross and Scooterjoring; CSEN calendar organiser for FranciacorSa
-Italy,Mad Dogs Sporting Center,https://www.maddogssportingcenter.it/,organizer,Canine sport centre and Canicross organiser; listed by CSEN for Basovizza 2026
-Italy,Scuola Cinotecnica Italiana,https://scuolacinotecnicaitaliana.it/,organizer,Canine training and event organisation; listed by CSEN as organiser of Canicross Citta di Grosseto 2027
-Poland,Warsaw Dog Run,https://dogrun.com.pl/,organizer,Fundacja Maraton Warszawski dog-running event with dedicated Canicross and Dogtrekking formats
-Poland,Puchar Polski w Dogtrekkingu,https://dogtrekking.pl/,organizer,National Dogtrekking cup organised by Sportshooter and Fundacja Sportowa Polska; useful dog-endurance discovery source
-Czech Republic,Mammoth Race / Canicross Prerov,https://www.mammothrace.cz/,organizer,Independent dedicated Canicross Dog Sprint organiser in Prerov
-Denmark,DIRTY PAWS,https://dirtypawscanicross.dk/,club,National Canicross/Canihike club and DCF member club; organiser of DCF Dog Series rounds
-Denmark,DCF Dog Series,https://www.danskcanicross.dk/kalender,federation-calendar,DCF season calendar identifies individual organiser clubs such as CaniXFyn K9Runners Mariager DogRunDK Canicross Ostjylland and Dirty Paws
-Finland,Traildog.fi event calendar,https://traildog.fi/pages/valjakkourheilukilpailut-ja-tapahtumat,discovery-calendar,Continuously updated Finnish sleddog sport calendar covering Canicross Bikejoring Scooter and race organiser clubs; verify against VUL or organiser
+UK,Trails and Tails Events,https://www.trailsandtails.co.uk/,organizer,Dog-focused trail event organiser
+UK,Wild Deer Events,https://wilddeerevents.co.uk/,organizer,Trail organiser with multiple canicross-friendly events
+UK,YPB Events,https://www.ypbevents.co.uk/,organizer,Running event organiser; dog access must be verified
