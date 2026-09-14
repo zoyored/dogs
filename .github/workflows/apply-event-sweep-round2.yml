@@ -1,0 +1,30 @@
+name: Apply event sweep round 2
+on:
+  push:
+    branches: [calendar/europe-round2-event-sweep-2026-09-14]
+    paths:
+      - scripts/apply_event_sweep_round2_20260914.py
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: calendar/europe-round2-event-sweep-2026-09-14
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/apply_event_sweep_round2_20260914.py
+      - run: python scripts/dedupe_master.py
+      - run: python scripts/build_events.py
+      - name: Remove temporary sweep helpers
+        run: rm scripts/apply_event_sweep_round2_20260914.py .github/workflows/apply-event-sweep-round2.yml
+      - name: Commit generated event update
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'calendar: add verified events from European source round 2' || exit 0
+          git push
