@@ -2,9 +2,9 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-12T18:33:28Z",
+    "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 291,
+    "count": 310,
     "categories": [
       "bike jöring",
       "canicross",
@@ -2029,6 +2029,30 @@
       "origin": "SDSF federation sweep round 8"
     },
     {
+      "id": "2026-09-25-mountainman-reit-im-winkl-dogs-trail-2327c6",
+      "date": "2026-09-25",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "MOUNTAINMAN Reit im Winkl – Dogs-Trail",
+      "category": [
+        "dogs-trail"
+      ],
+      "distancesKm": [
+        11,
+        26
+      ],
+      "elevationM": [
+        304,
+        938
+      ],
+      "dogAccess": "own dog starts + separate ranking",
+      "status": "sold out / waitlist",
+      "notes": "S 11 km / 304 m+ and M 26 km / 938 m+; both dog starts sold out, waitlist available; own dog starts and separate trailrunner ranking.",
+      "primarySource": "https://mountainman.de/trailrunning-events/alps/reit-im-winkl/dogs-trail/",
+      "secondarySource": null,
+      "origin": "web re-check 2026-09-14"
+    },
+    {
       "id": "2026-09-26-bosorkin-canicross-autumn-round-2026-eb5ffe",
       "date": "2026-09-26",
       "dateEnd": "2026-09-27",
@@ -2208,30 +2232,6 @@
       "secondarySource": null,
       "origin": "European federation sweep round 2 2026-09-12",
       "distanceText": "not published"
-    },
-    {
-      "id": "2026-09-26-mountainman-reit-im-winkl-dogs-trail-2327c6",
-      "date": "2026-09-26",
-      "dateEnd": null,
-      "country": "Germany",
-      "event": "MOUNTAINMAN Reit im Winkl – Dogs-Trail",
-      "category": [
-        "dogs-trail"
-      ],
-      "distancesKm": [
-        11,
-        26
-      ],
-      "elevationM": [
-        300,
-        900
-      ],
-      "dogAccess": "own dog starts + separate ranking",
-      "status": "upcoming",
-      "notes": "S and M trails allow dogs; own dog starts and finisher medal.",
-      "primarySource": "https://www.chiemsee-chiemgau.info/mountainman-reit-im-winkl",
-      "secondarySource": null,
-      "origin": "web verification 2026-09-11"
     },
     {
       "id": "2026-09-26-nittedalsl-pet-barmark-2026-nc-844107",
@@ -3783,15 +3783,17 @@
         "canitrail"
       ],
       "distancesKm": [
-        11
+        15
       ],
-      "elevationM": [],
+      "elevationM": [
+        440
+      ],
       "dogAccess": "dedicated dog class within trail event",
-      "status": "upcoming",
-      "notes": "Official FFSLC calendar gives 14 November 2026; previously stored 15 November date corrected.",
-      "primarySource": "https://courses.ffslc.fr/calendar",
-      "secondarySource": "https://www.finishers.com/en/event/trail-des-chataignes-de-cormeille-en-parisis",
-      "origin": "FFSLC correction 2026-09-12"
+      "status": "sold out / waitlist",
+      "notes": "Official 2026 canitrail is Saturday 14 Nov: 15 km / 440 m+, start 13:00; minimum dog age 24 months; event full, waitlist open.",
+      "primarySource": "https://trail-des-chataignes.com/les-courses/",
+      "secondarySource": "https://trail-des-chataignes.com/reglement-canitrail/",
+      "origin": "web re-check 2026-09-14"
     },
     {
       "id": "2026-11-14-canitrail-deguzon-8f4177",
@@ -4602,6 +4604,25 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-01-10-canicross-de-cergy-l-le-aux-tr-sors-668e5e",
+      "date": "2027-01-10",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canicross de Cergy – L’île aux trésors",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC event",
+      "status": "announced",
+      "notes": "New 2027 date published in the official FFSLC calendar.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-01-15-lapland-quest-2027-a15a21",
       "date": "2027-01-15",
       "dateEnd": "2027-01-17",
@@ -4737,13 +4758,35 @@
       ],
       "distancesKm": [],
       "elevationM": [],
-      "dogAccess": "dedicated FFSLC canicross",
+      "dogAccess": "dedicated FFSLC canicross | dedicated FFSLC event",
       "status": "announced",
-      "notes": "Official FFSLC 2027 calendar event.",
+      "notes": "Official FFSLC 2027 calendar event. | New 2027 date published in the official FFSLC calendar.",
       "primarySource": "https://courses.ffslc.fr/calendar",
       "secondarySource": null,
-      "origin": "FFSLC Canicross import 2026-09-12",
+      "origin": "FFSLC Canicross import 2026-09-12 | source-master sweep 2026-09-14",
       "distanceText": "not published"
+    },
+    {
+      "id": "2027-01-24-druridge-bay-beach-trail-runs-b910a0",
+      "date": "2027-01-24",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Druridge Bay Beach Trail Runs",
+      "category": [
+        "dog friendly trail"
+      ],
+      "distancesKm": [
+        5,
+        10,
+        21.1
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross friendly; one controlled dog per runner",
+      "status": "registration open",
+      "notes": "Official organiser page explicitly confirms canicross access for the 2027 event.",
+      "primarySource": "https://www.wilddeerevents.co.uk/e/druridge-bay-beach-trail-runs-2026-14486",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14"
     },
     {
       "id": "2027-01-24-mountainman-dogs-winterloop-reit-im-winkl-ed8333",
@@ -4786,6 +4829,26 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2027-01-30-cani-trophy-fontainebleau-2027-ae9e0b",
+      "date": "2027-01-30",
+      "dateEnd": "2027-01-31",
+      "country": "France",
+      "event": "CANI TROPHY FONTAINEBLEAU 2027",
+      "category": [
+        "canicross",
+        "canitrail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC event",
+      "status": "announced",
+      "notes": "New 2027 date published in the official FFSLC calendar.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-01-30-cani-trophy-fontainebleau-2027-canicross-3d4f3f",
       "date": "2027-01-30",
       "dateEnd": "2027-01-31",
@@ -4822,6 +4885,25 @@
       "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
       "origin": "FFSLC verification 2026-09-12",
       "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2027-01-30-troph-e-canin-des-plages-2027-1f901a",
+      "date": "2027-01-30",
+      "dateEnd": "2027-01-31",
+      "country": "France",
+      "event": "Trophée Canin des Plages 2027",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC event",
+      "status": "announced",
+      "notes": "New 2027 date published in the official FFSLC calendar.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2027-01-30-troph-e-canin-des-plages-2027-canicross-79aedd",
@@ -4901,6 +4983,25 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-02-07-doggy-de-le-run-2-509949",
+      "date": "2027-02-07",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Doggy Deûle Run #2",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC event",
+      "status": "announced",
+      "notes": "New 2027 date published in the official FFSLC calendar.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-02-07-doggy-de-le-run-2-canicross-2f7edf",
       "date": "2027-02-07",
       "dateEnd": null,
@@ -4939,6 +5040,25 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-02-07-la-canid-forts-4e-dition-c2366a",
+      "date": "2027-02-07",
+      "dateEnd": null,
+      "country": "France",
+      "event": "La Canidé’forts – 4e édition",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC event",
+      "status": "announced",
+      "notes": "New 2027 date published in the official FFSLC calendar.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-02-07-lakeland-paws-whinlatter-tails-south-side-9d2783",
       "date": "2027-02-07",
       "dateEnd": null,
@@ -4959,6 +5079,25 @@
       "primarySource": "https://lakelandpaws.com/events/",
       "secondarySource": "https://lakelandpaws.com/whinlatter-tails-south-side/",
       "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2027-02-13-5th-dirty-dog-race-11813b",
+      "date": "2027-02-13",
+      "dateEnd": "2027-02-14",
+      "country": "France",
+      "event": "5th Dirty Dog Race",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC event",
+      "status": "announced",
+      "notes": "New 2027 date published in the official FFSLC calendar.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2027-02-13-5th-dirty-dog-race-canicross-3fe979",
@@ -4996,6 +5135,44 @@
       "primarySource": "https://courses.ffslc.fr/calendar",
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2027-02-13-les-courses-de-l-tang-e55966",
+      "date": "2027-02-13",
+      "dateEnd": "2027-02-14",
+      "country": "France",
+      "event": "Les courses de l’étang",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC event",
+      "status": "announced",
+      "notes": "New 2027 date published in the official FFSLC calendar.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2027-02-13-troph-e-des-lacs-79af4d",
+      "date": "2027-02-13",
+      "dateEnd": "2027-02-19",
+      "country": "France",
+      "event": "Trophée des Lacs",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC event",
+      "status": "announced",
+      "notes": "New 2027 date published in the official FFSLC calendar.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14",
       "distanceText": "not published"
     },
     {
@@ -5154,6 +5331,25 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2027-02-28-interclub-manchois-947738",
+      "date": "2027-02-28",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Interclub Manchois",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC event",
+      "status": "announced",
+      "notes": "New 2027 date published in the official FFSLC calendar.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-02-28-interclub-manchois-canicross-58f05e",
       "date": "2027-02-28",
       "dateEnd": null,
@@ -5171,6 +5367,25 @@
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2027-02-28-run-with-k9s-endurance-canicross-relay-d553f7",
+      "date": "2027-02-28",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Run With K9s – Endurance Canicross Relay",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross relay / solo",
+      "status": "registration announced",
+      "notes": "3-hour endurance relay or solo challenge on 2.5 km laps at Bulwell Hall Park, Nottingham.",
+      "primarySource": "https://www.runwithk9s.com/canicrossrelays",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14",
+      "distanceText": "2.5 km laps up to 3h"
     },
     {
       "id": "2027-02-28-run-with-k9s-endurance-relay-e9bcec",
@@ -5319,6 +5534,28 @@
       "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
       "secondarySource": null,
       "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
+      "id": "2027-03-06-tatton-park-wild-trail-runs-e947cf",
+      "date": "2027-03-06",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Tatton Park Wild Trail Runs",
+      "category": [
+        "dog friendly trail"
+      ],
+      "distancesKm": [
+        5,
+        10,
+        21.1
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross friendly; one controlled dog per runner",
+      "status": "registration open",
+      "notes": "Official organiser page explicitly confirms canicross access for the 2027 event.",
+      "primarySource": "https://www.wilddeerevents.co.uk/e/tatton-park-wild-trail-runs-2026-14521",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14"
     },
     {
       "id": "2027-03-07-lakeland-paws-tour-de-grizedale-2d808a",
@@ -5483,6 +5720,27 @@
       "secondarySource": null,
       "origin": "European federation sweep round 2 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2027-03-20-ultra-cani-trail-30-50-mile-ae5dbd",
+      "date": "2027-03-20",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Ultra Cani-Trail 30 & 50 Mile",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [
+        48.3,
+        80.5
+      ],
+      "elevationM": [],
+      "dogAccess": "dog-only ultra trail event",
+      "status": "registration open",
+      "notes": "South Wales Valleys. 30 mile route has no time limit; 50 mile route has a 17-hour cut-off. GPS tracker on both routes; 30-mile relay option.",
+      "primarySource": "https://www.canitrailevents.co.uk/ultra-cani-trail-30-and-50-2027/",
+      "secondarySource": null,
+      "origin": "web re-check 2026-09-14"
     },
     {
       "id": "2027-03-21-canicross-ireland-2026-27-event-seven-drewstown-house-6a7510",
@@ -5704,6 +5962,26 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2027-04-10-canicross-xtremtrail-de-brameloup-6179a0",
+      "date": "2027-04-10",
+      "dateEnd": "2027-04-11",
+      "country": "France",
+      "event": "Canicross XtremTrail de Brameloup",
+      "category": [
+        "canicross",
+        "canitrail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC event",
+      "status": "announced",
+      "notes": "New 2027 date published in the official FFSLC calendar.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-04-10-canicross-xtremtrail-de-brameloup-canicross-0f8a24",
       "date": "2027-04-10",
       "dateEnd": "2027-04-11",
@@ -5762,6 +6040,26 @@
       "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-04-17-bamburgh-castle-wild-10k-trail-run-7b989e",
+      "date": "2027-04-17",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Bamburgh Castle Wild 10K Trail Run",
+      "category": [
+        "dog friendly trail"
+      ],
+      "distancesKm": [
+        10
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross friendly; one controlled dog per runner",
+      "status": "registration open",
+      "notes": "Official organiser page explicitly confirms canicross access for the 2027 event.",
+      "primarySource": "https://www.wilddeerevents.co.uk/e/bamburgh-castle-wild-10km-trail-run-15391",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14"
     },
     {
       "id": "2027-04-17-groenahoeg-open-4cfcd2",
@@ -5831,6 +6129,25 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-04-24-4e-castelcanicross-de-blangy-le-ch-teau-45be0d",
+      "date": "2027-04-24",
+      "dateEnd": "2027-04-25",
+      "country": "France",
+      "event": "4e Castel’Canicross de Blangy-le-Château",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC event",
+      "status": "announced",
+      "notes": "New 2027 date published in the official FFSLC calendar.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-04-24-4eme-castelcanicross-de-blangy-le-ch-teau-canitrail-7a7895",
       "date": "2027-04-24",
       "dateEnd": "2027-04-25",
@@ -5872,6 +6189,27 @@
       "origin": "Europe federation sweep round 4 2026-09-12"
     },
     {
+      "id": "2027-05-05-gibside-national-trust-wild-trail-runs-af60dd",
+      "date": "2027-05-05",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Gibside National Trust Wild Trail Runs",
+      "category": [
+        "dog friendly trail"
+      ],
+      "distancesKm": [
+        5,
+        10
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross friendly; one controlled dog per runner",
+      "status": "registration open",
+      "notes": "Official organiser page explicitly confirms canicross access for the 2027 event.",
+      "primarySource": "https://www.wilddeerevents.co.uk/e/gibside-national-trust-wild-trail-runs-2027-14511",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14"
+    },
+    {
       "id": "2027-05-08-mountainman-nesselwang-dogs-trail-0999f0",
       "date": "2027-05-08",
       "dateEnd": null,
@@ -5880,16 +6218,20 @@
       "category": [
         "dogs-trail"
       ],
-      "distancesKm": [],
-      "elevationM": [],
+      "distancesKm": [
+        10,
+        21
+      ],
+      "elevationM": [
+        780,
+        1268
+      ],
       "dogAccess": "own dog starts + separate ranking",
       "status": "registration open",
-      "notes": "M trail confirmed at 21 km / 1,268 hm; dog slots limited to about 150.",
+      "notes": "S 10 km / 780 m+ and M 21 km / 1,268 m+; registration open; around 150 dog-team places.",
       "primarySource": "https://mountainman.de/trailrunning-events/alps/nesselwang/dogs-trail/",
       "secondarySource": null,
-      "origin": "web verification 2026-09-11",
-      "distanceText": "21 + S-distance",
-      "elevationText": "1268 + S not captured"
+      "origin": "web re-check 2026-09-14"
     },
     {
       "id": "2027-05-15-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02",
@@ -5912,6 +6254,49 @@
       "primarySource": "https://gendarmes-et-voleurs.com/canitrail/",
       "secondarySource": null,
       "origin": "web verification 2026-09-11"
+    },
+    {
+      "id": "2027-05-23-margam-wild-trail-runs-593f8e",
+      "date": "2027-05-23",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Margam Wild Trail Runs",
+      "category": [
+        "dog friendly trail"
+      ],
+      "distancesKm": [
+        5,
+        10,
+        21.1
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross friendly; one controlled dog per runner",
+      "status": "registration open",
+      "notes": "Official organiser page explicitly confirms canicross access for the 2027 event.",
+      "primarySource": "https://www.wilddeerevents.co.uk/e/margam-wild-trail-runs-14954",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14"
+    },
+    {
+      "id": "2027-06-27-alice-holt-wild-trail-runs-32075b",
+      "date": "2027-06-27",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Alice Holt Wild Trail Runs",
+      "category": [
+        "dog friendly trail"
+      ],
+      "distancesKm": [
+        10,
+        21.1
+      ],
+      "elevationM": [],
+      "dogAccess": "canicross friendly; one controlled dog per runner",
+      "status": "registration open",
+      "notes": "Official organiser page explicitly confirms canicross access for the 2027 event.",
+      "primarySource": "https://www.wilddeerevents.co.uk/e/alice-holt-wild-trail-runs-2026-10km-and-1-2-marathon-14497",
+      "secondarySource": null,
+      "origin": "source-master sweep 2026-09-14"
     },
     {
       "id": "2027-07-10-limitless-trails-tenacious-ten-endurance-challenge-9e0dfb",
