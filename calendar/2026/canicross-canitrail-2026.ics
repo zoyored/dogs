@@ -1199,6 +1199,19 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: Yes\nStat
 URL:https://draghundsport.se/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-20-born-to-run-f67167@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Born to Run
+LOCATION:Italy
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 3 km
+ \nHöhenmeter: 50 hm\nHund: dedicated canisport race\nStatus: source-conf
+ irmed 2026\n2nd Be WILD Canicross\; Bikejoring and Scooterjoring also of
+ fered\; Borno\, Brescia.
+URL:https://www.bewildogs.com/borntorun
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-20-csen-canicross-borno-522f67@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20260920
@@ -1453,6 +1466,19 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
 URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-27-traildog-ultimutt-4c9dd9@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:TRAILDOG UltiMutt
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: dedicated dog-ru
+ nning obstacle event\nStatus: source-confirmed 2026\nByerley Stud\, Wall
+ ridge\; timed 5 km dog/human obstacle event with canicross wave.\nWeiter
+ e Quelle: https://www.traildogevents.co.uk/events
+URL:https://www.traildogevents.co.uk/ultimutt
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-27-oebacka-barmark-dag-2-fa7a8f@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20260927
@@ -1556,6 +1582,18 @@ DESCRIPTION:Kategorie: canitrail\nDistanz: not published\nHund: dedicated
  ere Quelle: https://lecanitraildesbisses.ch/informations/categories/
 URL:https://www.myswitzerland.com/en-gb/experiences/events/canitrail-des-
  bisses/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-challenge-canicross-breizh-47be10@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Challenge Canicross Breizh
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: dedicated
+  canisport event\nStatus: source-confirmed 2026\n14th edition at Site Ho
+ rizon\, Plédran\; organiser states 15 races across the weekend.
+URL:https://www.canicrossbreizh.fr/challenge-canicrossbreizh/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-genk-bcf-canicross-d4771b@sandsturm.com
@@ -1838,6 +1876,19 @@ DESCRIPTION:Kategorie: canicross\nDistanz: 5-7\nHund: RaceDog Latvia Stir
 URL:https://www.canicross.lv/stirnu-buks-kanikross-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-11-traildog-castle-howard-660110@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:TRAILDOG Castle Howard
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: dog-running even
+ t with canicross wave\nStatus: source-confirmed 2026\n5 km trail event a
+ t Castle Howard\; dedicated canicross wave available.\nWeitere Quelle: h
+ ttps://www.traildogevents.co.uk/events
+URL:https://www.traildogevents.co.uk/castlehoward
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-14-ifss-european-championships-dryland-2026-50f8e1@sandsturm.
  com
 DTSTAMP:20260914T085651Z
@@ -1982,6 +2033,19 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: Yes\nStat
  ykling and kickbike.\nWeitere Quelle: https://www.sleddog.no/next/p/8275
  8/barmark
 URL:https://www.sleddog.no/next/p/74113/kurs-og-aktiviteter
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-raw-paleo-warsaw-dog-run-canicross-8055da@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:RAW PALEO Warsaw Dog Run – Canicross
+LOCATION:Poland
+DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: dedicated canicr
+ oss\nStatus: source-confirmed 2026\nWarsaw/Żoliborz\; start 08:30\; appr
+ ox. 5 km through park\, forest and Vistula beach.\nWeitere Quelle: https
+ ://dogrun.com.pl/2026/07/01/rejestracja-wystartowala/
+URL:https://dogrun.com.pl/canicross/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-canicross-ireland-2026-27-event-two-lough-boora-a6b5e6@san
@@ -2399,6 +2463,18 @@ DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
  //ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Can
  itrail-Ski-joering.pdf
 URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-traildog-the-collective-raby-castle-d7ea45@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:TRAILDOG The Collective – Raby Castle
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross\nHund: dedicated dog-running event\nStat
+ us: source-confirmed 2026\nPart of TRAILDOG The Collective series\; Raby
+  Castle.
+URL:https://www.traildogevents.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-acana-zaje-ov-2026-d7d72f@sandsturm.com
@@ -2912,6 +2988,18 @@ DESCRIPTION:Kategorie: canicross\nDistanzen: 10 km\nHund: canicross-frien
  s canicross friendly with a 09:30 canicross start\; 5 km excluded here.
 URL:https://www.wilddeerevents.co.uk/e/sherwood-pines-festive-trail-runs-
  2026-14700
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-traildog-the-collective-druridge-bay-5ac3b7@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:TRAILDOG The Collective – Druridge Bay
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross\nHund: dedicated dog-running event\nStat
+ us: source-confirmed 2026\nPart of TRAILDOG The Collective series\; Drur
+ idge Bay.
+URL:https://www.traildogevents.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-csen-canicross-basovizza-f92eed@sandsturm.com

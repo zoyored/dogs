@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 331,
+    "count": 342,
     "categories": [
       "bike jöring",
       "canicross",
@@ -1968,6 +1968,30 @@
       "origin": "SDSF federation sweep round 8"
     },
     {
+      "id": "2026-09-20-born-to-run-f67167",
+      "date": "2026-09-20",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "Born to Run",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        3
+      ],
+      "elevationM": [
+        50
+      ],
+      "dogAccess": "dedicated canisport race",
+      "status": "source-confirmed 2026",
+      "notes": "2nd Be WILD Canicross; Bikejoring and Scooterjoring also offered; Borno, Brescia.",
+      "primarySource": "https://www.bewildogs.com/borntorun",
+      "secondarySource": null,
+      "origin": "European independent-source sweep 2026-09-14"
+    },
+    {
       "id": "2026-09-20-csen-canicross-borno-522f67",
       "date": "2026-09-20",
       "dateEnd": null,
@@ -2356,6 +2380,26 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-09-27-traildog-ultimutt-4c9dd9",
+      "date": "2026-09-27",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "TRAILDOG UltiMutt",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        5
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated dog-running obstacle event",
+      "status": "source-confirmed 2026",
+      "notes": "Byerley Stud, Wallridge; timed 5 km dog/human obstacle event with canicross wave.",
+      "primarySource": "https://www.traildogevents.co.uk/ultimutt",
+      "secondarySource": "https://www.traildogevents.co.uk/events",
+      "origin": "European independent-source sweep 2026-09-14"
+    },
+    {
       "id": "2026-09-27-oebacka-barmark-dag-2-fa7a8f",
       "date": "2026-09-27",
       "dateEnd": null,
@@ -2517,6 +2561,26 @@
       "secondarySource": "https://lecanitraildesbisses.ch/informations/categories/",
       "origin": "uploaded 2026 CSV",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-03-challenge-canicross-breizh-47be10",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "France",
+      "event": "Challenge Canicross Breizh",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated canisport event",
+      "status": "source-confirmed 2026",
+      "notes": "14th edition at Site Horizon, Plédran; organiser states 15 races across the weekend.",
+      "primarySource": "https://www.canicrossbreizh.fr/challenge-canicrossbreizh/",
+      "secondarySource": null,
+      "origin": "European independent-source sweep 2026-09-14"
     },
     {
       "id": "2026-10-03-genk-bcf-canicross-d4771b",
@@ -2951,6 +3015,26 @@
       "distanceText": "5-7"
     },
     {
+      "id": "2026-10-11-traildog-castle-howard-660110",
+      "date": "2026-10-11",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "TRAILDOG Castle Howard",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        5
+      ],
+      "elevationM": [],
+      "dogAccess": "dog-running event with canicross wave",
+      "status": "source-confirmed 2026",
+      "notes": "5 km trail event at Castle Howard; dedicated canicross wave available.",
+      "primarySource": "https://www.traildogevents.co.uk/castlehoward",
+      "secondarySource": "https://www.traildogevents.co.uk/events",
+      "origin": "European independent-source sweep 2026-09-14"
+    },
+    {
       "id": "2026-10-14-ifss-european-championships-dryland-2026-50f8e1",
       "date": "2026-10-14",
       "dateEnd": "2026-10-18",
@@ -3171,6 +3255,26 @@
       "primarySource": "https://www.sleddog.no/next/p/74113/kurs-og-aktiviteter",
       "secondarySource": "https://www.sleddog.no/next/p/82758/barmark",
       "origin": "NHF federation sweep round 8"
+    },
+    {
+      "id": "2026-10-17-raw-paleo-warsaw-dog-run-canicross-8055da",
+      "date": "2026-10-17",
+      "dateEnd": null,
+      "country": "Poland",
+      "event": "RAW PALEO Warsaw Dog Run – Canicross",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        5
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross",
+      "status": "source-confirmed 2026",
+      "notes": "Warsaw/Żoliborz; start 08:30; approx. 5 km through park, forest and Vistula beach.",
+      "primarySource": "https://dogrun.com.pl/canicross/",
+      "secondarySource": "https://dogrun.com.pl/2026/07/01/rejestracja-wystartowala/",
+      "origin": "European independent-source sweep 2026-09-14"
     },
     {
       "id": "2026-10-18-canicross-ireland-2026-27-event-two-lough-boora-a6b5e6",
@@ -3825,6 +3929,24 @@
       "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
       "origin": "FFSLC verification 2026-09-12",
       "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-11-08-traildog-the-collective-raby-castle-d7ea45",
+      "date": "2026-11-08",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "TRAILDOG The Collective – Raby Castle",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated dog-running event",
+      "status": "source-confirmed 2026",
+      "notes": "Part of TRAILDOG The Collective series; Raby Castle.",
+      "primarySource": "https://www.traildogevents.co.uk/events",
+      "secondarySource": null,
+      "origin": "European independent-source sweep 2026-09-14"
     },
     {
       "id": "2026-11-14-acana-zaje-ov-2026-d7d72f",
@@ -4619,6 +4741,24 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2026-12-13-traildog-the-collective-druridge-bay-5ac3b7",
+      "date": "2026-12-13",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "TRAILDOG The Collective – Druridge Bay",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated dog-running event",
+      "status": "source-confirmed 2026",
+      "notes": "Part of TRAILDOG The Collective series; Druridge Bay.",
+      "primarySource": "https://www.traildogevents.co.uk/events",
+      "secondarySource": null,
+      "origin": "European independent-source sweep 2026-09-14"
+    },
+    {
       "id": "2026-12-20-csen-canicross-basovizza-f92eed",
       "date": "2026-12-20",
       "dateEnd": null,
@@ -5108,6 +5248,24 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-01-30-traildog-the-collective-druridge-night-run-f60553",
+      "date": "2027-01-30",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "TRAILDOG The Collective – Druridge Night Run",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated dog-running event",
+      "status": "source-confirmed 2027",
+      "notes": "Night-run round of TRAILDOG The Collective at Druridge Bay.",
+      "primarySource": "https://www.traildogevents.co.uk/events",
+      "secondarySource": null,
+      "origin": "European independent-source sweep 2026-09-14"
+    },
+    {
       "id": "2027-01-30-troph-e-canin-des-plages-2027-1f901a",
       "date": "2027-01-30",
       "dateEnd": "2027-01-31",
@@ -5454,6 +5612,24 @@
       "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-02-14-traildog-the-collective-wallington-b3f25c",
+      "date": "2027-02-14",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "TRAILDOG The Collective – Wallington",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated dog-running event",
+      "status": "source-confirmed 2027",
+      "notes": "Part of TRAILDOG The Collective series; Wallington National Trust.",
+      "primarySource": "https://www.traildogevents.co.uk/events",
+      "secondarySource": null,
+      "origin": "European independent-source sweep 2026-09-14"
     },
     {
       "id": "2027-02-17-ifss-winter-world-championships-2027-jaemijaervi-06c1de",
@@ -5942,6 +6118,24 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-03-20-discover-kielder-ultra-1babe2",
+      "date": "2027-03-20",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Discover Kielder Ultra",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dog endurance event",
+      "status": "source-confirmed 2027",
+      "notes": "TRAILDOG event calendar lists Discover Kielder Ultra on 20 March 2027.",
+      "primarySource": "https://www.traildogevents.co.uk/events",
+      "secondarySource": null,
+      "origin": "European independent-source sweep 2026-09-14"
+    },
+    {
       "id": "2027-03-20-dog-adventure-sprint-race-puchar-polski-sprint-918c7f",
       "date": "2027-03-20",
       "dateEnd": "2027-03-21",
@@ -6127,6 +6321,24 @@
       "secondarySource": null,
       "origin": "Europe federation sweep round 4 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2027-03-21-traildog-the-collective-kielder-waterside-e4b6ba",
+      "date": "2027-03-21",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "TRAILDOG The Collective – Kielder Waterside",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated dog-running event",
+      "status": "source-confirmed 2027",
+      "notes": "Part of TRAILDOG The Collective series; Kielder Waterside.",
+      "primarySource": "https://www.traildogevents.co.uk/events",
+      "secondarySource": null,
+      "origin": "European independent-source sweep 2026-09-14"
     },
     {
       "id": "2027-04-03-canicross-du-lac-des-sapins-30087c",
