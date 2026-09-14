@@ -6,6 +6,32 @@ METHOD:PUBLISH
 X-WR-CALNAME:Canicross & Canitrail Events
 X-WR-CALDESC:Canicross- und Canitrail-Veranstaltungen
 BEGIN:VEVENT
+UID:2027-01-02-ypb-seven-sins-challenge-canicross-a4cc8a@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:YPB Seven Sins Challenge – Canicross
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross\nDistanzen: 11.3 km\nHund: dedicated can
+ icross start\nStatus: registration open\nSeven Sins weekend\; organiser 
+ explicitly lists Canicross on Saturday 2 Jan at 10:00. Approx. 7-mile co
+ urse.
+URL:https://www.ypbevents.co.uk/7-sins-immortal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-lakeland-paws-grizedale-growl-east-side-a69000@sandsturm.c
+ om
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Lakeland Paws – Grizedale Growl East Side
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
+  canicross event\nStatus: registration open\nOfficial Lakeland Paws 2026
+ /27 series lists Grizedale Growl East Side on 3 Jan 2027.
+URL:https://lakelandpaws.com/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-08-ukkohalla-paljakka-ajot-2027-521b35@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270108
@@ -93,6 +119,19 @@ DESCRIPTION:Kategorie: sledge\nDistanzen: 5 km / 9.6 km / 13 km / 17.5 km
  confirmed 2027\nOfficial VUL winter calendar lists sprint and middle-dis
  tance sled classes.
 URL:https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-maverick-new-forest-gravel-2027-04236d@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Maverick New Forest Gravel 2027
+LOCATION:UK
+DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 12 km / 22 km\nHöhe
+ nmeter: 111 hm / 172 hm\nHund: dogs allowed with separate dog entry\nSta
+ tus: dog entries sold out\nOfficial event page is dog-friendly with limi
+ ted dog spaces\; 6 km option omitted here.
+URL:https://www.maverick-race.com/products/2027/2027-01-16
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-ccnl-bosschenhoofd-b0b6dd@sandsturm.com
@@ -258,6 +297,19 @@ LOCATION:France
 DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
  icross event\nStatus: announced\nOfficial FFSLC 2027 calendar event.
 URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-ypb-may-hill-massacre-canicross-40bfe9@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+SUMMARY:YPB May Hill Massacre – Canicross
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross\nDistanz: 7-8 miles\nHund: dedicated can
+ icross start\nStatus: registration open\nOfficial organiser page publish
+ es the 30–31 Jan weekend and a Canicross start at 10:00\; main Massacre 
+ route is 7–8 miles.
+URL:https://www.ypbevents.co.uk/mayhill-massacre
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-limitless-trails-trails-tarmac-winter-12h-byu-8b215e@sands
@@ -748,6 +800,19 @@ URL:https://www.wilddeerevents.co.uk/e/grasmere-wild-trail-runs-2027-1449
  3
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-20-maverick-hampshire-trail-2027-46bed8@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Maverick Hampshire Trail 2027
+LOCATION:UK
+DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 16 km / 24 km\nHöhe
+ nmeter: 298 hm / 410 hm\nHund: dogs allowed with separate dog entry\nSta
+ tus: registration open\nOfficial event page confirms dog-friendly entrie
+ s\; 5 km option omitted here.
+URL:https://www.maverick-race.com/products/2027/2027-03-20
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-03-20-slane-ek-race-2027-0dd8df@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270320
@@ -856,6 +921,20 @@ LOCATION:Denmark
 DESCRIPTION:Kategorie: canicross\nHund: Danish Canicross Federation serie
  s\nStatus: announced\nOfficial DCF calendar\, Mariager.
 URL:https://www.danskcanicross.dk/kalender
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-03-maverick-east-sussex-trail-2027-651082@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Maverick East Sussex Trail 2027
+LOCATION:UK
+DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 13 km / 21 km\nHöhe
+ nmeter: 339 hm / 457 hm\nHund: dogs allowed with separate dog entry\nSta
+ tus: registration open\nOfficial event page confirms dog-friendly entrie
+ s\; 5 km option omitted here.
+URL:https://www.maverick-race.com/products/the-maverick-east-sussex-trail
+ -2027
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-03-polarex-cup-puchar-polski-sprint-e190d5@sandsturm.com
@@ -1053,6 +1132,31 @@ DESCRIPTION:Kategorie: scooter\nDistanzen: 3.8 km / 6.1 km\nHund: VUL dry
 URL:https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-24-lakeland-paws-dogs-dodd-double-header-d4b766@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Lakeland Paws – Dogs @ Dodd Double Header
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
+  canicross event\nStatus: registration open\nFirst day of Lakeland Paws 
+ Double Header\; official 2026/27 events page confirms 24 Apr 2027.
+URL:https://lakelandpaws.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-25-lakeland-paws-whinlatter-tails-seat-how-double-header-d56d
+ 54@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Lakeland Paws – Whinlatter Tails Seat How Double Header
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
+  canicross event\nStatus: registration open\nSecond day of Lakeland Paws
+  Double Header\; official 2026/27 events page confirms 25 Apr 2027.
+URL:https://lakelandpaws.com/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-05-05-gibside-national-trust-wild-trail-runs-af60dd@sandsturm.co
  m
 DTSTAMP:20260914T085651Z
@@ -1093,6 +1197,19 @@ DESCRIPTION:Kategorie: canitrail\nDistanzen: 11 km\nHöhenmeter: 221 hm\nH
  und: dedicated canitrail\nStatus: announced\n2027 event weekend is 15–16
   May\; canitrail page lists Saturday 15 May\, 11 km.
 URL:https://gendarmes-et-voleurs.com/canitrail/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-22-maverick-cotswolds-trail-2027-b04e9a@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Maverick Cotswolds Trail 2027
+LOCATION:UK
+DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 11 km / 23 km / 42 
+ km / 50 km\nHöhenmeter: 302 hm / 580 hm / 1175 hm / 1495 hm\nHund: dogs 
+ allowed with separate dog entry\nStatus: registration open\nOfficial eve
+ nt page confirms dog-friendly entries\; 7 km option omitted here.
+URL:https://www.maverick-race.com/products/2027/2027-05-22
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-23-margam-wild-trail-runs-593f8e@sandsturm.com
