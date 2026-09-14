@@ -21,7 +21,9 @@ jobs:
           python scripts/dedupe_master.py
           python scripts/build_events.py
       - name: Remove one-off helpers
-        run: rm scripts/source_sweep_20260914.py .github/workflows/source-sweep-once.yml
+        run: |
+          rm scripts/source_sweep_20260914.py
+          rm .github/workflows/source-sweep-once.yml
       - name: Commit generated update
         run: |
           git config user.name 'github-actions[bot]'
