@@ -1,3 +1,4 @@
+# Verified independent-source sweep, 2026-09-14
 import csv
 from pathlib import Path
 
