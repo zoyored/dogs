@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 342,
+    "count": 364,
     "categories": [
       "bike jöring",
       "canicross",
@@ -1633,6 +1633,25 @@
       "origin": "European federation sweep round 2 2026-09-12"
     },
     {
+      "id": "2026-09-12-pezinsk-baba-4a6c22",
+      "date": "2026-09-12",
+      "dateEnd": "2026-09-13",
+      "country": "Slovakia",
+      "event": "Pezinská Baba",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official SZPZ 2026/27 race calendar; Pezinská Baba.",
+      "primarySource": "https://mushing.sk/preteky/",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-09-12-pezinsk-baba-09-2026-592295",
       "date": "2026-09-12",
       "dateEnd": "2026-09-13",
@@ -2010,6 +2029,25 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2026-09-20-haniska-d3ea52",
+      "date": "2026-09-20",
+      "dateEnd": null,
+      "country": "Slovakia",
+      "event": "Haniska",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official SZPZ 2026/27 race calendar; Haniska.",
+      "primarySource": "https://mushing.sk/preteky/",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-09-20-haniska-09-2026-022d4e",
       "date": "2026-09-20",
       "dateEnd": null,
@@ -2095,6 +2133,25 @@
       "primarySource": "https://mountainman.de/trailrunning-events/alps/reit-im-winkl/dogs-trail/",
       "secondarySource": null,
       "origin": "web re-check 2026-09-14"
+    },
+    {
+      "id": "2026-09-26-bosorkin-canicross-05bf2d",
+      "date": "2026-09-26",
+      "dateEnd": "2026-09-27",
+      "country": "Slovakia",
+      "event": "Bosorkin Canicross",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official SZPZ 2026/27 race calendar; Košice.",
+      "primarySource": "https://mushing.sk/preteky/",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2026-09-26-bosorkin-canicross-autumn-round-2026-eb5ffe",
@@ -3120,6 +3177,27 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-10-17-canicross-ireland-2026-27-event-1-e313f5",
+      "date": "2026-10-17",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event 1",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated Canicross Ireland race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official 2026/27 season calendar; Lough Boora Parklands – Turraun; championship, recreational and kids classes.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-10-17-canicross-ireland-2026-27-event-one-lough-boora-097f3f",
       "date": "2026-10-17",
       "dateEnd": null,
@@ -3275,6 +3353,27 @@
       "primarySource": "https://dogrun.com.pl/canicross/",
       "secondarySource": "https://dogrun.com.pl/2026/07/01/rejestracja-wystartowala/",
       "origin": "European independent-source sweep 2026-09-14"
+    },
+    {
+      "id": "2026-10-18-canicross-ireland-2026-27-event-2-7fbf02",
+      "date": "2026-10-18",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event 2",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated Canicross Ireland race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official 2026/27 season calendar; Lough Boora Parklands – Turraun; championship, recreational and kids classes.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2026-10-18-canicross-ireland-2026-27-event-two-lough-boora-a6b5e6",
@@ -3531,6 +3630,27 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2026-10-25-dcf-dog-series-1-canixfyn-237364",
+      "date": "2026-10-25",
+      "dateEnd": null,
+      "country": "Denmark",
+      "event": "DCF Dog Series 1 – CaniXFyn",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "DCF Dog Series",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official DCF 2026/27 calendar; Morud.",
+      "primarySource": "https://www.danskcanicross.dk/kalender",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-10-25-franciacorsa-calino-3485d5",
       "date": "2026-10-25",
       "dateEnd": null,
@@ -3672,6 +3792,25 @@
       "primarySource": "https://www.vul.fi/tapahtumakalenteri/lista/",
       "secondarySource": null,
       "origin": "Europe federation sweep round 4 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-31-mo-ovce-a07396",
+      "date": "2026-10-31",
+      "dateEnd": "2026-11-01",
+      "country": "Slovakia",
+      "event": "Mošovce",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official SZPZ 2026/27 race calendar; Mošovce.",
+      "primarySource": "https://mushing.sk/preteky/",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
       "distanceText": "not published"
     },
     {
@@ -4384,6 +4523,25 @@
       "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
+      "id": "2026-12-05-l-b-dog-race-feab2c",
+      "date": "2026-12-05",
+      "dateEnd": "2026-12-06",
+      "country": "Slovakia",
+      "event": "Láb Dog Race",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "SZPZ dryland race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official SZPZ 2026/27 race calendar; Láb.",
+      "primarySource": "https://mushing.sk/preteky/",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-12-05-muehlberg-canicross-f02e1d",
       "date": "2026-12-05",
       "dateEnd": "2026-12-06",
@@ -4519,6 +4677,27 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-12-06-dcf-dog-series-2-k9runners-mariager-39b6d9",
+      "date": "2026-12-06",
+      "dateEnd": null,
+      "country": "Denmark",
+      "event": "DCF Dog Series 2 – K9Runners Mariager",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "DCF Dog Series",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official DCF 2026/27 calendar; Mariager.",
+      "primarySource": "https://www.danskcanicross.dk/kalender",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-12-06-hsvrm-canicross-wintercup-einhausen-eee023",
       "date": "2026-12-06",
       "dateEnd": null,
@@ -4602,6 +4781,27 @@
       "origin": "web verification 2026-09-11"
     },
     {
+      "id": "2026-12-12-canicross-ireland-2026-27-event-3-1a14aa",
+      "date": "2026-12-12",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event 3",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated Canicross Ireland race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official 2026/27 season calendar; Finnamore Lakes, Co. Offaly; championship, recreational and kids classes.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-12-12-canicross-ireland-2026-27-event-three-finnamore-lakes-ef0cf3",
       "date": "2026-12-12",
       "dateEnd": null,
@@ -4679,6 +4879,27 @@
       "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
       "origin": "FFSLC verification 2026-09-12",
       "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-12-13-canicross-ireland-2026-27-event-4-fa21d8",
+      "date": "2026-12-13",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event 4",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated Canicross Ireland race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official 2026/27 season calendar; Finnamore Lakes, Co. Offaly; championship, recreational and kids classes.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2026-12-13-canicross-ireland-2026-27-event-four-finnamore-lakes-782df9",
@@ -4899,22 +5120,22 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
-      "id": "2027-01-10-canicross-de-cergy-l-le-aux-tr-sors-2027-1d2b85",
+      "id": "2027-01-10-canicross-de-cergy-l-le-aux-tr-sors-a91ffe",
       "date": "2027-01-10",
       "dateEnd": null,
       "country": "France",
-      "event": "Canicross de Cergy – L'île aux trésors 2027",
+      "event": "Canicross de Cergy – L'île aux trésors",
       "category": [
         "canicross"
       ],
       "distancesKm": [],
       "elevationM": [],
-      "dogAccess": "dedicated FFSLC canicross | dedicated FFSLC event",
-      "status": "announced",
-      "notes": "Official FFSLC 2027 calendar event. | New 2027 date published in the official FFSLC calendar.",
+      "dogAccess": "dedicated FFSLC event | dedicated FFSLC canicross | dedicated FFSLC event",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official FFSLC 2027 calendar entry. | Official FFSLC 2027 calendar event. | New 2027 date published in the official FFSLC calendar.",
       "primarySource": "https://courses.ffslc.fr/calendar",
       "secondarySource": null,
-      "origin": "FFSLC Canicross import 2026-09-12 | source-master sweep 2026-09-14",
+      "origin": "Europe gap large sweep 2026-09-14 | FFSLC Canicross import 2026-09-12 | source-master sweep 2026-09-14",
       "distanceText": "not published"
     },
     {
@@ -5046,6 +5267,27 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2027-01-23-dcf-dog-series-3-danish-championship-by-dogrundk-552b75",
+      "date": "2027-01-23",
+      "dateEnd": null,
+      "country": "Denmark",
+      "event": "DCF Dog Series 3 – Danish Championship by DogRunDK",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "DCF Dog Series",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official DCF 2026/27 calendar; Hedeland.",
+      "primarySource": "https://www.danskcanicross.dk/kalender",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-01-23-opky-80-v-valjakkohiihdon-sm-2027-a5a118",
       "date": "2027-01-23",
       "dateEnd": "2027-01-24",
@@ -5127,6 +5369,27 @@
       "primarySource": "https://www.wilddeerevents.co.uk/e/druridge-bay-beach-trail-runs-2026-14486",
       "secondarySource": null,
       "origin": "source-master sweep 2026-09-14"
+    },
+    {
+      "id": "2027-01-24-dutch-championship-cc-bj-step-141c00",
+      "date": "2027-01-24",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "Dutch Championship CC/BJ/Step",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CCNL race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official CCNL 2026/27 calendar; location TBA.",
+      "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2027-01-24-mountainman-dogs-winterloop-reit-im-winkl-ed8333",
@@ -5358,6 +5621,27 @@
       "primarySource": "https://discipline.csencinofilia.it/calendario-gare-2027/",
       "secondarySource": null,
       "origin": "new European organizer sweep 2026-09-14 | European federation sweep 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2027-02-07-canicross-ireland-2026-27-event-5-860559",
+      "date": "2027-02-07",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event 5",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated Canicross Ireland race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official 2026/27 season calendar; Rathwood; championship, recreational and kids classes.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
       "distanceText": "not published"
     },
     {
@@ -5747,6 +6031,27 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2027-02-28-dcf-dog-series-4-canicross-stjylland-998406",
+      "date": "2027-02-28",
+      "dateEnd": null,
+      "country": "Denmark",
+      "event": "DCF Dog Series 4 – Canicross Østjylland",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "DCF Dog Series",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official DCF 2026/27 calendar; Århus.",
+      "primarySource": "https://www.danskcanicross.dk/kalender",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-02-28-fountains-abbey-wild-trail-runs-cd37ac",
       "date": "2027-02-28",
       "dateEnd": null,
@@ -5900,6 +6205,27 @@
       "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2027-03-06-ccnl-helden-dutchracingdog-acb572",
+      "date": "2027-03-06",
+      "dateEnd": "2027-03-07",
+      "country": "Netherlands",
+      "event": "CCNL Helden – DutchRacingDog",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CCNL race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official CCNL 2026/27 calendar; Helden. Date marked provisional pending permits.",
+      "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2027-03-06-limitless-trails-beast-of-the-blacks-a8cf6f",
@@ -6058,6 +6384,27 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-03-14-dcf-dog-series-5-dirty-paws-2440b0",
+      "date": "2027-03-14",
+      "dateEnd": null,
+      "country": "Denmark",
+      "event": "DCF Dog Series 5 – Dirty Paws",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "DCF Dog Series",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official DCF 2026/27 calendar; Frederiksværk.",
+      "primarySource": "https://www.danskcanicross.dk/kalender",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-03-14-dirty-paws-dcf-dog-series-5-4d517b",
       "date": "2027-03-14",
       "dateEnd": null,
@@ -6095,6 +6442,27 @@
       "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
       "secondarySource": null,
       "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
+      "id": "2027-03-20-canicross-ireland-2026-27-event-6-c6db49",
+      "date": "2027-03-20",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event 6",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated Canicross Ireland race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official 2026/27 season calendar; Drewstown House; championship, recreational and kids classes.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2027-03-20-canicross-ireland-2026-27-event-six-drewstown-house-586b6b",
@@ -6245,6 +6613,27 @@
       "origin": "web re-check 2026-09-14"
     },
     {
+      "id": "2027-03-21-canicross-ireland-2026-27-event-7-313303",
+      "date": "2027-03-21",
+      "dateEnd": null,
+      "country": "Ireland",
+      "event": "Canicross Ireland 2026/27 – Event 7",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated Canicross Ireland race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official 2026/27 season calendar; Drewstown House; championship, recreational and kids classes.",
+      "primarySource": "https://www.canicross-ireland.com/upcoming-events",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-03-21-canicross-ireland-2026-27-event-seven-drewstown-house-6a7510",
       "date": "2027-03-21",
       "dateEnd": null,
@@ -6357,6 +6746,27 @@
       "primarySource": "https://courses.ffslc.fr/calendar",
       "secondarySource": null,
       "origin": "FFSLC Canicross import 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2027-04-03-dcf-dog-series-6-k9runners-mariager-e74516",
+      "date": "2027-04-03",
+      "dateEnd": null,
+      "country": "Denmark",
+      "event": "DCF Dog Series 6 – K9Runners Mariager",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "DCF Dog Series",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official DCF 2026/27 calendar; Mariager.",
+      "primarySource": "https://www.danskcanicross.dk/kalender",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
       "distanceText": "not published"
     },
     {
@@ -6566,6 +6976,27 @@
       "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
+      "id": "2027-04-11-canicross-zundert-40d937",
+      "date": "2027-04-11",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "Canicross Zundert",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "CCNL race",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official CCNL 2026/27 calendar; Zundert.",
+      "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-04-11-ccnl-zundert-8d0e0c",
       "date": "2027-04-11",
       "dateEnd": null,
@@ -6733,6 +7164,25 @@
       "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
       "origin": "FFSLC verification 2026-09-12",
       "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2027-04-24-castelcanicross-de-blangy-le-ch-teau-4e-8b2acc",
+      "date": "2027-04-24",
+      "dateEnd": "2027-04-25",
+      "country": "France",
+      "event": "Castel'Canicross de Blangy le Château – 4e",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC event",
+      "status": "source-confirmed 2026/27",
+      "notes": "Official FFSLC 2027 calendar entry.",
+      "primarySource": "https://courses.ffslc.fr/calendar",
+      "secondarySource": null,
+      "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
     },
     {
       "id": "2027-04-24-jaemin-kevaetkisa-2027-1c089e",
