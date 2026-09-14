@@ -988,6 +988,18 @@ DESCRIPTION:Kategorie: bike jöring / scooter\nDistanzen: 3 km\nHund: ČASS
 URL:https://www.mushing.cz/race-proposition/default/1397
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-12-pezinsk-baba-4a6c22@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Pezinská Baba
+LOCATION:Slovakia
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: SZPZ dryl
+ and race\nStatus: source-confirmed 2026/27\nOfficial SZPZ 2026/27 race c
+ alendar\; Pezinská Baba.
+URL:https://mushing.sk/preteky/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-12-pezinsk-baba-09-2026-592295@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20260912
@@ -1224,6 +1236,18 @@ DESCRIPTION:Kategorie: canicross\nHund: CSEN Canicross championship race\
 URL:https://discipline.csencinofilia.it/calendario-gare-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-20-haniska-d3ea52@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Haniska
+LOCATION:Slovakia
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: SZPZ dryl
+ and race\nStatus: source-confirmed 2026/27\nOfficial SZPZ 2026/27 race c
+ alendar\; Haniska.
+URL:https://mushing.sk/preteky/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-20-haniska-09-2026-022d4e@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20260920
@@ -1277,6 +1301,18 @@ DESCRIPTION:Kategorie: dogs-trail\nDistanzen: 11 km / 26 km\nHöhenmeter:
  anking.
 URL:https://mountainman.de/trailrunning-events/alps/reit-im-winkl/dogs-tr
  ail/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-bosorkin-canicross-05bf2d@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Bosorkin Canicross
+LOCATION:Slovakia
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: SZPZ dryl
+ and race\nStatus: source-confirmed 2026/27\nOfficial SZPZ 2026/27 race c
+ alendar\; Košice.
+URL:https://mushing.sk/preteky/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-bosorkin-canicross-autumn-round-2026-eb5ffe@sandsturm.com
@@ -1946,6 +1982,19 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-17-canicross-ireland-2026-27-event-1-e313f5@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Canicross Ireland 2026/27 – Event 1
+LOCATION:Ireland
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated Canicross Ireland race\nStatus: source-confirme
+ d 2026/27\nOfficial 2026/27 season calendar\; Lough Boora Parklands – Tu
+ rraun\; championship\, recreational and kids classes.
+URL:https://www.canicross-ireland.com/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-17-canicross-ireland-2026-27-event-one-lough-boora-097f3f@san
  dsturm.com
 DTSTAMP:20260914T085651Z
@@ -2046,6 +2095,19 @@ DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: dedicated canicr
  ox. 5 km through park\, forest and Vistula beach.\nWeitere Quelle: https
  ://dogrun.com.pl/2026/07/01/rejestracja-wystartowala/
 URL:https://dogrun.com.pl/canicross/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-18-canicross-ireland-2026-27-event-2-7fbf02@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Canicross Ireland 2026/27 – Event 2
+LOCATION:Ireland
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated Canicross Ireland race\nStatus: source-confirme
+ d 2026/27\nOfficial 2026/27 season calendar\; Lough Boora Parklands – Tu
+ rraun\; championship\, recreational and kids classes.
+URL:https://www.canicross-ireland.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-canicross-ireland-2026-27-event-two-lough-boora-a6b5e6@san
@@ -2213,6 +2275,18 @@ DESCRIPTION:Kategorie: canicross\nHund: Danish Canicross Federation serie
 URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-25-dcf-dog-series-1-canixfyn-237364@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:DCF Dog Series 1 – CaniXFyn
+LOCATION:Denmark
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: DCF Dog Series\nStatus: source-confirmed 2026/27\nOfficia
+ l DCF 2026/27 calendar\; Morud.
+URL:https://www.danskcanicross.dk/kalender
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-25-franciacorsa-calino-3485d5@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261025
@@ -2298,6 +2372,18 @@ DESCRIPTION:Kategorie: scooter\nDistanz: not published\nHund: Finnish dry
  land championship\nStatus: source-confirmed 2026\nOfficial VUL calendar 
  lists DS scooter classes alongside rig classes.
 URL:https://www.vul.fi/tapahtumakalenteri/lista/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-mo-ovce-a07396@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:Mošovce
+LOCATION:Slovakia
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: SZPZ dryl
+ and race\nStatus: source-confirmed 2026/27\nOfficial SZPZ 2026/27 race c
+ alendar\; Mošovce.
+URL:https://mushing.sk/preteky/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-trail-du-calvaire-34f8b7@sandsturm.com
@@ -2758,6 +2844,18 @@ DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-05-l-b-dog-race-feab2c@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Láb Dog Race
+LOCATION:Slovakia
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: SZPZ dryl
+ and race\nStatus: source-confirmed 2026/27\nOfficial SZPZ 2026/27 race c
+ alendar\; Láb.
+URL:https://mushing.sk/preteky/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-05-muehlberg-canicross-f02e1d@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261205
@@ -2843,6 +2941,18 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VCF canic
 URL:https://www.vlaamsecanicrossfederatie.org/events
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-06-dcf-dog-series-2-k9runners-mariager-39b6d9@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:DCF Dog Series 2 – K9Runners Mariager
+LOCATION:Denmark
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: DCF Dog Series\nStatus: source-confirmed 2026/27\nOfficia
+ l DCF 2026/27 calendar\; Mariager.
+URL:https://www.danskcanicross.dk/kalender
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-06-hsvrm-canicross-wintercup-einhausen-eee023@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261206
@@ -2893,6 +3003,19 @@ DESCRIPTION:Kategorie: dogs-trail\nDistanzen: 12 km / 17 km\nHöhenmeter:
  M only.
 URL:https://mountainman.de/trailrunning-events/hills/nikolaustrail-pommel
  sbrunn/dogs-trail/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-canicross-ireland-2026-27-event-3-1a14aa@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Canicross Ireland 2026/27 – Event 3
+LOCATION:Ireland
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated Canicross Ireland race\nStatus: source-confirme
+ d 2026/27\nOfficial 2026/27 season calendar\; Finnamore Lakes\, Co. Offa
+ ly\; championship\, recreational and kids classes.
+URL:https://www.canicross-ireland.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-canicross-ireland-2026-27-event-three-finnamore-lakes-ef0c
@@ -2947,6 +3070,19 @@ DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
  //ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Can
  itrail-Ski-joering.pdf
 URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-canicross-ireland-2026-27-event-4-fa21d8@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Canicross Ireland 2026/27 – Event 4
+LOCATION:Ireland
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated Canicross Ireland race\nStatus: source-confirme
+ d 2026/27\nOfficial 2026/27 season calendar\; Finnamore Lakes\, Co. Offa
+ ly\; championship\, recreational and kids classes.
+URL:https://www.canicross-ireland.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-canicross-ireland-2026-27-event-four-finnamore-lakes-782df

@@ -87,17 +87,17 @@ DESCRIPTION:Kategorie: canicross\nHund: CSEN Canicross championship race\
 URL:https://discipline.csencinofilia.it/calendario-gare-2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-10-canicross-de-cergy-l-le-aux-tr-sors-2027-1d2b85@sandsturm.
- com
+UID:2027-01-10-canicross-de-cergy-l-le-aux-tr-sors-a91ffe@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-SUMMARY:Canicross de Cergy – L'île aux trésors 2027
+SUMMARY:Canicross de Cergy – L'île aux trésors
 LOCATION:France
 DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
-  FFSLC canicross | dedicated FFSLC event\nStatus: announced\nOfficial FF
- SLC 2027 calendar event. | New 2027 date published in the official FFSLC
-  calendar.
+  FFSLC event | dedicated FFSLC canicross | dedicated FFSLC event\nStatus
+ : source-confirmed 2026/27\nOfficial FFSLC 2027 calendar entry. | Offici
+ al FFSLC 2027 calendar event. | New 2027 date published in the official 
+ FFSLC calendar.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
@@ -174,6 +174,19 @@ DESCRIPTION:Kategorie: canicross\nHund: Danish national championship\nSta
 URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-23-dcf-dog-series-3-danish-championship-by-dogrundk-552b75@sa
+ ndsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:DCF Dog Series 3 – Danish Championship by DogRunDK
+LOCATION:Denmark
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: DCF Dog Series\nStatus: source-confirmed 2026/27\nOfficia
+ l DCF 2026/27 calendar\; Hedeland.
+URL:https://www.danskcanicross.dk/kalender
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-23-opky-80-v-valjakkohiihdon-sm-2027-a5a118@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270123
@@ -225,6 +238,18 @@ DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 5 km / 10 km / 21.1
  access for the 2027 event.
 URL:https://www.wilddeerevents.co.uk/e/druridge-bay-beach-trail-runs-2026
  -14486
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-dutch-championship-cc-bj-step-141c00@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Dutch Championship CC/BJ/Step
+LOCATION:Netherlands
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: CCNL race\nStatus: source-confirmed 2026/27\nOfficial CCN
+ L 2026/27 calendar\; location TBA.
+URL:https://www.canicrossnederland.nl/kalender20262027.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-mountainman-dogs-winterloop-reit-im-winkl-ed8333@sandsturm
@@ -385,6 +410,19 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: CSEN cham
  y Canicross ASD. | Official CSEN 2026/27 calendar\; ICF 2027 selection r
  ace.
 URL:https://discipline.csencinofilia.it/calendario-gare-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-canicross-ireland-2026-27-event-5-860559@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Canicross Ireland 2026/27 – Event 5
+LOCATION:Ireland
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated Canicross Ireland race\nStatus: source-confirme
+ d 2026/27\nOfficial 2026/27 season calendar\; Rathwood\; championship\, 
+ recreational and kids classes.
+URL:https://www.canicross-ireland.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-canicross-ireland-2026-27-event-five-rathwood-d693cc@sands
@@ -631,6 +669,18 @@ DESCRIPTION:Kategorie: canicross\nHund: Danish Canicross Federation serie
 URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-28-dcf-dog-series-4-canicross-stjylland-998406@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:DCF Dog Series 4 – Canicross Østjylland
+LOCATION:Denmark
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: DCF Dog Series\nStatus: source-confirmed 2026/27\nOfficia
+ l DCF 2026/27 calendar\; Århus.
+URL:https://www.danskcanicross.dk/kalender
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-28-fountains-abbey-wild-trail-runs-cd37ac@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270228
@@ -731,6 +781,18 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: official
 URL:https://www.canicrossnederland.nl/kalender20262027.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-06-ccnl-helden-dutchracingdog-acb572@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270308
+SUMMARY:CCNL Helden – DutchRacingDog
+LOCATION:Netherlands
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: CCNL race\nStatus: source-confirmed 2026/27\nOfficial CCN
+ L 2026/27 calendar\; Helden. Date marked provisional pending permits.
+URL:https://www.canicrossnederland.nl/kalender20262027.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-03-06-limitless-trails-beast-of-the-blacks-a8cf6f@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270306
@@ -823,6 +885,18 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV dryl
 URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-14-dcf-dog-series-5-dirty-paws-2440b0@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:DCF Dog Series 5 – Dirty Paws
+LOCATION:Denmark
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: DCF Dog Series\nStatus: source-confirmed 2026/27\nOfficia
+ l DCF 2026/27 calendar\; Frederiksværk.
+URL:https://www.danskcanicross.dk/kalender
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-03-14-dirty-paws-dcf-dog-series-5-4d517b@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270314
@@ -844,6 +918,19 @@ DESCRIPTION:Kategorie: sledge\nDistanzen: 32 km / 45 km\nHund: VUL middle
  -distance sled race\nStatus: source-confirmed 2027\nOfficial VUL calenda
  r lists MD4\, MD6 and MD8 middle-distance sled classes.
 URL:https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-canicross-ireland-2026-27-event-6-c6db49@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Canicross Ireland 2026/27 – Event 6
+LOCATION:Ireland
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated Canicross Ireland race\nStatus: source-confirme
+ d 2026/27\nOfficial 2026/27 season calendar\; Drewstown House\; champion
+ ship\, recreational and kids classes.
+URL:https://www.canicross-ireland.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-canicross-ireland-2026-27-event-six-drewstown-house-586b6b
@@ -940,6 +1027,19 @@ DESCRIPTION:Kategorie: canitrail\nDistanzen: 48.3 km / 80.5 km\nHund: dog
 URL:https://www.canitrailevents.co.uk/ultra-cani-trail-30-and-50-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-21-canicross-ireland-2026-27-event-7-313303@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Canicross Ireland 2026/27 – Event 7
+LOCATION:Ireland
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated Canicross Ireland race\nStatus: source-confirme
+ d 2026/27\nOfficial 2026/27 season calendar\; Drewstown House\; champion
+ ship\, recreational and kids classes.
+URL:https://www.canicross-ireland.com/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-03-21-canicross-ireland-2026-27-event-seven-drewstown-house-6a75
  10@sandsturm.com
 DTSTAMP:20260914T085651Z
@@ -1011,6 +1111,18 @@ LOCATION:France
 DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
   FFSLC canicross\nStatus: announced\nOfficial FFSLC 2027 calendar event.
 URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-03-dcf-dog-series-6-k9runners-mariager-e74516@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:DCF Dog Series 6 – K9Runners Mariager
+LOCATION:Denmark
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: DCF Dog Series\nStatus: source-confirmed 2026/27\nOfficia
+ l DCF 2026/27 calendar\; Mariager.
+URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-03-hapimag-v-r-vaggeryd-ff5fac@sandsturm.com
@@ -1142,6 +1254,18 @@ DESCRIPTION:Kategorie: canitrail / canicross\nDistanz: not published (>9
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-11-canicross-zundert-40d937@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Canicross Zundert
+LOCATION:Netherlands
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: CCNL race\nStatus: source-confirmed 2026/27\nOfficial CCN
+ L 2026/27 calendar\; Zundert.
+URL:https://www.canicrossnederland.nl/kalender20262027.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-11-ccnl-zundert-8d0e0c@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270411
@@ -1244,6 +1368,19 @@ DESCRIPTION:Kategorie: canitrail / canicross\nDistanz: not published (>9
  fficial FFSLC calendar lists Canitrail among the disciplines.\nWeitere Q
  uelle: https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-
  Canicross-Canitrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-24-castelcanicross-de-blangy-le-ch-teau-4e-8b2acc@sandsturm.c
+ om
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270426
+SUMMARY:Castel'Canicross de Blangy le Château – 4e
+LOCATION:France
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
+  FFSLC event\nStatus: source-confirmed 2026/27\nOfficial FFSLC 2027 cale
+ ndar entry.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
