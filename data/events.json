@@ -2,9 +2,9 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-12T18:33:28Z",
+    "generatedAt": "2026-09-14T08:50:55Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 291,
+    "count": 292,
     "categories": [
       "bike jöring",
       "canicross",
@@ -2029,6 +2029,30 @@
       "origin": "SDSF federation sweep round 8"
     },
     {
+      "id": "2026-09-25-mountainman-reit-im-winkl-dogs-trail-2327c6",
+      "date": "2026-09-25",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "MOUNTAINMAN Reit im Winkl – Dogs-Trail",
+      "category": [
+        "dogs-trail"
+      ],
+      "distancesKm": [
+        11,
+        26
+      ],
+      "elevationM": [
+        304,
+        938
+      ],
+      "dogAccess": "own dog starts + separate ranking",
+      "status": "sold out / waitlist",
+      "notes": "S 11 km / 304 m+ and M 26 km / 938 m+; both dog starts sold out, waitlist available; own dog starts and separate trailrunner ranking.",
+      "primarySource": "https://mountainman.de/trailrunning-events/alps/reit-im-winkl/dogs-trail/",
+      "secondarySource": null,
+      "origin": "web re-check 2026-09-14"
+    },
+    {
       "id": "2026-09-26-bosorkin-canicross-autumn-round-2026-eb5ffe",
       "date": "2026-09-26",
       "dateEnd": "2026-09-27",
@@ -2208,30 +2232,6 @@
       "secondarySource": null,
       "origin": "European federation sweep round 2 2026-09-12",
       "distanceText": "not published"
-    },
-    {
-      "id": "2026-09-26-mountainman-reit-im-winkl-dogs-trail-2327c6",
-      "date": "2026-09-26",
-      "dateEnd": null,
-      "country": "Germany",
-      "event": "MOUNTAINMAN Reit im Winkl – Dogs-Trail",
-      "category": [
-        "dogs-trail"
-      ],
-      "distancesKm": [
-        11,
-        26
-      ],
-      "elevationM": [
-        300,
-        900
-      ],
-      "dogAccess": "own dog starts + separate ranking",
-      "status": "upcoming",
-      "notes": "S and M trails allow dogs; own dog starts and finisher medal.",
-      "primarySource": "https://www.chiemsee-chiemgau.info/mountainman-reit-im-winkl",
-      "secondarySource": null,
-      "origin": "web verification 2026-09-11"
     },
     {
       "id": "2026-09-26-nittedalsl-pet-barmark-2026-nc-844107",
@@ -3783,15 +3783,17 @@
         "canitrail"
       ],
       "distancesKm": [
-        11
+        15
       ],
-      "elevationM": [],
+      "elevationM": [
+        440
+      ],
       "dogAccess": "dedicated dog class within trail event",
-      "status": "upcoming",
-      "notes": "Official FFSLC calendar gives 14 November 2026; previously stored 15 November date corrected.",
-      "primarySource": "https://courses.ffslc.fr/calendar",
-      "secondarySource": "https://www.finishers.com/en/event/trail-des-chataignes-de-cormeille-en-parisis",
-      "origin": "FFSLC correction 2026-09-12"
+      "status": "sold out / waitlist",
+      "notes": "Official 2026 canitrail is Saturday 14 Nov: 15 km / 440 m+, start 13:00; minimum dog age 24 months; event full, waitlist open.",
+      "primarySource": "https://trail-des-chataignes.com/les-courses/",
+      "secondarySource": "https://trail-des-chataignes.com/reglement-canitrail/",
+      "origin": "web re-check 2026-09-14"
     },
     {
       "id": "2026-11-14-canitrail-deguzon-8f4177",
@@ -5485,6 +5487,27 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-03-20-ultra-cani-trail-30-50-mile-ae5dbd",
+      "date": "2027-03-20",
+      "dateEnd": null,
+      "country": "UK",
+      "event": "Ultra Cani-Trail 30 & 50 Mile",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [
+        48.3,
+        80.5
+      ],
+      "elevationM": [],
+      "dogAccess": "dog-only ultra trail event",
+      "status": "registration open",
+      "notes": "South Wales Valleys. 30 mile route has no time limit; 50 mile route has a 17-hour cut-off. GPS tracker on both routes; 30-mile relay option.",
+      "primarySource": "https://www.canitrailevents.co.uk/ultra-cani-trail-30-and-50-2027/",
+      "secondarySource": null,
+      "origin": "web re-check 2026-09-14"
+    },
+    {
       "id": "2027-03-21-canicross-ireland-2026-27-event-seven-drewstown-house-6a7510",
       "date": "2027-03-21",
       "dateEnd": null,
@@ -5880,16 +5903,20 @@
       "category": [
         "dogs-trail"
       ],
-      "distancesKm": [],
-      "elevationM": [],
+      "distancesKm": [
+        10,
+        21
+      ],
+      "elevationM": [
+        780,
+        1268
+      ],
       "dogAccess": "own dog starts + separate ranking",
       "status": "registration open",
-      "notes": "M trail confirmed at 21 km / 1,268 hm; dog slots limited to about 150.",
+      "notes": "S 10 km / 780 m+ and M 21 km / 1,268 m+; registration open; around 150 dog-team places.",
       "primarySource": "https://mountainman.de/trailrunning-events/alps/nesselwang/dogs-trail/",
       "secondarySource": null,
-      "origin": "web verification 2026-09-11",
-      "distanceText": "21 + S-distance",
-      "elevationText": "1268 + S not captured"
+      "origin": "web re-check 2026-09-14"
     },
     {
       "id": "2027-05-15-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02",
