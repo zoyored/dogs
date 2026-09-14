@@ -95,19 +95,9 @@ DTEND;VALUE=DATE:20270111
 SUMMARY:Canicross de Cergy – L'île aux trésors 2027
 LOCATION:France
 DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
-  FFSLC canicross\nStatus: announced\nOfficial FFSLC 2027 calendar event.
-URL:https://courses.ffslc.fr/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-01-10-canicross-de-cergy-l-le-aux-tr-sors-668e5e@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20270110
-DTEND;VALUE=DATE:20270111
-SUMMARY:Canicross de Cergy – L’île aux trésors
-LOCATION:France
-DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
-  FFSLC event\nStatus: announced\nNew 2027 date published in the official
-  FFSLC calendar.
+  FFSLC canicross | dedicated FFSLC event\nStatus: announced\nOfficial FF
+ SLC 2027 calendar event. | New 2027 date published in the official FFSLC
+  calendar.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT

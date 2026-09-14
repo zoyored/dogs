@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 334,
+    "count": 331,
     "categories": [
       "bike jöring",
       "canicross",
@@ -2105,33 +2105,12 @@
       ],
       "distancesKm": [],
       "elevationM": [],
-      "dogAccess": "VCF canicross / bike / step",
+      "dogAccess": "VCF canicross / bike / step | VCF canicross event",
       "status": "source-confirmed 2026",
-      "notes": "Official VCF event; two race days.",
-      "primarySource": "https://www.vlaamsecanicrossfederatie.org/events",
-      "secondarySource": null,
-      "origin": "Europe federation sweep round 3 2026-09-12",
-      "distanceText": "not published"
-    },
-    {
-      "id": "2026-09-26-canicross-de-banneux-7c47c2",
-      "date": "2026-09-26",
-      "dateEnd": null,
-      "country": "Belgium",
-      "event": "Canicross de Banneux",
-      "category": [
-        "canicross",
-        "bike jöring",
-        "scooter"
-      ],
-      "distancesKm": [],
-      "elevationM": [],
-      "dogAccess": "VCF canicross event",
-      "status": "source-confirmed 2026",
-      "notes": "Banneux/Sprimont; VCF lists Cross, Bike and Step 1&2; event runs 26–27 September.",
+      "notes": "Official VCF event; two race days. | Banneux/Sprimont; VCF lists Cross, Bike and Step 1&2; event runs 26–27 September. | Multiple independent event listings: https://www.vlaamsecanicrossfederatie.org/events ; https://www.canisports2enjoy.nl/canisportskalender-2026-2027/",
       "primarySource": "https://www.vlaamsecanicrossfederatie.org/events",
       "secondarySource": "https://www.canisports2enjoy.nl/canisportskalender-2026-2027/",
-      "origin": "new European organizer sweep 2026-09-14",
+      "origin": "Europe federation sweep round 3 2026-09-12 | new European organizer sweep 2026-09-14",
       "distanceText": "not published"
     },
     {
@@ -2573,32 +2552,12 @@
       ],
       "distancesKm": [],
       "elevationM": [],
-      "dogAccess": "Sweden BCD priority race",
+      "dogAccess": "Sweden BCD priority race | SDSF two-day dryland race",
       "status": "upcoming",
-      "notes": "Listed by Sweden BCD as a priority selection race for ICF WC 2027.",
+      "notes": "Listed by Sweden BCD as a priority selection race for ICF WC 2027. | Official SDSF event lists DC canicross, DB bike and DS1/DS2 scooter competition classes. | Multiple independent event listings: https://www.swedenbcd.se/ ; https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=44",
       "primarySource": "https://www.swedenbcd.se/",
-      "secondarySource": null,
-      "origin": "European federation sweep 2026-09-12"
-    },
-    {
-      "id": "2026-10-03-graningedraget-2026-73dec4",
-      "date": "2026-10-03",
-      "dateEnd": "2026-10-04",
-      "country": "Sweden",
-      "event": "Graningedraget 2026",
-      "category": [
-        "canicross",
-        "bike jöring",
-        "scooter"
-      ],
-      "distancesKm": [],
-      "elevationM": [],
-      "dogAccess": "SDSF two-day dryland race",
-      "status": "source-confirmed 2026",
-      "notes": "Official SDSF event lists DC canicross, DB bike and DS1/DS2 scooter competition classes.",
-      "primarySource": "https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=44",
-      "secondarySource": null,
-      "origin": "Europe federation sweep round 7 2026-09-12",
+      "secondarySource": "https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=44",
+      "origin": "European federation sweep 2026-09-12 | Europe federation sweep round 7 2026-09-12",
       "distanceText": "not published"
     },
     {
@@ -4810,31 +4769,12 @@
       ],
       "distancesKm": [],
       "elevationM": [],
-      "dogAccess": "dedicated FFSLC canicross",
+      "dogAccess": "dedicated FFSLC canicross | dedicated FFSLC event",
       "status": "announced",
-      "notes": "Official FFSLC 2027 calendar event.",
+      "notes": "Official FFSLC 2027 calendar event. | New 2027 date published in the official FFSLC calendar.",
       "primarySource": "https://courses.ffslc.fr/calendar",
       "secondarySource": null,
-      "origin": "FFSLC Canicross import 2026-09-12",
-      "distanceText": "not published"
-    },
-    {
-      "id": "2027-01-10-canicross-de-cergy-l-le-aux-tr-sors-668e5e",
-      "date": "2027-01-10",
-      "dateEnd": null,
-      "country": "France",
-      "event": "Canicross de Cergy – L’île aux trésors",
-      "category": [
-        "canicross"
-      ],
-      "distancesKm": [],
-      "elevationM": [],
-      "dogAccess": "dedicated FFSLC event",
-      "status": "announced",
-      "notes": "New 2027 date published in the official FFSLC calendar.",
-      "primarySource": "https://courses.ffslc.fr/calendar",
-      "secondarySource": null,
-      "origin": "source-master sweep 2026-09-14",
+      "origin": "FFSLC Canicross import 2026-09-12 | source-master sweep 2026-09-14",
       "distanceText": "not published"
     },
     {
