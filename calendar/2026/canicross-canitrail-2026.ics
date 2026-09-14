@@ -938,6 +938,18 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
 URL:https://www.vul.fi/syksyn-kilpailukalenteri-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-11-tough-hunter-nachtlauf-2026-b3d885@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:TOUGH HUNTER Nachtlauf 2026
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: dedicated canicr
+ oss night run\nStatus: source-confirmed 2026\nTOUGH HUNTER weekend in Wa
+ rmensteinach\; Friday night run without obstacles\; start about 20:30.
+URL:https://tough-cross.de/tough-hunter/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-12-canicross-saint-cierges-678528@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20260912
@@ -1275,6 +1287,20 @@ LOCATION:Belgium
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
  blished\nHund: VCF canicross / bike / step\nStatus: source-confirmed 202
  6\nOfficial VCF event\; two race days.
+URL:https://www.vlaamsecanicrossfederatie.org/events
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-canicross-de-banneux-7c47c2@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Canicross de Banneux
+LOCATION:Belgium
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: VCF canicross event\nStatus: source-confirmed 2026\nBanne
+ ux/Sprimont\; VCF lists Cross\, Bike and Step 1&2\; event runs 26–27 Sep
+ tember.\nWeitere Quelle: https://www.canisports2enjoy.nl/canisportskalen
+ der-2026-2027/
 URL:https://www.vlaamsecanicrossfederatie.org/events
 END:VEVENT
 BEGIN:VEVENT
@@ -1859,6 +1885,20 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
 URL:https://draghundsport.se/sv/217
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-16-strongdog-wild-dirty-north-2026-b37e18@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+SUMMARY:StrongDog wild & dirty North 2026
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 2.5 
+ km / 3 km / 5 km / 8 km\nHund: dog obstacle runs plus dedicated Friday m
+ ono classes\nStatus: source-confirmed 2026\nLuhmühlen\; Friday approx. 3
+  km Canicross night run and Bikejöring/Scooter\; obstacle runs 2.5/5/8 k
+ m.
+URL:https://strongdog.de/event/wild-dirty-north-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-17-7e-challenge-transpyr-ari-geois-canicross-dc3c76@sandsturm
  .com
 DTSTAMP:20260914T085651Z
@@ -1910,6 +1950,19 @@ DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
  /wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski
  -joering.pdf
 URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-hsvrm-canicross-wintercup-hof-b46045@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:HSVRM CaniCross-Wintercup Hof
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated HSVRM CaniCross-Wintercup\nStatus: provisional 
+ / source-confirmed\nHundesportverein Hof\; CC/GL\, Dogscooter and Bikejö
+ ring\; date listed under reservation.
+URL:https://www.hsvrm.de/sportangebote/turnierhundsport/aktuell/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-la-tractopattes-canicross-caritatif-6750dc@sandsturm.com
@@ -2136,6 +2189,19 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-25-roe-cross-herbstlauf-2026-6290cd@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:ROE-CROSS Herbstlauf 2026
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross\nDistanzen: 2 km / 4 km / 5.7 km / 10.5 
+ km / 21.2 km\nHund: dedicated Canicross starts and ranking\nStatus: sour
+ ce-confirmed 2026\nRöthlein-Heidenfeld\; separate Canicross starts at 30
+ -second intervals and separate rankings.
+URL:https://roe-cross.de/herbstlauf.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-sm-barmark-2026-nybro-a4e6e7@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261030
@@ -2148,6 +2214,19 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
   Swedish dryland championship in Nybro with all classes.\nWeitere Quelle
  : https://draghundsport.se/kalender/
 URL:https://draghundsport.se/sv/217
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-strongdog-wild-halloween-south-2026-0f0c8a@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:StrongDog wild Halloween South 2026
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross\nDistanzen: 2 km / 3 km / 5 km / 8 km\nH
+ und: dog obstacle runs plus dedicated night runs\nStatus: source-confirm
+ ed 2026\nGut Matheshof\, Rieden\; Canicross night run approx. 2 km and H
+ alloween night run approx. 3 km\; obstacle distances 2/5/8 km.
+URL:https://strongdog.de/event/wild-halloween-south-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-swedish-championship-nybro-45d9ec@sandsturm.com
@@ -2703,6 +2782,19 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VCF canic
  ross only\nStatus: provisional 2026\nOfficial VCF calendar marks date pr
  ovisional and canicross only.
 URL:https://www.vlaamsecanicrossfederatie.org/events
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-hsvrm-canicross-wintercup-einhausen-eee023@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:HSVRM CaniCross-Wintercup Einhausen
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated HSVRM CaniCross-Wintercup\nStatus: provisional 
+ / source-confirmed\nSGV Einhausen\; CC/GL\, Dogscooter and Bikejöring\; 
+ date listed under reservation.
+URL:https://www.hsvrm.de/sportangebote/turnierhundsport/aktuell/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-k9runners-mariager-dcf-dog-series-2-ca5a1c@sandsturm.com
