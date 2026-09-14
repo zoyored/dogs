@@ -383,6 +383,18 @@ DESCRIPTION:Kategorie: canicross\nDistanz: 7-8 miles\nHund: dedicated can
 URL:https://www.ypbevents.co.uk/mayhill-massacre
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-06-crossdogs-streetwaldcross-42612e@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:CROSSDOGs Streetwaldcross
+LOCATION:Germany
+DESCRIPTION:Kategorie: dogs-trail\nDistanz: not published\nHund: dedicate
+ d CROSSDOG dog-running event\nStatus: source-confirmed\nMainaschaff\; of
+ ficial CROSSDOG event calendar.
+URL:https://crossdog.de/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-06-limitless-trails-trails-tarmac-winter-12h-byu-8b215e@sands
  turm.com
 DTSTAMP:20260914T085651Z
@@ -644,6 +656,19 @@ DESCRIPTION:Kategorie: ski jöring / pulka\nDistanz: not published\nHund:
  027\nOfficial Finnish federation confirms IFSS World Championships ski d
  isciplines in Kontiolahti.
 URL:https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-crossdog-on-the-beach-fb8d9b@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+SUMMARY:CROSSDOG on the beach
+LOCATION:Germany
+DESCRIPTION:Kategorie: dogs-trail\nDistanzen: 5.5 km / 11 km / 20 km\nHun
+ d: dedicated CROSSDOG dog-running event\nStatus: source-confirmed\nGrömi
+ tz\; CaniX RUN S/M/L approx. 5.5/11/20 km\; also OCR 5.5 km and Challeng
+ e 4.5 km.
+URL:https://crossdog.de/event/crossdog-on-the-beach/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-schwabentrail-canicross-d4ec63@sandsturm.com
@@ -953,9 +978,10 @@ DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Discover Kielder Ultra
 LOCATION:UK
-DESCRIPTION:Kategorie: canitrail\nHund: dog endurance event\nStatus: sour
- ce-confirmed 2027\nTRAILDOG event calendar lists Discover Kielder Ultra 
- on 20 March 2027.
+DESCRIPTION:Kategorie: canitrail\nHund: dedicated TRAILDOG dog-running ev
+ ent\nStatus: source-confirmed 2027\nTRAILDOG official calendar confirms 
+ Discover Kielder Ultra for 20 March 2027\; distance/elevation not yet pu
+ blished on the accessible event listing.
 URL:https://www.traildogevents.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
@@ -1505,12 +1531,14 @@ BEGIN:VEVENT
 UID:2027-06-05-trutnovsk-10-canicross-2027-43b3ba@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270605
-DTEND;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270606
 SUMMARY:Trutnovská 10 – Canicross 2027
 LOCATION:Czech Republic
 DESCRIPTION:Kategorie: canicross\nDistanzen: 3 km\nHund: dedicated canicr
  oss category\nStatus: source-confirmed 2027\nTrutnov\; organizer page an
- nounces 2027 event and dedicated Canicross category.
+ nounces 5 June 2027 and a dedicated Canicross category\; official route 
+ page lists a 3 km canicross loop.\nWeitere Quelle: https://www.kst.event
+ s/trutnovska10/trasa
 URL:https://www.kst.events/trutnovska10
 END:VEVENT
 BEGIN:VEVENT
