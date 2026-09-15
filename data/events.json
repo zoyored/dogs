@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 376,
+    "count": 377,
     "categories": [
       "bike jöring",
       "canicross",
@@ -3774,6 +3774,27 @@
       "primarySource": "https://www.swedenbcd.se/",
       "secondarySource": null,
       "origin": "European federation sweep 2026-09-12"
+    },
+    {
+      "id": "2026-10-31-19-int-grenzueberschreitendes-schlittenhundewagenrennen-reingers-2026-33773a",
+      "date": "2026-10-31",
+      "dateEnd": "2026-11-01",
+      "country": "Austria",
+      "event": "19. Int. grenzüberschreitendes Schlittenhundewagenrennen Reingers 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated BSSC dryland race; Canicross in sprint and MD",
+      "status": "source-confirmed 2026",
+      "notes": "Reingers, Lower Austria; official BSSC page confirms sprint 4.5 km and MD 15–18 km with Canicross, Bikejöring and Scooter classes.",
+      "primarySource": "https://bssc-austria.at/veranstaltung/19-int-grenzueberschreitendes-schlittenhundewagenrennen-in-reingers/",
+      "secondarySource": null,
+      "origin": "BSSC Austria sweep 2026-09-15",
+      "distanceText": "4.5|15-18"
     },
     {
       "id": "2026-10-31-jaemi-syys-sm-2026-59366b",
