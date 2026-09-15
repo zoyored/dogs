@@ -1,5 +1,6 @@
 Country,Source,URL,Source type,Notes
 Austria,AFSS,https://afss.at/,federation,Austrian Federation of Sleddogsports; ICF member federation
+Austria,Adventure Runs,https://www.adventureruns.at/,organizer,Austrian adventure and trail event platform with dog-friendly events and dedicated Adventure Dogs race formats; verify dog eligibility per event.
 Austria,BSSC Austria,https://bssc-austria.at/veranstaltungen/,club,Austrian sleddog club and race organiser; dryland events include Canicross Bikejoring and Scooter classes.
 Austria,ÖSHS - Österreichischer Schlittenhundesportclub,https://www.schlittenhundesport.at/,club,Club event calendar with sleddog Skijöring and Canicross races
 Belgium,Canicross Calendar Belgium,https://vlaamsecanicrossfed.wixsite.com/canicross,discovery-calendar,Joint planning calendar for VCF and FCB-BCF dates; verify event details against federation or organiser
@@ -33,6 +34,7 @@ Germany,Sachsen-Anhalter Schlittenhundesportclub,https://www.schlittenhundesport
 Germany,StrongDog,https://strongdog.de/,organizer,Independent dog-sport event organiser; Canicross Bikejöring Dogscooter and dog obstacle formats
 Germany,Tough Cross / Tough Hunter,https://tough-cross.de/tough-hunter/,organizer,Dog obstacle and trail organiser; includes Canicross night run and running formats
 Germany,VDSV,https://vdsv.de/kalender/,federation,Official German sleddog sports federation race calendar; ICF member federation
+Germany,XC-RUN.de Event Calendar,https://xc-run.de/events/eventkalender/kategorien/,discovery-calendar,German-language trailrunning event calendar covering European trail races; useful for discovering dog-friendly and dedicated dog race formats; verify dog eligibility against the primary organiser.
 Greece,CaniCross Greece,https://canicrossgreece.org/,federation,FULLFACE Non Profit Civil Association - CaniCross Greece; ICF member federation
 Hungary,MCSE,http://canicross.hu/,federation,Magyar Canicross Sportegyesulet; ICF member federation
 International,Finishers,https://www.finishers.com/,discovery-calendar,Event discovery platform; dog-friendly races require verification against primary source
@@ -98,10 +100,14 @@ UK,Raw Energy Pursuits,https://rawrunning.co.uk/,organizer,Trail-running organis
 UK,Run Rebel,https://www.runrebel.co.uk/,organizer,Trail event organiser; dog access must be verified
 UK,Run with K9s,https://runwithk9s.com/,organizer,Canicross and endurance relay events
 UK,Running Monk Trail Events,https://www.runningmonktrailevents.com/,organizer,Trail-running organiser; dog access requires verification
-UK,Running On Point,https://runningonpoint.co.uk/,discovery-calendar,UK discovery platform focused on Canicross and dog-friendly running; verify listings against the organiser
-UK,South West Runners,https://www.southwestrunners.co.uk/,organizer,Running event source; dog access must be verified
-UK,Trail Escape Events,https://www.trailescape.co.uk/,organizer,Trail-running organiser; dog access must be checked event by event
-UK,TRAILDOG Events,https://www.traildogevents.co.uk/events,organizer,Dedicated North East dog-running organiser with The Collective UltiMutt MultiSport and Kielder events
-UK,Trails and Tails Events,https://www.trailsandtails.co.uk/,organizer,Dog-focused trail event organiser
-UK,Wild Deer Events,https://wilddeerevents.co.uk/,organizer,Trail organiser with multiple canicross-friendly events
-UK,YPB Events,https://www.ypbevents.co.uk/,organizer,Running event organiser; dog access must be verified
+UK,Running On Point,https://runningonpoint.co.uk/,organizer,Trail-running organiser with selected dog-friendly races
+UK,Saturn Running,https://www.saturnrunning.co.uk/,organizer,Multi-distance running organiser with selected dog-friendly events
+UK,Something Wild Events,https://www.something-wild.co.uk/,organizer,Trail-running organiser with dog-friendly events
+UK,The Trail Events Company,https://www.trailevents.co/,organizer,Trail-running organiser; dog access must be verified per event
+UK,Trail Outlaws,https://www.trailoutlaws.com/,organizer,Trail-running organiser with selected Canicross-friendly events
+UK,Trail Running Scotland,https://www.trailrunningscotland.com/,organizer,Trail-running organiser; dog access requires event-level verification
+UK,Trailscape,https://www.trailscape.co.uk/,organizer,Trail-running organiser; dog access must be checked
+UK,Ultra Running Ltd,https://www.ultrarunningltd.co.uk/,organizer,Ultra/trail organiser; dog access requires event-level verification
+UK,Wild Running,https://www.wildrunning.co.uk/,organizer,Trail-running organiser; selected events allow dogs
+UK,Wolf Pack Events,https://www.wolfpackevents.co.uk/,organizer,Canicross and dog-friendly trail organiser
+UK,Woodland Woggle,https://www.woodlandwoggle.com/,organizer,Trail event source; dog access requires verification
