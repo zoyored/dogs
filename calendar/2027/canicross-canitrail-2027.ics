@@ -1280,6 +1280,21 @@ DESCRIPTION:Kategorie: canitrail / canicross\nDistanz: not published (>9
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-10-horsk-p-lmaraton-su-ice-cani-trail-2027-728d60@sandsturm.c
+ om
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Horský půlmaraton Sušice – Cani Trail 2027
+LOCATION:Czech Republic
+DESCRIPTION:Kategorie: canitrail\nDistanzen: 12 km\nHund: dedicated Cani 
+ Trail category\nStatus: source-confirmed 2027\nSušice\, Ostrov Santos\; 
+ official 2027 event page confirms Cani Trail/Canicross and 12 km. Detail
+ ed propositions use the Cani Trail label.\nWeitere Quelle: https://www.h
+ orskypulmaraton.cz/propozice/
+URL:https://www.horskypulmaraton.cz/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-11-canicross-zundert-40d937@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270411
@@ -1410,6 +1425,20 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-24-jahodovka-jarn-2027-sprint-pod-jahodovou-horou-593d89@sand
+ sturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270426
+SUMMARY:Jahodovka Jarní 2027 – Sprint pod Jahodovou horou
+LOCATION:Czech Republic
+DESCRIPTION:Kategorie: canicross / scooter / bike jöring\nDistanzen: 2 km
+  / 3.8 km\nHund: dedicated dog-powered sprint classes\nStatus: source-co
+ nfirmed 2027\nZemětice u Merklína\; official organiser lists CC\, SC1\, 
+ SC2 and BKJ with 2 km and 3.8 km dog courses.
+URL:https://jahodovahora.cz/propozice/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-24-jaemin-kevaetkisa-2027-1c089e@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270424
@@ -1528,6 +1557,19 @@ DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 11 km / 23 km / 42
 URL:https://www.maverick-race.com/products/2027/2027-05-22
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-05-22-zaje-ick-b-r-maxi-psi-2027-752887@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Zaječický Bůr – MAXI PSI 2027
+LOCATION:Czech Republic
+DESCRIPTION:Kategorie: canicross\nDistanzen: 5.555 km\nHund: dedicated MA
+ XI PSI canicross category\nStatus: source-confirmed 2027\nOfficial organ
+ iser confirms 9th edition on 22 May 2027 and MAXI PSI Canicross over 5\,
+ 555 m.
+URL:https://www.zajecickybur.cz/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-05-23-margam-wild-trail-runs-593f8e@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270523
@@ -1621,5 +1663,18 @@ DESCRIPTION:Kategorie: dogs-trail\nDistanzen: 21 km\nHöhenmeter: 900 hm\n
   2027\nAdventure Dogs offers a 21 km Human & Dog hiking category\; offic
  ial organiser page confirms 18 September 2027.
 URL:https://www.adventureruns.at/trailway_hatscher/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-16-ostravsk-canicross-2027-c5eabb@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:Ostravský Canicross 2027
+LOCATION:Czech Republic
+DESCRIPTION:Kategorie: canicross\nDistanzen: 4.1 km\nHöhenmeter: 100 hm\n
+ Hund: dedicated canicross race\nStatus: source-confirmed 2027\nLesopark 
+ Ostrava-Poruba\; adult and older-youth main course approx. 4.1 km / 100 
+ m+.\nWeitere Quelle: https://www.ostravskycc.cz/
+URL:https://www.ostravskycc.cz/propozice/
 END:VEVENT
 END:VCALENDAR
