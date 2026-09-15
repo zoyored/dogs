@@ -1,0 +1,35 @@
+name: Rebuild Adventure Runs feeds
+
+on:
+  push:
+    branches:
+      - data/add-adventureruns-xcrun
+    paths:
+      - .github/workflows/rebuild-adventure-runs-feeds.yml
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild-feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: data/add-adventureruns-xcrun
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Rebuild generated feeds
+        run: python scripts/build_events.py
+      - name: Commit generated feeds
+        run: |
+          if git diff --quiet -- data/events.json calendar/; then
+            echo 'Generated feeds already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/events.json calendar/
+          git commit -m 'build: regenerate feeds for Adventure Runs events'
+          git push origin HEAD:data/add-adventureruns-xcrun
