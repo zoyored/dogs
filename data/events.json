@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 373,
+    "count": 376,
     "categories": [
       "bike jöring",
       "canicross",
@@ -7284,6 +7284,29 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-04-24-jahodovka-jarn-2027-sprint-pod-jahodovou-horou-593d89",
+      "date": "2027-04-24",
+      "dateEnd": "2027-04-25",
+      "country": "Czech Republic",
+      "event": "Jahodovka Jarní 2027 – Sprint pod Jahodovou horou",
+      "category": [
+        "canicross",
+        "scooter",
+        "bike jöring"
+      ],
+      "distancesKm": [
+        2,
+        3.8
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated dog-powered sprint classes",
+      "status": "source-confirmed 2027",
+      "notes": "Zemětice u Merklína; official organiser lists CC, SC1, SC2 and BKJ with 2 km and 3.8 km dog courses.",
+      "primarySource": "https://jahodovahora.cz/propozice/",
+      "secondarySource": null,
+      "origin": "CZ sweep 2026-09-15"
+    },
+    {
       "id": "2027-04-24-jaemin-kevaetkisa-2027-1c089e",
       "date": "2027-04-24",
       "dateEnd": "2027-04-25",
@@ -7486,6 +7509,26 @@
       "origin": "source-master sweep round 2 2026-09-14"
     },
     {
+      "id": "2027-05-22-zaje-ick-b-r-maxi-psi-2027-752887",
+      "date": "2027-05-22",
+      "dateEnd": null,
+      "country": "Czech Republic",
+      "event": "Zaječický Bůr – MAXI PSI 2027",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        5.555
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated MAXI PSI canicross category",
+      "status": "source-confirmed 2027",
+      "notes": "Official organiser confirms 9th edition on 22 May 2027 and MAXI PSI Canicross over 5,555 m.",
+      "primarySource": "https://www.zajecickybur.cz/",
+      "secondarySource": null,
+      "origin": "CZ sweep 2026-09-15"
+    },
+    {
       "id": "2027-05-23-margam-wild-trail-runs-593f8e",
       "date": "2027-05-23",
       "dateEnd": null,
@@ -7635,6 +7678,28 @@
       "primarySource": "https://www.adventureruns.at/trailway_hatscher/",
       "secondarySource": null,
       "origin": "Adventure Runs source sweep 2026-09-15"
+    },
+    {
+      "id": "2027-10-16-ostravsk-canicross-2027-c5eabb",
+      "date": "2027-10-16",
+      "dateEnd": null,
+      "country": "Czech Republic",
+      "event": "Ostravský Canicross 2027",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        4.1
+      ],
+      "elevationM": [
+        100
+      ],
+      "dogAccess": "dedicated canicross race",
+      "status": "source-confirmed 2027",
+      "notes": "Lesopark Ostrava-Poruba; adult and older-youth main course approx. 4.1 km / 100 m+.",
+      "primarySource": "https://www.ostravskycc.cz/propozice/",
+      "secondarySource": "https://www.ostravskycc.cz/",
+      "origin": "CZ sweep 2026-09-15"
     }
   ]
 }
