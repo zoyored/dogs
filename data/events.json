@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 368,
+    "count": 372,
     "categories": [
       "bike jöring",
       "canicross",
@@ -7368,6 +7368,32 @@
       "origin": "web re-check 2026-09-14"
     },
     {
+      "id": "2027-05-08-semmering-trailrun-adventure-dogs-8a9a48",
+      "date": "2027-05-08",
+      "dateEnd": null,
+      "country": "Austria",
+      "event": "Semmering Trailrun – Adventure Dogs",
+      "category": [
+        "dogs-trail"
+      ],
+      "distancesKm": [
+        4,
+        8,
+        14
+      ],
+      "elevationM": [
+        250,
+        700,
+        950
+      ],
+      "dogAccess": "dedicated Adventure Dogs Human & Dog category",
+      "status": "source-confirmed 2027",
+      "notes": "Adventure Dogs offers 4, 8 or 14 km; official organiser page confirms 8 May 2027.",
+      "primarySource": "https://www.adventureruns.at/adventure_trailrun/",
+      "secondarySource": null,
+      "origin": "Adventure Runs source sweep 2026-09-15"
+    },
+    {
       "id": "2027-05-15-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02",
       "date": "2027-05-15",
       "dateEnd": null,
@@ -7482,6 +7508,30 @@
       "origin": "new European organizer sweep 2026-09-14"
     },
     {
+      "id": "2027-06-12-weinberg-hatscher-adventure-dogs-c1b1b4",
+      "date": "2027-06-12",
+      "dateEnd": null,
+      "country": "Austria",
+      "event": "Weinberg Hatscher – Adventure Dogs",
+      "category": [
+        "dogs-trail"
+      ],
+      "distancesKm": [
+        11,
+        21
+      ],
+      "elevationM": [
+        250,
+        790
+      ],
+      "dogAccess": "dedicated Adventure Dogs hiking category",
+      "status": "source-confirmed 2027",
+      "notes": "Adventure Dogs offers 11 or 21 km together with a dog; official organiser page confirms 12 June 2027.",
+      "primarySource": "https://www.adventureruns.at/weinberg-hatscher/",
+      "secondarySource": null,
+      "origin": "Adventure Runs source sweep 2026-09-15"
+    },
+    {
       "id": "2027-06-27-alice-holt-wild-trail-runs-32075b",
       "date": "2027-06-27",
       "dateEnd": null,
@@ -7521,6 +7571,50 @@
       "origin": "web verification 2026-09-12",
       "distanceText": "4.18 km loops / 10h",
       "elevationText": "324 per loop"
+    },
+    {
+      "id": "2027-08-28-muerzathlon-adventure-dogs-243561",
+      "date": "2027-08-28",
+      "dateEnd": null,
+      "country": "Austria",
+      "event": "Mürzathlon – Adventure Dogs",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        2.5,
+        5,
+        10
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated Human & Dog obstacle category",
+      "status": "source-confirmed 2027",
+      "notes": "Adventure Dogs Human & Dog team challenge over 2.5, 5 or 10 km; official organiser page confirms 28 August 2027.",
+      "primarySource": "https://www.adventureruns.at/muerzathlon/",
+      "secondarySource": null,
+      "origin": "Adventure Runs source sweep 2026-09-15"
+    },
+    {
+      "id": "2027-09-18-railway-hatscher-adventure-dogs-eef7dd",
+      "date": "2027-09-18",
+      "dateEnd": null,
+      "country": "Austria",
+      "event": "Railway Hatscher – Adventure Dogs",
+      "category": [
+        "dogs-trail"
+      ],
+      "distancesKm": [
+        21
+      ],
+      "elevationM": [
+        900
+      ],
+      "dogAccess": "dedicated Adventure Dogs hiking category",
+      "status": "source-confirmed 2027",
+      "notes": "Adventure Dogs offers a 21 km Human & Dog hiking category; official organiser page confirms 18 September 2027.",
+      "primarySource": "https://www.adventureruns.at/trailway_hatscher/",
+      "secondarySource": null,
+      "origin": "Adventure Runs source sweep 2026-09-15"
     }
   ]
 }

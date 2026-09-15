@@ -1476,6 +1476,19 @@ URL:https://mountainman.de/trailrunning-events/alps/nesselwang/dogs-trail
  /
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-05-08-semmering-trailrun-adventure-dogs-8a9a48@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Semmering Trailrun – Adventure Dogs
+LOCATION:Austria
+DESCRIPTION:Kategorie: dogs-trail\nDistanzen: 4 km / 8 km / 14 km\nHöhenm
+ eter: 250 hm / 700 hm / 950 hm\nHund: dedicated Adventure Dogs Human & D
+ og category\nStatus: source-confirmed 2027\nAdventure Dogs offers 4\, 8 
+ or 14 km\; official organiser page confirms 8 May 2027.
+URL:https://www.adventureruns.at/adventure_trailrun/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-05-15-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02@san
  dsturm.com
 DTSTAMP:20260914T085651Z
@@ -1542,6 +1555,19 @@ DESCRIPTION:Kategorie: canicross\nDistanzen: 3 km\nHund: dedicated canicr
 URL:https://www.kst.events/trutnovska10
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-06-12-weinberg-hatscher-adventure-dogs-c1b1b4@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Weinberg Hatscher – Adventure Dogs
+LOCATION:Austria
+DESCRIPTION:Kategorie: dogs-trail\nDistanzen: 11 km / 21 km\nHöhenmeter: 
+ 250 hm / 790 hm\nHund: dedicated Adventure Dogs hiking category\nStatus:
+  source-confirmed 2027\nAdventure Dogs offers 11 or 21 km together with 
+ a dog\; official organiser page confirms 12 June 2027.
+URL:https://www.adventureruns.at/weinberg-hatscher/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-06-27-alice-holt-wild-trail-runs-32075b@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270627
@@ -1569,5 +1595,31 @@ DESCRIPTION:Kategorie: canicross\nDistanz: 4.18 km loops / 10h\nHöhenmete
  age states its events are canicross friendly.\nWeitere Quelle: https://w
  ww.limitlesstrails.co.uk/canicross-menu
 URL:https://www.limitlesstrails.co.uk/tenacious-ten
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-28-muerzathlon-adventure-dogs-243561@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Mürzathlon – Adventure Dogs
+LOCATION:Austria
+DESCRIPTION:Kategorie: canicross\nDistanzen: 2.5 km / 5 km / 10 km\nHund:
+  dedicated Human & Dog obstacle category\nStatus: source-confirmed 2027\
+ nAdventure Dogs Human & Dog team challenge over 2.5\, 5 or 10 km\; offic
+ ial organiser page confirms 28 August 2027.
+URL:https://www.adventureruns.at/muerzathlon/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-18-railway-hatscher-adventure-dogs-eef7dd@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Railway Hatscher – Adventure Dogs
+LOCATION:Austria
+DESCRIPTION:Kategorie: dogs-trail\nDistanzen: 21 km\nHöhenmeter: 900 hm\n
+ Hund: dedicated Adventure Dogs hiking category\nStatus: source-confirmed
+  2027\nAdventure Dogs offers a 21 km Human & Dog hiking category\; offic
+ ial organiser page confirms 18 September 2027.
+URL:https://www.adventureruns.at/trailway_hatscher/
 END:VEVENT
 END:VCALENDAR
