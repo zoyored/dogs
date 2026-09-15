@@ -2167,6 +2167,21 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC reg
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-23-wilddog-austria-2026-salzburgring-5f8012@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY:WildDog Austria 2026 – Salzburgring
+LOCATION:Austria
+DESCRIPTION:Kategorie: dogs-trail\nDistanzen: 0.65 km / 2.2 km / 5 km\nHu
+ nd: dedicated Human & Dog obstacle/trail event\nStatus: source-confirmed
+  2026\nSalzburgring\, Plainfeld\; Friday arrival/Vet-Check\, event runs 
+ Saturday and Sunday. Official WildDog pages confirm 5 km\, 2.2 km and 65
+ 0 m courses with dog participation.\nWeitere Quelle: https://wild-dog.at
+ /strecke/
+URL:https://wild-dog.at/event/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-24-25-lubieszowski-cross-puchar-polski-18062f@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261024
