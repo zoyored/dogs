@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 372,
+    "count": 373,
     "categories": [
       "bike jöring",
       "canicross",
@@ -7053,6 +7053,26 @@
       "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
       "origin": "FFSLC verification 2026-09-12",
       "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2027-04-10-horsk-p-lmaraton-su-ice-cani-trail-2027-728d60",
+      "date": "2027-04-10",
+      "dateEnd": null,
+      "country": "Czech Republic",
+      "event": "Horský půlmaraton Sušice – Cani Trail 2027",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [
+        12
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated Cani Trail category",
+      "status": "source-confirmed 2027",
+      "notes": "Sušice, Ostrov Santos; official 2027 event page confirms Cani Trail/Canicross and 12 km. Detailed propositions use the Cani Trail label.",
+      "primarySource": "https://www.horskypulmaraton.cz/",
+      "secondarySource": "https://www.horskypulmaraton.cz/propozice/",
+      "origin": "CZ sweep 2026-09-15"
     },
     {
       "id": "2027-04-11-canicross-zundert-40d937",

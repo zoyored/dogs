@@ -1280,6 +1280,21 @@ DESCRIPTION:Kategorie: canitrail / canicross\nDistanz: not published (>9
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-10-horsk-p-lmaraton-su-ice-cani-trail-2027-728d60@sandsturm.c
+ om
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Horský půlmaraton Sušice – Cani Trail 2027
+LOCATION:Czech Republic
+DESCRIPTION:Kategorie: canitrail\nDistanzen: 12 km\nHund: dedicated Cani 
+ Trail category\nStatus: source-confirmed 2027\nSušice\, Ostrov Santos\; 
+ official 2027 event page confirms Cani Trail/Canicross and 12 km. Detail
+ ed propositions use the Cani Trail label.\nWeitere Quelle: https://www.h
+ orskypulmaraton.cz/propozice/
+URL:https://www.horskypulmaraton.cz/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-11-canicross-zundert-40d937@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270411
