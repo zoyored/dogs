@@ -2366,6 +2366,23 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: Sweden BC
 URL:https://www.swedenbcd.se/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-31-19-int-grenzueberschreitendes-schlittenhundewagenrennen-re
+ ingers-2026-33773a@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:19. Int. grenzüberschreitendes Schlittenhundewagenrennen Reingers
+  2026
+LOCATION:Austria
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: 4.5|15
+ -18\nHund: dedicated BSSC dryland race\; Canicross in sprint and MD\nSta
+ tus: source-confirmed 2026\nReingers\, Lower Austria\; official BSSC pag
+ e confirms sprint 4.5 km and MD 15–18 km with Canicross\, Bikejöring and
+  Scooter classes.
+URL:https://bssc-austria.at/veranstaltung/19-int-grenzueberschreitendes-s
+ chlittenhundewagenrennen-in-reingers/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-jaemi-syys-sm-2026-59366b@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261031
