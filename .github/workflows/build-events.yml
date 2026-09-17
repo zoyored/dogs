@@ -8,6 +8,7 @@ on:
     paths:
       - "data/Canitrail_Masterkalender_2026_2027.csv"
       - "data/source-master.csv"
+      - "data/event-candidates.csv"
       - "data/events.json"
       - "calendar/**"
       - "scripts/build_events.py"
@@ -19,6 +20,7 @@ on:
     paths:
       - "data/Canitrail_Masterkalender_2026_2027.csv"
       - "data/source-master.csv"
+      - "data/event-candidates.csv"
       - "data/events.json"
       - "calendar/**"
       - "scripts/build_events.py"
