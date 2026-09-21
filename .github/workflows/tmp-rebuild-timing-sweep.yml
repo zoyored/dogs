@@ -1,0 +1,34 @@
+name: Rebuild timing sweep feeds
+on:
+  push:
+    branches:
+      - data/timing-sweep-round-2
+    paths:
+      - '.github/workflows/tmp-rebuild-timing-sweep.yml'
+permissions:
+  contents: write
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: data/timing-sweep-round-2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Normalize and rebuild feeds
+        run: |
+          python scripts/dedupe_master.py
+          python scripts/build_events.py
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/Canitrail_Masterkalender_2026_2027.csv data/events.json calendar/2026/canicross-canitrail-2026.ics calendar/2027/canicross-canitrail-2027.ics
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "Normalize master and rebuild event feeds"
+            git push origin HEAD:data/timing-sweep-round-2
+          fi
