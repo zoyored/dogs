@@ -18,6 +18,9 @@ on:
       - ".github/workflows/daily-event-validation.yml"
       - "scripts/build_update_proposals.py"
       - ".github/workflows/event-update-proposals.yml"
+      - "scripts/apply_approved_changes.py"
+      - ".github/workflows/create-approved-event-pr.yml"
+      - "data/event-approved-changes.csv"
   push:
     branches:
       - main
