@@ -1,0 +1,59 @@
+name: Daily event validation
+
+on:
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "Run a full validation instead of the daily rotation"
+        required: false
+        type: boolean
+        default: false
+  schedule:
+    # GitHub cron is UTC. Both entries are used so the guard below yields
+    # 05:30 Europe/Berlin in CET and CEST.
+    - cron: '30 3 * * *'
+    - cron: '30 4 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-event-validation
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enforce 05:30 Europe/Berlin for scheduled runs
+        if: github.event_name == 'schedule'
+        run: |
+          test "$(TZ=Europe/Berlin date +%H:%M)" = "05:30" || {
+            echo "This UTC slot is not 05:30 Europe/Berlin; skipping."
+            exit 0
+          }
+
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate events
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.full }}" = "true" ]; then
+            python scripts/validate_events.py --full
+          else
+            python scripts/validate_events.py --batch-size 25
+          fi
+
+      - name: Commit validation state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/event-validation.csv reports/event-validation/latest.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Update daily event validation"
+          git push origin HEAD:main
