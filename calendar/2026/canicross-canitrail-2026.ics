@@ -569,11 +569,11 @@ DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260427
 SUMMARY:Canitrail des Moines
 LOCATION:Switzerland
-DESCRIPTION:Kategorie: canitrail / canicross\nDistanz: not published\nHun
- d: dedicated canitrail event\nStatus: source-confirmed 2026\nDate and do
- g format confirmed by Swiss Canicross\; current 2026 page does not show 
- exact km.\nWeitere Quelle: https://swiss-canicross.ch/course/canitrails-
- des-moines/
+DESCRIPTION:Kategorie: canitrail / canicross\nDistanzen: 10 km / 8.5 km\n
+ Hund: dedicated canitrail event\nStatus: source-confirmed 2026\nDate and
+  dog format confirmed by Swiss Canicross\; current 2026 page does not sh
+ ow exact km.\nWeitere Quelle: https://swiss-canicross.ch/course/canitrai
+ ls-des-moines/
 URL:https://swiss-canicross.ch/courses/categorie/canitrails/
 END:VEVENT
 BEGIN:VEVENT

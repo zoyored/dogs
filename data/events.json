@@ -963,15 +963,17 @@
         "canitrail",
         "canicross"
       ],
-      "distancesKm": [],
+      "distancesKm": [
+        10,
+        8.5
+      ],
       "elevationM": [],
       "dogAccess": "dedicated canitrail event",
       "status": "source-confirmed 2026",
       "notes": "Date and dog format confirmed by Swiss Canicross; current 2026 page does not show exact km.",
       "primarySource": "https://swiss-canicross.ch/courses/categorie/canitrails/",
       "secondarySource": "https://swiss-canicross.ch/course/canitrails-des-moines/",
-      "origin": "uploaded 2026 CSV",
-      "distanceText": "not published"
+      "origin": "approved proposal EV-AD5CCC65AC 2026-09-21"
     },
     {
       "id": "2026-04-25-rajeck-canicross-2026-048932",
