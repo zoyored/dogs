@@ -21,6 +21,8 @@ on:
       - "scripts/apply_approved_changes.py"
       - ".github/workflows/create-approved-event-pr.yml"
       - "data/event-approved-changes.csv"
+      - "scripts/review_event_proposal.py"
+      - ".github/workflows/review-event-proposal.yml"
   push:
     branches:
       - main
