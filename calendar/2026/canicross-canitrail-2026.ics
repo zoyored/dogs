@@ -103,8 +103,8 @@ DTEND;VALUE=DATE:20260126
 SUMMARY:CANI TROPHY FONTAINEBLEAU 2026 – Canicross
 LOCATION:France
 DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km / 5.5 km\nHund: dedicat
- ed FFSLC canicross\nStatus: held\nOfficial FFSLC event\; long adult Cani
- cross 5 km Saturday and 5.5 km Sunday.
+ ed FFSLC canicross\nStatus: held\nOfficial FFSLC event confirms adult lo
+ ng Canicross 5 km Saturday and 5.5 km Sunday.
 URL:https://courses.ffslc.fr/event-fiche/971
 END:VEVENT
 BEGIN:VEVENT
@@ -258,8 +258,8 @@ DTEND;VALUE=DATE:20260309
 SUMMARY:Championnats de France Terre 2026 – Canicross
 LOCATION:France
 DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: FFSLC championsh
- ip canicross\nStatus: held\nOfficial FFSLC French dryland championship\;
-  adult Canicross 5 km on both days.
+ ip canicross\nStatus: held\nOfficial FFSLC page confirms French dryland 
+ championship and adult Canicross 5 km on both days.
 URL:https://courses.ffslc.fr/event-fiche/906
 END:VEVENT
 BEGIN:VEVENT
@@ -376,14 +376,16 @@ BEGIN:VEVENT
 UID:2026-03-21-vulcanicross-bubeck-tour-badda1@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
 SUMMARY:VulCanicross – Bubeck Tour
 LOCATION:Germany
 DESCRIPTION:Kategorie: canicross / scooter / bike jöring\nDistanzen: 10 k
- m\nHund: dog-powered runner tour within VDSV race\nStatus: held\nVDSV of
- ficial race notice lists the Bubeck Tour at about 10 km for runners\, bi
- kers and scooters.
-URL:https://vdsv.de/wp-content/uploads/12.-VCC-Ausschreibung.pdf
+ m\nHund: dog-powered runner tour within VDSV race\nStatus: held\nCurrent
+  VDSV event page confirms Vulcanicross in Schotten on 21–22 March 2026\;
+  prior official race notice documented the Bubeck Tour at about 10 km fo
+ r runners\, bikers and scooters.\nWeitere Quelle: https://www.pfalzpfote
+ n-musher.de/rennkalender-2025-2026/
+URL:https://vdsv.de/Veranstaltung/vulcanicross/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-28-prima-mushing-open-oravsk-h-j-39b3bb@sandsturm.com
@@ -606,8 +608,8 @@ DTEND;VALUE=DATE:20260427
 SUMMARY:Trophée d'Agy 2026 – Canitrail
 LOCATION:France
 DESCRIPTION:Kategorie: canitrail\nDistanzen: 15 km\nHöhenmeter: 700 hm\nH
- und: dedicated FFSLC canitrail\nStatus: held\nOfficial FFSLC event page 
- lists a 15 km canitrail with 700 m D+ on Sunday.
+ und: dedicated FFSLC canitrail\nStatus: held\nOfficial FFSLC page confir
+ ms the 25–26 April event and 15 km / 700 m D+ Canitrail on Sunday.
 URL:https://courses.ffslc.fr/event-fiche/1051
 END:VEVENT
 BEGIN:VEVENT
@@ -1038,6 +1040,18 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 3.9
 URL:https://www.vul.fi/syksyn-kilpailukalenteri-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-12-ume-draget-f9d977@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Umeådraget
+LOCATION:Sweden
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: Sweden BC
+ D priority race\nStatus: current\nListed by Sweden BCD as a priority sel
+ ection race for ICF WC 2027.
+URL:https://www.swedenbcd.se/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-12-umedraget-2026-5ce0f7@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20260912
@@ -1050,18 +1064,6 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: 3-5\nH
  pproximately 3–5 km.\nWeitere Quelle: https://stayhappening.com/e/umedra
  get-2026-E2ISYR0F8WY
 URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=92
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-12-ume-draget-f9d977@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260914
-SUMMARY:Umeådraget
-LOCATION:Sweden
-DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: Sweden BC
- D priority race\nStatus: current\nListed by Sweden BCD as a priority sel
- ection race for ICF WC 2027.
-URL:https://www.swedenbcd.se/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-woofest-7dc20a@sandsturm.com
@@ -1326,13 +1328,10 @@ DTEND;VALUE=DATE:20260928
 SUMMARY:Canicross de Banneux
 LOCATION:Belgium
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
- blished\nHund: VCF canicross / bike / step | VCF canicross event\nStatus
- : source-confirmed 2026\nOfficial VCF event\; two race days. | Banneux/S
- primont\; VCF lists Cross\, Bike and Step 1&2\; event runs 26–27 Septemb
- er. | Multiple independent event listings: https://www.vlaamsecanicrossf
- ederatie.org/events \; https://www.canisports2enjoy.nl/canisportskalende
- r-2026-2027/\nWeitere Quelle: https://www.canisports2enjoy.nl/canisports
- kalender-2026-2027/
+ blished\nHund: VCF canicross / bike / step\nStatus: source-confirmed 202
+ 6\nOfficial VCF event page confirms Banneux/Sprimont on 26–27 September 
+ 2026 with Cross\, Bike and Step categories.\nWeitere Quelle: https://www
+ .canisports2enjoy.nl/canisportskalender-2026-2027/
 URL:https://www.vlaamsecanicrossfederatie.org/events
 END:VEVENT
 BEGIN:VEVENT
@@ -1442,6 +1441,21 @@ URL:https://www.sleddog.no/next/events/p/1000169638/barmark-nittedalslope
  t
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-26-oebacka-barmark-dag-1-66de1b@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Öbacka barmark dag 1
+LOCATION:Sweden
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 2.8 
+ km / 5 km\nHund: Härnösands DHK dryland race\nStatus: source-confirmed 2
+ 026\nOfficial SDSF calendar confirms day 1 at Vårdkasen on 26 September\
+ ; the paired event documentation confirms linlöpning\, scooter and cycle
+  classes with main routes around 5 and 2.8 km.\nWeitere Quelle: https://
+ draghundsport.se/kalender/visa/default.aspx?tavlingsid=119
+URL:https://draghundsport.se/kalender/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-26-roazhon-run-canicross-e50b2a@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20260926
@@ -1467,21 +1481,6 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: Yes\nStat
 URL:https://draghundsport.se/kalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-26-oebacka-barmark-dag-1-66de1b@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Öbacka barmark dag 1
-LOCATION:Sweden
-DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 2.8 
- km / 5 km\nHund: Härnösands DHK dryland race\nStatus: source-confirmed 2
- 026\nFirst of two one-day Öbacka dryland races\; companion day lists lin
- löpning\, scooter and bike with main recreational courses around 5 and 2
- .8 km.\nWeitere Quelle: https://draghundsport.se/kalender/visa/default.a
- spx?tavlingsid=119
-URL:https://draghundsport.se/kalender/
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-09-27-7e-canicross-de-bully-6bfc0a@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20260927
@@ -1492,6 +1491,20 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
   FFSLC canicross\nStatus: upcoming\nOfficial FFSLC calendar lists Canicr
  oss court and long.\nWeitere Quelle: https://courses.ffslc.fr/calendar
 URL:https://courses.ffslc.fr/calendar-map
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-27-oebacka-barmark-dag-2-fa7a8f@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Öbacka barmark dag 2
+LOCATION:Sweden
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 2.8 
+ km / 5 km\nHund: Härnösands DHK dryland race\nStatus: source-confirmed 2
+ 026\nOfficial SDSF event confirms 27 September at Vårdkasen and explicit
+ ly lists linlöpning\, scooter and cycle classes\; MOTB1 about 5 km and M
+ OTB2 about 2.8 km.
+URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=119
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-27-traildog-ultimutt-4c9dd9@sandsturm.com
@@ -1505,19 +1518,6 @@ DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: dedicated dog-ru
  ridge\; timed 5 km dog/human obstacle event with canicross wave.\nWeiter
  e Quelle: https://www.traildogevents.co.uk/events
 URL:https://www.traildogevents.co.uk/ultimutt
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-27-oebacka-barmark-dag-2-fa7a8f@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:Öbacka barmark dag 2
-LOCATION:Sweden
-DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 2.8 
- km / 5 km\nHund: Härnösands DHK dryland race\nStatus: source-confirmed 2
- 026\nOfficial SDSF event explicitly lists linlöpning\, scooter and bike\
- ; main recreational routes approximately 5 km and 2.8 km.
-URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=119
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-14e-challenge-canicrossbreizh-canicross-b2ec0c@sandsturm.c
@@ -1545,6 +1545,34 @@ DESCRIPTION:Kategorie: canitrail / canicross\nDistanz: not published (>9
  elle: https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-C
  anicross-Canitrail-Ski-joering.pdf
 URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-crocs-de-la-vall-e-du-thouet-2-490f26@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:À'crocs de la vallée du Thouet #2
+LOCATION:France
+DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
+ les)\nHund: FFSLC event with Canitrail\nStatus: upcoming\nOfficial FFSLC
+  calendar lists Canitrail among the disciplines.\nWeitere Quelle: https:
+ //ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Can
+ itrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-crocs-de-la-vall-e-du-thouet-2-canicross-151e6a@sandsturm.
+ com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:À'crocs de la vallée du Thouet #2 – Canicross
+LOCATION:France
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
+ icross event\nStatus: upcoming\nOfficial FFSLC calendar lists Canicross 
+ long and other Canicross classes.\nWeitere Quelle: https://courses.ffslc
+ .fr/calendar
+URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-alma-off-snow-2026-7b88ad@sandsturm.com
@@ -1605,11 +1633,11 @@ DTEND;VALUE=DATE:20261005
 SUMMARY:Canitrail des Bisses
 LOCATION:Switzerland
 DESCRIPTION:Kategorie: canitrail\nDistanz: not published\nHund: dedicated
-  canitrail event\nStatus: source-confirmed 2026\nAdult canitrail and dog
-  requirements confirmed\; current 2026 pages do not show exact km.\nWeit
- ere Quelle: https://lecanitraildesbisses.ch/informations/categories/
-URL:https://www.myswitzerland.com/en-gb/experiences/events/canitrail-des-
- bisses/
+  canitrail event\nStatus: source-confirmed 2026\nOfficial organiser site
+  and Swiss Canicross confirm the 2026 edition in Anzère on 3–4 October\;
+  exact adult distance not published on the accessible event page.\nWeite
+ re Quelle: https://swiss-canicross.ch/de/course/canitrails-des-bisses/
+URL:https://lecanitraildesbisses.ch/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-challenge-canicross-breizh-47be10@sandsturm.com
@@ -1632,9 +1660,10 @@ SUMMARY:Genk – BCF Canicross
 LOCATION:Belgium
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
  blished\nHund: BCF canicross / bike / step\nStatus: source-confirmed 202
- 6\nListed in Belgium 2026/27 canisports calendar as BCF CC/BJ/Step.\nWei
- tere Quelle: https://www.canisports2enjoy.nl/canisportskalender-2026-202
- 7/
+ 6\nBelgian joint federation planning calendar and independent 2026 compe
+ tition calendar confirm Mijn Hond Genk on 3–4 October with Canicross\, B
+ ikejöring and Dogscooter.\nWeitere Quelle: https://www.cruybeekscanicros
+ s.be/evenementen/wedstrijdkalender-canicross-2026/
 URL:https://vlaamsecanicrossfed.wixsite.com/canicross
 END:VEVENT
 BEGIN:VEVENT
@@ -1721,34 +1750,6 @@ DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: dedicated canicr
  ing the Trail du Cassoulet weekend in Verfeil.\nWeitere Quelle: https://
  chrono-start.com/events/trail-du-cassoulet/
 URL:https://www.trailducassoulet.fr/
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-03-crocs-de-la-vall-e-du-thouet-2-490f26@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-SUMMARY:À'crocs de la vallée du Thouet #2
-LOCATION:France
-DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
- les)\nHund: FFSLC event with Canitrail\nStatus: upcoming\nOfficial FFSLC
-  calendar lists Canitrail among the disciplines.\nWeitere Quelle: https:
- //ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Can
- itrail-Ski-joering.pdf
-URL:https://courses.ffslc.fr/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-03-crocs-de-la-vall-e-du-thouet-2-canicross-151e6a@sandsturm.
- com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-SUMMARY:À'crocs de la vallée du Thouet #2 – Canicross
-LOCATION:France
-DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
- icross event\nStatus: upcoming\nOfficial FFSLC calendar lists Canicross 
- long and other Canicross classes.\nWeitere Quelle: https://courses.ffslc
- .fr/calendar
-URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-04-canicross-de-bourghelles-4e-dition-35d87e@sandsturm.com
@@ -1946,19 +1947,20 @@ URL:https://afss.at/event/european-championships-and-european-masters-dry
  land/
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-16-ifss-european-championships-dryland-2026-gaevle-3dc498@san
+UID:2026-10-14-ifss-european-championships-dryland-2026-gaevle-3dc498@san
  dsturm.com
 DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20261016
+DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261019
 SUMMARY:IFSS European Championships Dryland 2026 – Gävle
 LOCATION:Sweden
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
  blished\nHund: IFSS/SDSF European dryland championship\; all classes\nSt
- atus: source-confirmed 2026\nOfficial SDSF 2026 competition overview lis
- ts EM Barmark in Gävle with all classes.\nWeitere Quelle: https://draghu
- ndsport.se/kalender/
-URL:https://draghundsport.se/sv/217
+ atus: source-confirmed 2026\nOfficial federation sources confirm IFSS Eu
+ ropean Championships and European Masters Dryland in Gävle on 14–18 Octo
+ ber 2026.\nWeitere Quelle: https://draghundsport.se/sv/217
+URL:https://afss.at/event/european-championships-and-european-masters-dry
+ land/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-strongdog-wild-dirty-north-2026-b37e18@sandsturm.com
@@ -2240,9 +2242,10 @@ SUMMARY:Etalle – BCF Canicross
 LOCATION:Belgium
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
  blished\nHund: BCF canicross / bike / step\nStatus: source-confirmed 202
- 6\nListed in Belgium 2026/27 canisports calendar as BCF CC/BJ/Step.\nWei
- tere Quelle: https://www.canisports2enjoy.nl/canisportskalender-2026-202
- 7/
+ 6\nCurrent Belgium 2026/27 canisports calendar confirms Etalle on 24 Oct
+ ober 2026 as BCF CC/BJ/Step\; no stronger event-specific public organise
+ r page was found in this audit.\nWeitere Quelle: https://www.canisports2
+ enjoy.nl/canisportskalender-2026-2027/
 URL:https://vlaamsecanicrossfed.wixsite.com/canicross
 END:VEVENT
 BEGIN:VEVENT
@@ -2265,9 +2268,11 @@ DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:La Canidé'cathlon #2 – Canicross
 LOCATION:France
-DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
- icross event\nStatus: upcoming\nOfficial FFSLC calendar event.
-URL:https://courses.ffslc.fr/calendar
+DESCRIPTION:Kategorie: canicross\nDistanzen: 3.4 km / 4.1 km\nHund: FFSLC
+  canicross challenge\nStatus: upcoming\nOfficial FFSLC event page confir
+ ms two Canicross challenge races of 3.4 km and 4.1 km on 24 October 2026
+ .\nWeitere Quelle: https://courses.ffslc.fr/calendar
+URL:https://courses.ffslc.fr/event-fiche/1160/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-nm-barmark-2026-573a04@sandsturm.com
@@ -2303,20 +2308,11 @@ DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:CaniXFyn – DCF Dog Series 1
 LOCATION:Denmark
-DESCRIPTION:Kategorie: canicross\nHund: Danish Canicross Federation serie
- s\nStatus: upcoming\nOfficial DCF 2026/27 calendar\, Morud.
-URL:https://www.danskcanicross.dk/kalender
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-25-dcf-dog-series-1-canixfyn-237364@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:DCF Dog Series 1 – CaniXFyn
-LOCATION:Denmark
-DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
- blished\nHund: DCF Dog Series\nStatus: source-confirmed 2026/27\nOfficia
- l DCF 2026/27 calendar\; Morud.
+DESCRIPTION:Kategorie: canicross\nDistanzen: 1 km / 2 km / 3 km / 4.2 km 
+ / 4.5 km\nHund: Danish Canicross Federation series\nStatus: upcoming\nOf
+ ficial DCF calendar confirms CaniXFyn Dog Series 1 in Morud on 25 Octobe
+ r 2026\; Danish race listing publishes 1 km\, 2 km\, relay 3 km and 4.2/
+ 4.5 km formats.\nWeitere Quelle: https://vidorun.com/
 URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
@@ -2364,9 +2360,9 @@ SUMMARY:SM Barmark 2026 – Nybro
 LOCATION:Sweden
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
  blished\nHund: Swedish national dryland championship\; all classes\nStat
- us: source-confirmed 2026\nOfficial SDSF 2026 competition overview lists
-  Swedish dryland championship in Nybro with all classes.\nWeitere Quelle
- : https://draghundsport.se/kalender/
+ us: source-confirmed 2026\nOfficial SDSF overview and Nybro municipal ev
+ ent listing confirm SM Barmark at Svartbäcksmåla on 30 October–1 Novembe
+ r 2026.\nWeitere Quelle: https://upplevnybro.se/evenemang/sm-i-draghund/
 URL:https://draghundsport.se/sv/217
 END:VEVENT
 BEGIN:VEVENT
@@ -2559,10 +2555,11 @@ DTEND;VALUE=DATE:20261109
 SUMMARY:Visbek – Canicross
 LOCATION:Germany
 DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV dryl
- and Mono / Canicross\nStatus: upcoming\nVDSV-season dryland race with Mo
- no classes.\nWeitere Quelle: https://www.zughunde-nds.de/events-und-erge
- bnisse/
-URL:https://vdsv.de/kalender/
+ and Mono / Canicross\nStatus: upcoming\nCurrent Zughunde-NDS and SSVN 20
+ 26/27 calendars confirm VDSV Visbek on 7–8 November 2026\; Mono/Canicros
+ s retained from VDSV race classification.\nWeitere Quelle: https://ssvno
+ rd.de/
+URL:https://www.zughunde-nds.de/events-und-ergebnisse/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-canicross-deschau-34cbbf@sandsturm.com
@@ -2638,20 +2635,6 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-14-canitrail-des-ch-taignes-b09f2c@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Canitrail des Châtaignes
-LOCATION:France
-DESCRIPTION:Kategorie: canitrail\nDistanzen: 15 km\nHöhenmeter: 440 hm\nH
- und: dedicated dog class within trail event\nStatus: sold out / waitlist
- \nOfficial 2026 canitrail is Saturday 14 Nov: 15 km / 440 m+\, start 13:
- 00\; minimum dog age 24 months\; event full\, waitlist open.\nWeitere Qu
- elle: https://trail-des-chataignes.com/reglement-canitrail/
-URL:https://trail-des-chataignes.com/les-courses/
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-canitrail-deguzon-8f4177@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261114
@@ -2664,6 +2647,20 @@ DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
  /wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski
  -joering.pdf
 URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-canitrail-des-ch-taignes-b09f2c@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Canitrail des Châtaignes
+LOCATION:France
+DESCRIPTION:Kategorie: canitrail\nDistanzen: 15 km\nHöhenmeter: 440 hm\nH
+ und: dedicated dog class within trail event\nStatus: sold out / waitlist
+ \nOfficial 2026 canitrail is Saturday 14 Nov: 15 km / 440 m+\, start 13:
+ 00\; minimum dog age 24 months\; event full\, waitlist open.\nWeitere Qu
+ elle: https://trail-des-chataignes.com/reglement-canitrail/
+URL:https://trail-des-chataignes.com/les-courses/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-crossdogs-donnersbergtrail-6fe981@sandsturm.com
@@ -2698,11 +2695,12 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY:Ströhen – Canicross
 LOCATION:Germany
-DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV dryl
- and Mono / Canicross\nStatus: upcoming\nVDSV-season dryland race at Tier
- park Ströhen.\nWeitere Quelle: https://www.zughunde-nds.de/events-und-er
- gebnisse/
-URL:https://vdsv.de/kalender/
+DESCRIPTION:Kategorie: canicross\nDistanzen: 6 km\nHund: VDSV dryland rac
+ e\; single-dog/Mono classes\nStatus: upcoming\nTierpark Ströhen confirms
+  annual SSV-SO sled-dog race on 14–15 November 2026 on an approximately 
+ 6 km course with multiple classes including single starts.\nWeitere Quel
+ le: https://www.zughunde-nds.de/events-und-ergebnisse/
+URL:https://tierpark-stroehen.de/veranstaltungen
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-canicross-genendijk-eb401e@sandsturm.com
@@ -2713,7 +2711,9 @@ SUMMARY:Canicross Genendijk
 LOCATION:Belgium
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
  blished\nHund: VCF canicross / bike / dogscooter\nStatus: source-confirm
- ed 2026\nOfficial VCF event in Ham\; multiple distances and disciplines.
+ ed 2026\nOfficial VCF event page confirms Genendijk in Ham on 15 Novembe
+ r 2026\, with Cross\, Bike and Dogscooter and continuous starts over sev
+ eral distances.
 URL:https://www.vlaamsecanicrossfederatie.org/events
 END:VEVENT
 BEGIN:VEVENT
@@ -2738,9 +2738,11 @@ DTEND;VALUE=DATE:20261123
 SUMMARY:WSA WM Ströhen – Canicross / Mono
 LOCATION:Germany
 DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV/WSA 
- dryland Mono event\nStatus: upcoming\nListed by VDSV as WSA World Champi
- onship dryland with Mono classes.
-URL:https://vdsv.de/kalender/
+ dryland Mono event\nStatus: upcoming\nOfficial VDSV event page and Tierp
+ ark Ströhen confirm WSA Dryland World Championship on 19–22 November 202
+ 6\; VDSV classifies it as Dryland Gespanne/Mono.\nWeitere Quelle: https:
+ //tierpark-stroehen.de/veranstaltungen
+URL:https://vdsv.de/Veranstaltung/stroehen-2024-2-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-canicross-coucy-la-ville-33bbae@sandsturm.com
@@ -2774,8 +2776,11 @@ DTEND;VALUE=DATE:20261123
 SUMMARY:Frankonia Open – Lauf an der Pegnitz – Canicross
 LOCATION:Germany
 DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV dryl
- and Mono / Canicross\nStatus: upcoming\nVDSV qualification/ranking race 
- with Mono classes.
+ and Mono / Canicross\nStatus: upcoming\nCurrent VDSV calendar and 2026/2
+ 7 qualification notice confirm Frankonia Open at Lauf an der Pegnitz on 
+ 21–22 November as qualification/ranking race.\nWeitere Quelle: https://v
+ dsv.de/erlaeuterungen-zu-den-qualifikationsrennen-2026-27-und-zur-spaete
+ ren-kaderaufstellung-dryland/
 URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
@@ -2783,14 +2788,18 @@ UID:2026-11-21-waasmunster-federatie-kampioenschap-scooter-0af51a@sandstu
  rm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
 SUMMARY:Waasmunster – Federatie Kampioenschap Scooter
 LOCATION:Belgium
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
  blished\nHund: BCF canicross / bike / step\nStatus: source-confirmed 202
- 6\nBCF event\; federation scooter championship.\nWeitere Quelle: https:/
- /www.canisports2enjoy.nl/canisportskalender-2026-2027/
-URL:https://vlaamsecanicrossfed.wixsite.com/canicross
+ 6\nBelgian competition calendar confirms Foxland Foxes Waasmunster on 21
+ –22 November 2026 with Step\, Bike and Canicross\; the 2026/27 canisport
+ s calendar identifies it as the BCF scooter federation championship.\nWe
+ itere Quelle: https://www.canisports2enjoy.nl/canisportskalender-2026-20
+ 27/
+URL:https://www.cruybeekscanicross.be/evenementen/wedstrijdkalender-canic
+ ross-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-canicross-de-maurepas-2e-dition-569887@sandsturm.com
@@ -2847,9 +2856,10 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:CapitalCross 2026 – Canicross
 LOCATION:Germany
 DESCRIPTION:Kategorie: canicross\nDistanzen: 5.6 km\nHund: VDSV German Ch
- ampionship Canicross\nStatus: upcoming\nOfficial venue confirms DM and a
- pprox. 5.6 km Canicross course.\nWeitere Quelle: https://www.spargelhof-
- klaistow.de/klaistower-schlittenhunderennen/
+ ampionship Canicross\nStatus: upcoming\nCurrent VDSV calendar confirms C
+ apitalCross DM in Klaistow on 28–29 November\; venue source confirms the
+  Canicross course information.\nWeitere Quelle: https://www.spargelhof-k
+ laistow.de/klaistower-schlittenhunderennen/
 URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
@@ -2862,9 +2872,13 @@ SUMMARY:Maldegem – Belgisch Kampioenschap Canicross
 LOCATION:Belgium
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
  blished\nHund: BCF Belgian Canicross Championship\nStatus: source-confir
- med 2026\nBelgian Canicross championship\; CC/BJ/Step listed.\nWeitere Q
- uelle: https://www.canisports2enjoy.nl/canisportskalender-2026-2027/
-URL:https://vlaamsecanicrossfed.wixsite.com/canicross
+ med 2026\nBelgian competition calendars confirm Team Maldegem-Kleit on 2
+ 8 November 2026 with Step\, Bikejöring and Canicross\; the 2026/27 canis
+ ports calendar identifies it as the Belgian Canicross championship.\nWei
+ tere Quelle: https://www.canisports2enjoy.nl/canisportskalender-2026-202
+ 7/
+URL:https://www.cruybeekscanicross.be/evenementen/wedstrijdkalender-canic
+ ross-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-canicross-de-la-c-te-dopale-taples-sur-mer-b5efcd@sandstur
@@ -2887,8 +2901,9 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:CapitalCross Mid Distance 2026 – Canicross
 LOCATION:Germany
 DESCRIPTION:Kategorie: canicross\nDistanzen: 17 km / 20 km\nHund: Canicro
- ss mid-distance\nStatus: upcoming\nOfficial venue states 17–20 km and ex
- plicitly includes runners with one dog.
+ ss mid-distance\nStatus: upcoming\nOfficial Klaistow venue confirms CAPI
+ TALCROSS Mid Distance 2026 on 5–6 December\, 17–20 km\, explicitly inclu
+ ding runners with one dog.
 URL:https://www.spargelhof-klaistow.de/klaistower-schlittenhund-rennen/
 END:VEVENT
 BEGIN:VEVENT
@@ -2998,21 +3013,10 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Canicross Scherpenheuvel-Zichem
 LOCATION:Belgium
 DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VCF canic
- ross only\nStatus: provisional 2026\nOfficial VCF calendar marks date pr
- ovisional and canicross only.
+ ross only\nStatus: provisional 2026\nOfficial VCF event page confirms 6 
+ December 2026 at SNA Keiberg but explicitly marks the date provisional a
+ nd the event as Canicross only.
 URL:https://www.vlaamsecanicrossfederatie.org/events
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-06-dcf-dog-series-2-k9runners-mariager-39b6d9@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:DCF Dog Series 2 – K9Runners Mariager
-LOCATION:Denmark
-DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
- blished\nHund: DCF Dog Series\nStatus: source-confirmed 2026/27\nOfficia
- l DCF 2026/27 calendar\; Mariager.
-URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-hsvrm-canicross-wintercup-einhausen-eee023@sandsturm.com
@@ -3034,8 +3038,9 @@ DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:K9Runners Mariager – DCF Dog Series 2
 LOCATION:Denmark
-DESCRIPTION:Kategorie: canicross\nHund: Danish Canicross Federation serie
- s\nStatus: upcoming\nOfficial DCF 2026/27 calendar\, Mariager.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: Danish Ca
+ nicross Federation series\nStatus: upcoming\nOfficial DCF calendar confi
+ rms K9Runners Mariager Dog Series 2 in Mariager on 6 December 2026.
 URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
@@ -3101,10 +3106,12 @@ DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:CCNL IJmuiden
 LOCATION:Netherlands
-DESCRIPTION:Kategorie: canicross\nHöhenmeter: official CCNL race\nHund: a
- nnounced\nStatus: Official CCNL calendar lists a Canicross race in IJmui
- den\, subject to permit.\nhttps://www.canicrossnederland.nl/kalender2026
- 2027.html\nWeitere Quelle: European federation sweep 2026-09-12
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: official 
+ CCNL race\nStatus: announced\nOfficial CCNL 2026/2027 calendar\, updated
+  26 August 2026\, lists IJmuiden Canicross on 12 December 2026\; permit 
+ remains pending and event-specific information will follow.\nWeitere Que
+ lle: https://www.canisports2enjoy.nl/canisportskalender-2026-2027/
+URL:https://www.canicrossnederland.nl/kalender20262027.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-cross-dog-de-cand-canicross-1a0f15@sandsturm.com
