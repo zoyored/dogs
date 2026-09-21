@@ -101,6 +101,23 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-10-la-corsa-della-bora-dog-friendly-non-competitive-routes-10
+ 32c0@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:La Corsa della Bora – dog-friendly non-competitive routes
+LOCATION:Italy
+DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 4 km / 14.5 km / 23
+  km\nHöhenmeter: 100 hm / 413 hm / 693 hm\nHund: dogs allowed on lead on
+ ly in non-competitive Borin Family Hike & Trail and Half Trail\nStatus: 
+ source-confirmed 2027\nOfficial 2027 regulations explicitly allow dogs o
+ n lead on S1 Borin 4 km\, S1 Family Hike & Trail 14.5 km and the non-com
+ petitive S1 Half Trail 23 km\; competitive distances exclude dogs.\nWeit
+ ere Quelle: https://www.s1trail.com/en/iscrizioni/
+URL:https://www.s1trail.com/en/regolamento/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-15-lapland-quest-2027-a15a21@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270115
@@ -137,6 +154,19 @@ DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 12 km / 22 km\nHöhe
  tus: dog entries sold out\nOfficial event page is dog-friendly with limi
  ted dog spaces\; 6 km option omitted here.
 URL:https://www.maverick-race.com/products/2027/2027-01-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-pilancones-tunte-trail-canicross-1ad579@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Pilancones Tunte Trail – Canicross
+LOCATION:Spain
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
+  canicross category\nStatus: source-confirmed 2027\nOfficial organiser c
+ onfirms the 16 January 2027 event and a dedicated Canicross category\; c
+ urrent accessible primary page does not publish the Canicross distance.
+URL:https://pilanconestuntetrail.es/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-ccnl-bosschenhoofd-b0b6dd@sandsturm.com
@@ -410,6 +440,19 @@ DESCRIPTION:Kategorie: canicross\nDistanz: 4.2 mile loops up to 12h\nHund
 URL:https://www.limitlesstrails.co.uk/trails-and-tarmac-byu-2
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-06-ultra-trail-des-fontaines-canitrail-10e32d@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Ultra Trail des Fontaines – Canitrail
+LOCATION:France
+DESCRIPTION:Kategorie: canitrail\nDistanzen: 14 km\nHöhenmeter: 470 hm\nH
+ und: dedicated canitrail\nStatus: source-confirmed 2027\nOfficial organi
+ ser confirms 14 km / 470 m+ Canitrail\, dog water points and minimum dog
+  age of 24 months.
+URL:https://www.utdf.fr/courses/canitrail-lot
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-07-5-canicross-mud-glory-beroide-spoleto-8e1907@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270207
@@ -422,6 +465,23 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: CSEN cham
  y Canicross ASD. | Official CSEN 2026/27 calendar\; ICF 2027 selection r
  ace.
 URL:https://discipline.csencinofilia.it/calendario-gare-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-alpe-adria-ultra-trail-winter-dog-friendly-non-competitive
+ -routes-8412fb@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Alpe Adria Ultra Trail Winter – dog-friendly non-competitive rout
+ es
+LOCATION:Italy
+DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 8 km / 10 km / 18 k
+ m / 25 km\nHöhenmeter: 436 hm / 305 hm / 741 hm / 1393 hm\nHund: dogs al
+ lowed on lead in non-competitive winter races\nStatus: source-confirmed 
+ 2027\nOfficial 2027 regulations allow dogs on lead in the non-competitiv
+ e winter formats: Grego 8\, Valbruna 10\, Saisera Crossing 18 and Dogna 
+ Crossing 25.
+URL:https://www.alpeadriaultra.com/en/regolamento/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-canicross-ireland-2026-27-event-5-860559@sandsturm.com
