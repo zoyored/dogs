@@ -535,18 +535,6 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-07-la-canid-forts-4e-dition-c2366a@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
-SUMMARY:La Canidé’forts – 4e édition
-LOCATION:France
-DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
-  FFSLC event\nStatus: announced\nNew 2027 date published in the official
-  FFSLC calendar.
-URL:https://courses.ffslc.fr/calendar
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-02-07-la-canid-forts-4e-dition-canicross-7909a2@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270207
@@ -557,6 +545,18 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
  icross event\nStatus: announced\nOfficial FFSLC calendar lists adult Can
  icross.\nWeitere Quelle: https://courses.ffslc.fr/calendar
 URL:https://courses.ffslc.fr/calendar-map
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-la-canid-forts-4e-dition-c2366a@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:La Canidé’forts – 4e édition
+LOCATION:France
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
+  FFSLC event\nStatus: announced\nNew 2027 date published in the official
+  FFSLC calendar.
+URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-lakeland-paws-whinlatter-tails-south-side-9d2783@sandsturm
@@ -597,6 +597,17 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-13-les-courses-de-l-tang-canicross-1a5ffe@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+SUMMARY:Les Courses de l'Étang – Canicross
+LOCATION:France
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
+ icross event\nStatus: announced\nOfficial FFSLC 2027 calendar event.
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-13-les-courses-de-l-tang-e55966@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270213
@@ -606,17 +617,6 @@ LOCATION:France
 DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
   FFSLC event\nStatus: announced\nNew 2027 date published in the official
   FFSLC calendar.
-URL:https://courses.ffslc.fr/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-13-les-courses-de-l-tang-canicross-1a5ffe@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20270213
-DTEND;VALUE=DATE:20270215
-SUMMARY:Les Courses de l'Étang – Canicross
-LOCATION:France
-DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
- icross event\nStatus: announced\nOfficial FFSLC 2027 calendar event.
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
