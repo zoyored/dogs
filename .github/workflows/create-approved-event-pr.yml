@@ -1,0 +1,50 @@
+name: Create approved event change PR
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  create-change-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Apply explicitly approved patches
+        run: python scripts/apply_approved_changes.py
+      - name: Detect changes
+        id: changes
+        run: |
+          if git diff --quiet -- data/Canitrail_Masterkalender_2026_2027.csv data/events.json calendar/; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Create review branch
+        if: steps.changes.outputs.changed == 'true'
+        id: branch
+        run: |
+          branch="automation/approved-event-changes-${GITHUB_RUN_ID}"
+          git switch -c "$branch"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/Canitrail_Masterkalender_2026_2027.csv data/events.json calendar/
+          git commit -m "Apply approved event updates"
+          git push origin "$branch"
+          echo "name=$branch" >> "$GITHUB_OUTPUT"
+      - name: Open pull request
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh pr create --base main --head "${{ steps.branch.outputs.name }}" \
+            --title "Apply approved event updates" \
+            --body "Phase 4 generated this PR from proposals explicitly marked approved and patches listed in data/event-approved-changes.csv. No automatic merge is performed. Review the source-backed changes and required validation check before merging."
