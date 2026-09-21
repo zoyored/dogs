@@ -14,6 +14,8 @@ on:
       - "scripts/build_events.py"
       - "scripts/dedupe_master.py"
       - ".github/workflows/build-events.yml"
+      - "scripts/validate_events.py"
+      - ".github/workflows/daily-event-validation.yml"
   push:
     branches:
       - main
