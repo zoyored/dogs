@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 378,
+    "count": 382,
     "categories": [
       "bike jöring",
       "canicross",
@@ -5220,6 +5220,32 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-01-10-la-corsa-della-bora-dog-friendly-non-competitive-routes-1032c0",
+      "date": "2027-01-10",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "La Corsa della Bora – dog-friendly non-competitive routes",
+      "category": [
+        "dog friendly trail"
+      ],
+      "distancesKm": [
+        4,
+        14.5,
+        23
+      ],
+      "elevationM": [
+        100,
+        413,
+        693
+      ],
+      "dogAccess": "dogs allowed on lead only in non-competitive Borin Family Hike & Trail and Half Trail",
+      "status": "source-confirmed 2027",
+      "notes": "Official 2027 regulations explicitly allow dogs on lead on S1 Borin 4 km, S1 Family Hike & Trail 14.5 km and the non-competitive S1 Half Trail 23 km; competitive distances exclude dogs.",
+      "primarySource": "https://www.s1trail.com/en/regolamento/",
+      "secondarySource": "https://www.s1trail.com/en/iscrizioni/",
+      "origin": "UTMB discovery sweep 2026-09-21"
+    },
+    {
       "id": "2027-01-15-lapland-quest-2027-a15a21",
       "date": "2027-01-15",
       "dateEnd": "2027-01-17",
@@ -5287,6 +5313,25 @@
       "primarySource": "https://www.maverick-race.com/products/2027/2027-01-16",
       "secondarySource": null,
       "origin": "source-master sweep round 2 2026-09-14"
+    },
+    {
+      "id": "2027-01-16-pilancones-tunte-trail-canicross-1ad579",
+      "date": "2027-01-16",
+      "dateEnd": null,
+      "country": "Spain",
+      "event": "Pilancones Tunte Trail – Canicross",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross category",
+      "status": "source-confirmed 2027",
+      "notes": "Official organiser confirms the 16 January 2027 event and a dedicated Canicross category; current accessible primary page does not publish the Canicross distance.",
+      "primarySource": "https://pilanconestuntetrail.es/",
+      "secondarySource": null,
+      "origin": "UTMB discovery sweep 2026-09-21",
+      "distanceText": "not published"
     },
     {
       "id": "2027-01-17-ccnl-bosschenhoofd-b0b6dd",
@@ -5705,6 +5750,28 @@
       "distanceText": "4.2 mile loops up to 12h"
     },
     {
+      "id": "2027-02-06-ultra-trail-des-fontaines-canitrail-10e32d",
+      "date": "2027-02-06",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Ultra Trail des Fontaines – Canitrail",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [
+        14
+      ],
+      "elevationM": [
+        470
+      ],
+      "dogAccess": "dedicated canitrail",
+      "status": "source-confirmed 2027",
+      "notes": "Official organiser confirms 14 km / 470 m+ Canitrail, dog water points and minimum dog age of 24 months.",
+      "primarySource": "https://www.utdf.fr/courses/canitrail-lot",
+      "secondarySource": null,
+      "origin": "UTMB discovery sweep 2026-09-21"
+    },
+    {
       "id": "2027-02-07-5-canicross-mud-glory-beroide-spoleto-8e1907",
       "date": "2027-02-07",
       "dateEnd": null,
@@ -5722,6 +5789,34 @@
       "secondarySource": null,
       "origin": "new European organizer sweep 2026-09-14 | European federation sweep 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2027-02-07-alpe-adria-ultra-trail-winter-dog-friendly-non-competitive-routes-8412fb",
+      "date": "2027-02-07",
+      "dateEnd": null,
+      "country": "Italy",
+      "event": "Alpe Adria Ultra Trail Winter – dog-friendly non-competitive routes",
+      "category": [
+        "dog friendly trail"
+      ],
+      "distancesKm": [
+        8,
+        10,
+        18,
+        25
+      ],
+      "elevationM": [
+        436,
+        305,
+        741,
+        1393
+      ],
+      "dogAccess": "dogs allowed on lead in non-competitive winter races",
+      "status": "source-confirmed 2027",
+      "notes": "Official 2027 regulations allow dogs on lead in the non-competitive winter formats: Grego 8, Valbruna 10, Saisera Crossing 18 and Dogna Crossing 25.",
+      "primarySource": "https://www.alpeadriaultra.com/en/regolamento/",
+      "secondarySource": null,
+      "origin": "UTMB discovery sweep 2026-09-21"
     },
     {
       "id": "2027-02-07-canicross-ireland-2026-27-event-5-860559",
