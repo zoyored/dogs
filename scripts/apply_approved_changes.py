@@ -41,19 +41,25 @@ def main():
         reader=csv.DictReader(f); fields=reader.fieldnames; rows=list(reader)
     if not fields: raise SystemExit("Master calendar has no header.")
 
+    grouped={}
+    for change in actionable:
+        grouped.setdefault(change["Proposal ID"],[]).append(change)
+
     applied=[]
-    for c in actionable:
-        pid=c["Proposal ID"]; field=c.get("Field","")
-        if field not in ALLOWED: raise SystemExit(f"{pid}: field not allowed: {field!r}")
+    for pid,patches in grouped.items():
         p=approved[pid]
         matches=[i for i,r in enumerate(rows) if r.get("Date")==p.get("Date") and r.get("Country")==p.get("Country") and r.get("Event")==p.get("Event")]
         if len(matches)!=1: raise SystemExit(f"{pid}: expected exactly one master row, found {len(matches)}")
-        i=matches[0]; old=rows[i].get(field,""); new=c.get("New value","")
-        if old==new: continue
-        rows[i][field]=new
-        if field!="Origin":
-            rows[i]["Origin"]=f"approved proposal {pid} {date.today()}"
-        applied.append((pid,field,old,new,c.get("Source","")))
+        i=matches[0]
+        for change in patches:
+            field=change.get("Field","")
+            if field not in ALLOWED: raise SystemExit(f"{pid}: field not allowed: {field!r}")
+            old=rows[i].get(field,""); new=change.get("New value","")
+            if old==new: continue
+            rows[i][field]=new
+            if field!="Origin":
+                rows[i]["Origin"]=f"approved proposal {pid} {date.today()}"
+            applied.append((pid,field,old,new,change.get("Source","")))
 
     if not applied:
         print("Approved patches produce no master changes.")
