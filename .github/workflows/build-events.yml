@@ -16,6 +16,8 @@ on:
       - ".github/workflows/build-events.yml"
       - "scripts/validate_events.py"
       - ".github/workflows/daily-event-validation.yml"
+      - "scripts/build_update_proposals.py"
+      - ".github/workflows/event-update-proposals.yml"
   push:
     branches:
       - main
