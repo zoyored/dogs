@@ -25,23 +25,27 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Enforce 05:30 Europe/Berlin for scheduled runs
-        if: github.event_name == 'schedule'
+      - name: Decide whether this UTC slot is 05:30 Europe/Berlin
+        id: timing
         run: |
-          test "$(TZ=Europe/Berlin date +%H:%M)" = "05:30" || {
-            echo "This UTC slot is not 05:30 Europe/Berlin; skipping."
-            exit 0
-          }
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$(TZ=Europe/Berlin date +%H:%M)" = "05:30" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
 
       - uses: actions/checkout@v4
+        if: steps.timing.outputs.run == 'true'
         with:
           ref: main
 
       - uses: actions/setup-python@v5
+        if: steps.timing.outputs.run == 'true'
         with:
           python-version: '3.12'
 
       - name: Validate events
+        if: steps.timing.outputs.run == 'true'
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.full }}" = "true" ]; then
             python scripts/validate_events.py --full
@@ -50,6 +54,7 @@ jobs:
           fi
 
       - name: Commit validation state
+        if: steps.timing.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
