@@ -1709,6 +1709,20 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
 URL:https://www.mushing.cz/race-proposition/default/1345
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-03-trail-du-cassoulet-canicross-5bfa61@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Trail du Cassoulet – Canicross
+LOCATION:France
+DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: dedicated canicr
+ oss\nStatus: source-confirmed 2026\nChrono-Start discovery followed by o
+ rganiser/regulation verification confirms a dedicated 5 km Canicross dur
+ ing the Trail du Cassoulet weekend in Verfeil.\nWeitere Quelle: https://
+ chrono-start.com/events/trail-du-cassoulet/
+URL:https://www.trailducassoulet.fr/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-03-crocs-de-la-vall-e-du-thouet-2-490f26@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261003
