@@ -1040,18 +1040,6 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 3.9
 URL:https://www.vul.fi/syksyn-kilpailukalenteri-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-12-ume-draget-f9d977@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260914
-SUMMARY:Umeådraget
-LOCATION:Sweden
-DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: Sweden BC
- D priority race\nStatus: current\nListed by Sweden BCD as a priority sel
- ection race for ICF WC 2027.
-URL:https://www.swedenbcd.se/
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-09-12-umedraget-2026-5ce0f7@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20260912
@@ -1064,6 +1052,18 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: 3-5\nH
  pproximately 3–5 km.\nWeitere Quelle: https://stayhappening.com/e/umedra
  get-2026-E2ISYR0F8WY
 URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=92
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-12-ume-draget-f9d977@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Umeådraget
+LOCATION:Sweden
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: Sweden BC
+ D priority race\nStatus: current\nListed by Sweden BCD as a priority sel
+ ection race for ICF WC 2027.
+URL:https://www.swedenbcd.se/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-woofest-7dc20a@sandsturm.com
@@ -1441,21 +1441,6 @@ URL:https://www.sleddog.no/next/events/p/1000169638/barmark-nittedalslope
  t
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-26-oebacka-barmark-dag-1-66de1b@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Öbacka barmark dag 1
-LOCATION:Sweden
-DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 2.8 
- km / 5 km\nHund: Härnösands DHK dryland race\nStatus: source-confirmed 2
- 026\nOfficial SDSF calendar confirms day 1 at Vårdkasen on 26 September\
- ; the paired event documentation confirms linlöpning\, scooter and cycle
-  classes with main routes around 5 and 2.8 km.\nWeitere Quelle: https://
- draghundsport.se/kalender/visa/default.aspx?tavlingsid=119
-URL:https://draghundsport.se/kalender/
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-09-26-roazhon-run-canicross-e50b2a@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20260926
@@ -1481,6 +1466,21 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: Yes\nStat
 URL:https://draghundsport.se/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-26-oebacka-barmark-dag-1-66de1b@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Öbacka barmark dag 1
+LOCATION:Sweden
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 2.8 
+ km / 5 km\nHund: Härnösands DHK dryland race\nStatus: source-confirmed 2
+ 026\nOfficial SDSF calendar confirms day 1 at Vårdkasen on 26 September\
+ ; the paired event documentation confirms linlöpning\, scooter and cycle
+  classes with main routes around 5 and 2.8 km.\nWeitere Quelle: https://
+ draghundsport.se/kalender/visa/default.aspx?tavlingsid=119
+URL:https://draghundsport.se/kalender/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-27-7e-canicross-de-bully-6bfc0a@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20260927
@@ -1491,6 +1491,19 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
   FFSLC canicross\nStatus: upcoming\nOfficial FFSLC calendar lists Canicr
  oss court and long.\nWeitere Quelle: https://courses.ffslc.fr/calendar
 URL:https://courses.ffslc.fr/calendar-map
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-27-traildog-ultimutt-4c9dd9@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:TRAILDOG UltiMutt
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: dedicated dog-ru
+ nning obstacle event\nStatus: source-confirmed 2026\nByerley Stud\, Wall
+ ridge\; timed 5 km dog/human obstacle event with canicross wave.\nWeiter
+ e Quelle: https://www.traildogevents.co.uk/events
+URL:https://www.traildogevents.co.uk/ultimutt
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-27-oebacka-barmark-dag-2-fa7a8f@sandsturm.com
@@ -1505,19 +1518,6 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 2.8
  ly lists linlöpning\, scooter and cycle classes\; MOTB1 about 5 km and M
  OTB2 about 2.8 km.
 URL:https://draghundsport.se/kalender/visa/default.aspx?tavlingsid=119
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-27-traildog-ultimutt-4c9dd9@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:TRAILDOG UltiMutt
-LOCATION:UK
-DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: dedicated dog-ru
- nning obstacle event\nStatus: source-confirmed 2026\nByerley Stud\, Wall
- ridge\; timed 5 km dog/human obstacle event with canicross wave.\nWeiter
- e Quelle: https://www.traildogevents.co.uk/events
-URL:https://www.traildogevents.co.uk/ultimutt
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-14e-challenge-canicrossbreizh-canicross-b2ec0c@sandsturm.c
@@ -1545,34 +1545,6 @@ DESCRIPTION:Kategorie: canitrail / canicross\nDistanz: not published (>9
  elle: https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-C
  anicross-Canitrail-Ski-joering.pdf
 URL:https://courses.ffslc.fr/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-03-crocs-de-la-vall-e-du-thouet-2-490f26@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-SUMMARY:À'crocs de la vallée du Thouet #2
-LOCATION:France
-DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
- les)\nHund: FFSLC event with Canitrail\nStatus: upcoming\nOfficial FFSLC
-  calendar lists Canitrail among the disciplines.\nWeitere Quelle: https:
- //ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Can
- itrail-Ski-joering.pdf
-URL:https://courses.ffslc.fr/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-03-crocs-de-la-vall-e-du-thouet-2-canicross-151e6a@sandsturm.
- com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-SUMMARY:À'crocs de la vallée du Thouet #2 – Canicross
-LOCATION:France
-DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
- icross event\nStatus: upcoming\nOfficial FFSLC calendar lists Canicross 
- long and other Canicross classes.\nWeitere Quelle: https://courses.ffslc
- .fr/calendar
-URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-alma-off-snow-2026-7b88ad@sandsturm.com
@@ -1750,6 +1722,34 @@ DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: dedicated canicr
  ing the Trail du Cassoulet weekend in Verfeil.\nWeitere Quelle: https://
  chrono-start.com/events/trail-du-cassoulet/
 URL:https://www.trailducassoulet.fr/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-crocs-de-la-vall-e-du-thouet-2-490f26@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:À'crocs de la vallée du Thouet #2
+LOCATION:France
+DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
+ les)\nHund: FFSLC event with Canitrail\nStatus: upcoming\nOfficial FFSLC
+  calendar lists Canitrail among the disciplines.\nWeitere Quelle: https:
+ //ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Can
+ itrail-Ski-joering.pdf
+URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-crocs-de-la-vall-e-du-thouet-2-canicross-151e6a@sandsturm.
+ com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:À'crocs de la vallée du Thouet #2 – Canicross
+LOCATION:France
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
+ icross event\nStatus: upcoming\nOfficial FFSLC calendar lists Canicross 
+ long and other Canicross classes.\nWeitere Quelle: https://courses.ffslc
+ .fr/calendar
+URL:https://courses.ffslc.fr/calendar-map
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-04-canicross-de-bourghelles-4e-dition-35d87e@sandsturm.com
@@ -2635,20 +2635,6 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-14-canitrail-deguzon-8f4177@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Canitrail d’Eguzon
-LOCATION:France
-DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
- les)\nHund: dedicated FFSLC canitrail\nStatus: upcoming\nOfficial FFSLC 
- calendar classifies this as Canitrail.\nWeitere Quelle: https://ffslc.fr
- /wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski
- -joering.pdf
-URL:https://courses.ffslc.fr/calendar
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-canitrail-des-ch-taignes-b09f2c@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261114
@@ -2661,6 +2647,20 @@ DESCRIPTION:Kategorie: canitrail\nDistanzen: 15 km\nHöhenmeter: 440 hm\nH
  00\; minimum dog age 24 months\; event full\, waitlist open.\nWeitere Qu
  elle: https://trail-des-chataignes.com/reglement-canitrail/
 URL:https://trail-des-chataignes.com/les-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-canitrail-deguzon-8f4177@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Canitrail d’Eguzon
+LOCATION:France
+DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
+ les)\nHund: dedicated FFSLC canitrail\nStatus: upcoming\nOfficial FFSLC 
+ calendar classifies this as Canitrail.\nWeitere Quelle: https://ffslc.fr
+ /wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski
+ -joering.pdf
+URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-crossdogs-donnersbergtrail-6fe981@sandsturm.com
