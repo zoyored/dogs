@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 382,
+    "count": 383,
     "categories": [
       "bike jöring",
       "canicross",
@@ -2748,6 +2748,26 @@
       "secondarySource": "https://www.mushing.cz/race/",
       "origin": "European federation sweep round 2 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-03-trail-du-cassoulet-canicross-5bfa61",
+      "date": "2026-10-03",
+      "dateEnd": "2026-10-04",
+      "country": "France",
+      "event": "Trail du Cassoulet – Canicross",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        5
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross",
+      "status": "source-confirmed 2026",
+      "notes": "Chrono-Start discovery followed by organiser/regulation verification confirms a dedicated 5 km Canicross during the Trail du Cassoulet weekend in Verfeil.",
+      "primarySource": "https://www.trailducassoulet.fr/",
+      "secondarySource": "https://chrono-start.com/events/trail-du-cassoulet/",
+      "origin": "timing-platform sweep 2026-09-21"
     },
     {
       "id": "2026-10-03-crocs-de-la-vall-e-du-thouet-2-490f26",
