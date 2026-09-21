@@ -151,8 +151,9 @@ SUMMARY:Maverick New Forest Gravel 2027
 LOCATION:UK
 DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 12 km / 22 km\nHöhe
  nmeter: 111 hm / 172 hm\nHund: dogs allowed with separate dog entry\nSta
- tus: dog entries sold out\nOfficial event page is dog-friendly with limi
- ted dog spaces\; 6 km option omitted here.
+ tus: dog entries sold out\nCurrent official Maverick page confirms 16 Ja
+ nuary 2027 and dog-friendly entry with dog places sold out\; 6 km option
+  remains omitted under calendar distance policy.
 URL:https://www.maverick-race.com/products/2027/2027-01-16
 END:VEVENT
 BEGIN:VEVENT
@@ -477,11 +478,12 @@ SUMMARY:Alpe Adria Ultra Trail Winter – dog-friendly non-competitive rout
 LOCATION:Italy
 DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 8 km / 10 km / 18 k
  m / 25 km\nHöhenmeter: 436 hm / 305 hm / 741 hm / 1393 hm\nHund: dogs al
- lowed on lead in non-competitive winter races\nStatus: source-confirmed 
- 2027\nOfficial 2027 regulations allow dogs on lead in the non-competitiv
- e winter formats: Grego 8\, Valbruna 10\, Saisera Crossing 18 and Dogna 
- Crossing 25.
-URL:https://www.alpeadriaultra.com/en/regolamento/
+ lowed in non-competitive winter races\nStatus: source-confirmed 2027\nOf
+ ficial 2027 event site confirms Winter Trail on 7 February and four dist
+ ances\; organiser FAQ explicitly permits running with a dog in the non-c
+ ompetitive Winter races.\nWeitere Quelle: https://www.alpeadriaultra.com
+ /faq/
+URL:https://www.alpeadriaultra.com/en/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-canicross-ireland-2026-27-event-5-860559@sandsturm.com
@@ -813,19 +815,7 @@ LOCATION:UK
 DESCRIPTION:Kategorie: canicross\nDistanz: 2.5 km laps up to 3h\nHund: de
  dicated canicross relay / solo\nStatus: registration announced\n3-hour e
  ndurance relay or solo challenge on 2.5 km laps at Bulwell Hall Park\, N
- ottingham.
-URL:https://www.runwithk9s.com/canicrossrelays
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-28-run-with-k9s-endurance-relay-e9bcec@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20270228
-DTEND;VALUE=DATE:20270301
-SUMMARY:Run With K9s – Endurance Relay
-LOCATION:UK
-DESCRIPTION:Kategorie: canicross\nDistanz: 2.5 km laps / 3h\nHund: dedica
- ted canicross endurance event\nStatus: registration open\nSolo or teams 
- of up to 3 complete as many 2.5 km laps as possible in 3 hours.
+ ottingham\; duplicate master row consolidated during semantic audit.
 URL:https://www.runwithk9s.com/canicrossrelays
 END:VEVENT
 BEGIN:VEVENT
@@ -1081,8 +1071,9 @@ SUMMARY:Maverick Hampshire Trail 2027
 LOCATION:UK
 DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 16 km / 24 km\nHöhe
  nmeter: 298 hm / 410 hm\nHund: dogs allowed with separate dog entry\nSta
- tus: registration open\nOfficial event page confirms dog-friendly entrie
- s\; 5 km option omitted here.
+ tus: registration open\nCurrent official Maverick page confirms 20 March
+  2027\, limited dog spaces and 16/24 km routes\; 5 km option remains omi
+ tted under calendar distance policy.
 URL:https://www.maverick-race.com/products/2027/2027-03-20
 END:VEVENT
 BEGIN:VEVENT
@@ -1199,18 +1190,6 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-03-dcf-dog-series-6-k9runners-mariager-e74516@sandsturm.com
-DTSTAMP:20260914T085651Z
-DTSTART;VALUE=DATE:20270403
-DTEND;VALUE=DATE:20270404
-SUMMARY:DCF Dog Series 6 – K9Runners Mariager
-LOCATION:Denmark
-DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
- blished\nHund: DCF Dog Series\nStatus: source-confirmed 2026/27\nOfficia
- l DCF 2026/27 calendar\; Mariager.
-URL:https://www.danskcanicross.dk/kalender
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-04-03-hapimag-v-r-vaggeryd-ff5fac@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270403
@@ -1229,8 +1208,9 @@ DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:K9Runners Mariager – DCF Dog Series 6
 LOCATION:Denmark
-DESCRIPTION:Kategorie: canicross\nHund: Danish Canicross Federation serie
- s\nStatus: announced\nOfficial DCF calendar\, Mariager.
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: Danish Ca
+ nicross Federation series\nStatus: announced\nOfficial DCF calendar conf
+ irms K9Runners Mariager Dog Series 6 in Mariager on 3 April 2027.
 URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
