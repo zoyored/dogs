@@ -136,3 +136,4 @@ Flags are a review queue, not proof that an event is wrong. Near-term and previo
 | 2027-04-25 | UK | Lakeland Paws – Whinlatter Tails Seat How Double Header | 200 | 2026-09-21 | event year/date not found on source |
 | 2027-05-22 | UK | Maverick Cotswolds Trail 2027 | 403 | 2026-09-21 | primary source unreachable: 403 |
 | 2027-02-07 | Italy | Alpe Adria Ultra Trail Winter – dog-friendly non-competitive routes | 200 | 2026-09-21 | dog discipline/access not found on source |
+
