@@ -5,27 +5,6 @@ on:
   pull_request:
     branches:
       - main
-    paths:
-      - "data/Canitrail_Masterkalender_2026_2027.csv"
-      - "data/source-master.csv"
-      - "data/event-candidates.csv"
-      - "data/events.json"
-      - "calendar/**"
-      - "scripts/build_events.py"
-      - "scripts/dedupe_master.py"
-      - ".github/workflows/build-events.yml"
-      - "scripts/validate_events.py"
-      - ".github/workflows/daily-event-validation.yml"
-      - "scripts/build_update_proposals.py"
-      - ".github/workflows/event-update-proposals.yml"
-      - "scripts/apply_approved_changes.py"
-      - ".github/workflows/create-approved-event-pr.yml"
-      - "data/event-approved-changes.csv"
-      - "data/event-validation.csv"
-      - "reports/event-validation/**"
-      - "data/event-update-proposals.csv"
-      - "scripts/review_event_proposal.py"
-      - ".github/workflows/review-event-proposal.yml"
   push:
     branches:
       - main
