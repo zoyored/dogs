@@ -1,0 +1,81 @@
+name: Review event proposal
+
+on:
+  workflow_dispatch:
+    inputs:
+      proposal_id:
+        description: "Proposal ID, e.g. EV-1234567890"
+        required: true
+        type: string
+      decision:
+        description: "Review decision"
+        required: true
+        type: choice
+        options:
+          - approve
+          - reject
+      field:
+        description: "Master field to change (required for approve)"
+        required: false
+        type: choice
+        options:
+          - Date
+          - Country
+          - Event
+          - Category
+          - Dog distance (km)
+          - Elevation (m+)
+          - Dog access
+          - Status
+          - Notes
+          - Primary source
+          - Secondary source
+          - Origin
+      new_value:
+        description: "New field value (required for approve)"
+        required: false
+        type: string
+      source:
+        description: "Evidence/source URL; defaults to proposal source"
+        required: false
+        type: string
+      note:
+        description: "Reviewer note"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Record decision
+        run: |
+          python scripts/review_event_proposal.py \
+            --proposal "${{ inputs.proposal_id }}" \
+            --decision "${{ inputs.decision }}" \
+            ${{ inputs.field && format('--field {0}', toJSON(inputs.field)) || '' }} \
+            ${{ inputs.new_value != '' && format('--value {0}', toJSON(inputs.new_value)) || '' }} \
+            ${{ inputs.source != '' && format('--source {0}', toJSON(inputs.source)) || '' }} \
+            ${{ inputs.note != '' && format('--note {0}', toJSON(inputs.note)) || '' }}
+      - name: Commit review decision
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/event-update-proposals.csv data/event-approved-changes.csv
+          git commit -m "Review event proposal ${{ inputs.proposal_id }}"
+          git push origin HEAD:main
+      - name: Start Phase 4 for approval
+        if: inputs.decision == 'approve'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run create-approved-event-pr.yml --ref main
