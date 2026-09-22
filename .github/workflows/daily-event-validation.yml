@@ -9,10 +9,9 @@ on:
         type: boolean
         default: false
   schedule:
-    # GitHub cron is UTC. Both entries are used so the guard below yields
-    # 05:30 Europe/Berlin in CET and CEST.
-    - cron: '30 3 * * *'
-    - cron: '30 4 * * *'
+    # Run daily in local Europe/Berlin time; 05:37 avoids the busiest cron boundaries.
+    - cron: '37 5 * * *'
+      timezone: 'Europe/Berlin'
 
 permissions:
   contents: write
@@ -26,27 +25,15 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Decide whether this UTC slot is 05:30 Europe/Berlin
-        id: timing
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$(TZ=Europe/Berlin date +%H:%M)" = "05:30" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-          fi
-
       - uses: actions/checkout@v4
-        if: steps.timing.outputs.run == 'true'
         with:
           ref: main
 
       - uses: actions/setup-python@v5
-        if: steps.timing.outputs.run == 'true'
         with:
           python-version: '3.12'
 
       - name: Validate events
-        if: steps.timing.outputs.run == 'true'
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.full }}" = "true" ]; then
             python scripts/validate_events.py --full
