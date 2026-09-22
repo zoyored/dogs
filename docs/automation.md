@@ -79,16 +79,13 @@ The phase numbering reflects the order in which the implementation was designed.
 
 ## Phase 1 — Full master source audit
 
-Phase 1 is the broad audit mechanism for checking the master calendar and its sources. It is intentionally conservative and must not directly change event data.
+Phase 1 is the broad audit mechanism for checking the complete master calendar and its sources. It is intentionally conservative and must not directly change event data.
 
-Relevant files:
+The former one-off `.github/workflows/full-master-source-audit.yml` workflow has been retired. Full audits now use the maintained Phase 2 validation workflow:
 
-- `scripts/audit_master_sources.py`
-- `.github/workflows/full-master-source-audit.yml`
+`.github/workflows/daily-event-validation.yml`
 
-Use Phase 1 for a broad/full source review rather than the bounded daily rotation.
-
-Note: the Phase 1 workflow predates the current protected-main pipeline and should be reviewed separately before relying on it as a routine production workflow.
+Run it manually from GitHub Actions and set `full=true`. This uses `scripts/validate_events.py --full` and follows the same protected-main review flow as the scheduled validation.
 
 ## Phase 2 — Daily event validation
 
@@ -100,7 +97,7 @@ Validator:
 
 `scripts/validate_events.py`
 
-The scheduled run targets 05:30 Europe/Berlin. GitHub cron uses UTC, so two UTC slots plus a timezone guard cover CET and CEST. A manual workflow dispatch is also available; the `full` input checks all master rows.
+The scheduled run targets 05:37 Europe/Berlin using the workflow's timezone-aware schedule. A manual workflow dispatch is also available; setting the `full` input to `true` checks all master rows.
 
 The normal daily run checks a bounded set of rows, default 25, while previously flagged rows and near-term events receive priority.
 
