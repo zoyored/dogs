@@ -3,7 +3,7 @@
 Run date: **2026-09-23**. Checked this run: **124** of **379** master rows.
 
 - Review queue: **124**
-- Source-content changes detected this run: **8**
+- Source-content changes detected this run: **0**
 - Master rows automatically changed/deleted: **0**
 
 Flags are a review queue, not proof that an event is wrong. Near-term and previously flagged events are prioritized.
@@ -20,7 +20,7 @@ Flags are a review queue, not proof that an event is wrong. Near-term and previo
 | 2026-03-21 to 2026-03-22 | Germany | VulCanicross – Bubeck Tour | 200 | 2026-09-23 | event name weak/not found on source |
 | 2026-04-04 to 2026-04-05 | France | 6e Canicross du Domaine de Givray | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2026-04-10 to 2026-04-12 | UK | RAID Cani-Trail | 404 | 2026-09-23 | primary source unreachable: 404 |
-| 2026-04-11 to 2026-04-12 | Slovakia | Bosorkin Canicross 2026 – spring round | 200 | 2026-09-23 | event name weak/not found on source; source content changed since previous check |
+| 2026-04-11 to 2026-04-12 | Slovakia | Bosorkin Canicross 2026 – spring round | 200 | 2026-09-23 | event name weak/not found on source |
 | 2026-04-25 to 2026-04-26 | France | Trophée d'Agy 2026 – Canitrail | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2026-04-25 to 2026-04-26 | Switzerland | Canitrail des Moines | 200 | 2026-09-23 | event name weak/not found on source |
 | 2026-05-02 to 2026-05-03 | France | 3e Castel'Canicross de Blangy le Château – Canicross | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
@@ -49,7 +49,7 @@ Flags are a review queue, not proof that an event is wrong. Near-term and previo
 | 2026-10-03 to 2026-10-04 | France | Canicross de la Meute – Canicross | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2026-10-03 to 2026-10-04 | France | À'crocs de la vallée du Thouet #2 | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2026-10-03 to 2026-10-04 | France | À'crocs de la vallée du Thouet #2 – Canicross | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
-| 2026-10-03 to 2026-10-04 | Poland | SKYLOS Twisted Trails – IFSS World Cup / Polish Cup | 200 | 2026-09-23 | event name weak/not found on source; source content changed since previous check |
+| 2026-10-03 to 2026-10-04 | Poland | SKYLOS Twisted Trails – IFSS World Cup / Polish Cup | 200 | 2026-09-23 | event name weak/not found on source |
 | 2026-10-04 | France | Canicross de Bourghelles – 4e édition | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2026-10-04 | France | Canitrail des Bagnards | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2026-10-10 to 2026-10-11 | France | ACCRO'RUN #5 – Canicross | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
@@ -95,7 +95,7 @@ Flags are a review queue, not proof that an event is wrong. Near-term and previo
 | 2026-12-12 to 2026-12-13 | France | Cross & Dog de Candé – Canicross | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2026-12-12 to 2026-12-13 | France | Cross & Dog de Candé – Canitrail de Candé | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2026-12-13 | France | Championnat régional Occitanie – Red Paws Race #2 – Canicross | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
-| 2027-01-03 | UK | Lakeland Paws – Grizedale Growl East Side | 200 | 2026-09-23 | event year/date not found on source; source content changed since previous check |
+| 2027-01-03 | UK | Lakeland Paws – Grizedale Growl East Side | 200 | 2026-09-23 | event year/date not found on source |
 | 2027-01-10 | France | Canicross de Cergy – L'île aux trésors | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2027-01-16 | UK | Maverick New Forest Gravel 2027 | 403 | 2026-09-23 | primary source unreachable: 403 |
 | 2027-01-24 | France | Canicross de l'XTREM – 5e édition | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
@@ -109,7 +109,7 @@ Flags are a review queue, not proof that an event is wrong. Near-term and previo
 | 2027-02-07 | France | Doggy Deûle Run #2 – Canicross | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2027-02-07 | France | La Canidé'forts – 4e édition – Canicross | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2027-02-07 | France | La Canidé’forts – 4e édition | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
-| 2027-02-07 | UK | Lakeland Paws – Whinlatter Tails South Side | 200 | 2026-09-23 | event year/date not found on source; source content changed since previous check |
+| 2027-02-07 | UK | Lakeland Paws – Whinlatter Tails South Side | 200 | 2026-09-23 | event year/date not found on source |
 | 2027-02-13 to 2027-02-14 | France | 5th Dirty Dog Race | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2027-02-13 to 2027-02-14 | France | 5th Dirty Dog Race – Canicross | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2027-02-13 to 2027-02-14 | France | Les Courses de l'Étang – Canicross | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
@@ -119,8 +119,8 @@ Flags are a review queue, not proof that an event is wrong. Near-term and previo
 | 2027-02-27 to 2027-02-28 | Germany | Schwabentrail – Canicross | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source |
 | 2027-02-28 | France | Interclub Manchois | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2027-02-28 | France | Interclub Manchois – Canicross | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
-| 2027-02-28 | UK | Fountains Abbey Wild Trail Runs | 200 | 2026-09-23 | dog discipline/access not found on source; source content changed since previous check |
-| 2027-03-07 | UK | Lakeland Paws – Tour de Grizedale | 200 | 2026-09-23 | event year/date not found on source; source content changed since previous check |
+| 2027-02-28 | UK | Fountains Abbey Wild Trail Runs | 200 | 2026-09-23 | dog discipline/access not found on source |
+| 2027-03-07 | UK | Lakeland Paws – Tour de Grizedale | 200 | 2026-09-23 | event year/date not found on source |
 | 2027-03-13 to 2027-03-14 | Germany | Vulcanicross – Canicross | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source |
 | 2027-03-20 | UK | Maverick Hampshire Trail 2027 | 403 | 2026-09-23 | primary source unreachable: 403 |
 | 2027-04-03 to 2027-04-04 | France | Canicross du Lac des Sapins | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
@@ -132,7 +132,7 @@ Flags are a review queue, not proof that an event is wrong. Near-term and previo
 | 2027-04-24 to 2027-04-25 | France | 4e Castel’Canicross de Blangy-le-Château | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2027-04-24 to 2027-04-25 | France | 4eme Castel'Canicross de Blangy le Château – Canitrail | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
 | 2027-04-24 to 2027-04-25 | France | Castel'Canicross de Blangy le Château – 4e | 200 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
-| 2027-04-24 | UK | Lakeland Paws – Dogs @ Dodd Double Header | 200 | 2026-09-23 | event year/date not found on source; source content changed since previous check |
-| 2027-04-25 | UK | Lakeland Paws – Whinlatter Tails Seat How Double Header | 200 | 2026-09-23 | event year/date not found on source; source content changed since previous check |
+| 2027-04-24 | UK | Lakeland Paws – Dogs @ Dodd Double Header | 200 | 2026-09-23 | event year/date not found on source |
+| 2027-04-25 | UK | Lakeland Paws – Whinlatter Tails Seat How Double Header | 200 | 2026-09-23 | event year/date not found on source |
 | 2027-05-22 | UK | Maverick Cotswolds Trail 2027 | 403 | 2026-09-23 | primary source unreachable: 403 |
 | 2027-02-07 | Italy | Alpe Adria Ultra Trail Winter – dog-friendly non-competitive routes | 202 | 2026-09-23 | event name weak/not found on source; event year/date not found on source; dog discipline/access not found on source |
