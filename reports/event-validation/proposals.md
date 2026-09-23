@@ -13,7 +13,7 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-2242C098A3 | 2026-03-07 to 2026-03-08 | France | Championnats de France Terre 2026 – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-4C7C2F1593 | 2026-03-21 to 2026-03-22 | Germany | VulCanicross – Bubeck Tour | verify-event-identity | medium | Event-name match against fetched source text is weak. |
 | EV-620C567F2A | 2026-04-04 to 2026-04-05 | France | 6e Canicross du Domaine de Givray | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-0D38CEBB71 | 2026-04-11 to 2026-04-12 | Slovakia | Bosorkin Canicross 2026 – spring round | review-source-change | medium | Source fingerprint changed since the previous validation. |
+| EV-0D38CEBB71 | 2026-04-11 to 2026-04-12 | Slovakia | Bosorkin Canicross 2026 – spring round | verify-event-identity | medium | Event-name match against fetched source text is weak. |
 | EV-60FEC38446 | 2026-04-25 to 2026-04-26 | France | Trophée d'Agy 2026 – Canitrail | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-F425D65410 | 2026-05-02 to 2026-05-03 | France | 3e Castel'Canicross de Blangy le Château – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-11AF8EF1D8 | 2026-05-08 to 2026-05-10 | UK | Mynydd Y Gaer Mountain Challenge | replace-source-or-confirm-cancelled | high | Primary source returns HTTP 404. |
@@ -41,7 +41,7 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-EB7A361D3B | 2026-10-03 to 2026-10-04 | France | Canicross de la Meute – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-2C0AD4E62B | 2026-10-03 to 2026-10-04 | France | À'crocs de la vallée du Thouet #2 | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-064C9804BD | 2026-10-03 to 2026-10-04 | France | À'crocs de la vallée du Thouet #2 – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-623CE85BAE | 2026-10-03 to 2026-10-04 | Poland | SKYLOS Twisted Trails – IFSS World Cup / Polish Cup | review-source-change | medium | Source fingerprint changed since the previous validation. |
+| EV-623CE85BAE | 2026-10-03 to 2026-10-04 | Poland | SKYLOS Twisted Trails – IFSS World Cup / Polish Cup | verify-event-identity | medium | Event-name match against fetched source text is weak. |
 | EV-6410EFA3BE | 2026-10-04 | France | Canicross de Bourghelles – 4e édition | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-9FD87CB6E3 | 2026-10-04 | France | Canitrail des Bagnards | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-785A8F3E91 | 2026-10-10 | France | Ouaffastienne et Maxiouaffastienne | verify-date | medium | Stored event year/date was not found in fetched source text. |
@@ -87,7 +87,7 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-E2F02BD9E6 | 2026-12-12 to 2026-12-13 | France | Cross & Dog de Candé – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-FE319FE9E2 | 2026-12-12 to 2026-12-13 | France | Cross & Dog de Candé – Canitrail de Candé | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-21A0FDE12F | 2026-12-13 | France | Championnat régional Occitanie – Red Paws Race #2 – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-74E2ECD66A | 2027-01-03 | UK | Lakeland Paws – Grizedale Growl East Side | review-source-change | medium | Source fingerprint changed since the previous validation. |
+| EV-74E2ECD66A | 2027-01-03 | UK | Lakeland Paws – Grizedale Growl East Side | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-35F95ED00D | 2027-01-10 | France | Canicross de Cergy – L'île aux trésors | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-9BE578D770 | 2027-01-16 | UK | Maverick New Forest Gravel 2027 | manual-source-check | medium | Automated access failed (403); do not infer an event change. |
 | EV-71E54C7DB3 | 2027-01-24 | France | Canicross de l'XTREM – 5e édition | verify-date | medium | Stored event year/date was not found in fetched source text. |
@@ -102,7 +102,7 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-29EE5DDBF0 | 2027-02-07 | France | La Canidé'forts – 4e édition – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-D0043A3D03 | 2027-02-07 | France | La Canidé’forts – 4e édition | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-958015A6C0 | 2027-02-07 | Italy | Alpe Adria Ultra Trail Winter – dog-friendly non-competitive routes | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-EB61F1A006 | 2027-02-07 | UK | Lakeland Paws – Whinlatter Tails South Side | review-source-change | medium | Source fingerprint changed since the previous validation. |
+| EV-EB61F1A006 | 2027-02-07 | UK | Lakeland Paws – Whinlatter Tails South Side | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-41485D2622 | 2027-02-13 to 2027-02-14 | France | 5th Dirty Dog Race | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-4ED45FC2FE | 2027-02-13 to 2027-02-14 | France | 5th Dirty Dog Race – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-B8AE2C9F28 | 2027-02-13 to 2027-02-14 | France | Les Courses de l'Étang – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
@@ -112,8 +112,8 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-975792F04C | 2027-02-27 to 2027-02-28 | Germany | Schwabentrail – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-D004C97C3E | 2027-02-28 | France | Interclub Manchois | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-C1416C1B6D | 2027-02-28 | France | Interclub Manchois – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-5ACEDA0271 | 2027-02-28 | UK | Fountains Abbey Wild Trail Runs | review-source-change | medium | Source fingerprint changed since the previous validation. |
-| EV-DAAA5F9B36 | 2027-03-07 | UK | Lakeland Paws – Tour de Grizedale | review-source-change | medium | Source fingerprint changed since the previous validation. |
+| EV-5ACEDA0271 | 2027-02-28 | UK | Fountains Abbey Wild Trail Runs | verify-dog-eligibility | medium | Dog discipline/access marker was not found in fetched source text. |
+| EV-DAAA5F9B36 | 2027-03-07 | UK | Lakeland Paws – Tour de Grizedale | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-F718EDB4AF | 2027-03-13 to 2027-03-14 | Germany | Vulcanicross – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-BD90C16588 | 2027-03-20 | UK | Maverick Hampshire Trail 2027 | manual-source-check | medium | Automated access failed (403); do not infer an event change. |
 | EV-7506099009 | 2027-04-03 | UK | Maverick East Sussex Trail 2027 | manual-source-check | medium | Automated access failed (403); do not infer an event change. |
@@ -121,10 +121,10 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-002537FB9C | 2027-04-10 to 2027-04-11 | France | Canicross XtremTrail de Brameloup | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-C1A77A754E | 2027-04-10 to 2027-04-11 | France | Canicross XtremTrail de Brameloup – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-93DAD6ECD6 | 2027-04-10 to 2027-04-11 | France | Canicross XtremTrail de Brameloup – Canitrail | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-BA13A6D6B3 | 2027-04-24 | UK | Lakeland Paws – Dogs @ Dodd Double Header | review-source-change | medium | Source fingerprint changed since the previous validation. |
+| EV-BA13A6D6B3 | 2027-04-24 | UK | Lakeland Paws – Dogs @ Dodd Double Header | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-E397130B40 | 2027-04-24 to 2027-04-25 | France | 4e Castel'Canicross de Blangy le Château – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-291F9B2CFD | 2027-04-24 to 2027-04-25 | France | 4e Castel’Canicross de Blangy-le-Château | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-320307ABC9 | 2027-04-24 to 2027-04-25 | France | 4eme Castel'Canicross de Blangy le Château – Canitrail | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-63F5CA4F02 | 2027-04-24 to 2027-04-25 | France | Castel'Canicross de Blangy le Château – 4e | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-C400598394 | 2027-04-25 | UK | Lakeland Paws – Whinlatter Tails Seat How Double Header | review-source-change | medium | Source fingerprint changed since the previous validation. |
+| EV-C400598394 | 2027-04-25 | UK | Lakeland Paws – Whinlatter Tails Seat How Double Header | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-00B9A0F4A9 | 2027-05-22 | UK | Maverick Cotswolds Trail 2027 | manual-source-check | medium | Automated access failed (403); do not infer an event change. |
