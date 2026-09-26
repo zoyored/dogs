@@ -1,6 +1,6 @@
 # Phase 3 event update proposals
 
-Generated: **2026-09-23**. Pending proposals: **122**.
+Generated: **2026-09-26**. Pending proposals: **122**.
 
 These are review proposals only. This process makes **no automatic master-calendar changes or deletions**.
 
@@ -13,7 +13,7 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-2242C098A3 | 2026-03-07 to 2026-03-08 | France | Championnats de France Terre 2026 – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-4C7C2F1593 | 2026-03-21 to 2026-03-22 | Germany | VulCanicross – Bubeck Tour | verify-event-identity | medium | Event-name match against fetched source text is weak. |
 | EV-620C567F2A | 2026-04-04 to 2026-04-05 | France | 6e Canicross du Domaine de Givray | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-0D38CEBB71 | 2026-04-11 to 2026-04-12 | Slovakia | Bosorkin Canicross 2026 – spring round | verify-event-identity | medium | Event-name match against fetched source text is weak. |
+| EV-0D38CEBB71 | 2026-04-11 to 2026-04-12 | Slovakia | Bosorkin Canicross 2026 – spring round | review-source-change | medium | Source fingerprint changed since the previous validation. |
 | EV-60FEC38446 | 2026-04-25 to 2026-04-26 | France | Trophée d'Agy 2026 – Canitrail | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-F425D65410 | 2026-05-02 to 2026-05-03 | France | 3e Castel'Canicross de Blangy le Château – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-11AF8EF1D8 | 2026-05-08 to 2026-05-10 | UK | Mynydd Y Gaer Mountain Challenge | replace-source-or-confirm-cancelled | high | Primary source returns HTTP 404. |
@@ -32,7 +32,7 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-6BF742555A | 2026-09-26 to 2026-09-27 | France | Canifadas de Gréolières | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-9E55453211 | 2026-09-26 to 2026-09-27 | France | Canifadas de Gréolières – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-5808C0B1BA | 2026-09-26 to 2026-09-27 | France | Roazhon Run – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-40F92CF22E | 2026-09-26 to 2026-09-27 | Switzerland | Canicross Yens | verify-event-identity | medium | Event-name match against fetched source text is weak. |
+| EV-40F92CF22E | 2026-09-26 to 2026-09-27 | Switzerland | Canicross Yens | review-source-change | medium | Source fingerprint changed since the previous validation. |
 | EV-0C6581E814 | 2026-09-27 | France | 7e Canicross de Bully | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-5271A35BF0 | 2026-10-03 to 2026-10-04 | Belgium | Genk – BCF Canicross | verify-event-identity | medium | Event-name match against fetched source text is weak. |
 | EV-C84B2940F8 | 2026-10-03 to 2026-10-04 | France | 14e Challenge Canicrossbreizh – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
@@ -41,7 +41,7 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-EB7A361D3B | 2026-10-03 to 2026-10-04 | France | Canicross de la Meute – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-2C0AD4E62B | 2026-10-03 to 2026-10-04 | France | À'crocs de la vallée du Thouet #2 | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-064C9804BD | 2026-10-03 to 2026-10-04 | France | À'crocs de la vallée du Thouet #2 – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-623CE85BAE | 2026-10-03 to 2026-10-04 | Poland | SKYLOS Twisted Trails – IFSS World Cup / Polish Cup | verify-event-identity | medium | Event-name match against fetched source text is weak. |
+| EV-623CE85BAE | 2026-10-03 to 2026-10-04 | Poland | SKYLOS Twisted Trails – IFSS World Cup / Polish Cup | review-source-change | medium | Source fingerprint changed since the previous validation. |
 | EV-6410EFA3BE | 2026-10-04 | France | Canicross de Bourghelles – 4e édition | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-9FD87CB6E3 | 2026-10-04 | France | Canitrail des Bagnards | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-785A8F3E91 | 2026-10-10 | France | Ouaffastienne et Maxiouaffastienne | verify-date | medium | Stored event year/date was not found in fetched source text. |
@@ -112,7 +112,7 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-975792F04C | 2027-02-27 to 2027-02-28 | Germany | Schwabentrail – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-D004C97C3E | 2027-02-28 | France | Interclub Manchois | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-C1416C1B6D | 2027-02-28 | France | Interclub Manchois – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-5ACEDA0271 | 2027-02-28 | UK | Fountains Abbey Wild Trail Runs | verify-dog-eligibility | medium | Dog discipline/access marker was not found in fetched source text. |
+| EV-5ACEDA0271 | 2027-02-28 | UK | Fountains Abbey Wild Trail Runs | review-source-change | medium | Source fingerprint changed since the previous validation. |
 | EV-DAAA5F9B36 | 2027-03-07 | UK | Lakeland Paws – Tour de Grizedale | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-F718EDB4AF | 2027-03-13 to 2027-03-14 | Germany | Vulcanicross – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-BD90C16588 | 2027-03-20 | UK | Maverick Hampshire Trail 2027 | manual-source-check | medium | Automated access failed (403); do not infer an event change. |
