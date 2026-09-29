@@ -1,6 +1,6 @@
 # Phase 3 event update proposals
 
-Generated: **2026-09-28**. Pending proposals: **121**.
+Generated: **2026-09-29**. Pending proposals: **121**.
 
 These are review proposals only. This process makes **no automatic master-calendar changes or deletions**.
 
@@ -13,7 +13,7 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-2242C098A3 | 2026-03-07 to 2026-03-08 | France | Championnats de France Terre 2026 – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-4C7C2F1593 | 2026-03-21 to 2026-03-22 | Germany | VulCanicross – Bubeck Tour | verify-event-identity | medium | Event-name match against fetched source text is weak. |
 | EV-620C567F2A | 2026-04-04 to 2026-04-05 | France | 6e Canicross du Domaine de Givray | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-0D38CEBB71 | 2026-04-11 to 2026-04-12 | Slovakia | Bosorkin Canicross 2026 – spring round | verify-event-identity | medium | Event-name match against fetched source text is weak. |
+| EV-0D38CEBB71 | 2026-04-11 to 2026-04-12 | Slovakia | Bosorkin Canicross 2026 – spring round | review-source-change | medium | Source fingerprint changed since the previous validation. |
 | EV-60FEC38446 | 2026-04-25 to 2026-04-26 | France | Trophée d'Agy 2026 – Canitrail | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-F425D65410 | 2026-05-02 to 2026-05-03 | France | 3e Castel'Canicross de Blangy le Château – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-11AF8EF1D8 | 2026-05-08 to 2026-05-10 | UK | Mynydd Y Gaer Mountain Challenge | replace-source-or-confirm-cancelled | high | Primary source returns HTTP 404. |
@@ -41,7 +41,7 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-EB7A361D3B | 2026-10-03 to 2026-10-04 | France | Canicross de la Meute – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-2C0AD4E62B | 2026-10-03 to 2026-10-04 | France | À'crocs de la vallée du Thouet #2 | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-064C9804BD | 2026-10-03 to 2026-10-04 | France | À'crocs de la vallée du Thouet #2 – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-623CE85BAE | 2026-10-03 to 2026-10-04 | Poland | SKYLOS Twisted Trails – IFSS World Cup / Polish Cup | verify-event-identity | medium | Event-name match against fetched source text is weak. |
+| EV-623CE85BAE | 2026-10-03 to 2026-10-04 | Poland | SKYLOS Twisted Trails – IFSS World Cup / Polish Cup | review-source-change | medium | Source fingerprint changed since the previous validation. |
 | EV-6410EFA3BE | 2026-10-04 | France | Canicross de Bourghelles – 4e édition | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-9FD87CB6E3 | 2026-10-04 | France | Canitrail des Bagnards | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-785A8F3E91 | 2026-10-10 | France | Ouaffastienne et Maxiouaffastienne | verify-date | medium | Stored event year/date was not found in fetched source text. |
