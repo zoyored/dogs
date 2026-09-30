@@ -1,6 +1,6 @@
 # Phase 3 event update proposals
 
-Generated: **2026-09-29**. Pending proposals: **121**.
+Generated: **2026-09-30**. Pending proposals: **121**.
 
 These are review proposals only. This process makes **no automatic master-calendar changes or deletions**.
 
@@ -9,7 +9,7 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-8A6F6D89F7 | 2026-01-11 | France | Canicross de Cergy – L'île aux trésors | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-34332DB5BE | 2026-01-17 | Austria | MOUNTAINMAN Wintertrail Mittersill-KitzSki | verify-dog-eligibility | medium | Dog discipline/access marker was not found in fetched source text. |
 | EV-9C2366FCAC | 2026-01-24 to 2026-01-25 | France | CANI TROPHY FONTAINEBLEAU 2026 – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-CE7FEEB460 | 2026-02-08 | France | Trail des Fontaines | verify-date | medium | Stored event year/date was not found in fetched source text. |
+| EV-CE7FEEB460 | 2026-02-08 | France | Trail des Fontaines | manual-review | low | primary source unreachable: 500 |
 | EV-2242C098A3 | 2026-03-07 to 2026-03-08 | France | Championnats de France Terre 2026 – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-4C7C2F1593 | 2026-03-21 to 2026-03-22 | Germany | VulCanicross – Bubeck Tour | verify-event-identity | medium | Event-name match against fetched source text is weak. |
 | EV-620C567F2A | 2026-04-04 to 2026-04-05 | France | 6e Canicross du Domaine de Givray | verify-date | medium | Stored event year/date was not found in fetched source text. |
@@ -111,7 +111,7 @@ These are review proposals only. This process makes **no automatic master-calend
 | EV-975792F04C | 2027-02-27 to 2027-02-28 | Germany | Schwabentrail – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-D004C97C3E | 2027-02-28 | France | Interclub Manchois | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-C1416C1B6D | 2027-02-28 | France | Interclub Manchois – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
-| EV-5ACEDA0271 | 2027-02-28 | UK | Fountains Abbey Wild Trail Runs | verify-dog-eligibility | medium | Dog discipline/access marker was not found in fetched source text. |
+| EV-5ACEDA0271 | 2027-02-28 | UK | Fountains Abbey Wild Trail Runs | review-source-change | medium | Source fingerprint changed since the previous validation. |
 | EV-DAAA5F9B36 | 2027-03-07 | UK | Lakeland Paws – Tour de Grizedale | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-F718EDB4AF | 2027-03-13 to 2027-03-14 | Germany | Vulcanicross – Canicross | verify-date | medium | Stored event year/date was not found in fetched source text. |
 | EV-BD90C16588 | 2027-03-20 | UK | Maverick Hampshire Trail 2027 | manual-source-check | medium | Automated access failed (403); do not infer an event change. |
