@@ -2555,11 +2555,11 @@ DTEND;VALUE=DATE:20261109
 SUMMARY:Visbek – Canicross
 LOCATION:Germany
 DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV dryl
- and Mono / Canicross\nStatus: upcoming\nCurrent Zughunde-NDS and SSVN 20
- 26/27 calendars confirm VDSV Visbek on 7–8 November 2026\; Mono/Canicros
- s retained from VDSV race classification.\nWeitere Quelle: https://ssvno
- rd.de/
-URL:https://www.zughunde-nds.de/events-und-ergebnisse/
+ and Mono / Canicross\nStatus: upcoming\nOfficial VDSV event page confirm
+ s the 5th Visbek sled-dog race on 7–8 November 2026\; Mono/Canicross ret
+ ained from VDSV race classification.\nWeitere Quelle: https://www.zughun
+ de-nds.de/events-und-ergebnisse/
+URL:https://vdsv.de/kalender/81/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-canicross-deschau-34cbbf@sandsturm.com
@@ -2696,11 +2696,11 @@ DTEND;VALUE=DATE:20261116
 SUMMARY:Ströhen – Canicross
 LOCATION:Germany
 DESCRIPTION:Kategorie: canicross\nDistanzen: 6 km\nHund: VDSV dryland rac
- e\; single-dog/Mono classes\nStatus: upcoming\nTierpark Ströhen confirms
-  annual SSV-SO sled-dog race on 14–15 November 2026 on an approximately 
- 6 km course with multiple classes including single starts.\nWeitere Quel
- le: https://www.zughunde-nds.de/events-und-ergebnisse/
-URL:https://tierpark-stroehen.de/veranstaltungen
+ e\; single-dog/Mono classes\nStatus: upcoming\nOfficial VDSV event page 
+ confirms Ströhen on 14–15 November 2026\; the existing distance and sing
+ le-dog/Mono classification remain based on the organizer evidence.\nWeit
+ ere Quelle: https://tierpark-stroehen.de/veranstaltungen
+URL:https://vdsv.de/kalender/82/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-canicross-genendijk-eb401e@sandsturm.com
@@ -2952,9 +2952,10 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Silberbergtrail Wingst – Canicross
 LOCATION:Germany
 DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV dryl
- and Mono / Canicross\nStatus: upcoming\nVDSV dryland race with Mono clas
- ses.
-URL:https://vdsv.de/kalender/
+ and Mono / Canicross\nStatus: upcoming\nOfficial VDSV event page confirm
+ s Silberbergtrail Wingst on 5–6 December 2026\; Mono/Canicross retained 
+ from VDSV race classification.
+URL:https://vdsv.de/kalender/87/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-strassdorfer-staufertrail-canicross-f5b6b1@sandsturm.com
@@ -2964,9 +2965,12 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Straßdorfer Staufertrail – Canicross
 LOCATION:Germany
 DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV dryl
- and Mono / Canicross\nStatus: upcoming\nVDSV dryland race with Mono clas
- ses.
-URL:https://vdsv.de/kalender/
+ and Mono / Canicross\nStatus: upcoming\nOfficial City of Schwäbisch Gmün
+ d event page confirms the 3rd Straßdorfer Staufertrail on 5–6 December 2
+ 026\; Mono/Canicross retained from VDSV race classification.\nWeitere Qu
+ elle: https://www.ssbw.de/unsere-rennen/strasdorfer-staufertrail/
+URL:https://www.schwaebisch-gmuend.de/veranstaltung/3-strassdorfer-staufe
+ rtrail-zughunderennen-in-schwaebisch-gmuend-strassdorf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-verrie-speed-dogs-2-canicross-3a1472@sandsturm.com

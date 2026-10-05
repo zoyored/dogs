@@ -4058,10 +4058,10 @@
       "elevationM": [],
       "dogAccess": "VDSV dryland Mono / Canicross",
       "status": "upcoming",
-      "notes": "Current Zughunde-NDS and SSVN 2026/27 calendars confirm VDSV Visbek on 7–8 November 2026; Mono/Canicross retained from VDSV race classification.",
-      "primarySource": "https://www.zughunde-nds.de/events-und-ergebnisse/",
-      "secondarySource": "https://ssvnord.de/",
-      "origin": "semantic audit 2026-09-21",
+      "notes": "Official VDSV event page confirms the 5th Visbek sled-dog race on 7–8 November 2026; Mono/Canicross retained from VDSV race classification.",
+      "primarySource": "https://vdsv.de/kalender/81/",
+      "secondarySource": "https://www.zughunde-nds.de/events-und-ergebnisse/",
+      "origin": "web verification 2026-10-05",
       "distanceText": "not published"
     },
     {
@@ -4275,10 +4275,10 @@
       "elevationM": [],
       "dogAccess": "VDSV dryland race; single-dog/Mono classes",
       "status": "upcoming",
-      "notes": "Tierpark Ströhen confirms annual SSV-SO sled-dog race on 14–15 November 2026 on an approximately 6 km course with multiple classes including single starts.",
-      "primarySource": "https://tierpark-stroehen.de/veranstaltungen",
-      "secondarySource": "https://www.zughunde-nds.de/events-und-ergebnisse/",
-      "origin": "semantic audit 2026-09-21"
+      "notes": "Official VDSV event page confirms Ströhen on 14–15 November 2026; the existing distance and single-dog/Mono classification remain based on the organizer evidence.",
+      "primarySource": "https://vdsv.de/kalender/82/",
+      "secondarySource": "https://tierpark-stroehen.de/veranstaltungen",
+      "origin": "web verification 2026-10-05"
     },
     {
       "id": "2026-11-15-canicross-genendijk-eb401e",
@@ -4645,10 +4645,10 @@
       "elevationM": [],
       "dogAccess": "VDSV dryland Mono / Canicross",
       "status": "upcoming",
-      "notes": "VDSV dryland race with Mono classes.",
-      "primarySource": "https://vdsv.de/kalender/",
+      "notes": "Official VDSV event page confirms Silberbergtrail Wingst on 5–6 December 2026; Mono/Canicross retained from VDSV race classification.",
+      "primarySource": "https://vdsv.de/kalender/87/",
       "secondarySource": null,
-      "origin": "VDSV Canicross import 2026-09-12",
+      "origin": "web verification 2026-10-05",
       "distanceText": "not published"
     },
     {
@@ -4664,10 +4664,10 @@
       "elevationM": [],
       "dogAccess": "VDSV dryland Mono / Canicross",
       "status": "upcoming",
-      "notes": "VDSV dryland race with Mono classes.",
-      "primarySource": "https://vdsv.de/kalender/",
-      "secondarySource": null,
-      "origin": "VDSV Canicross import 2026-09-12",
+      "notes": "Official City of Schwäbisch Gmünd event page confirms the 3rd Straßdorfer Staufertrail on 5–6 December 2026; Mono/Canicross retained from VDSV race classification.",
+      "primarySource": "https://www.schwaebisch-gmuend.de/veranstaltung/3-strassdorfer-staufertrail-zughunderennen-in-schwaebisch-gmuend-strassdorf.html",
+      "secondarySource": "https://www.ssbw.de/unsere-rennen/strasdorfer-staufertrail/",
+      "origin": "web verification 2026-10-05",
       "distanceText": "not published"
     },
     {
