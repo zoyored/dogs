@@ -59,9 +59,40 @@ jobs:
           echo "branch=$branch" >> "$GITHUB_OUTPUT"
       - name: Open validation state PR
         if: steps.commit.outputs.changed == 'true'
+        id: pr
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh pr create --base main --head "${{ steps.commit.outputs.branch }}" \
+          pr_url="$(gh pr create --base main --head "${{ steps.commit.outputs.branch }}" \
             --title "Update daily event validation" \
-            --body "Automated Phase 2 validation state update. Merge after the required feed validation check passes."
+            --body "Automated Phase 2 validation state update. This PR is merged automatically after the required feed validation check passes. If the check fails, the PR remains open for manual review.")"
+          echo "url=$pr_url" >> "$GITHUB_OUTPUT"
+
+      - name: Wait for required validation check
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh pr checks "${{ steps.pr.outputs.url }}" --required --watch --interval 10
+
+      - name: Merge successful validation state
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh pr merge "${{ steps.pr.outputs.url }}" --squash --delete-branch
+
+      - name: Close superseded validation PRs
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CURRENT_PR: ${{ steps.pr.outputs.url }}
+        run: |
+          current_number="${CURRENT_PR##*/}"
+          gh pr list --state open --base main \
+            --json number,headRefName,title \
+            --jq '.[] | select(.title == "Update daily event validation") | select(.headRefName | startswith("automation/event-validation-")) | [.number, .headRefName] | @tsv' |
+          while IFS=\t' read -r number branch; do
+            [ -n "$number" ] || continue
+            [ "$number" = "$current_number" ] && continue
+            gh pr close "$number" --delete-branch \
+              --comment "Superseded by successful daily validation PR #$current_number."
+          done
