@@ -130,7 +130,9 @@ and opens the PR:
 
 `Update daily event validation`
 
-The validation state reaches `main` only after the required check passes and the PR is merged.
+The workflow waits for the required feed-validation check and automatically merges a successful validation-state PR. If the required check fails, the PR remains open for manual investigation. After a successful merge, older open validation-state PRs are closed and their automation branches are deleted because every run starts from the current `main` state.
+
+A transient validation result is therefore self-healing: when the same event is checked successfully on a later day, its previous review flag is cleared by the validator and the corrected state is merged automatically. Only unresolved review flags continue into the proposal queue; master-calendar rows are never changed by this step.
 
 ## Phase 3 — Build event update proposals
 
@@ -311,11 +313,12 @@ This check is required on the protected `main` branch for the automation-state P
 ### Daily validation
 
 1. Phase 2 runs automatically.
-2. Review the `Update daily event validation` PR.
-3. Wait for `Validate event data and generated feeds` to pass.
-4. Merge the validation PR.
-5. Phase 3 automatically builds proposals.
-6. Review and merge the proposal-queue PR after its required check passes.
+2. The workflow opens a short-lived `Update daily event validation` PR.
+3. `Validate event data and generated feeds` checks the generated state.
+4. A successful PR is merged automatically; a failed PR remains open for manual investigation.
+5. Older validation PRs made obsolete by a later successful run are closed automatically.
+6. Phase 3 automatically builds proposals from the merged validation state.
+7. Review and merge the proposal-queue PR after its required check passes.
 
 ### Reviewing a proposal
 
