@@ -194,6 +194,22 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
 URL:https://www.hsvrm.de/sportangebote/turnierhundsport/aktuell/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-22-wsa-world-championship-sprint-mid-distance-unterjoch-445f9
+ 0@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270125
+SUMMARY:WSA World Championship Sprint & Mid-Distance – Unterjoch
+LOCATION:Germany
+DESCRIPTION:Kategorie: ski jöring / sledge\nDistanz: not published\nHund:
+  WSA on-snow World Championship Sprint and Mid-Distance\nStatus: announc
+ ed\nOfficial WSA sources confirm Unterjoch on 22–24 January 2027\; the W
+ orld Trophy calendar names 29–31 January as the replacement weekend.\nWe
+ itere Quelle: https://worldtrophy.wsa-sleddog.com/?page_id=332
+URL:https://www.wsa-sleddog.com/en/?catid=2&id=129%3Awsa-world-championsh
+ ips-sprint-mid-distance-2027-en&view=article
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-23-danmarksmesterskab-dcf-dog-series-3-9d1024@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270123
@@ -720,6 +736,20 @@ DESCRIPTION:Kategorie: ski jöring / pulka\nDistanz: not published\nHund:
 URL:https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-25-wsa-long-distance-world-championships-stroemsund-53d981@sa
+ ndsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270301
+SUMMARY:WSA Long Distance World Championships – Strömsund
+LOCATION:Sweden
+DESCRIPTION:Kategorie: sledge\nDistanz: not published\nHund: WSA on-snow 
+ World Championship Long Distance\nStatus: announced\nOfficial WSA events
+  calendar confirms the Long Distance World Championships in Strömsund on
+  25–28 February 2027\; further event details remain to be published.
+URL:https://www.wsa-sleddog.com/en/events
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-27-crossdog-on-the-beach-fb8d9b@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270227
@@ -905,6 +935,19 @@ DESCRIPTION:Kategorie: ski jöring / sledge\nDistanzen: 5 km / 6 km / 10 k
  source page contains a year typo but calendar placement and season ident
  ify 2027.
 URL:https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-sportgastein-wsa-world-trophy-9abd43@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270308
+SUMMARY:Sportgastein – WSA World Trophy
+LOCATION:Austria
+DESCRIPTION:Kategorie: ski jöring / sledge\nDistanz: not published\nHund:
+  WSA World Trophy on-snow race\nStatus: announced\nOfficial WSA World Tr
+ ophy calendar lists Sportgastein on 6–7 March 2027\; individual class de
+ tails remain to be published.
+URL:https://worldtrophy.wsa-sleddog.com/?page_id=332
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-tatton-park-wild-trail-runs-e947cf@sandsturm.com
@@ -1197,8 +1240,10 @@ DTEND;VALUE=DATE:20270405
 SUMMARY:Hapimag Vår Vaggeryd
 LOCATION:Sweden
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: Sweden BC
- D priority race\nStatus: announced\nListed by Sweden BCD as priority sel
- ection race for ICF WC 2027.
+ D priority race\; WSA World Trophy\nStatus: announced\nListed by Sweden 
+ BCD as an ICF WC priority selection race and by WSA as the final World T
+ rophy weekend.\nWeitere Quelle: https://worldtrophy.wsa-sleddog.com/?pag
+ e_id=332
 URL:https://www.swedenbcd.se/
 END:VEVENT
 BEGIN:VEVENT
