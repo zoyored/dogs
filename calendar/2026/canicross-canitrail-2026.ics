@@ -2737,12 +2737,13 @@ DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261123
 SUMMARY:WSA WM Ströhen – Canicross / Mono
 LOCATION:Germany
-DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV/WSA 
- dryland Mono event\nStatus: upcoming\nOfficial VDSV event page and Tierp
- ark Ströhen confirm WSA Dryland World Championship on 19–22 November 202
- 6\; VDSV classifies it as Dryland Gespanne/Mono.\nWeitere Quelle: https:
- //tierpark-stroehen.de/veranstaltungen
-URL:https://vdsv.de/Veranstaltung/stroehen-2024-2-2/
+DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: WSA Dryla
+ nd World Championship Mono event\nStatus: upcoming\nOfficial WSA World T
+ rophy calendar confirms the championship event window in Ströhen on 19–2
+ 2 November 2026\; WSA lists the competition on 20–22 November and Tierpa
+ rk Ströhen confirms the venue.\nWeitere Quelle: https://tierpark-stroehe
+ n.de/veranstaltungen
+URL:https://worldtrophy.wsa-sleddog.com/?page_id=332
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-canicross-coucy-la-ville-33bbae@sandsturm.com
