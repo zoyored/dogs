@@ -99,7 +99,7 @@ Validator:
 
 The scheduled run targets 05:37 Europe/Berlin using the workflow's timezone-aware schedule. A manual workflow dispatch is also available; setting the `full` input to `true` checks all master rows.
 
-The normal daily run checks a bounded set of rows, default 25, while previously flagged rows and near-term events receive priority.
+The normal daily run checks every previously flagged row and at least 25 rows in total. After flagged rows, events within the next 60 days and the least recently checked rows receive priority. A growing review queue can therefore make a daily run larger than 25 rows.
 
 The validator records, among other things:
 
@@ -133,6 +133,8 @@ and opens the PR:
 The workflow waits for the required feed-validation check and automatically merges a successful validation-state PR. If the required check fails, the PR remains open for manual investigation. After a successful merge, older open validation-state PRs are closed and their automation branches are deleted because every run starts from the current `main` state.
 
 A transient validation result is therefore self-healing: when the same event is checked successfully on a later day, its previous review flag is cleared by the validator and the corrected state is merged automatically. Only unresolved review flags continue into the proposal queue; master-calendar rows are never changed by this step.
+
+The scheduled GitHub workflow is the sole production scheduler for source validation. The former external host watchdog/failover is retired and is not required for normal operation. If a scheduled run itself is missing, investigate GitHub Actions directly; this repository does not maintain an external failover service.
 
 ## Phase 3 — Build event update proposals
 
@@ -317,8 +319,9 @@ This check is required on the protected `main` branch for the automation-state P
 3. `Validate event data and generated feeds` checks the generated state.
 4. A successful PR is merged automatically; a failed PR remains open for manual investigation.
 5. Older validation PRs made obsolete by a later successful run are closed automatically.
-6. Phase 3 automatically builds proposals from the merged validation state.
-7. Review and merge the proposal-queue PR after its required check passes.
+6. Phase 3 automatically rebuilds the proposal queue from the merged validation state and opens a PR if the queue changed.
+7. Resolved validation findings are omitted from the rebuilt queue.
+8. Review and merge the proposal-queue PR after its required check passes. Investigate unresolved findings before accepting any master-calendar change.
 
 ### Reviewing a proposal
 
@@ -401,6 +404,10 @@ The current validator uses deterministic text matching. Some `verify-date` and `
 A reject may rewrite `data/event-approved-changes.csv` even when its logical contents remain empty or unchanged, for example because of newline normalization. Since Phase 4 watches that file on `main`, the workflow can start unnecessarily.
 
 This is safe because `apply_approved_changes.py` detects that there is no actionable approved patch and creates no calendar PR. It is nevertheless unnecessary work and should be cleaned up by avoiding no-op rewrites of the approved-change file.
+
+### Proposal-queue cleanup still uses a PR
+
+Phase 2 validation-state PRs are merged automatically after a successful required check. Phase 3 currently opens a proposal-queue PR whenever its generated files change, including when a later successful validation removes a resolved proposal. That PR is not auto-merged by the current workflow. Fully automatic cleanup of resolved proposals remains follow-up work; unresolved findings must continue to require human review.
 
 ### Source disappearance
 

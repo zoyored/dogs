@@ -1,75 +1,86 @@
 # Canicross & Canitrail Event Calendar
 
-Öffentlicher Kalender für Canicross-, Canitrail- und hundefreundliche Trail-Veranstaltungen mit Schwerpunkt Europa.
+Public calendar of Canicross, Canitrail, dog-trail and other dog-sport events, with a focus on Europe.
 
-## Mitmachen
+## Contributing
 
-Hinweise, Korrekturen und neue Veranstaltungen aus der Community sind ausdrücklich willkommen. Änderungen an den Kalenderdaten sollen über **Issues oder Pull Requests** eingebracht werden. Der Branch `main` ist die veröffentlichte Datenquelle; Änderungen werden vor der Übernahme geprüft.
+Community reports, corrections and new events are welcome. Submit calendar changes through **Issues or Pull Requests** and include a reliable source whenever possible. The `main` branch is the published source of truth; changes are reviewed before they are merged.
 
-Details zum Ablauf stehen in [CONTRIBUTING.md](CONTRIBUTING.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the complete workflow.
 
-## Kalender abonnieren
+## Subscribe to the calendars
 
-Die erzeugten iCalendar-Dateien liegen im Verzeichnis `calendar/`.
+The generated iCalendar feeds are stored in `calendar/` and published through GitHub Pages:
 
-2026:
-`https://zoyored.github.io/dogs/calendar/2026/canicross-canitrail-2026.ics`
+- 2026: `https://zoyored.github.io/dogs/calendar/2026/canicross-canitrail-2026.ics`
+- 2027: `https://zoyored.github.io/dogs/calendar/2027/canicross-canitrail-2027.ics`
 
-2027:
-`https://zoyored.github.io/dogs/calendar/2027/canicross-canitrail-2027.ics`
+On iPhone and iPad, add these URLs as subscribed calendars. Future feed updates are published at the same URLs.
 
-Auf iPhone/iPad können diese URLs als abonnierte Kalender hinzugefügt werden. Änderungen an den erzeugten ICS-Dateien werden anschließend über dieselben URLs veröffentlicht.
+> The `/dogs/` URL segment comes from the repository name `zoyored/dogs`; it is not an additional repository directory.
 
-> Hinweis: Der URL-Bestandteil `/dogs/` stammt vom Repository-Namen `zoyored/dogs`. Er bezeichnet kein Unterverzeichnis `dogs/` im Repository.
-
-## Repository-Struktur
+## Repository layout
 
 ```text
 .
-├── .github/workflows/build-events.yml
+├── .github/workflows/
+│   ├── build-events.yml
+│   ├── create-approved-event-pr.yml
+│   ├── daily-event-validation.yml
+│   ├── event-update-proposals.yml
+│   └── review-event-proposal.yml
 ├── calendar/
 ├── data/
 │   ├── Canitrail_Masterkalender_2026_2027.csv
+│   ├── event-approved-changes.csv
+│   ├── event-update-proposals.csv
+│   ├── event-validation.csv
 │   ├── events.json
 │   └── source-master.csv
+├── docs/
+│   ├── automation.md
+│   └── dedupe-policy.md
+├── reports/event-validation/
 ├── scripts/
+│   ├── apply_approved_changes.py
 │   ├── build_events.py
-│   └── dedupe_master.py
+│   ├── build_update_proposals.py
+│   ├── dedupe_master.py
+│   ├── review_event_proposal.py
+│   └── validate_events.py
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
 ```
 
-## Datenfluss
+## Data flow
 
-`data/Canitrail_Masterkalender_2026_2027.csv` ist die zentrale Datenquelle.
+`data/Canitrail_Masterkalender_2026_2027.csv` is the authoritative event source.
 
-Zu jeder Änderung an den Eventdaten werden die abgeleiteten Dateien bereits im selben Pull Request erzeugt und mit eingecheckt:
+Every event-data change must include the derived files in the same Pull Request:
 
-1. `python scripts/dedupe_master.py` prüft und bereinigt doppelte Events.
-2. `python scripts/build_events.py` erzeugt `data/events.json` und die ICS-Dateien unter `calendar/<Jahr>/`.
-3. Der GitHub-Actions-Workflow `Validate event feeds` führt dieselben Prüfungen erneut in einer schreibgeschützten Umgebung aus.
-4. Nur wenn Masterdaten und generierte Dateien konsistent sind, ist die Validierung erfolgreich.
-5. Nach dem geprüften Merge enthält `main` sofort die vollständige, veröffentlichungsfähige Version.
+1. `python scripts/dedupe_master.py` checks and normalizes duplicate events.
+2. `python scripts/build_events.py` generates `data/events.json` and the ICS files below `calendar/<year>/`.
+3. The read-only GitHub Actions workflow `Validate event feeds` repeats those checks.
+4. Validation succeeds only when the master data and committed generated files are consistent.
+5. After review and merge, `main` immediately contains a complete publishable version.
 
-Der Workflow besitzt nur `contents: read` und schreibt **nicht** selbst nach `main`. Dadurch kann `main` geschützt werden, ohne dass die Automatisierung eine Ausnahme mit Schreibrechten benötigt.
+The generated files `data/events.json` and `calendar/**/*.ics` must not be edited manually.
 
-Die Dateien `data/events.json` und `calendar/**/*.ics` sind generierte Dateien und sollten nicht manuell editiert werden.
+## Source and event maintenance
 
-## Datenpflege
+- Add or correct events in `data/Canitrail_Masterkalender_2026_2027.csv`.
+- Maintain federation, organiser and discovery sources in `data/source-master.csv`.
+- Treat automated validation findings as review signals, not proof that an event is incorrect or cancelled.
 
-Neue und korrigierte Veranstaltungen werden ausschließlich im Masterkalender gepflegt:
+The daily GitHub workflow checks event sources automatically, and successful validation-state updates are merged automatically. Unresolved findings enter the proposal queue for human research. Automated checks never directly change or delete master-calendar events.
 
-`data/Canitrail_Masterkalender_2026_2027.csv`
-
-`data/source-master.csv` dient als ergänzende Quellen-/Importbasis.
+See [docs/automation.md](docs/automation.md) for the full validation and review process and [docs/dedupe-policy.md](docs/dedupe-policy.md) for event identity rules.
 
 ## GitHub Pages
 
-GitHub Pages kann den Branch `main` aus dem Repository-Root (`/`) veröffentlichen. Die öffentlichen URLs enthalten aufgrund des Repository-Namens weiterhin den Pfad `/dogs/`.
+GitHub Pages publishes the repository from the `main` branch and repository root (`/`). Public URLs retain `/dogs/` because it is the repository name.
 
-## Automatisierung
+## Manual validation
 
-Der Workflow befindet sich unter `.github/workflows/build-events.yml`.
-
-Er läuft bei passenden Pull Requests und nach Änderungen auf `main` als Konsistenzprüfung. Er kann zusätzlich manuell über **Actions → Validate event feeds → Run workflow** gestartet werden.
+The feed consistency workflow can be started from **Actions → Validate event feeds → Run workflow**. A full source audit can be started from **Actions → Daily event validation → Run workflow** with `full=true`.
