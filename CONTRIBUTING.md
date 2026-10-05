@@ -1,39 +1,37 @@
-# Mitmachen / Contributing
+# Contributing
 
-Danke, dass du den Eventkalender verbessern möchtest.
+Thank you for helping improve the event calendar.
 
-## Kleine Hinweise und Fehler
+## Reporting corrections and missing events
 
-Für fehlende Events, Terminänderungen, Absagen oder fehlerhafte Angaben kann ein GitHub Issue erstellt werden. Bitte möglichst eine verlässliche Quelle zur Veranstaltung angeben.
+Open a GitHub Issue for a missing event, date change, cancellation or incorrect detail. Include a reliable event source whenever possible. An inaccessible source alone does not prove that an event has been cancelled.
 
-## Änderungen per Pull Request
+## Submitting a Pull Request
 
-Die veröffentlichte Datenquelle ist `main`. Bitte keine generierten Dateien von Hand bearbeiten.
+The published source of truth is `main`. Do not edit generated files manually.
 
-1. Repository forken oder einen eigenen Branch erstellen.
-2. `data/Canitrail_Masterkalender_2026_2027.csv` bearbeiten.
-3. Lokal ausführen:
+1. Fork the repository or create a branch.
+2. Edit `data/Canitrail_Masterkalender_2026_2027.csv`.
+3. If you add a recurring federation, organiser or discovery source, also update `data/source-master.csv`.
+4. Run locally:
 
    ```bash
    python scripts/dedupe_master.py
    python scripts/build_events.py
+   python -m json.tool data/events.json > /dev/null
    ```
 
-4. Die Änderung am Masterkalender sowie die daraus erzeugten Änderungen an `data/events.json` und `calendar/` gemeinsam committen.
-5. Pull Request gegen `main` öffnen und Quelle(n) sowie Anlass der Änderung beschreiben.
+5. Commit the master/source changes together with the generated changes in `data/events.json` and `calendar/`.
+6. Open a Pull Request against `main` and describe the evidence and reason for the change.
 
-GitHub Actions prüft automatisch, ob der Masterkalender bereits dedupliziert ist, das JSON gültig ist und JSON/ICS exakt aus den eingereichten Masterdaten erzeugt wurden. Der Prüfworkflow besitzt nur Leserechte und verändert den Pull Request oder `main` nicht.
+GitHub Actions verifies that the master calendar is normalized, the JSON is valid, and the committed JSON/ICS files can be reproduced exactly from the submitted master data. This required check is read-only and does not modify the Pull Request or `main`.
 
-## Review
+## Review requirements
 
-Pull Requests werden vor dem Merge geprüft. Ein erfolgreicher automatischer Check bedeutet, dass die Daten technisch konsistent sind; er ersetzt nicht die inhaltliche Prüfung der Veranstaltung und ihrer Quelle.
+Pull Requests are reviewed before merge. A successful automated check proves technical consistency; it does not replace verification of the event and its sources.
 
-Direkte Änderungen an der produktiven Website sind nicht Teil dieses Repositories.
+Use official organisers, venues or sports federations as primary evidence whenever available. Discovery calendars may be used to find an event, but event dates, disciplines and dog access should be confirmed from a reliable event-specific source. Record unknown distances or classes as unpublished instead of inferring them.
 
----
+The automated source validator never changes or deletes master events. Its findings enter the human review process described in [docs/automation.md](docs/automation.md).
 
-# Contributing
-
-Corrections, missing events and updates are welcome. For a simple report, open an Issue and include a reliable event source whenever possible.
-
-For a Pull Request, edit the master CSV, run `python scripts/dedupe_master.py` and `python scripts/build_events.py`, and commit the master change together with the generated `data/events.json` and `calendar/` changes. Automated read-only checks verify consistency before review and merge into `main`.
+Changes to the production website are outside the scope of this repository.
