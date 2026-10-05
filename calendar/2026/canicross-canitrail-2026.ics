@@ -2205,9 +2205,11 @@ DTEND;VALUE=DATE:20261026
 SUMMARY:25. Lubieszowski Cross – Puchar Polski
 LOCATION:Poland
 DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
- blished\nHund: PZSPZ Polish Cup dryland event\nStatus: source-confirmed 
- 2026\nOfficial PZSPZ competition calendar lists the 25th Lubieszowski Cr
- oss as a Polish Cup event.
+ blished\nHund: PZSPZ Polish Cup dryland event\; WSA World Trophy\nStatus
+ : source-confirmed 2026\nOfficial PZSPZ calendar lists the Polish Cup ev
+ ent\; the WSA World Trophy calendar lists the same weekend as Cze-Mi Lub
+ ieszów.\nWeitere Quelle: https://worldtrophy.wsa-sleddog.com/?page_id=33
+ 2
 URL:https://mushing.pl/index.php?show=kalendarz
 END:VEVENT
 BEGIN:VEVENT
@@ -2408,6 +2410,20 @@ URL:https://bssc-austria.at/veranstaltung/19-int-grenzueberschreitendes-s
  chlittenhundewagenrennen-in-reingers/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-31-brandon-thetford-forest-wsa-world-trophy-de3228@sandsturm.
+ com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:Brandon (Thetford Forest) – WSA World Trophy
+LOCATION:UK
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: WSA World Trophy dryland race\nStatus: announced\nOfficia
+ l WSA World Trophy calendar lists Brandon in Thetford Forest on 31 Octob
+ er–1 November 2026\; individual class details remain to be published.
+URL:https://worldtrophy.wsa-sleddog.com/?page_id=332
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-jaemi-syys-sm-2026-59366b@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261031
@@ -2418,6 +2434,19 @@ DESCRIPTION:Kategorie: scooter\nDistanz: not published\nHund: Finnish dry
  land championship\nStatus: source-confirmed 2026\nOfficial VUL calendar 
  lists DS scooter classes alongside rig classes.
 URL:https://www.vul.fi/tapahtumakalenteri/lista/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-la-chapelle-th-cle-wsa-world-trophy-c0df3e@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:La Chapelle-Thècle – WSA World Trophy
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: WSA World Trophy dryland race\nStatus: announced\nOfficia
+ l WSA World Trophy calendar lists La Chapelle-Thècle on 31 October–1 Nov
+ ember 2026\; individual class details remain to be published.
+URL:https://worldtrophy.wsa-sleddog.com/?page_id=332
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-mo-ovce-a07396@sandsturm.com
@@ -2864,6 +2893,20 @@ DESCRIPTION:Kategorie: canicross\nDistanzen: 5.6 km\nHund: VDSV German Ch
 URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-donderslag-sleddog-race-wsa-world-trophy-a511e6@sandsturm.
+ com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Donderslag Sleddog Race – WSA World Trophy
+LOCATION:Belgium
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: WSA World Trophy dryland race\nStatus: announced\nOfficia
+ l WSA calendar lists Donderslag in Oudsbergen on 28–29 November 2026 and
+  explicitly names Canicross\, MTB-joëring and Scooter classes.
+URL:https://worldtrophy.wsa-sleddog.com/?page_id=332
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-maldegem-belgisch-kampioenschap-canicross-9a0616@sandsturm
  .com
 DTSTAMP:20260914T085651Z
@@ -2932,6 +2975,19 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: SZPZ dryl
  and race\nStatus: source-confirmed 2026/27\nOfficial SZPZ 2026/27 race c
  alendar\; Láb.
 URL:https://mushing.sk/preteky/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-maserada-wsa-world-trophy-16c8f9@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Maserada – WSA World Trophy
+LOCATION:Italy
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: WSA World Trophy dryland race\nStatus: announced\nOfficia
+ l WSA World Trophy calendar lists Maserada sul Piave on 5–6 December 202
+ 6\; individual class details remain to be published.
+URL:https://worldtrophy.wsa-sleddog.com/?page_id=332
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-muehlberg-canicross-f02e1d@sandsturm.com
@@ -3210,6 +3266,19 @@ DESCRIPTION:Kategorie: canicross\nHund: dedicated dog-running event\nStat
  us: source-confirmed 2026\nPart of TRAILDOG The Collective series\; Drur
  idge Bay.
 URL:https://www.traildogevents.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-langtaufers-wsa-world-trophy-eeb8dc@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+SUMMARY:Langtaufers – WSA World Trophy
+LOCATION:Italy
+DESCRIPTION:Kategorie: ski jöring / sledge\nDistanz: not published\nHund:
+  WSA World Trophy on-snow race\nStatus: announced\nOfficial WSA World Tr
+ ophy calendar lists the on-snow race in Langtaufers on 19–20 December 20
+ 26\; individual class details remain to be published.
+URL:https://worldtrophy.wsa-sleddog.com/?page_id=332
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-csen-canicross-basovizza-f92eed@sandsturm.com

@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 379,
+    "count": 387,
     "categories": [
       "bike jöring",
       "canicross",
@@ -3510,12 +3510,12 @@
       ],
       "distancesKm": [],
       "elevationM": [],
-      "dogAccess": "PZSPZ Polish Cup dryland event",
+      "dogAccess": "PZSPZ Polish Cup dryland event; WSA World Trophy",
       "status": "source-confirmed 2026",
-      "notes": "Official PZSPZ competition calendar lists the 25th Lubieszowski Cross as a Polish Cup event.",
+      "notes": "Official PZSPZ calendar lists the Polish Cup event; the WSA World Trophy calendar lists the same weekend as Cze-Mi Lubieszów.",
       "primarySource": "https://mushing.pl/index.php?show=kalendarz",
-      "secondarySource": null,
-      "origin": "Europe federation sweep round 6 2026-09-12",
+      "secondarySource": "https://worldtrophy.wsa-sleddog.com/?page_id=332",
+      "origin": "WSA calendar sweep 2026-10-05",
       "distanceText": "not published"
     },
     {
@@ -3828,6 +3828,27 @@
       "distanceText": "4.5|15-18"
     },
     {
+      "id": "2026-10-31-brandon-thetford-forest-wsa-world-trophy-de3228",
+      "date": "2026-10-31",
+      "dateEnd": "2026-11-01",
+      "country": "UK",
+      "event": "Brandon (Thetford Forest) – WSA World Trophy",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "WSA World Trophy dryland race",
+      "status": "announced",
+      "notes": "Official WSA World Trophy calendar lists Brandon in Thetford Forest on 31 October–1 November 2026; individual class details remain to be published.",
+      "primarySource": "https://worldtrophy.wsa-sleddog.com/?page_id=332",
+      "secondarySource": null,
+      "origin": "WSA calendar sweep 2026-10-05",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-10-31-jaemi-syys-sm-2026-59366b",
       "date": "2026-10-31",
       "dateEnd": "2026-11-01",
@@ -3844,6 +3865,27 @@
       "primarySource": "https://www.vul.fi/tapahtumakalenteri/lista/",
       "secondarySource": null,
       "origin": "Europe federation sweep round 4 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-31-la-chapelle-th-cle-wsa-world-trophy-c0df3e",
+      "date": "2026-10-31",
+      "dateEnd": "2026-11-01",
+      "country": "France",
+      "event": "La Chapelle-Thècle – WSA World Trophy",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "WSA World Trophy dryland race",
+      "status": "announced",
+      "notes": "Official WSA World Trophy calendar lists La Chapelle-Thècle on 31 October–1 November 2026; individual class details remain to be published.",
+      "primarySource": "https://worldtrophy.wsa-sleddog.com/?page_id=332",
+      "secondarySource": null,
+      "origin": "WSA calendar sweep 2026-10-05",
       "distanceText": "not published"
     },
     {
@@ -4515,6 +4557,27 @@
       "origin": "semantic audit 2026-09-21"
     },
     {
+      "id": "2026-11-28-donderslag-sleddog-race-wsa-world-trophy-a511e6",
+      "date": "2026-11-28",
+      "dateEnd": "2026-11-29",
+      "country": "Belgium",
+      "event": "Donderslag Sleddog Race – WSA World Trophy",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "WSA World Trophy dryland race",
+      "status": "announced",
+      "notes": "Official WSA calendar lists Donderslag in Oudsbergen on 28–29 November 2026 and explicitly names Canicross, MTB-joëring and Scooter classes.",
+      "primarySource": "https://worldtrophy.wsa-sleddog.com/?page_id=332",
+      "secondarySource": null,
+      "origin": "WSA calendar sweep 2026-10-05",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-11-28-maldegem-belgisch-kampioenschap-canicross-9a0616",
       "date": "2026-11-28",
       "dateEnd": null,
@@ -4611,6 +4674,27 @@
       "primarySource": "https://mushing.sk/preteky/",
       "secondarySource": null,
       "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-12-05-maserada-wsa-world-trophy-16c8f9",
+      "date": "2026-12-05",
+      "dateEnd": "2026-12-06",
+      "country": "Italy",
+      "event": "Maserada – WSA World Trophy",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "WSA World Trophy dryland race",
+      "status": "announced",
+      "notes": "Official WSA World Trophy calendar lists Maserada sul Piave on 5–6 December 2026; individual class details remain to be published.",
+      "primarySource": "https://worldtrophy.wsa-sleddog.com/?page_id=332",
+      "secondarySource": null,
+      "origin": "WSA calendar sweep 2026-10-05",
       "distanceText": "not published"
     },
     {
@@ -5032,6 +5116,26 @@
       "origin": "European independent-source sweep 2026-09-14"
     },
     {
+      "id": "2026-12-19-langtaufers-wsa-world-trophy-eeb8dc",
+      "date": "2026-12-19",
+      "dateEnd": "2026-12-20",
+      "country": "Italy",
+      "event": "Langtaufers – WSA World Trophy",
+      "category": [
+        "ski jöring",
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "WSA World Trophy on-snow race",
+      "status": "announced",
+      "notes": "Official WSA World Trophy calendar lists the on-snow race in Langtaufers on 19–20 December 2026; individual class details remain to be published.",
+      "primarySource": "https://worldtrophy.wsa-sleddog.com/?page_id=332",
+      "secondarySource": null,
+      "origin": "WSA calendar sweep 2026-10-05",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-12-20-csen-canicross-basovizza-f92eed",
       "date": "2026-12-20",
       "dateEnd": null,
@@ -5362,6 +5466,26 @@
       "primarySource": "https://www.hsvrm.de/sportangebote/turnierhundsport/aktuell/",
       "secondarySource": null,
       "origin": "new European organizer sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2027-01-22-wsa-world-championship-sprint-mid-distance-unterjoch-445f90",
+      "date": "2027-01-22",
+      "dateEnd": "2027-01-24",
+      "country": "Germany",
+      "event": "WSA World Championship Sprint & Mid-Distance – Unterjoch",
+      "category": [
+        "ski jöring",
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "WSA on-snow World Championship Sprint and Mid-Distance",
+      "status": "announced",
+      "notes": "Official WSA sources confirm Unterjoch on 22–24 January 2027; the World Trophy calendar names 29–31 January as the replacement weekend.",
+      "primarySource": "https://www.wsa-sleddog.com/en/?catid=2&id=129%3Awsa-world-championships-sprint-mid-distance-2027-en&view=article",
+      "secondarySource": "https://worldtrophy.wsa-sleddog.com/?page_id=332",
+      "origin": "WSA calendar sweep 2026-10-05",
       "distanceText": "not published"
     },
     {
@@ -6179,6 +6303,25 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-02-25-wsa-long-distance-world-championships-stroemsund-53d981",
+      "date": "2027-02-25",
+      "dateEnd": "2027-02-28",
+      "country": "Sweden",
+      "event": "WSA Long Distance World Championships – Strömsund",
+      "category": [
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "WSA on-snow World Championship Long Distance",
+      "status": "announced",
+      "notes": "Official WSA events calendar confirms the Long Distance World Championships in Strömsund on 25–28 February 2027; further event details remain to be published.",
+      "primarySource": "https://www.wsa-sleddog.com/en/events",
+      "secondarySource": null,
+      "origin": "WSA calendar sweep 2026-10-05",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-02-27-crossdog-on-the-beach-fb8d9b",
       "date": "2027-02-27",
       "dateEnd": "2027-02-28",
@@ -6486,6 +6629,26 @@
       "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
       "secondarySource": null,
       "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
+      "id": "2027-03-06-sportgastein-wsa-world-trophy-9abd43",
+      "date": "2027-03-06",
+      "dateEnd": "2027-03-07",
+      "country": "Austria",
+      "event": "Sportgastein – WSA World Trophy",
+      "category": [
+        "ski jöring",
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "WSA World Trophy on-snow race",
+      "status": "announced",
+      "notes": "Official WSA World Trophy calendar lists Sportgastein on 6–7 March 2027; individual class details remain to be published.",
+      "primarySource": "https://worldtrophy.wsa-sleddog.com/?page_id=332",
+      "secondarySource": null,
+      "origin": "WSA calendar sweep 2026-10-05",
+      "distanceText": "not published"
     },
     {
       "id": "2027-03-06-tatton-park-wild-trail-runs-e947cf",
@@ -6949,12 +7112,12 @@
       ],
       "distancesKm": [],
       "elevationM": [],
-      "dogAccess": "Sweden BCD priority race",
+      "dogAccess": "Sweden BCD priority race; WSA World Trophy",
       "status": "announced",
-      "notes": "Listed by Sweden BCD as priority selection race for ICF WC 2027.",
+      "notes": "Listed by Sweden BCD as an ICF WC priority selection race and by WSA as the final World Trophy weekend.",
       "primarySource": "https://www.swedenbcd.se/",
-      "secondarySource": null,
-      "origin": "European federation sweep 2026-09-12"
+      "secondarySource": "https://worldtrophy.wsa-sleddog.com/?page_id=332",
+      "origin": "WSA calendar sweep 2026-10-05"
     },
     {
       "id": "2027-04-03-k9runners-mariager-dcf-dog-series-6-454809",
