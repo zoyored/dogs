@@ -4331,12 +4331,12 @@
       ],
       "distancesKm": [],
       "elevationM": [],
-      "dogAccess": "VDSV/WSA dryland Mono event",
+      "dogAccess": "WSA Dryland World Championship Mono event",
       "status": "upcoming",
-      "notes": "Official VDSV event page and Tierpark Ströhen confirm WSA Dryland World Championship on 19–22 November 2026; VDSV classifies it as Dryland Gespanne/Mono.",
-      "primarySource": "https://vdsv.de/Veranstaltung/stroehen-2024-2-2/",
+      "notes": "Official WSA World Trophy calendar confirms the championship event window in Ströhen on 19–22 November 2026; WSA lists the competition on 20–22 November and Tierpark Ströhen confirms the venue.",
+      "primarySource": "https://worldtrophy.wsa-sleddog.com/?page_id=332",
       "secondarySource": "https://tierpark-stroehen.de/veranstaltungen",
-      "origin": "semantic audit 2026-09-21",
+      "origin": "web verification 2026-10-05",
       "distanceText": "not published"
     },
     {
