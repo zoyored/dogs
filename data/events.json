@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 387,
+    "count": 388,
     "categories": [
       "bike jöring",
       "canicross",
@@ -3356,6 +3356,30 @@
       "primarySource": "https://dogrun.com.pl/canicross/",
       "secondarySource": "https://dogrun.com.pl/2026/07/01/rejestracja-wystartowala/",
       "origin": "European independent-source sweep 2026-09-14"
+    },
+    {
+      "id": "2026-10-18-4-o-see-canicross-im-naturpark-zittauer-gebirge-1b1b08",
+      "date": "2026-10-18",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "4. O-SEE CaniCross im Naturpark Zittauer Gebirge",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        3,
+        6
+      ],
+      "elevationM": [
+        102,
+        241
+      ],
+      "dogAccess": "dedicated canicross",
+      "status": "source-confirmed 2026",
+      "notes": "Oybin Kurpark; 3 km start 10:00 (102 m+), 6 km start 10:25 (241 m+); dogs minimum 18 months; mandatory harness and leash; registration deadline 2026-10-07; late entry on site subject to availability.",
+      "primarySource": "https://baer-service.de/veranstaltung/CCS",
+      "secondarySource": "https://www.o-see-ultratrail.de/",
+      "origin": "user submission 2026-10-09"
     },
     {
       "id": "2026-10-18-canicross-ireland-2026-27-event-2-7fbf02",
