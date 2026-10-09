@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 388,
+    "count": 389,
     "categories": [
       "bike jöring",
       "canicross",
@@ -4459,6 +4459,27 @@
       "primarySource": "https://vdsv.de/kalender/",
       "secondarySource": "https://vdsv.de/erlaeuterungen-zu-den-qualifikationsrennen-2026-27-und-zur-spaeteren-kaderaufstellung-dryland/",
       "origin": "semantic audit 2026-09-21",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-11-21-vdh-dm-canicross-2026-hockenheim-08987c",
+      "date": "2026-11-21",
+      "dateEnd": "2026-11-22",
+      "country": "Germany",
+      "event": "VDH-DM CaniCross 2026 – Hockenheim",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated VDH championship",
+      "status": "upcoming",
+      "notes": "VDH German championship: Geländelauf, Bikejöring, Dogscooter (short and long distances) and relays. Location: Hockenheim, Walldorfer Weg. Registration via ths-digital.de; deadline 2026-10-11 per organizer flyer.",
+      "primarySource": "https://www.vdh.de/hundesport/turnierhundsport/",
+      "secondarySource": "https://www.dhv-hundesport.de/termine",
+      "origin": "organizer flyer 2026-10-09",
       "distanceText": "not published"
     },
     {
