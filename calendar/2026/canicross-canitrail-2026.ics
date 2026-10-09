@@ -2830,6 +2830,21 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV dryl
 URL:https://vdsv.de/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-21-vdh-dm-canicross-2026-hockenheim-08987c@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:VDH-DM CaniCross 2026 – Hockenheim
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated VDH championship\nStatus: upcoming\nVDH German 
+ championship: Geländelauf\, Bikejöring\, Dogscooter (short and long dist
+ ances) and relays. Location: Hockenheim\, Walldorfer Weg. Registration v
+ ia ths-digital.de\; deadline 2026-10-11 per organizer flyer.\nWeitere Qu
+ elle: https://www.dhv-hundesport.de/termine
+URL:https://www.vdh.de/hundesport/turnierhundsport/
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-21-waasmunster-federatie-kampioenschap-scooter-0af51a@sandstu
  rm.com
 DTSTAMP:20260914T085651Z
