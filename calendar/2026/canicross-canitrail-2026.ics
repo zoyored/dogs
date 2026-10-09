@@ -2105,6 +2105,22 @@ DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: dedicated canicr
 URL:https://dogrun.com.pl/canicross/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-18-4-o-see-canicross-im-naturpark-zittauer-gebirge-1b1b08@san
+ dsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:4. O-SEE CaniCross im Naturpark Zittauer Gebirge
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross\nDistanzen: 3 km / 6 km\nHöhenmeter: 102
+  hm / 241 hm\nHund: dedicated canicross\nStatus: source-confirmed 2026\n
+ Oybin Kurpark\; 3 km start 10:00 (102 m+)\, 6 km start 10:25 (241 m+)\; 
+ dogs minimum 18 months\; mandatory harness and leash\; registration dead
+ line 2026-10-07\; late entry on site subject to availability.\nWeitere Q
+ uelle: https://www.o-see-ultratrail.de/
+URL:https://baer-service.de/veranstaltung/CCS
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-18-canicross-ireland-2026-27-event-2-7fbf02@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261018
