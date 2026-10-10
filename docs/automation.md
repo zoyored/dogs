@@ -115,6 +115,8 @@ New/unseen rows remain in the review queue until they have been checked.
 
 A source fingerprint change is a review signal only.
 
+The daily workflow requires the dedicated GitHub App configuration described in [Daily validation App setup](daily-validation-app.md). PR creation and merging use the App token so the PR feed check can run without manual workflow approval.
+
 ### Phase 2 output
 
 Phase 2 writes:
