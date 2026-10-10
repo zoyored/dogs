@@ -14,8 +14,7 @@ on:
       timezone: 'Europe/Berlin'
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
 
 concurrency:
   group: daily-event-validation
@@ -24,10 +23,36 @@ concurrency:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
+      - name: Verify automation app configuration
+        env:
+          APP_CLIENT_ID: ${{ vars.DOGS_AUTOMATION_APP_CLIENT_ID }}
+          APP_PRIVATE_KEY: ${{ secrets.DOGS_AUTOMATION_APP_PRIVATE_KEY }}
+        run: |
+          if [ -z "$APP_CLIENT_ID" ] || [ -z "$APP_PRIVATE_KEY" ]; then
+            echo "::error::Configure DOGS_AUTOMATION_APP_CLIENT_ID and DOGS_AUTOMATION_APP_PRIVATE_KEY first. See docs/daily-validation-app.md."
+            exit 1
+          fi
+
+      - name: Create repository-scoped automation token
+        id: app-token
+        uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3
+        with:
+          client-id: ${{ vars.DOGS_AUTOMATION_APP_CLIENT_ID }}
+          private-key: ${{ secrets.DOGS_AUTOMATION_APP_PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
+          repositories: ${{ github.event.repository.name }}
+          permission-contents: write
+          permission-pull-requests: write
+          permission-checks: read
+          permission-statuses: read
+          permission-actions: read
+
       - uses: actions/checkout@v4
         with:
           ref: main
+          token: ${{ steps.app-token.outputs.token }}
 
       - uses: actions/setup-python@v5
         with:
@@ -41,6 +66,16 @@ jobs:
             python scripts/validate_events.py --batch-size 25
           fi
 
+      - name: Verify master and generated feeds before opening PR
+        run: |
+          set -euo pipefail
+          python scripts/dedupe_master.py
+          git diff --exit-code -- data/Canitrail_Masterkalender_2026_2027.csv
+          python scripts/build_events.py
+          test -s data/events.json
+          python -m json.tool data/events.json > /dev/null
+          git diff --exit-code -- data/events.json calendar/
+
       - name: Commit validation state on review branch
         id: commit
         run: |
@@ -51,17 +86,18 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          branch="automation/event-validation-${GITHUB_RUN_ID}"
+          branch="automation/event-validation-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
           git switch -c "$branch"
           git commit -m "Update daily event validation"
           git push origin "$branch"
           echo "changed=true" >> "$GITHUB_OUTPUT"
           echo "branch=$branch" >> "$GITHUB_OUTPUT"
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
       - name: Open validation state PR
         if: steps.commit.outputs.changed == 'true'
         id: pr
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
           pr_url="$(gh pr create --base main --head "${{ steps.commit.outputs.branch }}" \
             --title "Update daily event validation" \
@@ -71,26 +107,30 @@ jobs:
       - name: Wait for required validation check
         if: steps.commit.outputs.changed == 'true'
         env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh pr checks "${{ steps.pr.outputs.url }}" --required --watch --interval 10
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          VALIDATION_PR: ${{ steps.pr.outputs.url }}
+          VALIDATION_SHA: ${{ steps.commit.outputs.sha }}
+        run: python scripts/wait_validation_checks.py "$VALIDATION_PR" "$VALIDATION_SHA" --timeout 600
 
       - name: Merge successful validation state
         if: steps.commit.outputs.changed == 'true'
         env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh pr merge "${{ steps.pr.outputs.url }}" --squash --delete-branch
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          VALIDATION_PR: ${{ steps.pr.outputs.url }}
+          VALIDATION_SHA: ${{ steps.commit.outputs.sha }}
+        run: gh pr merge "$VALIDATION_PR" --match-head-commit "$VALIDATION_SHA" --squash --delete-branch
 
       - name: Close superseded validation PRs
         if: steps.commit.outputs.changed == 'true'
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
           CURRENT_PR: ${{ steps.pr.outputs.url }}
         run: |
           current_number="${CURRENT_PR##*/}"
           gh pr list --state open --base main \
             --json number,headRefName,title \
             --jq '.[] | select(.title == "Update daily event validation") | select(.headRefName | startswith("automation/event-validation-")) | [.number, .headRefName] | @tsv' |
-          while IFS=\t' read -r number branch; do
+          while IFS=$'\t' read -r number branch; do
             [ -n "$number" ] || continue
             [ "$number" = "$current_number" ] && continue
             gh pr close "$number" --delete-branch \
